@@ -1,5 +1,11 @@
 # Final Fantasy Legend - Items
 
-Source CSV: `C:\Users\Daniel.BSS\Daniel\Source\Repos\GrimoireWeiss\Legend\FFL1\Csv\items.csv`
+**Dataset**: `items`  
+**Source CSV**: `C:\Users\Daniel.BSS\Daniel\Source\Repos\GrimoireWeiss\Legend\FFL1\Csv\items.csv`  
+**Record Count**: 0
 
-No compiled data is available yet because the dataset CSV has not been generated.
+## Dataset Overview
+
+This section contains normalized `items` records compiled for Final Fantasy Legend.
+
+The dataset CSV currently contains headers but no extracted rows.
