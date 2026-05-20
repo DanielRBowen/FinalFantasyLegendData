@@ -100,9 +100,17 @@ internal sealed record Ffl2ShopParseResult(
     IReadOnlyList<Ffl2ItemRecord> Items,
     IReadOnlyList<Ffl2ItemRecord> Spells);
 
+internal sealed record Ffl2WalkthroughCollectibleRecord(
+    string EntityType,
+    string Name,
+    string Availability,
+    string Notes,
+    string SourceGuide);
+
 internal sealed record Ffl2WalkthroughParseResult(
     IReadOnlyList<Ffl2StoryLocationRecord> StoryLocations,
-    IReadOnlyList<Ffl2EntityStoryAppearanceRecord> StoryAppearances);
+    IReadOnlyList<Ffl2EntityStoryAppearanceRecord> StoryAppearances,
+    IReadOnlyList<Ffl2WalkthroughCollectibleRecord> Collectibles);
 
 internal sealed record Ffl2SystemData(
     IReadOnlyList<GuideMechanicRecord> Mechanics,

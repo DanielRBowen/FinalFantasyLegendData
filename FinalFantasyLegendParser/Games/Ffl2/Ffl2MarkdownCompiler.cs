@@ -21,9 +21,9 @@ internal sealed class Ffl2MarkdownCompiler
         builder.AppendLine();
         builder.AppendLine("**Version**: 0.2");
         builder.AppendLine();
-        builder.AppendLine("**Sources**: 12292_Guide_and_Walkthrough.txt, 29741_Robot_Guide.txt, and 16852_Monster_Evolution_FAQ.txt.");
+        builder.AppendLine("**Sources**: 12292_Guide_and_Walkthrough.txt, 29741_Robot_Guide.txt, 16852_Monster_Evolution_FAQ.txt, 12084_Save_State_Hacking_Guide.txt, 29802_Translation_Differences_FAQ.txt, and selected alternate walkthrough guides.");
         builder.AppendLine();
-        builder.AppendLine("**Notes**: This parser-generated FFL2 reference now combines system notes with structured monsters, shop-derived equipment and item lists, status data, and a walkthrough chronology linked to named entities.");
+        builder.AppendLine("**Notes**: This parser-generated FFL2 reference now combines system notes with structured monsters, shop-derived equipment, guide-derived MAGI and key item notes, status data, and a walkthrough chronology linked to named entities.");
         builder.AppendLine();
         builder.AppendLine("## Sections");
         builder.AppendLine();
@@ -90,7 +90,7 @@ internal sealed class Ffl2MarkdownCompiler
         builder.AppendLine();
         foreach (var row in items.OrderBy(row => row.Name, StringComparer.OrdinalIgnoreCase))
         {
-            builder.AppendLine($"- **{row.Name}** - Uses: {FormatValue(row.Uses)}; Cost: {FormatValue(row.Cost)}; Availability: {FormatValue(row.Availability)}; Notes: {FormatValue(row.Notes)}");
+            builder.AppendLine($"- **{row.Name}** [{row.Category}] - Uses: {FormatValue(row.Uses)}; Cost: {FormatValue(row.Cost)}; Availability: {FormatValue(row.Availability)}; Effect: {FormatValue(row.PrimaryEffect)}; Notes: {FormatValue(row.Notes)}");
         }
 
         builder.AppendLine();

@@ -108,8 +108,16 @@ internal sealed record Ffl3GuideData(
     IReadOnlyList<Ffl3CharacterRecord> Characters,
     IReadOnlyList<Ffl3MonsterRecord> Monsters);
 
+internal sealed record Ffl3WalkthroughCollectibleRecord(
+    string EntityType,
+    string Name,
+    string Availability,
+    string Notes,
+    string SourceGuide);
+
 internal sealed record Ffl3WalkthroughParseResult(
     IReadOnlyList<Ffl3ItemRecord> Items,
+    IReadOnlyList<Ffl3WalkthroughCollectibleRecord> Collectibles,
     IReadOnlyList<Ffl3StoryLocationRecord> StoryLocations,
     IReadOnlyList<Ffl3EntityStoryAppearanceRecord> StoryAppearances);
 

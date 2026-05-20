@@ -23,7 +23,7 @@ internal sealed class Ffl3MarkdownCompiler
         builder.AppendLine();
         builder.AppendLine("**Sources**: 47306_Game_Lists.txt and 80317_Glitchless_Walkthrough.txt.");
         builder.AppendLine();
-        builder.AppendLine("**Notes**: This parser-generated FFL3 reference combines formula and system notes with structured equipment, spells, talents, status conditions, species tables, walkthrough-derived key items, and chronology-linked story mentions.");
+        builder.AppendLine("**Notes**: This parser-generated FFL3 reference combines formula and system notes with structured equipment, spells, talents, status conditions, species tables, walkthrough-derived route items plus equipment and spell acquisitions, and chronology-linked story mentions.");
         builder.AppendLine();
         builder.AppendLine("## Sections");
         builder.AppendLine();

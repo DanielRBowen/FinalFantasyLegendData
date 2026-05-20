@@ -1,5 +1,6 @@
 using System.Text;
 using FinalFantasyLegendParser.Core;
+using FinalFantasyLegendParser.Games;
 using FinalFantasyLegendParser.Games.Ffl1.Parsers;
 
 namespace FinalFantasyLegendParser.Games.Ffl1;
@@ -40,17 +41,21 @@ internal sealed class Ffl1Module : IGameModule
             inventoryResult.Abilities,
             inventoryResult.StatusEffects);
 
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Monsters.csv"), inventoryResult.Monsters);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Equipment.csv"), inventoryResult.Equipment);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Items.csv"), items);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Spells.csv"), spells);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Abilities.csv"), inventoryResult.Abilities);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_StatusEffects.csv"), inventoryResult.StatusEffects);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Characters.csv"), characters);
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Monsters.csv"), inventoryResult.Monsters.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Equipment.csv"), inventoryResult.Equipment.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Items.csv"), items.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Spells.csv"), spells.Select(row => row.ToNormalizedSpell()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Abilities.csv"), inventoryResult.Abilities.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_StatusEffects.csv"), inventoryResult.StatusEffects.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Characters.csv"), characters.Select(row => row.ToNormalized()).ToList());
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Mechanics.csv"), mechanics);
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Story_Chronology.csv"), walkthroughResult.StoryLocations);
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL1_Entity_Story_Appearances.csv"), walkthroughResult.StoryAppearances);
-        await File.WriteAllTextAsync(Path.Combine(context.OutputDirectory, "FFL1_Complete_LLM_Guide.markdown"), markdown, new UTF8Encoding(encoderShouldEmitUTF8Identifier: false), context.CancellationToken);
+        var outputMarkdownPath = Path.Combine(context.OutputDirectory, "FFL1_Complete_LLM_Guide.markdown");
+        var repositoryMarkdownPath = Path.Combine(context.RepositoryRoot, "FFL1", "FFL1_Complete_LLM_Guide.markdown");
+        var utf8Encoding = new UTF8Encoding(encoderShouldEmitUTF8Identifier: false);
+        await File.WriteAllTextAsync(outputMarkdownPath, markdown, utf8Encoding, context.CancellationToken);
+        await File.WriteAllTextAsync(repositoryMarkdownPath, markdown, utf8Encoding, context.CancellationToken);
 
         await context.Output.WriteLineAsync("Generated FFL1 structured reference files:");
         await context.Output.WriteLineAsync($"- Monsters: {inventoryResult.Monsters.Count}");

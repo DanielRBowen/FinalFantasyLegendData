@@ -9,17 +9,31 @@ internal sealed partial class Ffl3WalkthroughParser
 
     private static readonly (string Name, string Category)[] KeyItems =
     [
-        ("Past Unit", "Key Item"),
-        ("Flushex Unit", "Key Item"),
-        ("Rover Unit", "Key Item"),
+        ("Past Unit", "Talon Unit"),
+        ("Flushex Unit", "Talon Unit"),
+        ("Rover Unit", "Talon Unit"),
         ("Tower Key", "Key Item"),
-        ("Air Crystal", "Key Item"),
-        ("Water Crystal", "Key Item"),
-        ("Future Unit", "Key Item"),
-        ("Hover Unit", "Key Item"),
+        ("Air Crystal", "Crystal"),
+        ("Water Crystal", "Crystal"),
+        ("Future Unit", "Talon Unit"),
+        ("Hover Unit", "Talon Unit"),
         ("Radio", "Key Item"),
         ("Remote", "Key Item"),
-        ("Firestar", "Key Item")
+        ("Firestar", "Key Item"),
+        ("X-Plane Unit", "Talon Unit"),
+        ("Missile Unit", "Talon Unit"),
+        ("Shield Unit", "Talon Unit"),
+        ("Laser Unit", "Talon Unit"),
+        ("Prison Key", "Key Item"),
+        ("Dark Crystal", "Crystal"),
+        ("Light Crystal", "Crystal"),
+        ("Fire Crystal", "Crystal"),
+        ("Earth Crystal", "Crystal"),
+        ("Rocket", "Key Item"),
+        ("Tablet", "Key Item"),
+        ("B-jack", "Tool"),
+        ("Teargas", "Tool"),
+        ("Catnip", "Tool")
     ];
 
     private static readonly HashSet<string> AmbiguousNames =
@@ -40,6 +54,7 @@ internal sealed partial class Ffl3WalkthroughParser
         var lines = File.ReadAllLines(sourcePath);
         var sections = ParseSections(lines).ToList();
         var items = ExtractItems(sections, sourceGuide);
+        var collectibles = ExtractCollectibles(sections, baseEntityCandidates, sourceGuide);
         var allCandidates = baseEntityCandidates
             .Concat(items.Select(item => new StoryEntityCandidate("Item", item.Name)))
             .GroupBy(candidate => $"{candidate.EntityType}|{candidate.EntityName}", StringComparer.OrdinalIgnoreCase)
@@ -51,7 +66,7 @@ internal sealed partial class Ffl3WalkthroughParser
 
         foreach (var section in sections)
         {
-            var bodyText = NormalizeBody(section.BodyLines);
+            var bodyText = NormalizeSearchBody(NormalizeBody(section.BodyLines));
             var summary = BuildSummary(section.BodyLines);
             var mentions = FindMentions(bodyText, allCandidates)
                 .OrderBy(candidate => candidate.EntityType, StringComparer.OrdinalIgnoreCase)
@@ -88,46 +103,93 @@ internal sealed partial class Ffl3WalkthroughParser
                 sourceGuide));
         }
 
-        return new Ffl3WalkthroughParseResult(items, storyLocations, storyAppearances);
+        return new Ffl3WalkthroughParseResult(items, collectibles, storyLocations, storyAppearances);
     }
 
     private static IReadOnlyList<Ffl3ItemRecord> ExtractItems(IReadOnlyList<WalkthroughSection> sections, string sourceGuide)
     {
-        var itemsByName = new Dictionary<string, Ffl3ItemRecord>(StringComparer.OrdinalIgnoreCase);
+        var itemsByName = new Dictionary<string, ItemAccumulator>(StringComparer.OrdinalIgnoreCase);
 
         foreach (var section in sections)
         {
-            var bodyText = NormalizeBody(section.BodyLines);
-
-            foreach (var keyItem in KeyItems)
+            foreach (var rawLine in section.BodyLines)
             {
-                if (!GetMentionPattern(keyItem.Name).IsMatch(bodyText))
+                var line = rawLine.Trim();
+                if (string.IsNullOrWhiteSpace(line))
                 {
                     continue;
                 }
 
-                itemsByName.TryAdd(
-                    keyItem.Name,
-                    new Ffl3ItemRecord(keyItem.Category, keyItem.Name, section.Title, "Referenced in walkthrough progression.", sourceGuide));
-            }
+                var availability = section.Title;
+                var note = ClassifyItemNote(line);
+                var searchableLine = NormalizeSearchBody(line);
 
-            if (bodyText.Contains("Future and Hover units", StringComparison.OrdinalIgnoreCase))
-            {
-                itemsByName.TryAdd("Future Unit", new Ffl3ItemRecord("Key Item", "Future Unit", section.Title, "Referenced in walkthrough progression.", sourceGuide));
-                itemsByName.TryAdd("Hover Unit", new Ffl3ItemRecord("Key Item", "Hover Unit", section.Title, "Referenced in walkthrough progression.", sourceGuide));
-            }
+                foreach (var keyItem in KeyItems)
+                {
+                    if (GetMentionPattern(keyItem.Name).IsMatch(searchableLine))
+                    {
+                        AddItem(itemsByName, keyItem.Category, keyItem.Name, availability, note, sourceGuide);
+                    }
+                }
 
-            foreach (Match match in ConsumableRegex().Matches(bodyText))
-            {
-                var normalizedName = NormalizeConsumable(match.Groups["name"].Value);
-                itemsByName.TryAdd(
-                    normalizedName,
-                    new Ffl3ItemRecord("Consumable", normalizedName, section.Title, "Bought or used during the walkthrough.", sourceGuide));
+                foreach (var groupedItem in ExtractGroupedItems(line))
+                {
+                    AddItem(itemsByName, groupedItem.Category, groupedItem.Name, availability, note, sourceGuide);
+                }
+
+                foreach (Match match in ConsumableRegex().Matches(line))
+                {
+                    var normalizedName = NormalizeConsumable(match.Groups["name"].Value);
+                    AddItem(itemsByName, "Consumable", normalizedName, availability, note, sourceGuide);
+                }
             }
         }
 
         return itemsByName.Values
+            .Select(item => item.ToRecord())
             .OrderBy(item => item.Category, StringComparer.OrdinalIgnoreCase)
+            .ThenBy(item => item.Name, StringComparer.OrdinalIgnoreCase)
+            .ToList();
+    }
+
+    private static IReadOnlyList<Ffl3WalkthroughCollectibleRecord> ExtractCollectibles(
+        IReadOnlyList<WalkthroughSection> sections,
+        IReadOnlyCollection<StoryEntityCandidate> baseEntityCandidates,
+        string sourceGuide)
+    {
+        var collectibleCandidates = baseEntityCandidates
+            .Where(candidate => candidate.EntityType is "Equipment" or "Spell")
+            .ToList();
+
+        var collectiblesByName = new Dictionary<string, CollectibleAccumulator>(StringComparer.OrdinalIgnoreCase);
+
+        foreach (var section in sections)
+        {
+            foreach (var rawLine in section.BodyLines)
+            {
+                var line = rawLine.Trim();
+                if (string.IsNullOrWhiteSpace(line) || !AcquisitionCueRegex().IsMatch(line))
+                {
+                    continue;
+                }
+
+                var availability = section.Title;
+                var note = ClassifyCollectibleNote(line);
+                var searchableLine = NormalizeCollectibleSearchBody(line);
+
+                foreach (var candidate in collectibleCandidates)
+                {
+                    if (GetMentionPattern(candidate.EntityName).IsMatch(searchableLine))
+                    {
+                        AddCollectible(collectiblesByName, candidate.EntityType, candidate.EntityName, availability, note, sourceGuide);
+                    }
+                }
+            }
+        }
+
+        return collectiblesByName.Values
+            .Select(item => item.ToRecord())
+            .OrderBy(item => item.EntityType, StringComparer.OrdinalIgnoreCase)
             .ThenBy(item => item.Name, StringComparer.OrdinalIgnoreCase)
             .ToList();
     }
@@ -238,17 +300,188 @@ internal sealed partial class Ffl3WalkthroughParser
             .OrderBy(name => name, StringComparer.OrdinalIgnoreCase));
     }
 
+    private static void AddItem(
+        IDictionary<string, ItemAccumulator> itemsByName,
+        string category,
+        string name,
+        string availability,
+        string notes,
+        string sourceGuide)
+    {
+        if (!itemsByName.TryGetValue(name, out var accumulator))
+        {
+            accumulator = new ItemAccumulator(category, name, sourceGuide);
+            itemsByName[name] = accumulator;
+        }
+
+        accumulator.Availabilities.Add(availability);
+        accumulator.Notes.Add(notes);
+    }
+
+    private static void AddCollectible(
+        IDictionary<string, CollectibleAccumulator> collectiblesByName,
+        string entityType,
+        string name,
+        string availability,
+        string notes,
+        string sourceGuide)
+    {
+        var key = $"{entityType}|{name}";
+        if (!collectiblesByName.TryGetValue(key, out var accumulator))
+        {
+            accumulator = new CollectibleAccumulator(entityType, name, sourceGuide);
+            collectiblesByName[key] = accumulator;
+        }
+
+        accumulator.Availabilities.Add(availability);
+        accumulator.Notes.Add(notes);
+    }
+
+    private static string ClassifyItemNote(string line)
+    {
+        if (line.Contains("buy", StringComparison.OrdinalIgnoreCase))
+        {
+            return "Purchased or restocked during the walkthrough.";
+        }
+
+        if (line.Contains("after the fight", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("after the battle", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("boss", StringComparison.OrdinalIgnoreCase))
+        {
+            return "Boss reward or progression item from the walkthrough.";
+        }
+
+        if (line.Contains("chest", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("box", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("pick up", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("get ", StringComparison.OrdinalIgnoreCase)
+            || line.StartsWith("Get ", StringComparison.OrdinalIgnoreCase))
+        {
+            return "Treasure or route pickup from the walkthrough.";
+        }
+
+        if (line.Contains("talk to", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("speak with", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("gives you", StringComparison.OrdinalIgnoreCase))
+        {
+            return "NPC reward or story gift from the walkthrough.";
+        }
+
+        return "Referenced in walkthrough progression.";
+    }
+
+    private static string ClassifyCollectibleNote(string line)
+    {
+        if (line.Contains("buy", StringComparison.OrdinalIgnoreCase) || line.Contains("restock", StringComparison.OrdinalIgnoreCase))
+        {
+            return "Purchased or restocked during the walkthrough.";
+        }
+
+        if (line.Contains("mix", StringComparison.OrdinalIgnoreCase)
+            || (line.Contains("make", StringComparison.OrdinalIgnoreCase) && !line.Contains("make sure", StringComparison.OrdinalIgnoreCase)))
+        {
+            return "Crafted or mixed during the walkthrough.";
+        }
+
+        if (line.Contains("drop", StringComparison.OrdinalIgnoreCase) || line.Contains("might get", StringComparison.OrdinalIgnoreCase))
+        {
+            return "Possible enemy drop noted in the walkthrough.";
+        }
+
+        if (line.Contains("after the fight", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("after the battle", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("boss", StringComparison.OrdinalIgnoreCase))
+        {
+            return "Boss reward or post-boss pickup from the walkthrough.";
+        }
+
+        if (line.Contains("talk to", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("speak with", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("gives you", StringComparison.OrdinalIgnoreCase))
+        {
+            return "NPC reward or story gift from the walkthrough.";
+        }
+
+        return "Treasure or route pickup from the walkthrough.";
+    }
+
+    private static IEnumerable<(string Name, string Category)> ExtractGroupedItems(string line)
+    {
+        if (line.Contains("Future and Hover units", StringComparison.OrdinalIgnoreCase))
+        {
+            yield return ("Future Unit", "Talon Unit");
+            yield return ("Hover Unit", "Talon Unit");
+        }
+
+        if (line.Contains("Teargas/Air Crystal", StringComparison.OrdinalIgnoreCase))
+        {
+            yield return ("Teargas", "Tool");
+            yield return ("Air Crystal", "Crystal");
+        }
+
+        if (line.Contains("Dark and Light Crystals", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("Light/Dark Crystals", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("Dark/Light Crystals", StringComparison.OrdinalIgnoreCase))
+        {
+            yield return ("Dark Crystal", "Crystal");
+            yield return ("Light Crystal", "Crystal");
+        }
+
+        if (line.Contains("Earth and Water Crystals", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("Earth/Water Crystals", StringComparison.OrdinalIgnoreCase))
+        {
+            yield return ("Earth Crystal", "Crystal");
+            yield return ("Water Crystal", "Crystal");
+        }
+    }
+
+    private static string NormalizeSearchBody(string text)
+    {
+        return text
+            .Replace("Future and Hover units", "Future Unit Hover Unit", StringComparison.OrdinalIgnoreCase)
+            .Replace("Aero1", "Aero", StringComparison.OrdinalIgnoreCase)
+            .Replace("Teargas/Air Crystal", "Teargas Air Crystal", StringComparison.OrdinalIgnoreCase)
+            .Replace("Dark and Light Crystals", "Dark Crystal Light Crystal", StringComparison.OrdinalIgnoreCase)
+            .Replace("Light/Dark Crystals", "Light Crystal Dark Crystal", StringComparison.OrdinalIgnoreCase)
+            .Replace("Dark/Light Crystals", "Dark Crystal Light Crystal", StringComparison.OrdinalIgnoreCase)
+            .Replace("Earth and Water Crystals", "Earth Crystal Water Crystal", StringComparison.OrdinalIgnoreCase)
+            .Replace("Earth/Water Crystals", "Earth Crystal Water Crystal", StringComparison.OrdinalIgnoreCase)
+            .Replace("units", "unit", StringComparison.OrdinalIgnoreCase)
+            .Replace("Crystals", "Crystal", StringComparison.OrdinalIgnoreCase);
+    }
+
+    private static string NormalizeCollectibleSearchBody(string text)
+    {
+        return NormalizeSearchBody(text)
+            .Replace("Armors", "Armor", StringComparison.OrdinalIgnoreCase)
+            .Replace("Helmets", "Helmet", StringComparison.OrdinalIgnoreCase)
+            .Replace("Shields", "Shield", StringComparison.OrdinalIgnoreCase)
+            .Replace("Gloves", "Glove", StringComparison.OrdinalIgnoreCase)
+            .Replace("Swords", "Sword", StringComparison.OrdinalIgnoreCase)
+            .Replace("Axes", "Axe", StringComparison.OrdinalIgnoreCase)
+            .Replace("Daggers", "Dagger", StringComparison.OrdinalIgnoreCase)
+            .Replace("Bracelets", "Bracelet", StringComparison.OrdinalIgnoreCase)
+            .Replace("Pendants", "Pendant", StringComparison.OrdinalIgnoreCase)
+            .Replace("Bangles", "Bangle", StringComparison.OrdinalIgnoreCase)
+            .Replace("Plumes", "Plume", StringComparison.OrdinalIgnoreCase);
+    }
+
     private static string NormalizeConsumable(string rawName)
     {
-        return rawName.Trim() switch
+        return rawName.Trim().ToLowerInvariant() switch
         {
-            "Cure1 Potions" => "Cure1 Potion",
-            "Cure2 Potions" => "Cure2 Potion",
-            "Cure3 Potions" => "Cure3 Potion",
-            "Elixirs" => "Elixir",
-            "Softs" => "Soft",
-            "Soft Potion" => "Soft",
-            "Soft Potions" => "Soft",
+            "cure1 potion" => "Cure1 Potion",
+            "cure1 potions" => "Cure1 Potion",
+            "cure2 potion" => "Cure2 Potion",
+            "cure2 potions" => "Cure2 Potion",
+            "cure3 potion" => "Cure3 Potion",
+            "cure3 potions" => "Cure3 Potion",
+            "elixir" => "Elixir",
+            "elixirs" => "Elixir",
+            "soft" => "Soft",
+            "softs" => "Soft",
+            "soft potion" => "Soft",
+            "soft potions" => "Soft",
             _ => rawName.Trim()
         };
     }
@@ -289,6 +522,9 @@ internal sealed partial class Ffl3WalkthroughParser
     [GeneratedRegex(@"\b(?<name>Cure[123] Potions?|Elixirs?|Softs?|Soft Potions?)\b", RegexOptions.IgnoreCase | RegexOptions.Compiled)]
     private static partial Regex ConsumableRegex();
 
+    [GeneratedRegex(@"\b(buy|bought|get|pick\s+up|receive|received|restock|drop|drops?)\b|\bmix\b|\bmake\b(?!\s+sure)", RegexOptions.IgnoreCase | RegexOptions.Compiled)]
+    private static partial Regex AcquisitionCueRegex();
+
     [GeneratedRegex(@"[A-Za-z0-9]+", RegexOptions.Compiled)]
     private static partial Regex TokenRegex();
 
@@ -296,6 +532,40 @@ internal sealed partial class Ffl3WalkthroughParser
     private static partial Regex WhitespaceRegex();
 
     internal sealed record StoryEntityCandidate(string EntityType, string EntityName);
+
+    private sealed class ItemAccumulator(string category, string name, string sourceGuide)
+    {
+        public HashSet<string> Availabilities { get; } = new(StringComparer.OrdinalIgnoreCase);
+
+        public HashSet<string> Notes { get; } = new(StringComparer.OrdinalIgnoreCase);
+
+        public Ffl3ItemRecord ToRecord()
+        {
+            return new Ffl3ItemRecord(
+                category,
+                name,
+                string.Join("; ", Availabilities.OrderBy(value => value, StringComparer.OrdinalIgnoreCase)),
+                string.Join("; ", Notes.OrderBy(value => value, StringComparer.OrdinalIgnoreCase)),
+                sourceGuide);
+        }
+    }
+
+    private sealed class CollectibleAccumulator(string entityType, string name, string sourceGuide)
+    {
+        public HashSet<string> Availabilities { get; } = new(StringComparer.OrdinalIgnoreCase);
+
+        public HashSet<string> Notes { get; } = new(StringComparer.OrdinalIgnoreCase);
+
+        public Ffl3WalkthroughCollectibleRecord ToRecord()
+        {
+            return new Ffl3WalkthroughCollectibleRecord(
+                entityType,
+                name,
+                string.Join("; ", Availabilities.OrderBy(value => value, StringComparer.OrdinalIgnoreCase)),
+                string.Join("; ", Notes.OrderBy(value => value, StringComparer.OrdinalIgnoreCase)),
+                sourceGuide);
+        }
+    }
 
     private sealed record WalkthroughSection(string SectionId, int Order, string Title, IReadOnlyList<string> BodyLines);
 

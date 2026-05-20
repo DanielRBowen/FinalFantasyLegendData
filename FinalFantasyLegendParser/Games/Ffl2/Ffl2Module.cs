@@ -1,5 +1,6 @@
 using System.Text;
 using FinalFantasyLegendParser.Core;
+using FinalFantasyLegendParser.Games;
 using FinalFantasyLegendParser.Games.Ffl2.Parsers;
 
 namespace FinalFantasyLegendParser.Games.Ffl2;
@@ -32,6 +33,11 @@ internal sealed class Ffl2Module : IGameModule
 
         var walkthroughParser = new Ffl2WalkthroughParser();
         var walkthroughResult = walkthroughParser.Parse(context.RepositoryRoot, entityCandidates);
+        var magiReferenceParser = new Ffl2MagiReferenceParser();
+        var magiReferences = magiReferenceParser.Parse(context.RepositoryRoot);
+        var equipment = MergeEquipment(shopResult.Equipment, walkthroughResult.Collectibles);
+        var items = MergeSupplementalItems(MergeItems(shopResult.Items, walkthroughResult.Collectibles), magiReferences);
+        var spells = MergeSpells(shopResult.Spells, walkthroughResult.Collectibles);
 
         var markdownCompiler = new Ffl2MarkdownCompiler();
         var markdown = markdownCompiler.Compile(
@@ -39,34 +45,38 @@ internal sealed class Ffl2Module : IGameModule
             characters,
             walkthroughResult.StoryLocations,
             monsterResult.Monsters,
-            shopResult.Equipment,
-            shopResult.Items,
-            shopResult.Spells,
+            equipment,
+            items,
+            spells,
             abilities,
             statusEffects);
 
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Mechanics.csv"), systemData.Mechanics);
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Class_Progression.csv"), systemData.ClassProgressions);
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Mutant_Skill_Tiers.csv"), systemData.MutantSkillTiers);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Monsters.csv"), monsterResult.Monsters);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Equipment.csv"), shopResult.Equipment);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Items.csv"), shopResult.Items);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Spells.csv"), shopResult.Spells);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Abilities.csv"), abilities);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_StatusEffects.csv"), statusEffects);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Characters.csv"), characters);
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Monsters.csv"), monsterResult.Monsters.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Equipment.csv"), equipment.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Items.csv"), items.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Spells.csv"), spells.Select(row => row.ToNormalizedSpell()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Abilities.csv"), abilities.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_StatusEffects.csv"), statusEffects.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Characters.csv"), characters.Select(row => row.ToNormalized()).ToList());
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Story_Chronology.csv"), walkthroughResult.StoryLocations);
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL2_Entity_Story_Appearances.csv"), walkthroughResult.StoryAppearances);
-        await File.WriteAllTextAsync(Path.Combine(context.OutputDirectory, "FFL2_Complete_LLM_Guide.markdown"), markdown, new UTF8Encoding(encoderShouldEmitUTF8Identifier: false), context.CancellationToken);
+        var outputMarkdownPath = Path.Combine(context.OutputDirectory, "FFL2_Complete_LLM_Guide.markdown");
+        var repositoryMarkdownPath = Path.Combine(context.RepositoryRoot, "FFL2", "FFL2_Complete_LLM_Guide.markdown");
+        var utf8Encoding = new UTF8Encoding(encoderShouldEmitUTF8Identifier: false);
+        await File.WriteAllTextAsync(outputMarkdownPath, markdown, utf8Encoding, context.CancellationToken);
+        await File.WriteAllTextAsync(repositoryMarkdownPath, markdown, utf8Encoding, context.CancellationToken);
 
         await context.Output.WriteLineAsync("Generated FFL2 structured reference files:");
         await context.Output.WriteLineAsync($"- Mechanics notes: {systemData.Mechanics.Count}");
         await context.Output.WriteLineAsync($"- Class progression rows: {systemData.ClassProgressions.Count}");
         await context.Output.WriteLineAsync($"- Mutant skill tiers: {systemData.MutantSkillTiers.Count}");
         await context.Output.WriteLineAsync($"- Monsters: {monsterResult.Monsters.Count}");
-        await context.Output.WriteLineAsync($"- Equipment: {shopResult.Equipment.Count}");
-        await context.Output.WriteLineAsync($"- Items: {shopResult.Items.Count}");
-        await context.Output.WriteLineAsync($"- Spells: {shopResult.Spells.Count}");
+        await context.Output.WriteLineAsync($"- Equipment: {equipment.Count}");
+        await context.Output.WriteLineAsync($"- Items: {items.Count}");
+        await context.Output.WriteLineAsync($"- Spells: {spells.Count}");
         await context.Output.WriteLineAsync($"- Abilities: {abilities.Count}");
         await context.Output.WriteLineAsync($"- Status effects: {statusEffects.Count}");
         await context.Output.WriteLineAsync($"- Characters: {characters.Count}");
@@ -135,5 +145,162 @@ internal sealed class Ffl2Module : IGameModule
             .GroupBy(candidate => $"{candidate.EntityType}|{candidate.EntityName}", StringComparer.OrdinalIgnoreCase)
             .Select(group => group.First())
             .ToList();
+    }
+
+    private static IReadOnlyList<Ffl2EquipmentRecord> MergeEquipment(
+        IReadOnlyList<Ffl2EquipmentRecord> baseRows,
+        IReadOnlyList<Ffl2WalkthroughCollectibleRecord> collectibles)
+    {
+        var collectedRows = collectibles
+            .Where(row => row.EntityType.Equals("Equipment", StringComparison.OrdinalIgnoreCase))
+            .Select(row =>
+            {
+                var existing = baseRows.FirstOrDefault(candidate => candidate.Name.Equals(row.Name, StringComparison.OrdinalIgnoreCase));
+                return new Ffl2EquipmentRecord(
+                    existing?.Category ?? DetermineEquipmentCategory(row.Name),
+                    existing?.Name ?? row.Name,
+                    existing?.Uses ?? string.Empty,
+                    existing?.Cost ?? string.Empty,
+                    row.Availability,
+                    row.Notes,
+                    row.SourceGuide);
+            });
+
+        return baseRows
+            .Concat(collectedRows)
+            .GroupBy(row => $"{row.Category}|{row.Name}", StringComparer.OrdinalIgnoreCase)
+            .Select(group => new Ffl2EquipmentRecord(
+                group.First().Category,
+                group.First().Name,
+                JoinDistinct(group.Select(row => row.Uses)),
+                JoinDistinct(group.Select(row => row.Cost)),
+                JoinDistinct(group.Select(row => row.Availability)),
+                JoinDistinct(group.Select(row => row.Notes)),
+                JoinDistinct(group.Select(row => row.SourceGuides))))
+            .OrderBy(row => row.Category, StringComparer.OrdinalIgnoreCase)
+            .ThenBy(row => row.Name, StringComparer.OrdinalIgnoreCase)
+            .ToList();
+    }
+
+    private static IReadOnlyList<Ffl2ItemRecord> MergeItems(
+        IReadOnlyList<Ffl2ItemRecord> baseRows,
+        IReadOnlyList<Ffl2WalkthroughCollectibleRecord> collectibles)
+    {
+        var collectedRows = collectibles
+            .Where(row => row.EntityType.Equals("Item", StringComparison.OrdinalIgnoreCase))
+            .Select(row =>
+            {
+                var existing = baseRows.FirstOrDefault(candidate => candidate.Name.Equals(row.Name, StringComparison.OrdinalIgnoreCase));
+                return new Ffl2ItemRecord(
+                    existing?.Category ?? DetermineItemCategory(row.Name),
+                    existing?.Name ?? row.Name,
+                    existing?.Uses ?? string.Empty,
+                    existing?.Cost ?? string.Empty,
+                    row.Availability,
+                    existing?.PrimaryEffect ?? string.Empty,
+                    row.Notes,
+                    row.SourceGuide);
+            });
+
+        return baseRows
+            .Concat(collectedRows)
+            .GroupBy(row => $"{row.Category}|{row.Name}", StringComparer.OrdinalIgnoreCase)
+            .Select(group => new Ffl2ItemRecord(
+                group.First().Category,
+                group.First().Name,
+                JoinDistinct(group.Select(row => row.Uses)),
+                JoinDistinct(group.Select(row => row.Cost)),
+                JoinDistinct(group.Select(row => row.Availability)),
+                JoinDistinct(group.Select(row => row.PrimaryEffect)),
+                JoinDistinct(group.Select(row => row.Notes)),
+                JoinDistinct(group.Select(row => row.SourceGuides))))
+            .OrderBy(row => row.Category, StringComparer.OrdinalIgnoreCase)
+            .ThenBy(row => row.Name, StringComparer.OrdinalIgnoreCase)
+            .ToList();
+    }
+
+    private static IReadOnlyList<Ffl2ItemRecord> MergeSupplementalItems(
+        IReadOnlyList<Ffl2ItemRecord> baseRows,
+        IReadOnlyList<Ffl2ItemRecord> supplementalRows)
+    {
+        return baseRows
+            .Concat(supplementalRows)
+            .GroupBy(row => $"{row.Category}|{row.Name}", StringComparer.OrdinalIgnoreCase)
+            .Select(group => new Ffl2ItemRecord(
+                group.First().Category,
+                group.First().Name,
+                JoinDistinct(group.Select(row => row.Uses)),
+                JoinDistinct(group.Select(row => row.Cost)),
+                JoinDistinct(group.Select(row => row.Availability)),
+                JoinDistinct(group.Select(row => row.PrimaryEffect)),
+                JoinDistinct(group.Select(row => row.Notes)),
+                JoinDistinct(group.Select(row => row.SourceGuides))))
+            .OrderBy(row => row.Category, StringComparer.OrdinalIgnoreCase)
+            .ThenBy(row => row.Name, StringComparer.OrdinalIgnoreCase)
+            .ToList();
+    }
+
+    private static IReadOnlyList<Ffl2ItemRecord> MergeSpells(
+        IReadOnlyList<Ffl2ItemRecord> baseRows,
+        IReadOnlyList<Ffl2WalkthroughCollectibleRecord> collectibles)
+    {
+        var collectedRows = collectibles
+            .Where(row => row.EntityType.Equals("Spell", StringComparison.OrdinalIgnoreCase))
+            .Select(row =>
+            {
+                var existing = baseRows.FirstOrDefault(candidate => candidate.Name.Equals(row.Name, StringComparison.OrdinalIgnoreCase));
+                return new Ffl2ItemRecord(
+                    existing?.Category ?? "Spell/Book",
+                    existing?.Name ?? row.Name,
+                    existing?.Uses ?? string.Empty,
+                    existing?.Cost ?? string.Empty,
+                    row.Availability,
+                    existing?.PrimaryEffect ?? string.Empty,
+                    row.Notes,
+                    row.SourceGuide);
+            });
+
+        return baseRows
+            .Concat(collectedRows)
+            .GroupBy(row => $"{row.Category}|{row.Name}", StringComparer.OrdinalIgnoreCase)
+            .Select(group => new Ffl2ItemRecord(
+                group.First().Category,
+                group.First().Name,
+                JoinDistinct(group.Select(row => row.Uses)),
+                JoinDistinct(group.Select(row => row.Cost)),
+                JoinDistinct(group.Select(row => row.Availability)),
+                JoinDistinct(group.Select(row => row.PrimaryEffect)),
+                JoinDistinct(group.Select(row => row.Notes)),
+                JoinDistinct(group.Select(row => row.SourceGuides))))
+            .OrderBy(row => row.Category, StringComparer.OrdinalIgnoreCase)
+            .ThenBy(row => row.Name, StringComparer.OrdinalIgnoreCase)
+            .ToList();
+    }
+
+    private static string DetermineEquipmentCategory(string name)
+    {
+        return name.EndsWith("Armor", StringComparison.OrdinalIgnoreCase) ? "Armor"
+            : name.EndsWith("Helmet", StringComparison.OrdinalIgnoreCase) ? "Helmet"
+            : name.EndsWith("Shield", StringComparison.OrdinalIgnoreCase) ? "Shield"
+            : name.EndsWith("Gauntlet", StringComparison.OrdinalIgnoreCase) ? "Gauntlet"
+            : "Weapon";
+    }
+
+    private static string DetermineItemCategory(string name)
+    {
+        return name.EndsWith("Magi", StringComparison.OrdinalIgnoreCase)
+               || name.Equals("Micron Potion", StringComparison.OrdinalIgnoreCase)
+            ? "Key Item"
+            : "Item";
+    }
+
+    private static string JoinDistinct(IEnumerable<string> values)
+    {
+        return string.Join(
+            "; ",
+            values
+                .Where(value => !string.IsNullOrWhiteSpace(value))
+                .Distinct(StringComparer.OrdinalIgnoreCase)
+                .OrderBy(value => value, StringComparer.OrdinalIgnoreCase));
     }
 }

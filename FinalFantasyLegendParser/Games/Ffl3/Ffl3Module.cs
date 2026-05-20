@@ -1,5 +1,6 @@
 using System.Text;
 using FinalFantasyLegendParser.Core;
+using FinalFantasyLegendParser.Games;
 using FinalFantasyLegendParser.Games.Ffl3.Parsers;
 
 namespace FinalFantasyLegendParser.Games.Ffl3;
@@ -22,6 +23,12 @@ internal sealed class Ffl3Module : IGameModule
 
         var walkthroughParser = new Ffl3WalkthroughParser();
         var walkthroughData = walkthroughParser.Parse(context.RepositoryRoot, entityCandidates);
+        var walkthroughEquipment = AggregateWalkthroughCollectibles(walkthroughData.Collectibles, "Equipment");
+        var walkthroughSpells = AggregateWalkthroughCollectibles(walkthroughData.Collectibles, "Spell");
+        var equipment = MergeEquipmentForMarkdown(guideData.Equipment, walkthroughEquipment);
+        var spells = MergeSpellsForMarkdown(guideData.Spells, walkthroughSpells);
+        var normalizedEquipment = MergeEquipmentForExport(guideData.Equipment, walkthroughEquipment);
+        var normalizedSpells = MergeSpellsForExport(guideData.Spells, walkthroughSpells);
 
         var markdownCompiler = new Ffl3MarkdownCompiler();
         var markdown = markdownCompiler.Compile(
@@ -29,9 +36,9 @@ internal sealed class Ffl3Module : IGameModule
             characters,
             walkthroughData.StoryLocations,
             guideData.Monsters,
-            guideData.Equipment,
+            equipment,
             walkthroughData.Items,
-            guideData.Spells,
+            spells,
             guideData.Abilities,
             guideData.StatusEffects);
 
@@ -39,25 +46,29 @@ internal sealed class Ffl3Module : IGameModule
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Formula_Reference.csv"), systemData.Formulas);
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Robot_Capsules.csv"), systemData.RobotCapsules);
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Talon_Units.csv"), systemData.TalonUnits);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Equipment.csv"), guideData.Equipment);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Items.csv"), walkthroughData.Items);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Spells.csv"), guideData.Spells);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Abilities.csv"), guideData.Abilities);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_StatusEffects.csv"), guideData.StatusEffects);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Characters.csv"), characters);
-        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Monsters.csv"), guideData.Monsters);
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Equipment.csv"), normalizedEquipment);
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Items.csv"), walkthroughData.Items.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Spells.csv"), normalizedSpells);
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Abilities.csv"), guideData.Abilities.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_StatusEffects.csv"), guideData.StatusEffects.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Characters.csv"), characters.Select(row => row.ToNormalized()).ToList());
+        CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Monsters.csv"), guideData.Monsters.Select(row => row.ToNormalized()).ToList());
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Story_Chronology.csv"), walkthroughData.StoryLocations);
         CsvFileWriter.WriteRecords(Path.Combine(context.OutputDirectory, "FFL3_Entity_Story_Appearances.csv"), walkthroughData.StoryAppearances);
-        await File.WriteAllTextAsync(Path.Combine(context.OutputDirectory, "FFL3_Complete_LLM_Guide.markdown"), markdown, new UTF8Encoding(encoderShouldEmitUTF8Identifier: false), context.CancellationToken);
+        var outputMarkdownPath = Path.Combine(context.OutputDirectory, "FFL3_Complete_LLM_Guide.markdown");
+        var repositoryMarkdownPath = Path.Combine(context.RepositoryRoot, "FFL3", "FFL3_Complete_LLM_Guide.markdown");
+        var utf8Encoding = new UTF8Encoding(encoderShouldEmitUTF8Identifier: false);
+        await File.WriteAllTextAsync(outputMarkdownPath, markdown, utf8Encoding, context.CancellationToken);
+        await File.WriteAllTextAsync(repositoryMarkdownPath, markdown, utf8Encoding, context.CancellationToken);
 
         await context.Output.WriteLineAsync("Generated FFL3 structured reference files:");
         await context.Output.WriteLineAsync($"- Mechanics notes: {systemData.Mechanics.Count}");
         await context.Output.WriteLineAsync($"- Formula rows: {systemData.Formulas.Count}");
         await context.Output.WriteLineAsync($"- Robot capsules: {systemData.RobotCapsules.Count}");
         await context.Output.WriteLineAsync($"- Talon units: {systemData.TalonUnits.Count}");
-        await context.Output.WriteLineAsync($"- Equipment: {guideData.Equipment.Count}");
+        await context.Output.WriteLineAsync($"- Equipment: {normalizedEquipment.Count}");
         await context.Output.WriteLineAsync($"- Items: {walkthroughData.Items.Count}");
-        await context.Output.WriteLineAsync($"- Spells: {guideData.Spells.Count}");
+        await context.Output.WriteLineAsync($"- Spells: {normalizedSpells.Count}");
         await context.Output.WriteLineAsync($"- Abilities: {guideData.Abilities.Count}");
         await context.Output.WriteLineAsync($"- Status effects: {guideData.StatusEffects.Count}");
         await context.Output.WriteLineAsync($"- Characters: {characters.Count}");
@@ -125,4 +136,193 @@ internal sealed class Ffl3Module : IGameModule
             .Select(group => group.First())
             .ToList();
     }
+
+    private static IReadOnlyDictionary<string, WalkthroughAggregate> AggregateWalkthroughCollectibles(
+        IReadOnlyList<Ffl3WalkthroughCollectibleRecord> collectibles,
+        string entityType)
+    {
+        return collectibles
+            .Where(record => record.EntityType.Equals(entityType, StringComparison.OrdinalIgnoreCase))
+            .GroupBy(record => record.Name, StringComparer.OrdinalIgnoreCase)
+            .ToDictionary(
+                group => group.Key,
+                group => new WalkthroughAggregate(
+                    JoinDistinct(group.Select(record => record.Availability)),
+                    JoinDistinct(group.Select(record => record.Notes)),
+                    JoinDistinct(group.Select(record => record.SourceGuide))),
+                StringComparer.OrdinalIgnoreCase);
+    }
+
+    private static IReadOnlyList<Ffl3EquipmentRecord> MergeEquipmentForMarkdown(
+        IReadOnlyList<Ffl3EquipmentRecord> baseRows,
+        IReadOnlyDictionary<string, WalkthroughAggregate> acquisitionMap)
+    {
+        var mergedRows = baseRows
+            .Select(row => acquisitionMap.TryGetValue(row.Name, out var aggregate)
+                ? row with
+                {
+                    Details = AppendWalkthroughDetails(row.Details, aggregate),
+                    SourceGuide = JoinDistinct(new[] { row.SourceGuide, aggregate.SourceGuide })
+                }
+                : row)
+            .ToList();
+
+        var existingNames = baseRows.Select(row => row.Name).ToHashSet(StringComparer.OrdinalIgnoreCase);
+        foreach (var extra in acquisitionMap.Where(entry => !existingNames.Contains(entry.Key)))
+        {
+            mergedRows.Add(new Ffl3EquipmentRecord(
+                "Walkthrough",
+                "Route Pickup",
+                extra.Key,
+                string.Empty,
+                AppendWalkthroughDetails(string.Empty, extra.Value),
+                extra.Value.SourceGuide));
+        }
+
+        return mergedRows;
+    }
+
+    private static IReadOnlyList<Ffl3SpellRecord> MergeSpellsForMarkdown(
+        IReadOnlyList<Ffl3SpellRecord> baseRows,
+        IReadOnlyDictionary<string, WalkthroughAggregate> acquisitionMap)
+    {
+        var mergedRows = baseRows
+            .Select(row => acquisitionMap.TryGetValue(row.Name, out var aggregate)
+                ? row with
+                {
+                    Details = AppendWalkthroughDetails(row.Details, aggregate),
+                    SourceGuide = JoinDistinct(new[] { row.SourceGuide, aggregate.SourceGuide })
+                }
+                : row)
+            .ToList();
+
+        var existingNames = baseRows.Select(row => row.Name).ToHashSet(StringComparer.OrdinalIgnoreCase);
+        foreach (var extra in acquisitionMap.Where(entry => !existingNames.Contains(entry.Key)))
+        {
+            mergedRows.Add(new Ffl3SpellRecord(
+                "Walkthrough",
+                extra.Key,
+                string.Empty,
+                string.Empty,
+                AppendWalkthroughDetails(string.Empty, extra.Value),
+                extra.Value.SourceGuide));
+        }
+
+        return mergedRows;
+    }
+
+    private static IReadOnlyList<NormalizedEquipmentRecord> MergeEquipmentForExport(
+        IReadOnlyList<Ffl3EquipmentRecord> baseRows,
+        IReadOnlyDictionary<string, WalkthroughAggregate> acquisitionMap)
+    {
+        var mergedRows = baseRows
+            .Select(row =>
+            {
+                var normalized = row.ToNormalized();
+                return acquisitionMap.TryGetValue(row.Name, out var aggregate)
+                    ? normalized with
+                    {
+                        Availability = aggregate.Availability,
+                        Notes = JoinDistinct(new[] { normalized.Notes, aggregate.Notes }),
+                        SourceGuide = JoinDistinct(new[] { normalized.SourceGuide, aggregate.SourceGuide })
+                    }
+                    : normalized;
+            })
+            .ToList();
+
+        var existingNames = baseRows.Select(row => row.Name).ToHashSet(StringComparer.OrdinalIgnoreCase);
+        foreach (var extra in acquisitionMap.Where(entry => !existingNames.Contains(entry.Key)))
+        {
+            mergedRows.Add(new NormalizedEquipmentRecord(
+                "Walkthrough Pickup",
+                extra.Key,
+                string.Empty,
+                string.Empty,
+                string.Empty,
+                extra.Value.Availability,
+                string.Empty,
+                string.Empty,
+                string.Empty,
+                extra.Value.Notes,
+                extra.Value.SourceGuide));
+        }
+
+        return mergedRows;
+    }
+
+    private static IReadOnlyList<NormalizedSpellRecord> MergeSpellsForExport(
+        IReadOnlyList<Ffl3SpellRecord> baseRows,
+        IReadOnlyDictionary<string, WalkthroughAggregate> acquisitionMap)
+    {
+        var mergedRows = baseRows
+            .Select(row =>
+            {
+                var normalized = row.ToNormalizedSpell();
+                return acquisitionMap.TryGetValue(row.Name, out var aggregate)
+                    ? normalized with
+                    {
+                        Availability = aggregate.Availability,
+                        Notes = JoinDistinct(new[] { normalized.Notes, aggregate.Notes }),
+                        SourceGuide = JoinDistinct(new[] { normalized.SourceGuide, aggregate.SourceGuide })
+                    }
+                    : normalized;
+            })
+            .ToList();
+
+        var existingNames = baseRows.Select(row => row.Name).ToHashSet(StringComparer.OrdinalIgnoreCase);
+        foreach (var extra in acquisitionMap.Where(entry => !existingNames.Contains(entry.Key)))
+        {
+            mergedRows.Add(new NormalizedSpellRecord(
+                "Walkthrough",
+                extra.Key,
+                string.Empty,
+                string.Empty,
+                string.Empty,
+                string.Empty,
+                extra.Value.Availability,
+                string.Empty,
+                string.Empty,
+                string.Empty,
+                extra.Value.Notes,
+                extra.Value.SourceGuide));
+        }
+
+        return mergedRows;
+    }
+
+    private static string AppendWalkthroughDetails(string existingDetails, WalkthroughAggregate aggregate)
+    {
+        var parts = new List<string>();
+        if (!string.IsNullOrWhiteSpace(existingDetails))
+        {
+            parts.Add(existingDetails);
+        }
+
+        if (!string.IsNullOrWhiteSpace(aggregate.Availability))
+        {
+            parts.Add($"Walkthrough availability: {aggregate.Availability}");
+        }
+
+        if (!string.IsNullOrWhiteSpace(aggregate.Notes))
+        {
+            parts.Add($"Walkthrough notes: {aggregate.Notes}");
+        }
+
+        return JoinDistinct(parts);
+    }
+
+    private static string JoinDistinct(IEnumerable<string> values)
+    {
+        return string.Join(
+            "; ",
+            values
+                .Where(value => !string.IsNullOrWhiteSpace(value))
+                .Distinct(StringComparer.OrdinalIgnoreCase)
+                .OrderBy(value => value, StringComparer.OrdinalIgnoreCase));
+    }
+
+    private sealed record WalkthroughAggregate(
+        string Availability,
+        string Notes,
+        string SourceGuide);
 }

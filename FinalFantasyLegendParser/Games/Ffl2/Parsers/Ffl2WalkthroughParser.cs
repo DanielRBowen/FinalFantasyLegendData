@@ -7,6 +7,19 @@ internal sealed partial class Ffl2WalkthroughParser
 {
     private static readonly ConcurrentDictionary<string, Regex> MentionPatternCache = new(StringComparer.OrdinalIgnoreCase);
 
+    private static readonly HashSet<string> ValidMagiNames =
+    [
+        "Prism",
+        "Power",
+        "Speed",
+        "Mana",
+        "Defense",
+        "Fire",
+        "Ice",
+        "Thunder",
+        "Poison"
+    ];
+
     private static readonly HashSet<string> AmbiguousNames =
     [
         "Human", "Mutant", "Robot", "Monster", "Cure", "Sleep", "Thunder", "Defense", "Speed", "Power", "Mana", "World", "Town", "Tower", "Base", "Sword", "Shield", "Armor"
@@ -26,6 +39,7 @@ internal sealed partial class Ffl2WalkthroughParser
         var storyLocations = new List<Ffl2StoryLocationRecord>();
         var storyAppearances = new List<Ffl2EntityStoryAppearanceRecord>();
         var sourceGuide = Path.GetFileName(sourcePath);
+        var collectibles = ExtractCollectibles(sections, entityCandidates, sourceGuide);
 
         foreach (var section in sections)
         {
@@ -66,7 +80,59 @@ internal sealed partial class Ffl2WalkthroughParser
                 sourceGuide));
         }
 
-        return new Ffl2WalkthroughParseResult(storyLocations, storyAppearances);
+        return new Ffl2WalkthroughParseResult(storyLocations, storyAppearances, collectibles);
+    }
+
+    private static IReadOnlyList<Ffl2WalkthroughCollectibleRecord> ExtractCollectibles(
+        IReadOnlyList<WalkthroughSection> sections,
+        IReadOnlyCollection<StoryEntityCandidate> entityCandidates,
+        string sourceGuide)
+    {
+        var collectibleCandidates = entityCandidates
+            .Where(candidate => candidate.EntityType is "Equipment" or "Item" or "Spell")
+            .ToList();
+
+        var accumulators = new Dictionary<string, CollectibleAccumulator>(StringComparer.OrdinalIgnoreCase);
+
+        foreach (var section in sections)
+        {
+            foreach (var rawLine in section.BodyLines)
+            {
+                var line = rawLine.Trim();
+                if (string.IsNullOrWhiteSpace(line) || ShopHeaderRegex().IsMatch(line) || ShopRowRegex().IsMatch(line) || !IsAcquisitionLine(line))
+                {
+                    continue;
+                }
+
+                var normalizedLine = NormalizeAcquisitionLine(line);
+                var availability = BuildAvailability(section);
+                var note = ClassifyCollectibleNote(line);
+
+                foreach (var candidate in collectibleCandidates)
+                {
+                    if (GetMentionPattern(candidate.EntityName).IsMatch(normalizedLine))
+                    {
+                        AddCollectible(accumulators, candidate.EntityType, candidate.EntityName, availability, note, sourceGuide);
+                    }
+                }
+
+                foreach (var potionName in ExtractPotionNames(normalizedLine))
+                {
+                    AddCollectible(accumulators, "Item", potionName, availability, note, sourceGuide);
+                }
+
+                foreach (var magiName in ExtractMagiNames(line))
+                {
+                    AddCollectible(accumulators, "Item", magiName, availability, note, sourceGuide);
+                }
+            }
+        }
+
+        return accumulators.Values
+            .Select(accumulator => accumulator.ToRecord())
+            .OrderBy(row => row.EntityType, StringComparer.OrdinalIgnoreCase)
+            .ThenBy(row => row.Name, StringComparer.OrdinalIgnoreCase)
+            .ToList();
     }
 
     private static IEnumerable<WalkthroughSection> ParseSections(IEnumerable<string> lines)
@@ -209,6 +275,159 @@ internal sealed partial class Ffl2WalkthroughParser
             .OrderBy(name => name, StringComparer.OrdinalIgnoreCase));
     }
 
+    private static void AddCollectible(
+        IDictionary<string, CollectibleAccumulator> accumulators,
+        string entityType,
+        string name,
+        string availability,
+        string note,
+        string sourceGuide)
+    {
+        var key = $"{entityType}|{name}";
+        if (!accumulators.TryGetValue(key, out var accumulator))
+        {
+            accumulator = new CollectibleAccumulator(entityType, name, sourceGuide);
+            accumulators[key] = accumulator;
+        }
+
+        accumulator.Availabilities.Add(availability);
+        accumulator.Notes.Add(note);
+    }
+
+    private static string BuildAvailability(WalkthroughSection section)
+    {
+        return string.IsNullOrWhiteSpace(section.Context)
+            ? section.Title
+            : $"{section.Context} / {section.Title}";
+    }
+
+    private static string ClassifyCollectibleNote(string line)
+    {
+        if (line.Contains("chest", StringComparison.OrdinalIgnoreCase))
+        {
+            return "Treasure chest pickup from the walkthrough.";
+        }
+
+        if (line.Contains("after the fight", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("after beating", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("battle", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("boss", StringComparison.OrdinalIgnoreCase)
+            || line.Contains("Magi:", StringComparison.OrdinalIgnoreCase))
+        {
+            return "Boss reward or progression pickup from the walkthrough.";
+        }
+
+        if (line.Contains("give", StringComparison.OrdinalIgnoreCase) || line.Contains("receive", StringComparison.OrdinalIgnoreCase))
+        {
+            return "NPC reward or story gift from the walkthrough.";
+        }
+
+        return "Walkthrough pickup.";
+    }
+
+    private static IEnumerable<string> ExtractMagiNames(string line)
+    {
+        var names = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+
+        foreach (Match match in ExplicitMagiRegex().Matches(line))
+        {
+            var normalized = NormalizeName(match.Groups["name"].Value);
+            var prefix = normalized.Split(' ', StringSplitOptions.RemoveEmptyEntries).FirstOrDefault() ?? string.Empty;
+            if (ValidMagiNames.Contains(prefix))
+            {
+                names.Add($"{prefix} Magi");
+            }
+        }
+
+        foreach (Match match in ParenthesizedMagiListRegex().Matches(line))
+        {
+            foreach (var token in SplitMagiList(match.Groups["list"].Value))
+            {
+                names.Add($"{NormalizeName(token)} Magi");
+            }
+        }
+
+        foreach (Match match in LabeledMagiListRegex().Matches(line))
+        {
+            foreach (var token in SplitMagiList(match.Groups["list"].Value))
+            {
+                names.Add($"{NormalizeName(token)} Magi");
+            }
+        }
+
+        return names;
+    }
+
+    private static IEnumerable<string> ExtractPotionNames(string line)
+    {
+        return PotionRegex().Matches(line)
+            .Select(match => NormalizePotionName(match.Groups["name"].Value))
+            .Distinct(StringComparer.OrdinalIgnoreCase);
+    }
+
+    private static bool IsAcquisitionLine(string line)
+    {
+        return AcquisitionCueRegex().IsMatch(line)
+               || line.Contains("Magi:", StringComparison.OrdinalIgnoreCase)
+               || ParenthesizedMagiListRegex().IsMatch(line)
+               || PotionRegex().IsMatch(line);
+    }
+
+    private static string NormalizeAcquisitionLine(string line)
+    {
+        return line
+            .Replace("Swords", "Sword", StringComparison.OrdinalIgnoreCase)
+            .Replace("Shields", "Shield", StringComparison.OrdinalIgnoreCase)
+            .Replace("Helmets", "Helmet", StringComparison.OrdinalIgnoreCase)
+            .Replace("Gauntlets", "Gauntlet", StringComparison.OrdinalIgnoreCase)
+            .Replace("Potions", "Potion", StringComparison.OrdinalIgnoreCase)
+            .Replace("Books", "Book", StringComparison.OrdinalIgnoreCase);
+    }
+
+    private static string NormalizeName(string value)
+    {
+        var tokens = TokenRegex().Matches(value)
+            .Select(match => match.Value)
+            .ToList();
+
+        return string.Join(" ", tokens.Select(static token =>
+            token.Length == 0 ? string.Empty : char.ToUpperInvariant(token[0]) + token[1..].ToLowerInvariant()));
+    }
+
+    private static string NormalizePotionName(string value)
+    {
+        var trimmed = value.Trim();
+
+        if (trimmed.StartsWith("a ", StringComparison.OrdinalIgnoreCase))
+        {
+            trimmed = trimmed[2..];
+        }
+        else if (trimmed.StartsWith("an ", StringComparison.OrdinalIgnoreCase))
+        {
+            trimmed = trimmed[3..];
+        }
+        else if (trimmed.StartsWith("the ", StringComparison.OrdinalIgnoreCase))
+        {
+            trimmed = trimmed[4..];
+        }
+
+        return NormalizeName(trimmed);
+    }
+
+    private static IEnumerable<string> SplitMagiList(string rawList)
+    {
+        var normalized = rawList
+            .Replace(" and ", ",", StringComparison.OrdinalIgnoreCase)
+            .Replace('/', ',');
+
+        return normalized
+            .Split(',', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries)
+            .Where(token => token.Length > 0)
+            .Where(token => !token.Contains("list", StringComparison.OrdinalIgnoreCase))
+            .Select(NormalizeName)
+            .Where(token => ValidMagiNames.Contains(token));
+    }
+
     private static string ParseWorld(string title, string context)
     {
         if (title.Contains("World", StringComparison.OrdinalIgnoreCase))
@@ -236,6 +455,21 @@ internal sealed partial class Ffl2WalkthroughParser
     [GeneratedRegex(@"\s+x(?:-|\d+)\s+\d+\s+GP", RegexOptions.Compiled)]
     private static partial Regex ShopRowRegex();
 
+    [GeneratedRegex(@"\b(get|collect|open the chest|get to|there is|there are|contains?|give you|gives you|receive|received|pick up)\b", RegexOptions.IgnoreCase | RegexOptions.Compiled)]
+    private static partial Regex AcquisitionCueRegex();
+
+    [GeneratedRegex(@"\b(?<name>[A-Za-z]+\sMagi)\b", RegexOptions.IgnoreCase | RegexOptions.Compiled)]
+    private static partial Regex ExplicitMagiRegex();
+
+    [GeneratedRegex(@"Magi[^()]*\((?<list>[A-Za-z,\sand]+)\)", RegexOptions.IgnoreCase | RegexOptions.Compiled)]
+    private static partial Regex ParenthesizedMagiListRegex();
+
+    [GeneratedRegex(@"Magi:\s*(?<list>[A-Za-z,\sand]+)", RegexOptions.IgnoreCase | RegexOptions.Compiled)]
+    private static partial Regex LabeledMagiListRegex();
+
+    [GeneratedRegex(@"\b(?<name>[A-Za-z]+(?:\s[A-Za-z]+)?\sPotion)\b", RegexOptions.IgnoreCase | RegexOptions.Compiled)]
+    private static partial Regex PotionRegex();
+
     [GeneratedRegex(@"[A-Za-z0-9]+", RegexOptions.Compiled)]
     private static partial Regex TokenRegex();
 
@@ -243,6 +477,23 @@ internal sealed partial class Ffl2WalkthroughParser
     private static partial Regex WhitespaceRegex();
 
     internal sealed record StoryEntityCandidate(string EntityType, string EntityName);
+
+    private sealed class CollectibleAccumulator(string entityType, string name, string sourceGuide)
+    {
+        public HashSet<string> Availabilities { get; } = new(StringComparer.OrdinalIgnoreCase);
+
+        public HashSet<string> Notes { get; } = new(StringComparer.OrdinalIgnoreCase);
+
+        public Ffl2WalkthroughCollectibleRecord ToRecord()
+        {
+            return new Ffl2WalkthroughCollectibleRecord(
+                entityType,
+                name,
+                string.Join("; ", Availabilities.OrderBy(value => value, StringComparer.OrdinalIgnoreCase)),
+                string.Join("; ", Notes.OrderBy(value => value, StringComparer.OrdinalIgnoreCase)),
+                sourceGuide);
+        }
+    }
 
     private sealed record WalkthroughSection(string SectionId, int Order, string Title, string Context, IReadOnlyList<string> BodyLines);
 
