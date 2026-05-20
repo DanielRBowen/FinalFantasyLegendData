@@ -1,0 +1,537 @@
+FINAL FANTASY LEGEND 2 (MAKAI TOUSHI SaGa 2) Walkthrough
+By Autumn Palmer
+Sunsoft 1998
+For the original Nintendo Game Boy - 1 player
+
+~INDEX~
+ 1.  Beginner's Guide to setting out
+ 2.  Walkthrough
+ 3.  Notes
+
+I've been in love with this series ever since it came out. To new
+buyers - the official copy should provide you with a big manual,
+map/item page and the game cartridge. There are two versions of the
+game artwork, thanks to a European release! I have the advantage of
+owning the Japanese game guide and someone marked in the locations of
+all the treasure chests...
+
+1. Beginner's Guide to setting out
+
+"MAGI. The symbol of great power. The legacy of the ancient gods who
+made this world. Many fought for the mighty power. Some won, and some
+failed. Now...another legend of bravery is about to begin..."
+
+After this introduction, the game will take you to the character select
+screen. You can choose one character who will lead the adventure from start
+to finish. Names can only be 4 letters long (hey, it's an old game). The
+two at the top of the list are human-type characters who are good all-round
+warriors. The next two characters are called Mutants (or Espers) who use
+magic. The last four characters are monsters of various types.
+
+Humans
+...make the best leaders. Good all-rounders, you can equip them with at
+least 4 weapons, allowing for three or four armour slots at the bottom
+for shields, gauntlets etc. In this game, they slowly level up.
+
+MALE:
+Starts with a Long Sword x50 and Bronze armor. The stats have been evened
+out betweeb the boys and girls, this time.
+
+FEMALE:
+Starts with a Saber x50 and Bronze armor. Looks different from the first
+game. You can buy "steroids" not only for humans but for mutants.
+
+Mutants
+...you can have one who is a leader, but he/she should be backed up by
+someone who is a human or another mutant. Espers CAN equip things, having
+six or seven slots for armour or weapons. Their magic is very good and
+they develop powers. Fights should be timed to coincide with Mutant
+development. Put them in the front of battles to get levels. You can buy
+"steroids" not only for humans but for mutants.
+
+MALE:
+Starts with Hammer x50, Bronze armor and "Blizzard" spell. Males do tend
+to generate lots of offensive spells and can use spell chests really well.
+
+FEMALE:
+Very cute long hair, starts with a Bow x50, Bronze armor and "Flame" spell.
+Females generate avoidance spells such as ESP and have the same HP as
+males, so they are good to have as leader "decoys" while other characters
+hit the monster.
+
+MONSTERS
+DON'T have a leader who is a monster. They make good characters for the
+tail end of a party. They eat meat left behind by enemy monsters, which
+changes them into different monsters. It's best to try for a really
+powerful monster like Redbull. If you seek abilities like HEAL and WHIRL
+(even works on bosses), keep eating! Monsters cannot equip items, but
+have abilities marked "X" (Weak against) and "O" (Immune to).
+
+SUB-SCREEN
+The subscreen is jazzed up with blippy sounds and smarter text. When you
+press Start it appears. You can see your party on the right (with a space
+at the bottom for NPC's) and a list of six commands on the left. The bottom
+boxes show your bank balance and the amount of MAGI you have acquired.
+
+The first option, ABIL, allows you to see the developing abilities of your
+characters. Some abilities will be limited (for example, Flame x15 can be
+used 10 times before your character must rest at an inn), others will have
+an - sign, meaning "infinite". You can also check their stats on the left.
+
+ITEM shows your items list. You can have a total of 16 in storage! At the
+bottom is a bin.
+
+EQUIP allows you to, well, Equip your characters with armour and weapons.
+Note that you CANNOT unequip NPC's, so act wisely.
+
+MAGI
+Tells you about the Magi. You can equip them too.
+
+MEMO
+Added feature in case you get lost, say, after a two year break. You can
+read back information from the past, too.
+
+SAVE: Efficient option allows you to save in seconds; you WILL be using
+this option ALL THE TIME. To reset the game, hold down A+B+Start+Select.
+
+ALTER ORDER
+This appears when you press Select. Click twice to swap the order of the
+party. For more information, see the manual.
+
+MY FATHER HAS GONE! WON'T YOU JOIN ME IN A SEARCH FOR HIM?
+
+-WORLD 1-
+
+~THE RELICS OF THE ANCIENT GODS~
+
+You start off in your little village in the valley. "Mr. S" will allow you
+to choose 3 permanent members to party with. When you're ready to leave
+town, he will accompany you on your journey through North Cave. In the
+countryside you will face random battles, but necessary for money and meat.
+After you enter commands, the battle will continue round for round until one
+or the other side is defeated. If you die at this stage, your characters will
+remain in the "Stun" state until you visit an inn; you can rest in the village
+for free. Furthermore, you don't have to worry about losing Hearts! At the
+end of the North Cave is a Baby Wyrm boss. Once you have defeated it, Mr. S
+says goodbye and jams the entrance to the cave FOR GOOD. You have to go on.
+
+BABY WYRM: 2000 HP
+
+This area will test your party choices to the limit. You'll need to use swords
+and get all the best armour from the nearby village before going to Ki's
+shrine on the edge of the northern mountains. Level up and get stronger, and
+save up for Gold equipment. In the Shrine of Isis, Ki will tell you that there
+might be relics in the Relics of the Ancient Gods to the south.
+
+To find the forested Relics, go 3 spaces south and 4 east of the south
+mountain. On the first floor are four chests, one on the left of the entrance
+and then three more empty ones in a chamber right of the exit in the
+northwest corner. Go straight to the right middle exit and then to floor 3,
+where there is a scene where people are stealing the MAGI. Chase them into the
+next part of the temple and on floor 5, there are 4 chests dotted about and you
+find all the stolen Magi - Power, Speed and Mana. Go back to Ki. She heals you
+and then joins your party; it's time to go to Ashura's Base, deep in the
+mountains to the north. Nearby is a third town marked in Japanese as having an
+association with flowers (Flower village?). It has expensive weapons. Take
+advantage of Ki to help you level up, because she has a powerful Thunder
+spell.
+
+~ASHURA'S BASE~
+
+Don't touch anyone here, although they look normal - they are all enemies!
+The tower is pretty straightforward, with a chest containing a Speed Potion
+on floor 3 in the southeast corner. On floor 4 is a chest containing a free
+Silver gauntlet, hooray! On the final (5th) floor are 4 chests. The nearest
+one contains an Axe and the rest contain MAGI. Attack the Rhino - equip
+Magi to make the battles easier. You get Defence, Ice and Fire Magi in the
+other chests. Now that the base has collapsed you can reach the Pillar of
+Sky.
+
+~PILLAR OF SKY~
+
+The world in Final Fantasy Legend 2 is arranged as a series of floating
+islands all hanging from the edge of a round sky shaped like a dinner plate
+filled with water, with Apollyon's temple in the middle. The Sky Pillars are
+poking through the bottom of the plate like rice stalks, with the strings
+connected to the various lands. You have enough Magi to use the celestial
+beanstalk. Ki gives a quick pep talk and leaves. You make your way to world
+2, Ashura's World. It's basically a windy desert, and Desert Town is left.
+There's also a town northwest of Ashura's Tower. Power up and save for
+Silver equipment.
+
+-WORLD 2-
+
+~ASHURA'S TOWER~
+
+The layout is very straightforward, with chests on floors 4, 7 and 9
+(a Saber, Colt and Silver Shield respectively). On floor 5, rescue a Masked
+Man from a Woodman and he will join you as your next NPC. On floor six you
+will find his belongings; he has good weapons but no spells. Ashura is on the
+final (10th) floor where there are 4 chests containing a power potion,
+a magic potion, a Battle sword and a Silver helmet. Use Mask's hammer to
+finish Ashura off; make sure you take loads of "steroids" and have good
+equipment with you. Kill Ashura (again?) and you get seven more Magi
+including Mana, Thunder and Power.
+
+ASHURA: 900 HP
+
+You will then be warped back to the
+Shrine of Isis, where monsters have invaded Ki's body! The Fairy helper
+will give you a Defence Magi. Now you have to go to the Giants' World
+in order to find a magic potion that will shrink (Micronise) your party
+so that you can go inside her body and find 6 Magi. It's back up the
+beanstalk again...
+
+-WORLD 3-
+
+~THE GIANTS' WORLD~
+
+There is a town just below the beanstalk. The monsters here are really,
+really tough. Use grenades, spells and guns on them. When you are ready
+talk to the guy at the bar and find Dad hidden in the town. Go back and
+Johnny will tell you how to get into the Old Giants' Town (it's a great
+place!). Go east from the town and up. You'll find a different-coloured
+area on the bottom of the giant rock stairs. Then you will be transported
+to the top of the stairs. You can enter the northernmost house and the
+west house using a little hole in the wall. You can get Poison and
+Power Magi from the west house and the Geta Shoes, a Gold shield and
+bottle of Micron from the other one. The Old Giants' Town is a good
+place to fight.
+
+~KI'S BODY~
+
+Go back and use the Micronise to get into Ki's Body. You will enter in
+her head. Don't go north. Do the quest in this order - left hand, right
+hand, heart, left foot, her stomach, intestines, right foot, head. To
+get out of her body, go north. The location of the Magi respectively -
+second finger from the left, index finger, centre, big toe, bottom,
+bottom, little toe, centre. A random number of Phagocytes will be guarding
+the final Magi in Ki's head. If you win, you gain the Fire, Ice,
+Defence, Thunder, Speed, Poison and Mana Magi back from her body.
+
+-WORLD 4-
+
+~APOLLYON'S WORLD~
+
+You'll notice I'm using the original title of the god; the Japanese
+give him the name "Apollyon" meaning Apollo the Destroyer. Go up the
+beanstalk and enter world 4. Below is Apollo's palace and Lynn's Town
+is north. Apollyon hands out the Defence Magi and sets you a riddle:
+"One is where wind blows underground
+One is where flame burns underwater
+One is where darkness shines brightly."
+These are the three locations of the other Magi.
+
+~UNDERSEA VOLCANO~
+
+In the south is Port Town, inhabited by sea folk, a quaint town that
+reminds me strongly of FFL1. You can walk to the Undersea Volcano from
+the south pier. The volcano is dangerous because the lava will drain HP.
+On floor 1 take the south exit (archway). There are 2 chests on floor 3
+to the south, a Gold sword and a Power drink. On floor 4 there is another
+chest in the middle (Fire) and a healing pool on the island on the left,
+perfect for levelling. On floor 5 there are 3 chests containing Fire,
+Poison and True Eye Magi...no boss? Hooray! Leave via the north exit.
+
+~THE CAVE OF LIGHT~
+
+The cave is southeast of the north town. You need the True Eye Magi to
+see inside it. Go east to floor 2. You have to go all around floor 2
+clockwise to get to the right exit. There is a south exit on floor 3
+and a chest containing a Power drink in the top righthand corner. There
+are 2 chests on floor 4 containing a Giant gauntlet and Thunder spell.
+Cross the bridge and go north on floor 5, but don't miss the chest on
+the left which contains a Laser sword. There is 1 chest on the next floor
+(Revenge sword) and a south exit. On floor 7 there are three chests
+containing Magi - Thunder, Mana and Ice. Then go out of the north exit
+on the right. No boss! Things are too quiet...it's strange.
+
+~MOUNTAIN CAVES~
+
+North of Lynn's Town. There are two entrances. The south entrance
+leads to treasure, Hermes boots, the north one is the main entrance.
+In North Mountain Cave there is a chest on floor 3 in the left corner
+(Rocket) and an exit on the right. Take the south exit on floor 4 and
+go down for a chest on the left (Elixir). Go south to meet Lynn and
+fight Dunatis the robot, who is blocking the exit. Defeat him and you
+get three Magi and an X-Cure. Afterwards you are warped back to
+Lynn's town where Dad pretends to be her father.
+
+-WORLD 5-
+
+~GUARDIANS' BASE TOWN~
+
+This town WILL be destroyed, so you can and should make the most of its
+shops and nearby monsters. When you are ready, play the Heroic Tune on
+the Jukebox. You will immediately be arrested. Dad will come to your
+rescue. After you have rested the base will be attacked. Defeat an Ogre
+on floor 3 to get the Power Magi. Dad will join you on the next floor.
+Defeat the Manticore to get Speed Magi and a Magician on floor 1 to get
+Defence Magi. Next to the Pillar of Sky, defeat the Commando to get Fire
+Magi. After that, head down the beanstalk some more and you'll find
+shops either side of the escalator; you will find Ninja World, where
+Lynn is held captive. Defeat the Ninja to get the Poison Magi. You
+will be warped back to Lynn's Town, where Lynn gives you the Thunder
+Magi. Head back up the beanstalk.
+
+~UNDERGROUND WATERWAY~
+
+Venus' City has to be the best level in the game! Loads of shops, items
+etc. It's great! But head out and west through the trees to find
+Antony's village. A frog tells you that there is an underground waterway
+in Venus City's north wall. Go there and take the south exit to floor 1,
+but don't miss the chest (Speed potion). On floor 2 go south again.
+There is a chest nearby (the excellent Psi sword). A Hermit Crab will be
+blocking the way. If you defeat him you get a key. You can now open the
+doors on floors 2-4. There is a chest room on floor 3, but the bottom
+right chest is a trap. The other chests contain Power, Speed and Mana
+Magi. Similarly, there is a chest room on floor 4, but again the bottom
+right chest is a trap. The other chests contain Defence, Ice and
+Thunder Magi. There are 2 chests on floor 5 (Giant's helmet, Elixir).
+Now you're inside Venus's palace. Talk to the girl, Flora.
+
+~VOLCANO~
+
+Enter the newly-born volcano (not another one!) The exit to the third
+floor, incidentally, is in the top right island, forcing you to walk
+into a sea of lava (oh, joy). Go left, left to floor 5 where there is a
+chest in the south (Flame Sword) and another two on floor 6 (Fire gun,
+Mage Staff). Walk through the lava to the south exit (YUK) and there
+are 4 chests in the southeast corner of floor 7 (Flame shield, Magi),
+not to mention a HP recovery pool, should you wish to train.
+
+~THE WEDDING~
+
+After that, a moth in Venus Town will tell you that Nils and Flora are
+about to be married. Leon charges in and he gives you some Magi. After
+a scene, you fight Venus. If you win, you get the Power, Speed, Mana,
+Fire, Ice, Thunder, Poison and Aegis Magi.
+
+VENUS: 2500 HP
+
+After that, you can leave World 5.
+
+-WORLD 6-
+
+~DRAGON RACE CIRCUIT~
+
+There is a town ahead. Visit Apollyon, who is in a house on the left.
+Then choose a Dragon from the stables in town. The most expensive Dragon
+is the fastest. During the race you will meet a group of Adamants.
+Once they are defeated you will get a Defense Magi. Then you will face some
+Tortoises. Once they are defeated, you will get a Speed Magi. The third
+battle is a group of Lamias; they will give you a Mana Magi. Finally,
+defeat about 4 Watchers to win the Defense Magi. THIS RACE IS HARD! But
+Apollyon is nasty, isn't he?
+
+~EDO~
+
+There are two towns in the middle of the map, the forest town is smaller.
+One is Edo. You can get to the Shogun's fortress from the left of the map.
+There are loads of levels and equipment to be had! When you are ready,
+go to Edo's north bridge to fight the Hatamoto gang. Then visit the
+forest town and see Hana in the nearest house. She is investigating the
+murder of her father in connection with Echigoya's banana smuggling.
+Explore the town and return to see Hana. Now go to Echigoya's shop in
+Edo town.
+
+~SHIPYARD~
+
+Then go to the Shipyard in the south. On the way, Hana's
+turtle friend (Kame in the English version) talks to you. Board the ship
+using the middle pier and go in the middle exit. On this level you
+will find a chest in the south (Laser gun). On the third level is another
+chest (Tank, yay!) on the left side, and another further right (Hecate
+boots). You will meet a man at the end, Hana's friend (Taro in English,
+a ronin in Japanese). Head for a little building west of the Ship-
+yard and the judge will move to Hana's house. Ronin brings in Hana's
+turtle friend, so head to Echigoya's shop in Edo and go behind the
+counter. You will hear a conversation between the Shogun and Echigoya. In
+this battle you will fight a large group of Hatamotos and Echigoya. After
+that, the ronin will join you as your fourth(?) NPC. It's time to go to
+the Shogun's fortress.
+
+~SHOGUN'S FORTRESS~
+
+Incredibly tough here, so make sure you have everything you want. Attack
+the guards first. Go north. There are 3 chests on floor 3 (Ninja gauntlet,
+Body drink, Missile) on the right. Then go to the left corner and into
+floor 4, where there is a chest in the middle (Dragon sword). Go left and
+into the next floor; don't forget the chest (Dragon shield). Then head
+north, north. There is a Samurai Bow on floor 5. Defeat the Shogun you
+meet, and then defeat his father, the Magnate. Once he is defeated you
+will get the Ice, Fire, Thunder and Poison Magi and 30800 Gold Pieces.
+
+SHOGUN: 2000 HP
+MAGNATE: 6000 HP
+
+I've heard you can fight the fish statues on the roof. You can now leave
+World 6.
+
+~THE NASTY DUNGEON~
+
+The dungeon is found on the way to World 7 and you HAVE to get the Pegasus
+Magi from the entrance. It works the same way as the Door.
+
+"This dungeon is mean and nasty..." For the persevering adventurer who wants
+to re-enter this dungeon and make an ABSOLUTE FORTUNE, read this section.
+For sane people, skip down to "Valhalla Palace".
+
+The "Nasty Dungeon" has a total of 8 floors and there is no fast way
+in or out. The whole thing has to be done on foot, so give items to your
+party if you don't want several journeys. I have the maps in front of
+me, but you'll have to make do with directions!
+
+B1) Four chests: Power Potion, Body drink, Dragon armor, Ogre axe.
+Go clockwise south. You'll finally see 2 tunnels. The right leads to a
+pair of chests, the other leads to a grilled archway and a chest on the
+left. Go left out of the grille and take the second path leading north,
+then go up the first path to the exit.
+
+B2) Three chests: Magic drink, Catclaw, Vulcan.
+Go around the room clockwise and you'll encounter a chest through the
+third grille, on the right. Go right through the next 2 archways to find
+2 more chests in the north corridor. Then return and leave down the
+right exit.
+
+B3) Four chests: Elixir, Laser gun, Jyudo, Dragon sword.
+Go down the first south corridor to get to 2 chests. Go back and walk
+down the second south corridor. Turn left to get to 2 more chests, then
+come back out and walk round south all the way up to the exit.
+
+B4) Four chests: Tank, Missile, Tent, Dragon helmet.
+This level has some good stuff. There's a corridor leading down. Go
+second right for a chest and first left to get to another chest. Take
+the second and third left to get to the third and fourth chests.
+Then leave down the third right passage.
+
+B5) Five chests: Muramasa, Wizard's staff, Selfix armor, Defend sword,
+Samurai bow.
+Go right. Take the upper passage to get to one chest, then go back down
+the lower passage for other chests; the first 2 in the first left, the
+other two in the lower left passage. Then go all the way back to the
+entrance and leave using the south exit opposite.
+
+B6) Four chests: ParaSuit, Psy gun, Vampic sword, Arthur armor.
+Go right and head south to get three chests. Then take the middle stairs
+and there is another chest on the right. The exit is on the left.
+
+B7) Four chests: Sun sword, Karate, Hyper cannon, Tent.
+Go down and right, then right through the gap and south. This will take
+you down a long, winding passage to three chests. Then come back through
+the gap and head up. This will take you along another passage past 1
+more chest. Keep going to reach the exit.
+
+B8) Four chests: Flare, Glass sword, Nuke bomb, Gungnir spear.
+Go right (down is a dead end). Go down left to reach a chest. Then go
+the middle way to reach the south chest. Come back and go right all
+the way to end to get another chest. Take the other south tunnel to
+reach a chest in the south, then turn right for the exit.
+
+-World 7-
+
+~VALHALLA PALACE~
+
+At the end of the beanstalk you'll find a place that is made of
+clouds. Here you can cross the bridge to reach Valhalla palace in
+the east. Get the chest on the first floor (Defend sword) and go
+through the north door. There is a chest on floor 4 on the right
+side (Wizard staff) above the exit. On floor 5 is a chest in the
+south (Rune Axe), while the exit is above the entrance. Get the
+chest on floor 6 (Flare) and go right. Go clockwise to the centre
+exit and you will meet the god Odin. Use the Gungnir or other
+things you have found (such as the Rune axe) and he will fall. You
+will get Power, Mana, Speed, Fire, Ice, Thunder, Poison and Masamune
+Magi. Yes, Odin also may drop a Gungnir spear.
+
+ODIN: 3700 HP
+ODINCROW: 669 HP
+SLEIPNIR: ?
+
+You may now go right and leave Valhalla. The Pillar of Sky is
+in the north.
+
+~LAST TOWN~
+
+You'll emerge in some trees. Go north and you will run across the
+meanie Apollyon.
+
+Apollyon: (wait for it) 25000 HP
+Minion: 5000 HP
+
+You end up giving Apollyon all your Magi, so don't try too hard.
+Dad will join and you then head south to the final town.
+
+~EVIL DUNGEON~
+
+Give dad some stuff, e.g. Defend sword, Vulcan, Battle armor and
+a Heal rod. All your characters should get more than 650 HP by this
+stage. Equip characters with Heal rods, which heal a whole party,
+and armor which boosts defence - Dragon helmets, Arthur or Battle
+armor, Ninja gauntlets, Hecate boots. My main character Jake had
+999 HP at this point, with about 60 defence and 35 strength. Use
+Laser guns, Vulcans and Tanks. If you have a monster, turn it into
+a Nymph. You can also buy some Doors.
+
+
+FFL 2 has no Boss Killer feature. Basically, most of the saws you
+get in the game are useless and you cannot kill the bosses in
+one hit.
+
+The final dungeon is south of the town. There are two exits in the
+middle. The right leads to a small room with a chest (Karate),
+the left leads to floor 2. Go left on this floor for a chest
+(Sun sword) and right for the exit. There are more chests on the
+right-hand side of many floors here: floor 4 (Arthur armor), floor
+5 (Psi gun), floor 6 (ParaSuit), floor 7 (Tent), floor 9
+(Excalibur) and floor 10 (Nuke bomb). Save on floor 11 to
+face the Death Machine. Make good use of the Heal staffs. If you
+win, you will get the Heart Magi from the chest. You can equip it.
+
+DEATH MACHINE: 10000 HP
+
+Exit north and head for Apollyon's palace to the north of the final
+town. You will see it right in the middle of the Pillars of Sky.
+
+~APOLLYON'S PALACE~
+
+Apollyon will not hit you for about six turns, so hammer into him
+while you can. Use Laser guns, which he hates, the Glass sword and
+Whirl ability, as well as Gungnir.
+
+APOLLYON (monster): 25000 HP (maybe less in UK version)
+
+When you defeat him he will explode, so make sure someone in the
+party, and Dad, survives. Next, Dad will leave and the goddess Isis
+will join your party. When you are ready, enter the door where
+Apollyon was standing. There are five levels of the central Shrine
+where you can get the Seven Sword from Haniwas. There is a boss on the
+fifth floor whose meat will really transform your monsters.
+
+TIANLUN: 2000 HP
+
+There is a boss on the seventh floor whose meat will really
+transform your monsters.
+
+FENRIR THE WOLF (tiger, surely?): 2500 HP
+
+Find the square panels on floor 8 and Isis will attack one
+Arsenal while you are sent to attack the other. I'll have to be
+vague here, as I've never gotten this far!
+
+ARSENAL: 10000 HP
+
+As far as I know you have to take out the laser cannons 1 at a
+time while attacking the body of the Arsenal. Use Heal rods here
+as well. You can get back to the world when you defeat him by
+taking the left exit in the area.
+
+The credits start.
+
+3. Notes
+
+I made this FAQ using information from the official Japanese guide
+and so all HP amounts are official figures! For more information on
+the Sa Ga world on GB, visit
+fantasyanime.com or
+Wikipedia.

@@ -1,0 +1,642 @@
+Version 1.0. Don't expect a 2.0. Any questions can be sent to
+vicstQvQnson@mailQxcitQ.com. Just change the Qs to Es to get
+around a spamblock.
+
+I play this with a human of each gender, a male mutant and a monster.
+Some of the advice on equipping objects is tailored to that.
+
+Should you want more info, read LordLocke's excellent FAQ that covers
+characters. This is solely a walkthrough.
+
+NORTH CAVE
+
+First, I would recommend keeping Mr. S in the party until he runs
+out of attacks. This can help your party build up the hit points,
+other statistics and gold pool. This might be a good time to mention
+a little trick that can be used to gain such attribute points. If,
+in your first battle, you gain some sort of points (hit, strength,
+mana, agility), save your game an turn off your Gameboy. When it is
+back on, load the saved game and get into the fight again. Use the
+same methodology to beat the monsters you encounter, and you will
+experience the same (or, in the case of hit points, sometimes greater)
+gain. It takes time, but I had one of my characters with the max. of
+hit points (999) before even visting Ki. Short digression, back to
+the cave in question.
+
+Follow the path, the first bridge you see leads to a bronze shield and
+a cure potion. Continue along the path, and a path off to the right
+leads to a hammer and a bow. Destroy the BabyWyrm at the end of the
+tunnel. Stay around until Mr.S' abilities run out, then exit the
+cave. Mr. S will depart. Walk North to the town.
+
+NORTH CAVE TOWN
+
+Talk to the people. Visit the store, and buy a second rapier and
+long sword. Go to the armour store, and buy some bronze helmets
+and gauntlets. Leave and head to the west.
+
+FIRST WORLD
+
+Head west and slightly north to reach Ki's Temple. She will heal
+you, and give you directions to the relics. Head south to reach the
+area, and follow her directions from the big rock to reach the area
+in question.
+
+SOUTHERN RELICS
+
+Follow the paths. After heading up to the second floor, walk to the
+right to get a whip. Then, follow the path around to the opposite
+corner to reach the third floor. On the fourth floor, walk past the
+first door (it only leads to empty chests). Ditto for the second
+door on the north wall. Take the stairs up. On floor five, the left
+path leads to a cure potion. The right continues onward. Continue
+along the path. You will enter a room with three chests, with
+two people raiding said chests. Chase after them. Ignore the chests,
+because they are empty. Go through the door, and you will see the
+raiders by one door, but a door before them. Enter that first
+door, and get 3 MAGI. Then, chase the raiders. Follow them outside.
+They have been waylaid. They are both dead, their MAGI stolen by
+Ashura. Return to Ki. She will join your party, and you head to
+Ashura's base.
+
+FIRST WORLD (2)
+
+The next town is NW of Ki's temple. You probably can't afford any
+new weapons at this point. Rest at the inn and move on to Ashura's
+Base.
+
+ASHURA'S BASE
+
+Touching any of the visible enemies here will result in your being
+attacked. Random attacks, they are still hovering over your head.
+Ki's Thunder attack will help here. After going around the first
+bend, you will see a door to the north. It will take you to Level 2.
+Just follow the path here. On the third floor, the chest in the NW
+corner of the large room contains a speed potion. Move along now,
+nothing more to see here. Go right or left on the next floor. It
+doesn't matter, they both lead to the same place. Walk around the
+furniture on the next floor. The chest contains an axe. Continue
+along the corridor. The boss here is the rhino. It is weak against
+ice. Ki's Thunder spell also works quite well. Leave the collapsing
+castle, picking up the MAGI as you exit. Head North from there. Ki
+will depart once you reach the pillar of sky. Continue on to your
+next stop:
+
+ASHURA'S DESERT
+
+Enter the town. Pick up silver helmets for your humans and mutants.
+This town is no safe haven. You can get attacked here. Once you
+leave, walk around the mountained borders to this world. When are
+directly under a small clearing on the south side of this world, go
+up. Visit the town and heal if you want, then go to the tower.
+
+ASHURA'S TOWER
+
+The first two floors are pretty straight-forward. Follow the given
+path. Nothing of note on the third either. A sabre can be found in
+the 4th floor chest. If you have a female human, give it to her.
+On the fifth floor, you will fight a Woodman. He shouldn't be too
+much trouble. Obviously, fire works nicely on a wooden creature.
+When you win, Mask will join the party. He is unarmed at this point,
+but will find his weapons as soon as you reach the 6th floor. That
+is everything of interest on this small level. Up to 7. The chest
+there contains a colt. Might be nice for the mutant in your party.
+Walk through 8, picking up the silver shield in the chest. I find
+shields (save Aegis, which we won't see for quite a while) to be
+useless. I sell them in the shops. They might be useful if you have
+a robot in your party for raising its stats. On the 9th and last floor,
+the first staircase you see has two chests on either side. Left nets you
+a magic potion. Power is on the right. Up the next stairs, a silver
+helmet is on the left (you should already have the suitable party
+members decked out in those, so sell it when you get the chance). The
+right has a battle sword. Perfect for a male human. Move forward to
+fight Ashura. Unload on him with your weapons. Mask used a hammer,
+while my humans used the Sabre and Battle swords respectively. My
+mutant fired a Colt, while my monster (a Raven, FWIW) used a beak
+attack.
+
+When you win, you will hear some distressing news about Ki. You will
+get transported back to her. Enemies have entered her body! You need
+the micron to get in and save her. The Micron is available in Giant's
+World, the third place you have to go through in your journey through
+the pillar.
+
+GIANTS WORLD
+
+GIANT CITY
+
+Go to the city and visit the cafe. The barkeep will tell you about
+Johnny, the only other customer in the bar. At first, Johnny will deny
+anything. Go to the entrance of thie city. Go to the right near the
+exit. Follow the path counterclockwise. After a quick conversation
+with Dad, slip into the back entrance to the store. Confront the
+clerk, and he will spill the beans baout Johnny. Return to the cafe,
+and you will find Johnny to be much more talkative. Follow his
+directions, and enter the old giant town.
+
+THE OLD GIANT TOWN
+
+There are four buildings here. The third one from the top contains
+two MAGI. Use those two to enter the top building. Get the two
+chests (Geta boot and gold shield respectively). Go to the NE corner
+of the room, and climb the bookcase to get the Micron. You now
+have two options: Return to Ki, or fight random monsters to earn
+enough money for Giant goods. Take your pick, but the Giant goods
+increase your strength. I usually try to get enough Giant gauntlets
+to equip my party.
+
+KI
+
+Back in the first world, walk straight up to Ki. You have to retrieve
+six MAGI that are in her body. There is one in each foot, hand as
+well as one in the intestines(?) and the heart. Blizzard and ice
+work well on the internal creatures such as plasma and grippe. After
+you have retrieved those, go to the top of the head. Walk around.
+Defeat the Phagocyts using ice spells.
+
+Bonus note: If you have a monster in the party, don't eat any of
+the internal creatures. Unless you lake turning into a first level
+creature. Your next stop will be in Apollo World (1).
+
+APOLLO WORLD
+
+The first thing you will see if you make a few steps to the south is
+Apollo's Castle. Head in, and go straight ahead. Apollo is nice
+enough to give you a MAGI. He gives you a riddle, defining three
+locations where you can find others. Start with the southernmost
+option.
+
+NEPTUNE/SUBMARINE VOLCANO
+
+Walk south of the town off the pier. You can stop in to buy some
+Gold helmets, if you wish.
+
+Follow the path, noting that every step you take on a bubbling square
+subtracts one hit point. Unforunately, this is unavoidable. After
+walking down a hallway and seeing a passage to the north and a path
+south, elect to go north. The first two chests you see contain a
+gold sword (human male) and a power potion. A fire book is in the
+next chest you encounter. To the left of that is a glowing spot that
+recovers your hit points. Go there before heading off through the
+northern tunnel. Continue north in the next room, as there is nothing
+down the side passages. Get the 3 MAGI and leave. Return to the
+town and heal at the inn. Head east for your next segment.
+
+CAVE OF LIGHT
+
+You need the True Eye MAGI to see properly in here. Said MAGI is
+available in the submarine volcano/Neptune. Follow the given path
+around. Go up the stairs and cross the bridge. Continue along until
+you reach two tunnels on either side of another. A power potion
+is to the right. Left takes you further into the cave. The next
+chect contains a giant gauntlet. I am already decked out with them, so
+I sell it. Continue clockwise to find a Thunder book, then head up
+to the next level by continuing walking in the same direction. Go
+up the stairs, and down the first flight of steps you see. The
+broken bridge has a Laser sword at the end of it. Cross the full
+bridge, and continue up the stairs. 3 paths should appear before you.
+The far right yields a revenge sword. The far left one is empty, and
+the middle one sends you onward. I cannot recall using the revenge
+sword at any point, so you might want to sell that as well. 4 paths
+when you emerge. MAGIs lie in the far left, 2nd from the left and
+the far right passages. The second from the right exits the cave.
+
+DUNATIS TOWN
+
+In the NE portion of this town (across several bridges) lies an
+unkarked house. Enter it, and learn that Lyn has been lost in the
+Cave of Mountain to the north.
+
+SOUTHERN CAVE
+
+This is optional. But, you can find the agility-increasing Hermes
+boot in here. I'd go pick it up. Exit that cave and go north.
+
+CAVE OF MOUNTAIN
+
+The cave is pretty straight-forward. Head S, then East when you reach
+junctions on the second floor. Continue north until you see 2 tunnels.
+Left to a Rocket. Continue on through the right tunnel. It doesn't
+matter which path you take off the next tunnel. They both end up in
+the same location. Go down the Super Happy Fun Slide. Go east at the
+bottom and get the Elixier that Lyn was looking for. Go right. You
+will meet up with Lynn, who will join. Sadly, she couldn't fight
+her way out of a wet paper bag if you spotted her a broadsword. Fight
+through Dunatis like a hot knife through butter. The human male
+used the Gold Sword, the female the Laser. The mutant fired a Rocket,
+while my monster (a Medusa) used her tail. It shouldn't be too hard.
+
+Back at Lynn's there is a family reunion. You are stunned to learn
+that your dad is also Lynn's father. In disgust, you vow to continue
+on. Head on to:
+
+GUARDIAN WORLD
+
+Make sure you have everything you need from the stores, as they will
+soon become a non-factor. Head to the cafe, and play Heroic Tune on
+the jukebox. You will be arrested, since you are considered spies. Your
+dad will arrange your freedom. Exit the cell. Follow the corridor
+clockwise, and go up the stairs. Continue to the top level. Walk
+north once you get there. Go through the door, and talk to Dad. During
+your rest, the base will be attacked. Fight your way to the bottom
+floor. Dad will join partway through. Exit the cafe, and return to the pillar. Defeat the commando. Note: If any of the visible opponents give
+meat after the battle, eat it! Go forward to the next world.
+
+NINJA WORLD
+
+Simple. Exit and head to the left. Say so long to dad. Lynn wil join.
+You will return her to Apollo World, after beating the Ninja. After
+the reunion, move on through the Pillar of Sky to Venus World.
+
+VENUS WORLD
+
+Walk through the gates to Venus' world. (You can't exit to the outside
+just yet). Take the moving sidewalks into the place. Chat with Venus,
+and she will grant you permission to leave the city. There are some
+good stores here, so explore the town. Talk to Nils & Flora, who are on
+either side of the palace walls before exiting.
+
+DIRTY OUTSIDE
+
+Visit the village (near the Western wall of Venus town) that is
+supposedly dirty. Talk to Leon, and then the residents of the NW
+building. They will tell you how to reach the sewers.
+
+THE SEWERS
+
+Follow the path given. A speed potion is in the first chest you see.
+AS you continue, a path will appear on a north wall. The chest has
+a Psi sword in it. The door will lead into a fight with a Hermit
+crab. It has about 400 or so hit points. Thunder works quite nicely
+against it. Defeat it and get a key. If you have a monster in your
+party, note that eating the meat would be helpful. The creature will
+regenerate each time you leave the room, so return if needed. I would
+advise trying to become a phantom through the meat. Continue on, and
+open the first door you come across with a key. There are four chests
+within. 3 contain MAGI, the 4th contains a really tough monster. Avoid the chest in the lower right corner. Continue through the sewers and
+you will come across another door. Again, 4 chests. As before, avoid
+the one in the lower right. Continue along the path. When you have the
+opportunity to step into the sewer water, do so. Walk left and
+you will find a submerged chest with an Elixier in it. Return to the
+path. The next chest visible has a Giant Helmet in it. Move over to
+the door you see to exit the sewers. You will emerge in Venus' palace.
+
+RETURN TO THE PALACE
+
+Talk with Venus, then Flora. A volcano will emerge from the ground.
+Exit the city, and go to your next journey.
+
+VOLCANO RUINS
+
+Follow the path. The lava has the same result as it did in Neptune's
+submarine volcano. -1 hit point. Ignore the fact that someone (Leon)
+is following you through the ruins. There is a hit regeneration
+square once you reach level 2. Just continue north a few steps to
+get to it. As you continue along the path, you will reach an area
+where a pier leads out into a lava area with a chest in the middle
+of it. The chest holds a flame sword. The next chest along the path
+has a magic potion. The two chests beside one another hold a fire
+pistol and a mage staff. In the area with two piers, the northern one
+leads to a flame shield, with the southern one taking you towards
+the MAGI. Leon will steal one, since he wants to use it to break up
+Flora and Nils' wedding.
+
+THE CHAPEL
+
+Heal your self at the dirty village inn. Head into the palace, and
+visit the chapel. (left side of the palace) It will lead into a
+fight with Venus herself. Use the laser sword (female human), the
+fire pistol (mutant), touch (phantom, see Hermit info for how to
+become a phantom) and a fire sword (male human). 2-3 rounds should
+be plenty.
+
+RACE WORLD
+
+Meet with Apollo, whose castle is to the left in the town. A race is
+being held for MAGI. You need to rent a dragon for this. Follow
+the cafe owner's advice. Take the free, but slow dragon, should you
+want to avoid battles. The faster the dragon, the more bosses you
+need to face around the course. 4 for the fastest, 1 for the slowest.
+Take your pick. You will win the race regardless of dragon speed,
+as long as you finish.
+
+EDO
+
+Edo is your next stop. Head to the large central city. There is some
+great stuff for sale at the weapon/armor store on the inn side of
+the bridge. I recommend getting a dragon helmet or two for your party.
+It is worth the effort to save up for these treasures. Cross the
+bridge and brawl with the Hatamatos. After winning the first battle,
+Hana will come and correct the situation. Across the bridge you
+will find some slightly cheaper weapons and armor.
+
+Leave the Central City and head off to the east. Enter the building
+you are immediately facing, and meet with Hana. After a short
+interlude, Hana will mention a ship. Time to return to Echigoya's
+store (the combo weapon/armor place). Step behind the counter and
+interrogate the clerk. He will tell you when the next shipment is due.
+
+That is the next place you  will have to visit. The shipyard is south
+of Central City.
+
+Go to the right once you enter and talk to Kame. Walk down the dock
+immediately to your right, and you will be onboard the ship. There
+is nothing of note on the south deck, so walk into the visible
+cabin and down to the second level. Definitely head to the south
+here. There is a laser pistol for you. Then go down to the next level.
+On the third deck, you will find a tank and a hectate boot. You will
+meet with Hana and Taro. She informs you that the ship is full of
+bananas. Hana will join and you should go to the court. The court is
+SW of the docks. Hmmm. The evidence is gone. Regroup at Hana's, then
+head to Echigoya's. With the clerk out of the way, walk to the
+basement. Kick the arses of Echigoya and the Hatmotas, and you will
+be returned to Hana's. Taro will join, and you are off to the fortress.
+It is west of Central City.
+
+EDO FORTRESS
+
+Destroy the guards. Head clockwise around the outskirts. Pass by the
+first door you see with the stairs heading up (nothing there). Go
+through the double doors. Walk left. Go through some more double
+doors and enter the Fortress itself. You will see two paths. Choose
+the left path, and follow it to reach the second level of the
+fortress. The first path you see leads up to the third level, but
+there is a second one. Ignore it, though. There is nothing there.
+On level 4, the path on the right reveals three chests. Ninja
+gauntlets, a missile launcher and the body potion. The left path
+takes you to level 5. Two paths again as you go forward. A dragon
+sword is in the left path. Right leads you to level 6. A Dragon
+shield is in the first treasure chest.
+
+Walk through the doors. You will face the Sho-Gun. He has about
+1500 hit points, but not much in terms of an attack. Squash him
+like a bug, then learn who you real enemy is. The Magnate. Follow
+him to the roof, but be sure to return to get the samurai bow,
+which is one of the elite weapons in the game.
+
+Here is how I used my party against the Magnate. The male human fired
+a laser pistol, and my female human used a laser sword. My mutant
+used a thunder book. The monster (still a phantom) used touch. Taro
+used a Muramas.
+
+NASTY DUNGEON WORLD
+
+You don't have to go through this to beat the game, but it is helpful.
+The sole MAGI (Pegasus, it works just like a door) is available at
+the entrance. Should you want to get the goodies inside, I'll include
+the walkthrough here.
+
+NASTY - LEVEL 1
+
+Follow the given path. You will eventually reach an area where two
+paths come off of it. The one on the far right leads up to two
+potions: body and power. The leftward branch along this path will merge
+with the original leftward path. Taking either leftward path will
+eventually lead to an archway. Going under the archway leads to Dragon Armor.
+It is only up one defense point from the giant armor, without the strength
+bonus. I'd skip on it, unless you want to sell it for gold, or have a robot.
+Pass by the archway and continue along the given path. Again you will reach
+two paths heading to the north. An orge axe is down the path that is the
+furthest to the left. The closer one leads down to level 2.
+
+NASTY - LEVEL 2
+
+Walk along the path. The first chest contains a speed potion. You will
+eventually reach a room with an archway, a passage off to the east and
+a chest to the north. The chest holds a magic potion. The archway
+leads to a catclaw and a vulcan. The eastern passage leads to the
+third floor.
+
+NASTY - LEVEL 3
+
+The first set of stairs down lead to an elixier and a laser pistol.
+Return to the path. Jyudo and another dragon sword lie down an western
+passage. Back to the main path. Walk south along the path, and you will
+eventually continue down to level 4.
+
+NASTY - LEVEL 4
+
+You will see a path to the east almost immediately. There is a tank
+down there. Back on the main southward path, an eastward path will
+be seen next. Nothing down there, so continue on. A missile can be
+found down the second eastward passage. There is a tent available
+down the second westward path. The third path to the east leads to
+level 5, but continuing south nets a dragon helmet. As you move down
+the aforementioned eastern path, it will turn to the south and another
+branch will appear to the east. Nothing to the south, so head east to
+head down to #5.
+
+NASTY - LEVEL 5
+
+The exit is straight ahead. Just continue going south. There are
+some treasures off to the east, including a muramas (Northern path).
+There are 4 different paths to the south. From left to right, there
+is a samurai bow, a defend sword, a selfix (equip and recovers HP
+after each round) and a wizard wand.
+
+NASTY - LEVEL 6
+
+Tougher creatures start appearing at this level. Follow the path.
+Eventually you will see a path to the south. A Parasuit, a Psi
+Pistol (great for mutants) and a Vampic Sword are down there. The
+Parasuit replaces an entire wardrobe of armor. Return to the room
+and continue west. Take the northern passage. Arthur armor is to the
+east.
+
+NASTY - LEVEL 7
+
+Follow the path. You will soon reach a room with a second room off
+to the east. Continuing north leads to a tent and the eighth floor.
+Going east gets a hyper cannon, a sun sword and karate.
+
+NASTY - LEVEL 8
+
+Head east, as there is nothing but a dead end off to the south. You
+will end up at a 4-way junction.
+
+Go west. There will be a passage opening to the north. Continue west
+to get a flare spell. Then return to the northern passage and head
+along it. When a path opens to the east, continue south. Follow the
+path, going south when the opportunity arises. The Glass Sword is
+now yours. Go back to the path and continue to the east. You are
+back at the 4-way junction.
+
+Heading east up to where the path turns south gets a Nukebomb. Return
+to where there is a branch off to the south. That path will eventually
+reach a section where there is a branch off to the east. South for the
+gungir spear. East? That exits the dungeon!
+
+Just one more thing. Tell the monster you found the dungeon to be
+tough. Unless you want to be transported back to the 5th level.
+If that happens, uses the Pegasus MAGI or a door to exit. Should
+you have neither, walk backwards from 4-1. You don't want to face
+the toughest battles, do you?
+
+VALHALLA PALACE
+
+Back through the pillar of sky. Walk due east to get to the palace.
+When you enter, there is a defend sword in the room to your left. Up
+at the next floor. Take the Southern path. Walk through the small
+opening to enter a room where there is a wizard wand. Go up the
+stairs. Straight across in the next room. Nothing to see there. Two
+rooms will be visible once you hook around the corner at the next
+level. The first leads to a dragon helmet. Follow the defined path on
+the next level. Go get the chest to the south if you want. It holds
+a rune axe. On the next level, go across. The chest holds a flare
+book. You are going to start heading down now. Walk clockwise on
+the next level, and you will come across a very familiar person
+(assuming you have died at some point in this game). Time to fight
+Odin. This will not be easy.
+
+A mutant should use the flare book. That should take care of the
+group of Odincrows. That is assuming you worked at building up
+its mana level. My monster (a gazer) fired a beam at the Slepinir.
+Combined with the Flare, that should take care of Odin's amigos. MY
+female human used the catclaw knife, and my male human fired a laser
+pistol. After the first round, stay with the same attacks, just
+use them all on Odin. 3 rounds are usually enough, but it sometimes
+goes into 4.
+
+BEYOND VALHALLA
+
+Rush down the stairs to exit the palace. Continue through the pillar
+of sky to the next world. When you reach the next world, you will face
+Apollo. He wants all the MAGI, and sics his Minion on you. Use the
+same technique you used with Odin to destroy the Minion. 2 rounds did
+it for me.
+
+After that, Apollo will present some of the people you have encountered
+on your journey, holding them hostage for the other MAGI.You relent.
+Apollo leaves, and your father re-appears. There is some good news. One
+MAGI remains, and it is kindly located at the Final Dungeon. Charming.
+
+Visit the town. Heal and whatnot. Move into the dungeon.
+
+Note: If you get doors to travel between the worlds, make sure you have
+at least one usage left if you are not in the final world! You can't
+use the pillar of sky anymore, since you lack the MAGI to open any
+of the doors.
+
+FINAL DUNGEON - LEVEL 1
+
+Go around the corner until you see a tunnel to the south. Go through it,
+and there are two paths heading north. The one on the right leads to
+karate. Level 2 is off to the left.
+
+FINAL - LEVEL 2
+
+A 3 way junction welcomes you here. Go left to find a sun sword. Right
+takes you to the third level.
+
+FINAL - LEVEL 3
+
+Going up, you see a path to the right, and a tunnel to the north. In
+the tunnel is a room that is pretty darn empty. Follow the rightward
+path to move onto Level 4.
+
+FINAL - LEVEL 4
+
+The rightward tunnel holds Arthur armor. Continue up to 5.
+
+FINAL - LEVEL 5
+
+The path to the right yields a Psi Pistol. Left takes you up to 6.
+
+FINAL - LEVEL 6
+
+A Parasuit is off to the right. 7 is to left.
+
+FINAL - LEVEL 7
+
+As per usual, follow the path. When it splits, treasure is to the
+right (a tent)
+
+FINAL - LEVEL 8
+
+Nothing to see here, just follow the path.
+
+FINAL - LEVEL 9
+
+Looks to be straightforward, but there is a good trick here. Walk into the
+eastern or western extremes of the room. Walk through the wall, and walk
+around to get the Xcalibr sword! Return to the main room and go to the
+10th level.
+
+FINAL - LEVEL 10
+
+Nukebomb to the right at the junction. Level 11 is to the left.
+
+FINAL - LEVEL 11
+
+Walk straight ahead. The WarMech awaits. Have the female human use the
+Catclaw, while the male uses XCalibr. The mutant fires a Psi Pistol and
+the monster (try for a Ten-Gu) uses Thunder. Dad should either attack, or
+use the heal wand, depending on the condition of the party. 4-6 rounds
+should do the trick. Get the final MAGI and return to town.
+
+APOLLO
+
+Return to the area where you fought the Minion, and go through the
+door to the pillar of sky. Walk to the end and into the palace. At
+the end, Apollo awaits.
+
+Defeating Apollo isn't easy at all. Here is how I did it. My female
+human fired a laser pistol (about 400 damage), my male human used
+XCalibr (about 250-300), the mutant fired a Psi pistol (about 300-350)
+and my monster (a nymph) used Whirl. Dad fired the Vulcan (about 100)
+The first 4-5 rounds, Apollo won't attack you.
+
+Once he does, you have to change your strategies. Keep the first 3
+doing the same thing as before. The nymph, now out of Whirl ability,
+should Cure the character that needs it the most. Dad should wave
+the heal wand. It should preserve your party for the 8-10 rounds
+needed to finish off this one. When it is done, Apollo will explode.
+Your dad must be alive at this point, along with one other party
+member, or your party will perish.
+
+When you have won, examine your father. After a short interlude,
+he will be alive, and Isis will be in your party. Return to the
+final town. By 4-5 tents, and return to the palace. Go through the
+door that is behind where Apollo was standing, and enter the
+Central Shrine.
+
+CENTRAL SHRINE
+
+Important note: You cannot run from any battles at this point. Don't
+waste a round trying to do so. Isis' flare is very effective, but it
+should be saved for trouble situations, since there are only 5
+charges. You can run from Haniwas, however.
+
+The direction is straightforward. Down the stairs. On the 5th level,
+you will encounter a Tianlung. It has about 1500 hit points, and it
+shouldn't take more than two rounds to end its life. Definitely be
+sure to eat the meat if there is a monster in your party. At level 7,
+the paths will split. Stay on the middle path. At the end of level 8,
+you fight some Fenrirs. Save before fighting this monster! If there
+are enough of them, and they all cast the Tornado spell, they will
+wipe out your party! Also, have Isis with at least two Flare abilities
+left. 2 rounds should be enough. Eat its meat at the end.
+
+Now you are in the security area. Isis' directions of up and to the
+left are pretty accurate. When you get there, go left through the
+first two intersection. Turn up, and turn left at the next two
+intersections. Follow the path. Next intersection go up, then
+turn immediately to the left. Go up at all future intersections,
+and you will reach the Arsenal. Isis will ask if you are ready.
+
+Answer No, and use a tent. Get all the weapons you will need ready,
+then go forward again. Answer yes, and enter the final battle.
+
+There are two waves:
+
+Cannon wave: Female human       Laser pistol
+             Male human         XCalibr
+             Mutant             Psi Pistol
+             Monster            (Most powerful attack)
+
+Smasher wave:	Same, but have the mutant wave the heal wand if needed.
+Change it to every round once the Smasher is being launched. Then, use
+your big weapons (Glass sword, Nukebomb, Hyper cannon) until they run
+out.
+
+Enjoy the end of game movie.

@@ -1,0 +1,390 @@
+======================
+FINAL FANTASY LEGEND III
+======================
+
+BOSS STRATEGY GUIDE
+-------------------------------
+
+This FAQ may only be reproduced electronically.  You may NOT
+modify or change this FAQ in any way. If you want to use this FAQ
+on your web site, ASK ME FIRST. You can only use it on your web
+site, and that's it.
+
+
+	        Final Fantasy Legend III
+	   Boss Strategy Guide Version 3.5
+	Copyright 1999, XSceptor@aol.com
+
+                              -September 9, 1999
+
+Contents
+--------------
+A. Introduction
+B. Revision History
+C. Boss Strategies
+  1. Waterhag
+  2. Lara
+  3. Dogra
+  4. Ashura
+  5. Chaos
+  6. Maitreya
+  7. Fenrir
+  8. Guha
+  9. Dahak
+10. Jorghandr
+11. Argon
+12. Balor
+13. Sol
+14. Xagor
+D. Credits
+
+A. Introduction
+////\\\\////\\\\////\\\\////\\\\////\\\\////\\\\////\\\\////\\\\////
+* In the strategies I will give information on Bosses HP, what attacks
+they use, what they are strong against, what attacks you should
+use, and what level you should be at.
+* Recommended Level:  Level at which I recommend your party members
+are at in order to have a good battle.
+* No Chance:  Any level lower than this and your party will have little or
+no chance of winning the battle.
+* para--paralysis	dark--blindness
+  pois--poison		mute--lost voice
+  slp--sleep		curs--curse
+  conf--confusion
+\\\\////\\\\////\\\\////\\\\////\\\\////\\\\////\\\\////\\\\////\\\\
+
+B. Revision History
+    Version 1.0--First version of the guide.  Still some mistakes
+     to fix.
+
+     Version 1.5--Corrected weapon recommendations for the last
+     3 bosses.  Added a note at the end of Sol.  Changed magic
+     recommendations for Xagor. Changed Level recommendations
+     of some bosses.
+
+    Version 2.0--Corrected HP for some of the bosses. Changed the
+    location of Dogra.  Added a note at the end of Guha. Updated the
+    strategy for Fenrir.  Changed strategy for Xagor.
+
+    Version 2.5--Added a note at the beginning of Sol. Once again
+    changed the level recommendationsof some of the bosses.
+    Updated information in the credits section.
+
+    Version 3.0--Changed HP for Xagor. Once again (hopefully for
+    the last time) changed the level recommendations of the last 3
+    bosses. Changed some information in the legal and credits section.
+
+    Version 3.5--Well, I ONCE AGAIN had to change the level
+    recommendations for some of the bosses. (People keep sending
+    me E-Mail telling me how they defeated Xagor on a lower level
+    than what I have recommended.)  The levels that I have listed
+    will make it so that the battles are not extremely difficult (i.e. so
+     it doesn't take 15-40 minutes to complete the battle). Some of
+    the people that sent me mail said that they beat Xagor on level
+    28. Not only is this nearly impossible (4% chance of victory), but
+    the battle could last up to 45 minutes (that is if you survive the first
+    10 minutes).  So please, stop mailing me about Xagor. I wouldn't
+    mind if you mailed me about another boss, but I've had enough of
+    Xagor! Oh yeah..almost forgot, I added a note at the beginning of
+    Balor which recommends you to be equiped with Ribbon.
+
+
+****************
+C. Boss Strategies
+****************
+
+1. Waterhag--blocks the entrance to palace after you have found U-Past
+            HP--about 480
+This mini-boss isn't too tough to beat.  He really has no
+strong attacks, but he can damage you if you take too long to defeat
+him.  When you fight him, let your mutants use their magic, like
+Fire1 or Ice1.  Your humans should use their swords like long or battle.
+Recommended Level: 6
+No Chance:  3
+
+2. Lara--found in SE Cave in the Past
+            HP--430
+Lara isn't too hard.  Her strongest attacks are Lit1, Venom, and Fire1.
+You should use Ice1, Aero, and Fire1.  Most white magic has no
+affect.  Your humans should use Battle, or Long.  For your mutants
+you can also use the Bronze or Gold canes.
+Recommended Level: 8
+No Chance:  5
+
+3. Dogra--found in the room after the room you fight Lara in.
+            HP-- ~3,060
+            Witch--190 HP
+            Witch--190 HP
+Dogra is considerably tough to beat.  On either side of him, you must
+also defeat a Witch.  Fight the Witches as normal enemies.  Dogra will
+use Windup which causes 10-200 damage (quite a range!), D-Beam which
+causes 50-100 damage, Stench which lowers the defence of the entire
+party, and Bite which causes 50-100 damage. He is strong against
+pois, dark, mute, stone, conf, and slp.  For weapons you should use
+Battle, Long (Not too good), and the Gold Cane.  If you have Kick for a
+Beast or Monster that works well too.  For magic you should use Fire1
+which causes 50-100 damage, Ice1 which causes 50-100 damage, and
+Lit1 which causes 50-150 damage.  Use curative items as needed.
+Recommended Level: 10 or 11
+No Chance: 8
+
+4. Ashura--found at the end (top) of South Tower.
+            HP-- ~3,600
+Considerably touhger than Dogra. His strongest attacks are Fire1 which
+causes 100-200 damage, Punch which causes 80-200 damage, and Gaze
+which causes para.  He strong against pois, fire, conf, slp, dark, and mute.
+On either side of him there is a Warrior, which each have about 200 HP.
+Defeat them with whichever weapons you want.  To defeat Ashura I suggest
+you use Lit1 which causes 200-400 damage, Ice1 which causes 10-100 damage,
+and Aero which causes 20-70 damage.  Use curative items as needed.  For
+weapons I suggest you use X-Plane Cane which causes 70-250 damage,
+B-Jack which causes 50-150 damage, and Battle or Silver which both cause
+100-175 damage.  Other various weapons can do good amount of damage, but
+the ones I have listed are the ones that deal out higher damage to Ashura.
+Recommended Level:  14
+No Chance:  10
+
+5. Chaos--found at the end of Chaos' Castle
+            HP-- 4,020
+His strongest attack is Quake which causes 30-150 damage to all party
+members.  He also uses Headbut which causes 50-100 damage, StoneGaze
+which turns one member into stone, and Crash which causes 100-200 damage.
+(Crash may seem stronger than Quake, but Quake is stronger because it affects
+all party members.)  He is strong against slp, conf, dark, pois, mute, and
+stone.  You should use X-Plane Cane which causes 50-150 damage, Battle
+which causes 50-100 damage, and Gold which causes 50-150 damage.
+For magic you should use Ice1 which causes 100-300 damage, Aero which
+causes 100-150 damage, Lit1 which causes 200-400 damage, and Fire1
+which causes 150-300 damage.  You should use curative items as they are
+needed during the battle.
+Recommended Level:  15
+No Chance:  11
+
+6. Maitreya--found at the top (end) of Maitreya's Tower.
+            HP--6,100
+Maitreya is much harder than any bosses you have faced before her.
+(In the game they call Maitreya a 'he', but it looks like a 'she' to me!).
+On either side of her there is a Lamia which each have about 500 HP. Defeat
+them with which ever weapons you want.  They both use and attack called tail
+which can harm your party members if you don't kill them right away.  Maitreya
+uses Aero which causes 100-300 damage, Cyclone which causes 50-100
+damage to all party members, Stench which lowers the defense of all party
+members, Ice2 which causes 100-300 damage to one; or 50-100 damage to
+all, and Lullaby which puts a member to sleep.  Maitreya is strong against
+stone, para, mute, slep, and tornado.  To defeat her(him?) you should use
+Ice2 which causes 100-300 damage, Fire2 which causes 100-300 damage, Lit1
+which causes 150-300 damage, quake which causes 100-300 damage, and
+Spark which blinds her(him?).  For weapons you sould use X-Plane Sword which
+causes 100-250 damage, X-Kick which causes 150-350 damage, and Tomahawk
+which causes 100-200 damage.
+Recommended Level:  18 or 19
+No Chance:  15
+
+7. Fenrir--found in the maze above the village which is to the left of Darius.
+            HP-- ~8,100
+Fenrir first starts off with an unexpected attack which can damage your party
+if you aren't well defended.  Some of his other attacks (not unexpected) are
+Lit2 which causes 200-500 damage to one or 50-150 damage to all.  He uses
+Flood which causes 150-350 damage to all, 2-Tusks which causes 200-450
+damage, Kick which causes 150-300 damage, and Riddle which confuses
+one party member.  He is strong against dark, mute, conf, slp, para, and stone.
+To defeat Fenrir you should use Fire2 which causes 250-500 damage,
+Ice2 which causes 150-500 damage, Lit1 which causes 100-350
+damage, and Quake which causes 150-300 damage.  For weapons you
+should use X-Plane Sword which causes 150-300 damage, X-Fire Cane which
+causes 175-350 damage, Dragon which causes 100-250 damage, and Smother
+which causes 200-450 damage.  During this battle you may need to do quite a
+bit of curing.  You should cure with Cure2 or Cure3.  You should use Heal to
+cure any status ailments that may occur during the battle (i.e. confusion).
+Recommended Level:  23
+No Chance:  18
+
+8. Guha--found at the top of Mt. Hasid
+            HP--10,100
+Guha has some pretty damaging attacks.  If you aren't careful with how you
+fight this battle, Guha could kill your party.  One of his most damaging
+attacks is FireX which causes 200-450 damage to all party members.  He also
+has WindUp which causes 250-400 damage to one, Fluid which poisons all,
+Sneer which causes 100-300 damage to one.  He alos has a defensive move which
+he may use sometimes, which allows him to take about half the damage from your
+attacks for a turn or two.  He is strong against para, stone, mute, dark, slp, conf
+and curs. To defeat this monstrosity (he really is very ugly), you should use
+Fire2 which causes 250-500 damage, Ice2 which causes 200-500 damage, Lit2
+which causes 300-600 damage, Quake whcih causes 200-400 damage Jyudo
+which causes 300-500 damage, X-Fire Cane which causes 250-500 damage,
+and Dragon which causes 200-400 damage.  You should cure with Heal, and/or
+CureA.  It is also a good idea to use Wall on some of your members a few times
+to help raise their defense so they have a better chance to ward off some of the
+damage dealt by some of Guha's most damaging attacks.
+Recommended Level:  25
+No Chance:  19
+**Note--When you defeat Guha, check the chest he leaves behind. It
+    contains the Durend.
+
+9. Dahak--found in Ruins SW of Cape Frost.
+	HP--16,300
+This battle can be very frustrating at times.  First off, his most damaging
+move is Shake which causes 70-300 damage to all.  He also has Gaze which
+paralizes one party member, Nail which causes 300-800 damage to one, and
+Swallow which abosrbs HP from all, and causes 300 damage to one; or 100 damage
+to all.  He is stong against para, dark, stone, slp, curs, conf and pois.  For
+this battle you should use Weak which causes 200-400 damage, Quake which
+causes 200-400 damage, Ice2 which causes 350-500 damage, Fire2 which
+causes 300-500 damage, and Lit2 which causes 400-700 damage.  For weapons
+you should use Jyudo which causes 300-500 damage, X-Fire Cane which causes
+350-600 damage, Rune Axe which causes 300-500 damage, and Durend which
+causes 900-3000 damage.  Durend is obviously the weapon that does the most
+damage to Dahak.  Two good things to use during this battle are Wall which
+will allow you to repulse one of Daka's magic attacks, and Mute which will
+prevent Dahak from using magic.  Cure with Cure2, Cure3, and Heal. A few
+times during the battle you should just cure you members even if they don't
+have a lot of HP gone because Dahak can surprise you with some very strong
+attacks.
+Recommended Level:  28
+No Chance:  21
+
+10. Jorgandr--found in the Sandstorm in Pureland
+	HP--4,000
+Jorgandr is more like a mini-boss than an actual boss. There is one bad thing
+about him, though, he is strong against EVERYTHING!  So, how do you beat
+such a creation?  Well, first I should tell you what his attacks are.  He uses
+Crash which causes 300-500 damage, Bite which causes 500-700 damage,
+Sand which lowers the agility of the entire party, and Disslove which absorbs
+HP from the entire party and causes 10-150 damage to all.  All magic affects
+him about the same, but Lit2 hurts Jorgandr the most causing 100-300 damage.
+The best weapon to use against him is Durend which causes 800-1100 damage.
+Cure with Cure2 or Cure3 and Heal.  With 4,000 HP, Jorgandr is not as easy
+as he seems!
+Recommended Level:  28
+No Chance:  20
+
+11. Argon--found in Eastern Ruins after you make it through the Underworld
+	HP--28,000
+The first extremely tough battle in the game. He starts off with an unexpected
+attack, which can cause anywhere from 400-900 damage.  Other attacks
+include White which causes 350-600 damage, Acid which causes 400-800
+damage, Silence which prevents one member from using magic, StoneGas
+which turns one member to stone, and a Defensive move which cuts the damage
+taken by an attack by two-thirds.  For magic you should use White which
+causes 600-850 damage, Nuke which causes 600-850 damage, Flare which
+causes 700-900 damage, Lit2 which causes 300-400 damage, LitX which causes
+700-800 damage, Ice2 which causes 300-500 damge, Shake which causes
+600-700 damage, Magma which causes 700-850 damage, Virus which causes
+600-800 damage, Flood which causes 300-500 damage, and FireX which causes
+400-600 damage. Use LifeA or LifeB to revive fallen members, CureA or CureB
+to heal members, Wall, and Fast.  For weapons you should Use Xcalibr which
+causes 900-3000 damage, Karate which causes 500-700 damage, Durend
+which causes 800-1100 damage,and Nuke (the explosive) which causes
+1500-2000 damage depending on you current level.  DO NOT use the
+Muramas Sword, because it will damage you after every attack.
+Argon is strong against dark, pois stone, slp, para, mute, and conf.
+But he IS vulnerable to curs.
+Recommended Level:  34
+No Chance:  29 (you can barely get through on Level 28)
+
+12. Balor--found in Xagor's Palace, after you have found your way
+through the trap hole and electric room.
+            HP-- 34,000
+*Note: Make sure you have Ribbon equiped to your four main
+characters before this battle. It will nullify any effect of DK-Virus.*
+This boss is TOUGH.  I must first tell you that his most dangerous
+attack is his DK-Virus.  It affects all party members, and it can cause
+mute, para, dark, conf, poison, and sleep, and any combination
+of 1 or more of any of these!  It is VERY difficlut to revive your
+party from this attack.  I would first recommend that you have plenty
+of Cure2, Cure3 and any other curative spells or items.  Besides his
+DK-Virus he has Tail, which causes 600 damage to one character.
+He also has Beam which causes 400-700 damage to one character,
+Magma which causes 200-400 damage to one or all characters, and
+Nuke which causes 500-700 damage to all characters.  For your weapon
+attacks, I suggest you use Xcalibr which causes 950-3000 damage,
+Emperor which causes 900-2000 damage, Masmune which
+causes 800-2500 damage, and Nuke (the explosive) which causes
+1500-2000 damage dependng on your current level.  For magic I
+suggest you use Flare  which causes 700-900 damage, Virus which
+causes 600-800 damage, Nuke which causes 600-800 damage, and
+White which causes 600-700 damage.  I should also caution you that
+he is strong against fire, ice, tornado, quake, thunder, mute, dark,
+slp, para, stone, curs, and pois.  I will tell you this--it was tough to
+beat Balor, and all of my party members were at level 59.
+Recommended Level: 43 (the higher the better!)
+No Chance: 37
+
+13. Sol--found at the top (end) of Xagor's Palace
+            HP--39,000
+*Note--Before you begin the battle with Sol you should use a Tent
+to fully heal your party members, because the battle with Xagor
+comes _immediately_ after the battle with Sol.*
+The good thing about Sol is he doesn't attack you!  You should use
+Xcalibr which causes 1000-3100 damage, Emperor which causes
+1050-2000 damage, Masmune which causes 1000-2500 damage,
+and Nuke (the explosive) which causes 1100-1900 damage depending
+on your current level. For magic you should use FireX which causes
+550-650 damage, Virus which causes 600-800 damage, White which
+causes 650-900 damage, Flare which causes 800-1000 damage, and
+Shake which causes 600-800 damage.  You should also use Fast to
+boost the attack power of your party members.  There is no need for
+any curative items since you receive no damage!
+Recommended Level: 43
+No Chance: 38 (this really doesn't apply since you take no damage)
+
+14. Xagor--appears after you have defeated Sol
+            HP--50,000
+The final and TOUGHEST boss in the game.  Near the beginning of the
+battle he will use Barrier which will decrease the damage he takes from
+each attack by about 250.  His most damaging attack is DK-Force which
+causes 900-1900 damage to one character.  To revive from this I recommend
+you use LifeB or LifeA (a couple curative items should be used after LifeA
+is used to help fully restore HP), or CureB or CureA if your party member
+hasn't died. His second most damaging attack is Flare which causes 600-900
+damage to all party members.  He also uses LitX which causes 300-600
+damage to everyone, and Magma which causes 500-700 damage to all
+or one.  He is strong against fire, ice, wind, thunder, dark, mute, slp, para,
+pois, stone, conf, and quake.  Near the end of the battle he defends himself,
+and oddly enough he is no longer strong against fire, ice, or thunder. For
+this battle, I recommend that you use the four Mystic Swords.  The best
+one is Xcalibr which causes 900-3500 damage.  You should also use Nuke
+(the explosive) which causes 700-1800 damage depending on your current
+level. You can also use Ninja which causes 100-300 damage.
+For magic I suggest you use:
+Flare which causes 500-800 damage, Nuke which causes 400-600
+damage, Virus which causes 400-600 damage, Shake which causes
+200-500 damage, White which causes 400-700 damage, and LitX
+which causes 300-600 damage.  A few times during the battle you
+should also use Fast.  It is also a good idea to use Wall a few times on
+weak party members, because it will allow them to repulse any attack for
+one turn!  After 7,200 damages have been dealt to Xagor, the Talon will
+attack Xagor for 550 damage at the end of every turn.Use curative items as
+much as you think you need to.*Note-If you have an Anubis in your
+party, then use the skill Numb. It will gradually decrease the damage your
+party members take from Xagor's attacks.*When you defeat Xagor then.....
+Congratulations--you have beaten Final Fantasy Legend III !!
+(*Note: Near the end of the battle when he becomes weak against Quake,
+Thunder, Fire, and Ice; LitX will work better, and Magma will also work well.)
+Recommended Level: 45 (the higher the better!)
+No Chance: 36 (Level 36 may be the absolute lowest level that you can
+be at and still defeat Xagor. It still may be possible to defeat Xagor on a
+lower level, [If you have VERY strong magic and weapons] but I HIGHLY
+doubt it.)
+
+**Please Note:  The reason some of the damage listings have such a large
+range (i.e. 900-3500) is because levels of party members vary, and it is hard
+for me to tell what the damage would be for a certain attack for every level of
+every character.
+**Also Note:  Some of the higher damage listings (i.e. 3500) were registered
+as Mighty Blows.  Most of the higher numbers in the damage ranges are
+Mighty Blows.
+**Final Note:  All of the suggestions I have listed for weapons and magic to
+use are_only_suggestions, but I strongly suggest you to follow them, because
+the weapons and magics I have listed are the ones which seemed to work best
+against the bosses.
+
+=======
+D. Credits
+=======
+All of the information in this FAQ was created by me, and I would appreciate
+it if you did not use the FAQ on your site without my consent.  If you want to
+use this FAQ for any reason other than to add it to a web site, then you are
+not allowed.
+
+Thank You for reading my FAQ!

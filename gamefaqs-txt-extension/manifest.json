@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "GameFAQs Guide to TXT",
+  "version": "1.0",
+  "description": "Adds a button on GameFAQs FAQ pages to download the guide as a .txt file.",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://gamefaqs.gamespot.com/*/faqs/*",
+        "https://www.gamefaqs.com/*/faqs/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

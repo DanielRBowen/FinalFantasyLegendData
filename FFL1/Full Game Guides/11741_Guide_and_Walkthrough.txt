@@ -1,0 +1,699 @@
+Walker Boh's guide to
+Final Fantasy Legend on Gameboy
+Author: Walker Boh
+Real Name: Bryan Peterson
+E-mail: b-peterson@earthlink.com
+Final Fantasy Legend Technical Data:
+Name of game: Final Fantasy Legend
+Platform: Gameboy
+Medium: Cartridge
+Number of players: 1
+Genre: RPG
+Save Ram: Yes
+Number of Save Slots: 1
+     What's in This Faq?
+1. Legal Mumbo-jumbo
+2. 2. Intro
+3. 3. Controls and The Menu Screens
+4.      Walkthrough Sections
+5. 1. World 1
+6. 2. World 2
+7. 3. World 3
+8. 4. World 4
+9. 5. The tower and Ashura
+10. 6. The final Battle
+11.      The Lists
+12. 1. Weapons
+13. 2. Armors
+13. 3. Items
+4. Spells
+In Closing: Comments and E-mail Disclaimer
+18.      Legal Mumbo-Jumbo
+19.   This document is the property of me, Walker Boh. I am writing
+this for the benefit of you RP-Gamers out there who are fortunate
+enough to possess this excellent game. If you want to write your
+own FAQ and use my style, you are free to do so, just don't copy
+me word for word. That's illegal and I will take action, and if
+you happen to be a contributor to Gamefaqs, you stand a very good chance of
+getting all your current and future submitions pulled from the site. In short,
+don't try anything funny. Also, this cannot be used for any profitable purposes
+unless you split the money with me, (just
+kidding about that last part.) The consequences for this are the same as they
+would be if you were caught violating those laws
+that protect movies. You can go to prison for selling something
+of someone else's and claiming it's yours. Note on E-mails: I'm generally cool
+with E-mails, but there are some rules. First off, no flames will be tolerated.
+If you have a problem with the way I write, tell me in a polite, inteligent way.
+Then perhaps I'll take your suggestion into consideration. No flames will be
+tolerated. If I choose not to reply to a flame, consider yourself lucky. Also,
+I won't accept file attachments. Now that that's out of the way, let's get onto
+the FAQ.
+     Intro
+  Before we start, I'm going to tell any beginners out there some
+of the things about this game, (and yes, despite my saying
+earlier that it's an excellent game, it does have its flaws, and
+that's what I want to point out here.) Hopefully you've played
+RPG's in general, so you'll know the basics. You buy weapons,
+armor, and curative items, (and in this case, spells). Most RPG's
+are like this except that usually you learn spells naturally.
+Unfortunately, FFL has one major flaw in its weapon system. When
+you equip a weapon, (and yes you have to equip it, it doesn't do
+it for you), you'll notice a number beside its name. When you use
+a weapon, (and there are few exceptions to this rule), that
+number decreases. For instance, a Long Sword has 50 uses at the
+start, and it decreases as you use the weapon. Once that number
+reaches 0, you can't use that weapon anymore and have to buy a
+new one. This can get you stuck in a kind of catch-22 situation
+if you aren't the type of person who can hold onto your GP. If
+you are low on gold, you have to fight to get more, and it's a
+little hard to fight when you've got no weapons, wouldn't you
+say? I think this is part of the reason why people who don't like
+the game don't like it. Also, unlike other RPG's, in FFL each
+character has 3 lives like in an action game. This means that the
+character can only be revived at a House of Life 3 times. After
+that you will need to buy Hearts, which are rather expensive. You
+can still use the revive item to restore a dead ally, but you
+cannot go to the Houses of Life. As has already been said, you
+will need to buy Hearts.
+     Controls and The Menu Screens
+  Here are the controls to the game.
+Directional Pad: Moves character on game screen or cursor
+in menu screen.
+ A button: Talk to people, execute command when in menu screen.
+B button: Cancels last command when in menu screen.
+Start: Brings up the menu screen.
+Select: Brings up the Altar Order. This is where you can
+change the arrangement of your party. I strongly recommend
+putting the weaker characters in a position where the stronger
+ones can protect them. You can do this in one of two ways that I
+know of. First, you could put the weaker ones in the back.
+Second, you could put the weak ones in between the strong ones.
+Just make sure the weak ones are protected, since this game plays
+in such a way as to make the weak ones the ones with the best
+abilities.
+     The Menu Screen.
+  The Menu Screen is divided up into several sub-menus. Below is
+the list of them and what each one is.
+Abil: Allows you to access the abilities of each individual
+character. If you need to heal but don't want to use potions, this will allow
+you to save your ass!
+Item: This is where all that stuff you find in the treasure boxes goes. You use
+items here.
+Equip: Allows you to equip weapons, armor and spells. Note: The process of
+equipping items seems a little complicated to me.
+I always found that I had to double-click on a weapon first in
+the items menu before it would even show up in the Equip screen.
+If anyone knows the real scoop on that, please let me know.
+Save: This is a very inportant feature in any RPG. It lets you save your game.
+  I think that's about it for menu screens that come up when
+not in battle.
+     Battle Screen
+  This comes up when you enter a fight, and you have
+two choices, Fight or run.
+Fight: This is how you rake in the dough. When you select
+Fight you will then get to choose from any of the items you have
+equipped. Then it asks you who you wish to use the item on. It
+does this for all four characters, and then the fighting starts.
+Run: This is also useful, but as in any RPG, it won't
+always work. Also, you shouldn't do it if you need money. Do this
+only if you are low on HP or supplies, and you can't run from
+bosses with one exception. The only boss you can run from is Su-Zaku before you
+neutralize his forcefield
+     Walkthrough
+  Note: It's been a while since I last played this game, and
+so I remember some areas in the game more than others. So, If I
+get more specific about one area than I do another, this is the
+reason why. Still, I'll try to be as specific as possible.
+     	World 1: At the Base of the Tower
+  You start your adventure just outside of a small town. Note: You're all
+alone, so I wouldn't fight anything other than goblins, as you're not likely to
+be very strong. Also note: For beating this game I
+would recommend a party of two humans and two mutants.
+  Anyway, When you're ready, head into town and talk to the people.
+You'll notice a door here that you cannot open, and whenever you
+try to do so it says, "Door is locked by magic of black." This is
+for a little later in the game and you can't open it yet. Anyway,
+explore the town and you will eventually find the guild. Here's where you pick
+up your other party members. Once again I suggest a party of two humans and two
+mutants, but of course it's your choice. However, I will be basing the boss
+strategies on the assumption that you went with my party. If not, feel free to
+experiment for yourself.
+  After you've got everyone you want, it's time to go out and make some money.
+     The Town of Hero
+  This town lies to the Southeast of what I will refer to as Base
+town, (where you started). When you enter you'll see an
+impressive-looking statue. Talk to it and one of your characters
+will notice that something is missing. Talk to everyone in town to learn the
+quest in this world. It seems that there are a number off items which once
+adorned the statue, but these have been stolen by three kings who are fighting
+for control of the world, which can only be attained through
+acquisition of all three items. The King Items are: A sword, a
+shield, and a suit of armor. Your quest is to find them all and
+put them back on the statue. After investigating, fight around
+town if you need cash, then go to the shops and outfit yourself
+with whatever yu think you may need. Note: Do not give spells to
+humans. For some weird reason, humans  can be equipped with
+spells but can't use them effectively. Anyway, it's time to go to the castles
+and get the items. Note: I don't remember the exact locations of all three
+castles, but the ones which contain the Armor and Shield are near the town of
+hero. If you go into a castle and the music changes, get out quick. You're
+not ready for it yet. Here is the order in which you should get the King Items.
+     Castle of Armor
+XLVI.   Here, you will learn that the king wants to talk to you, so
+head to the second floor of the castle. The king doesn't look so well, and when
+you talk to him you learn why. It seems that he was rejected by a girl he was
+in love with. So, head to South Town to investigate.
+
+     South Town
+  When you get here, talk to everyone and eventually you'll find
+the girl. She'll tell you that the Bandit King threatened to
+destroy the village if she didn't accept his proposal. Another
+person in town will tell you that the bandit lives in a cave to
+the west, so go there. Note: Remember to pick up a few bows and
+some spells in Hero before coming here, you will need them.
+     Bandit Cave
+  This dungeon's fairly easy, just explore it thoroughly and you'll
+eventually find the boss, and hopefully collect some gold. Also,
+you'll notice a door here that just won't open. Never fear! Come
+back after defeating the boss and the treasures contained within
+are yours.
+     Miniboss Battle: P-Frog HP: 82
+  This battle will be very easy. The only thing you should never do is attack
+this boss with a handheld weapon such as a sword, hammer or rapier. This
+results in a poison status. Fortunately, though, This only lasts until the
+battle is over. Use bows, and if you have any, use Fire and Ice magics, both
+work pretty well. This guy will be gone in no time.
+  After the battle,  the bandit pleads for you to spare him and then
+runs off. Now you can go back there to that door you couldn't
+open before and get some very useful items. Note: I think you
+find a Strong and an Agility potion in two of the chests. Those
+can only be used on humans, and permanently boost agility and
+strength. I believe you'll also find a piece of armor in there as
+well. If so, equip it on whomever can use it and get out of there.
+     Castle of Armor (revisited)
+LV.   Go back to the king and he'll give you a reward, and yes, the
+reward is the King Armor. For now, equip it on someone and get
+ready to get the powerful King Sword, which unlike other weapons
+in this game, has unlimittted uses.
+     Castle of Sword
+  I myself don't remember where this castle is, but someone
+in one of the towns will tell you where it is. Go there now.
+  This castle is tough, since the monsters get stronger within. Now do you see
+why I told you earlier that you weren't ready yet? Whatever you do, don't talk
+to any of the guards unless you're looking for a fight. They'll more than
+likely be Karateka, which can do a lot of damage with their Kick attack, and
+they come in packs of 3 to 5. Fire
+works well on them but it's hard to get in an attack on them, so
+be careful. Eventually you will see the king, who tells you that
+you must defeat him first if you want his sword.
+     Miniboss Battle: King Sword HP: 120
+  This battle can be very tough. I've never had him kill me off
+before but he has come close on several occasions. Be careful, he
+does a lot of damage with the very sword you need to get from
+him. If you bought it in Hero, use sleep, which may not always
+work but will make the battle a lot easier when it does. Once
+he's asleep, you can whack him all you want. Fire works very
+well, (in fact I seem to remember using only one blast on him and
+taking him out). If you have no magic though, this battle will be
+hell, let me warn you!
+  After the battle, you'll receive the powerful King Sword. Just watch how
+easily it takes out those monsters!
+     	Castle of Shield
+  This was that castle where the guards threw you out if you
+entered earlier. They'll still do it, but now you'll notice that the king is
+dead. The steward killed him and hopes to frame you for the murder! He will
+send two Asigaru and a skeleton after you. This battle is pitifully easy. That
+King Sword will reduce the biggest of baddies to dust.
+  After the battle, the steward gets all cowardly and runs away. Check the
+first or second space on the wall to the right of the throne, (I
+forgot which one specifically), and you'll see a secret door.
+Enter and you can now bring the traitor to justice! This battle is just too
+easy! It's not worth making a separate section for it. Use the King Sword once
+and he'll die.
+  After the battle, you will receive the last King Item, the Shield. Now let's
+be a good little adventurer and take these nifty little
+toys back where they belong. Awwwww, I was hoping I could keep 'em. D'oh!
+     Town of Hero (revisited)
+LXXII.   Heal up at the inn if necessary, then walk up to the statue
+and unequip the King Items. To replace them, double-click on each
+one in the items menu and it will be put on the statue. After
+they are all replaced you can get the Black sphere. Get it and
+save your game if you want, then try to leave. Time for the first real boss
+battle!
+     Boss Battle: Gen-Bu HP: 150
+  Yeah! It's the true boss theme! Ain't it great? Anyway, this battle is
+incredibly easy. Gen-Bu uses spells like Shell, (which will protect him against
+attacks to a certain extent), and Gas, which damages all party members. He will
+also attack with tusk, so be ready to heal if you feel you need to. Fire works
+very well, causing about 108 damage on average.
+  After the battle, Gen-Bu leaves, but not before telling you that you'll see
+him again. Now it's back to the Base Town!
+     Base Town
+  You won't be coming back here for a very long while, so if you need anything
+from any shops in any of the three towns of this world (HP, Strong, and Agility
+potions and such), now's the time! You could actually come back a little later,
+but why wait till later when the battle with Gen-Bu netted you a
+whole 900 GP? I knew you'd see it my way. Anyway, go to that
+locked door I told you about earlier and use the Black Sphere.
+The seal will be broken and you can enter the mysterious tower.
+Congratulations, you've completed the first world!
+
+     Tower To Paradise
+  This place is complex, even though there really are no puzzles you
+have to solve. It's just extremely confusing. Just explore and pick up a
+treasure now and then. I believe one of them contains a Colt gun, which is a
+good weapon for this point in the game. It does quite a bit of damage. Anyway,
+the tower has a lot of little sub-worlds, some of which even have a little
+quest to them. On this level of the tower are two such worlds that I know of,
+but neither seems to have a point. You'll know when you've reached the next
+true world because you'll see a little dude who tells you
+to look for the old man. You'll see him at times on your quest,
+usually right before transitioning to another world.
+     World 2: The Ocean Castle and the Blue Dragon
+  Here, people will start to tell you about how Sei-Ryu
+banished Ryuo and such. One person will also mention that they saw an island
+sailing like a ship. Both of these things are very
+important, so remember them! If you want, and if you have the
+cash, buy new armor and weapons and spells. You may also want to
+buy some stat-boosting potions as well. Note on weapons: Don't
+get the Coral Sword. I've never gotten good damage out of it, so
+it's not worth it. Anyway, once your all buffed up as much as you
+want, head out and start exploring. This world is divided into
+islands, and many of these are connected to one another by caves.
+You'll need to use these to get some of the equipment needed for
+beating this world. Be careful of pirates in the caves, as they
+will steal gold, and no, you won't get it back. It'll be as if
+you killed the pirate without his ever having stolen from you.
+Anyway, now you should be searching for your ship. Go from the
+Port town through the North Cave and you should come out near
+another cave entrance. Enter this cave and go through it. The
+island you want is the top one on the west coast of where you
+just came out of the cave. It may take a little while to find it,
+but keep trying and you will.
+  After you get the island/ship, you can head to East Village and
+upgrade, then it's time to head to Palm Tree Island. This Island
+I believe is in the Southeast, but you can easily recognize it.
+It's got palm trees on it. Go to the center of the island and
+press A while standing before the palm tree to find the Airseed (I just love
+the item fanfare in this game). Now the fun starts.
+     The Underwater Town and Castle
+  To find the entrance to the Underwater world, Go to the whirlpool located
+near the Northwest corner of this world and enter it. Note: If you try to do
+this without the Airseed, you'll just come back up screaming, "I can't breathe!"
+  Anyway, the underwater town shouldn't be too hard to find, and when you get
+there, talk to everyone for
+some crucial info which you MUST remember. Also, this would be a good time to
+buy whatever you may need. Now it's time to head to the Sea Palace, which I
+believe is southeast of the Underwater town, (but of course I could be wrong.
+It's been a while since I've played this game.) Anyway, when you find the
+castle, explore it carefully for some needed items, like the blue key. Don't
+let the music fool you either, you can get attacked at random in here
+just like any other dungeon. Anyway, you'll ultimately come to a room full of
+orbs. This is where the Red Orb is, but which one is it? Remember what the
+person in the Underwater village told you? You better! Go to the top right hand
+corner of the room. The Red Orb is two down and two left, but someone's not
+gonna be too happy that you took it!
+     	Boss Battle: Sei-RyuHP: 633-650
+  This battle can be pretty tough. Sei-Ryu uses attacks like
+Bite and Strict. Use spells, (I can't remember which ones
+specifically, so you'll have to experiment.
+  	After the battle, you get the Red Sphere. Wait a minute, weren't you
+supposed to get the Blue Sphere from the Blue Dragon? As you can tell, your
+business in this world's not over yet
+     South Island and a mysterious riddle
+  The Island you want to get to is small and has a hut in the
+middle of it. You have to navigate a kind of maze to reach it. Be careful of
+the sandy patch on this island, it'll warp you back to
+the beginning. Anyway, you will find the old man who will ask you
+a riddle. "What can you get for two Long Swords, Three Gold
+Helmets and four Potions? Contrary to what I tried to do on my first time at
+this part, you do not need to go buying all that. You simply need to do a
+little math. Simply work out how much two Long Swords, three Gold Helmets and
+four Potions will cost. There's just one item whose price matches the answer
+you'll get. It's a Battle Sword, so go buy one from somewhere. Once you have
+it, go back to South Island and talk to the old man to get the Blue Sphere. The
+Red one will vanish from your inventory when you use the blue one. Congrats!
+Time for world 3!
+     World 3: Castle in the Sky
+  This world is a little complicated in that it's sort of
+hard to find out where to go. I do remember this world mostly
+though, so I'll be able to help you. Also notice that this world
+has different music than the others!
+  First thing's first! When you emerge from the tower head West to the Sky
+town.  The citizens will tell you about a hidden town and a resistance movement
+against the fiend Byak-Ko, who happens to need guardsmen. Before you go off on
+your adventure though, (well, you probably know what to do), stock up on
+goodies. Then save. After doing what you need to do, head into
+the pub to buy a few beers! Yeah right. Talk to the guard and a Miniboss fight
+will ensue.
+     Miniboss Battle: Mosquitos HP: ??
+  	This battle is pretty easy, but be warned: the Mosquitos will use the
+Saw ability on occasion.
+  After the battle, you are sent to Byak-Ko. Talk to him and he will hire you
+and give you your first task, which is to find and capture Jeanne, one of the
+daughters of the rebel leader. When you ask a simple question
+about the girl, Byak-Ko gets mad and tells you just to get on with it. He then
+gives you an airship! Woo-hoo! Now you can fly!
+  Near the northeast corner of the World of Sky is a square cloud. That's your
+next destination. Land on the cloud and move clockwise to enter the Hidden
+Town. By new stuff and talk to people. They will tell you that Jeanne has a
+twin sister. Also, you'll learn that the white Sphere can only be retrieved
+when the two girls are together. So if you don't need to boost HP or
+Agility or Strength, Head back to the Floating Castle, which is
+near the Southeast corner of this world. From the castle's top right corner, go
+north to some trees. Leave your ship and enter. The Rebel Base is in the middle
+of this forest. In the bottom right corner of the room, a guard will say it's
+under control. Your characters get a bit pissed and attack. You will
+have to fight a Garlic, Sabercat and P-Worm. This battle should
+be pretty easy. Just use magic and weapons. After the fight, talk
+to the girl. She asks you to save her sister Millie, so head back
+to the Floating Castle.
+  Explore the castle carefully, because one of the chests contains a white key,
+which you will need. Eventually you will come to a room where you must
+fight a guard. After the easy fight you will find the girl. Talk to
+her. Just as you get ready to leave, Byak-Ko appears and tells you that
+he knew all along that you had defeated Gen-Bu and Sei-Ryu. Then Millie
+betrays you and you are thrown in jail. Talk to the other inmates and
+one will say he couldn't break the bars. So walk up to the bars and
+press A a few times. You take care of it with no problems. Go to the
+far east cell and then go north. Note: If you want, you can search the
+bars of the far east cell for the Revenge Sword, but I've never gotten
+good use out of it. Anyway, you will now fight an Imp to gain access to
+the stairs out of here. After the battle, get out of the dungeon.
+  After escaping from jail, you will then have to do some exploring. Eventually
+you'll see a locked door you can't open. Come back later. Actually, the
+key is two floors above you. GO there and  go in the door in the
+northwest corner of the room. You will fight guards for the Jail Key.
+Now go back to that locked door. It leads into a storage room where you
+can pick up some very useful stuff including a Death spell. Now go back
+to the room where you got the Jail Key. GO north and into the door. GO
+south and climb into the one glider that works. Now exit the Jail. You
+should now be just to the west of where Byak-Ko's castle is---or was. Now it's
+hovering over the Rebel Base, which has been destroyed. Head
+into the Floating Castle. Then exit the castle right away and go into
+the clearing where the Rebel Base used to be. Note: I would save my
+game before leaving the castle. You will find Byak-Ko and the twins.
+Byak-Ko will try to kill Millie, but Jeanne steps in and takes the
+fatal thrust, and it's time to put an end to the White Tiger!
+     Boss Battle: Byak-Ko HP: 1000
+This battle should be easy enough. Just use your most powerful attacks
+and he'll be gone, and he'll be mighty pissed about it!
+After the battle the two sisters say their farewells to one another,
+and you will get the White Sphere. Now you can open the next door in the tower!
+Note: If you didn't buy anyting in the shops earlier that you think you might
+need, you're pretty much screwed, because after the battle with
+Byak-ko you will not have access to any of the towns. Time for world 4!
+     World 4: World of Ruins
+This is it, right? the final world? Wrong! Well, yes, it's the last
+true world in the game. You'll come out of the tower in a cavern, and
+you have to make your way to the surface. Here, the only thing you will run
+into is Su-Zaku, your next fiend, and killing him will get you the
+Red Sphere, right? Wrong! It's way too early, and that would be too easy. Just
+run from him, as you probably can't kill him, (only the saw
+will do it and you don't get anything for your troubles).
+  On the surface, talk to people in the towns, and someone called So-cho
+will challenge you.
+Boss Battle: So-cho HP: N/A
+Actually you don't get to kick his ass, and he's not really an enemy. A
+girl will break up the fight and So-cho will give you his bike by way of
+apology. This world's kinda hard, and I don't remember much about
+it. Here's the basics. Whatcha gotta do here is help build a machine that can
+nullify Su-Zaku's forcefield. You need a Board, a Rom, and a piece of Plutonium.
+  The board is in the underground town of Ameyoko, so be careful of Su-Zaku.
+The guy will only give you the board if you get the Rom. That's in the hidden
+town of Akiba, and I don't remember where that is exactly, and you have to find
+a secret door. When you doo find it, go 14 blocks north and 15 east, (I think
+that's it anyway), and you'll find a secret door. Go in to find a Rom and a
+Revive. Then you can get the Board. Then you have to talk to So-cho to go to
+the Power Plant.
+  Once you reach the power plant, Follow So-cho and he'll sacrifice himself to
+allow you to get the Plutonium and the Band Helmet. However, just as you pick
+up the Plutonium, a boss fight ensues.
+Boss Battle: Machine HP: 1500-2000
+Be careful of this guy. If you don't know what you're doing, he'll knock you
+cold. Use fire and fire-based attacks. Don't use Saw, Death or Stone, as the
+Saw will likely miss and the Machine has resistance to Death or Stone.
+  After the battle, you can complete the Erase99. Also note two things.
+First, the music's different. Second, everyone here is dead. So now what's to
+be done? Well, here's whatcha do. Head to the Skyscraper (I don't remember its
+exact location), and you'll be able to collect some useful stuff, such as the
+Hyper Canon. When you feel ready, head to the train. You'll find SU-Zaku here,
+but don't talk to the other guy. He'll tell you where Su-zaku is and then turn
+into an Evil Eye. When you find Su-Zaku, the item screen will come up and you
+must use Erase99 to bring down the forcefield. Then it's time to take care of
+the Red Bird!
+     Boss Battle: Su-Zaku HP: 1500
+This battle can be extremely disappointingly easy. Just use a Hyper on
+him and he'll be gone.  If you don't have Hyper, then just whack him.
+He'll die eventually. Be careful, though, some of this guy's attacks
+will hurt like hell.
+     After the battle, Sakaya will give you the Red Sphere, and now you can
+Leave. Time to head back to the tower!
+    Ashura's Lair
+After all that, you're probably wondering when you get to fight the last
+battle. Don't worry, you're almost there. Ya gotta go find Ashura first.
+  This is probably the hardest part, because you have to locate a secret
+teleporter and it's well hidden. It'll take you to the top of the tower. When
+you do find it, you have to navigate carefully or Ashura will knock you down
+the tower. You have to approach from the side. There are also a
+few important items in the tower, so make sure you find them. One is
+just in a treasure chest and it's the Glass Sword. It's invaluable. The
+other is the 'XCalibur sword, and it's in the keeping of an old man in
+a house in this part of the tower, who'll die after giving you the sword. It's
+not the best though, so you don't have to get it. Anyway, when you reach the
+lair of Ashura, get ready for a difficult battle.
+     Boss Battle: Ashura HP: 3000
+  This is not an easy fight. Don't use the Hyper Cannon, as it won't affect
+him. The Glass Sword and the 'Xcalibr sword work well, and if you have Flare
+you can also use that to cause a goodly amount of damage to him. I don't know
+of anyone with resistance to Flare.
+  After the battle, you can go up the stairs, only to fall down to the
+Tower Base. Dammit! Don't worry, it's where you need to be. And check
+out those weapons! Buy some missiles for a couple of your characters.
+Note: If you've been using Changelings (monsters), up to this point, I strongly
+recommend retiring them and getting some humans or mutants depending on what
+you have. If you already have two humans, get a couple mutants or two more
+humans. I earlier recommended a party of two humans
+and two mutants. Anyway, I'd change my party so they can use weapons,
+as I've never found a changeling ability that works well on the final boss.
+When you're ready, head to the place where the Black door was at
+the beginning of your quest. Now it's a Four Color door, and the
+spheres you collected in your travels will combine together to form the
+key to this door. Note: Go to the Item screen and click on one of the
+spheres a couple times to get it to work. They will combine into one,
+open the door, and then vanish from your inventory. Don't worry,
+though, you don't need 'em anymore.
+     The Final Battle
+  SO now I get to go to the final battle, right? Right! There are four other
+bosses along the way, but they're just the four fiends again. Kick their butts
+as you see fit, (but hold onto the Glass Sword and
+Missiles, as they are needed for the last battle). This tower is
+infested with strong monsters. Fight only if you want to boost your
+mutants' HP and stuff. And if you need to do anything in the town, do
+it before you undertake this tower, since once you enter the final room there's
+no turning back. If you need help facing any of the revived
+fiends, check out my boss guide. At any rate, you've made it! It's the
+end of the game! Congrats! Anyway, there's a little orb in the final
+area when you get there. Press A on this orb to refill HP. Do it until
+you're all full. Then head to the guy in black. If you don't wanna
+fight your way up that tower again but think you might have trouble
+with this guy for any reason, save, keeping in mind that if you ever
+want to leave the only way to do so is by using a Door, which you can
+buy in shops, or the Teleport ability, which I'm not sure if Mutants get. did
+you get the Masamune earlier? I think SU-Zaku2 was guarding it. Equip
+it on a human. Equip the Glass Sword on your other human if you haven't
+already, and if it's still got some uses. Then give the Missiles to the
+Mutants. If they can't use them you may need to trade some stuff.
+Anyway, just make sure you have two characters equipped with the Glass
+and Masamune swords, and two characters equipped with a few Missiles each. When
+you feel you're ready, talk to the man in black. It's the Creator. He tells you
+that you have been playing a game he created to test the courage and
+determination of mortals. You get a little pissed about it and a battle ensues.
+     Final Battle: Creator HP: 6000
+  This is it, the last battle! It's gonna be one hell of a tough fight,
+too! Dream on. It's disappointingly easy unless you're not fitted with
+all the items I recommended, or if you're just plain careless. Just
+keep on him with the swords and missiles and he'll die in about 6-12 or so
+rounds. Careful, though, Creator does have some attacks which will confuse
+characters. This, (as any RP-gamer will tell you), will cause the affected
+party member to attack his/her comrades. Creator also has
+one attack which has no name and is almost guaranteed to take out at least one
+character. Just keep attacking unless absolutely necessary. This should
+not, however, be a tough battle. Note: Alcahest (alcahest@club-internet.fr
+recently sent this hint. You can defeat the Creator if you equip a Human
+character with a Saw and raise his/her stats to 99. The Saw is a rather
+unreliable weapon because it has a regretable
+tendency to miss on most of its attacks, but when it hits it is fatal. If you
+have a character with very high stats, it may cut down on the number of misses.
+Give this a try and let me know if it works.
+  Note: The following information will spoil the end of the game for you,
+but no one's forcing you to read ahead, now are they?
+Ending: After the battle with creator, the party stands looking at the
+next door. They speculate as to whether there's another world beyond
+the door, but then the lead character decides it's time to go home to
+their world. Then it shows scenes with your party in each of the worlds
+talking with the bosses of each world. Then it shows the creator at the
+inn in Base Town, and you realize that he was the little dude who kept
+appearing to you each time you were about to enter a new world. Just as
+the ending music finishes playing, it says, "We'll see you again."
+Weapons:
+  This section describes the weapons in the game.
+Weapon....Cost....Special Use
+Hammer....25....None
+Long Sword...132...none
+Axe...412...None
+King Sword...0...Critical Hit
+Battle Sword...989...Is used to answer Ryuo's riddle
+Katana Sword...2060...None
+Rune Sword...9800...Effective against magical enemies
+Coral Sword...9880...Effective against water enemies
+Ogre Sword...9880...effective against ogres
+Silver Sword...10712...None
+cIce Sword...23800...Effective against Fire enemies
+Flame Sword...24000...Effective against Ice enemies
+Elec Sword...24700...Effective against water enemies
+Dragon Sword...34600...Effective against dragons
+Defend Sword...48000...Deflect enemy attacks
+Sun Sword...67980...Effective against undead enemies
+Xcalibur Sword...0...Can attack groups of monsters
+Glass Sword...0...This is the strongest sword in the game, breaks after
+each use but can be used 50 times
+Masmune...0...One of the strongest swords in the game
+Rapier...24...None
+Saber...2060...None
+Lsaber...10480...None
+CatCraw...23200...None
+Vampic Sword...10000...Drains enemy HP
+Pknife...3800...None
+Psword...32000...None
+Punch...500...None
+Kick...1100..none
+Headbutt...2100...None
+Xkick...4100...None
+Judo...8100...None
+Karate...15100...None
+Counter...5100...Counterattacks with double the damage
+Whip...80...None
+EWhip...800...None
+Saw...125...Fatal attack, misses 50% of the time
+Revenge Sword...0...Deals enemies double the damage
+Colt...80...None
+Musket...800...None
+Magnum...8000...None
+SMG...400...Hits group of enemies
+Grenade...800...Hits group of enemies
+Bazooka...4000...Hits group of enemies
+Balkan...8000...Hits group of enemies
+Missile...40000...Hits group of enemies
+Nuke Bomb...0...Hits all enemies
+Hyper...100000...Kills all enemies
+Bow...50...None
+Long Bow...8000...None
+Great Bow...32000...None
+Laser...10000...None
+Rock...100...None
+Armor
+Armor...Cost...Effect
+Bronze...80...+4 DEF
+Gold...125...+8 DEF
+King...0...+20 DEF
+Silver...2500...+13 DEF
+Dragon...8500...+19 DEF/Protects against most magic
+Suit...18000...+25 DEF
+Arthur...0...+38 DEF
+Power...100000...+70 DEF
+Bronze Helmet...40...+3 DEF
+Gold Helmet...175...+5 DEF
+Silver Helmet...600...+8 DEF
+Army Helmet...6000...+17 DEF
+Band Helmet...0...+25 DEF
+Dragon Helmet...20000...+22 DEF
+Bronze Gauntlets....12....+1 DEF
+Gold Gauntlets....150....+3 DEF
+Silver Gauntlets....500....+4 DEF
+Giant Gauntlets....5000....+6 DEF
+Ninja Gauntlets....0....+15 DEF
+Bronze Shield...40...Evade up by 30%
+Gold Shield....400....Evade up by 40%
+King Shield....0....Evade up by 100%
+Silver Shield....4000....Evade up by 50%
+Flame Shield....5500....Protects against Ice
+Ice Shield....6000....Evade up by 60%
+Dragon Shield....8000....Protects against Elec, Fire, Ice and Poison
+Aezis Shield....0....Evade up 100%
+Geta Shoes....3000....+7 DEF
+Hermes Shoes....8500....+7 DEF....+10 AGL
+Shoes....0...+10 DEF+10 Magic
+     Items:
+Item....Cost....Use
+Potion....50....Restores some HP, single character
+X-Potion....200....Restores 90-150 HP, Single character
+Elixir....10000....Restores all HP, single Character
+Eyedrop....500....Cures Blindness
+Needle....500....Cures Stone
+Antidote....100....Cures Poison
+Bell....100....Cures Sleep
+Symbol....500....Removes curses
+Shocker....100....Cures paralysis
+Pan....100....Cures confusion
+Revive....15000....Revives fallen characters
+Heart....10000....Gives character an extra life
+Door...5000...Transports party to tower base
+Arcane...10000...Restores the uses of any weapon or item
+HP200....100....Increases characters' HP until they reach 200, can only be
+used on Humans.
+HP400....1000....Increases characters' HP more, can only be used on Humans.
+HP 600....5000....Most powerful increaser of HP, only works on Humans
+Strong....300...Increases Humans' Strength
+Agility....300....Increases Humans' Agility
+     Spells
+Spell....Cost....Use
+Cure....1000....restores some HP to one character
+Fire....500....Fire attack on a group of enemies
+Ice....500....Ice attack on enemy group
+Elec....500....Electrical attack on enemy group
+Fog....500....Poison attack on enemy group, is usually fatal
+Flare....50000....Nuclear attack on all enemies
+Sleep....500....Puts enemies to sleep
+Stone....5000....Turns enemies to stone
+Death....5000....Kills enemies, does not work on bosses or certain monsters
+Rod....1000....Same effect as Cure
+Wand....750....Same effect as Fire
+Staff....5000....Confuses enemies
+Book....500....Destroys undead enemies
+Tempter....5100....Same effect as Staff
+     Mutant Abilities
+  While these are not spells I have included them here because they are
+forms of magic.
+Ability....uses....effect
+ESP....25-50....unknown
+Flame....5-10....Fire attack on enemies
+Ice....10....Ice attack on enemies
+Gas....10....Attacks enemies with poison gas
+Electro....10....Lowers enemy agility
+Stench....10....Lowers enemy attack power
+Power....3-6....Boosts strength of caster
+Armor....3-6....Boosts defense of caster
+Mirror....10....Multiplies caster making it difficult for enemies to score
+a hit
+Barrier....10....increases party's defense by 10
+Burning....25....Acts like revenge. If enemies attack the caster they will
+receive damage.
+Comments:
+This is probably one of my favorite games. The graphics were good, the
+music's cool and the storyline was good, if a bit basic. You'll notice
+that I didn't cover any of the sub-worlds you'll find in the tower.
+This is only because I found no purpose in any of them. Feel free to
+explore them. I also noticed that sometimes I'd get an overpowering
+urge to hear the final battle theme but I wasn't at the last battle and
+didn't have the time to get there. Well, don't worry. There's a built-
+in sound test in this game. The trick to doing it is very simple. At
+the title screen press and hold Down, Start and B. Hold these down for
+about five seconds. Now you can scroll through the games sounds by
+using the Up and Down arrows. Move to the music by pressing the Left or
+Right arrows, and cycle through them by pressing Up or Down. Listen by
+pressing the A button. The sound test also has the ending music, so
+listen to your heart's content, and enjoy this great game! Also, if
+you've got suggestions or corrections, let me know! Just let me know and I'll
+consider your suggestion.
+Thanks and take care.

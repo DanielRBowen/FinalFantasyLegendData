@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "GameFAQs FFL Guide & Map Downloader",
+  "version": "1.0",
+  "description": "Download all Full/In-Depth guides and Maps & Charts for a Final Fantasy Legend game as a ZIP.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://gamefaqs.gamespot.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://gamefaqs.gamespot.com/*/*/faqs"
+      ],
+      "js": ["jszip.min.js", "content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

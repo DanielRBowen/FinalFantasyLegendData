@@ -1,0 +1,123 @@
+Walker Boh's Boss Guide to:
+     Final Fantasy Legend
+Author: Walker Boh
+Real Name: Bryan Peterson
+E-mail: b-peterson@earthlink.net
+Final Fantasy Legend Technical Data:
+Name of Game: Final Fantasy Legend
+Platform: Gameboy
+Medium: Cartridge
+Number of Players: 1
+Genre: RPG
+Save Ram: Yes
+Number of Save Slots: 1
+What's in This FAQ?
+Author's Note
+Legal Stuff
+A.	P-Frog
+B.	B. King Sword
+C.	C. Steward
+D.	D. Gen-Bu
+E.	E. Sei-Ryu
+F.	F. Byak-ko
+G.	G. Machine
+H.	H. Su-Zaku
+I. I. Ashura
+II. J. Gen-Bu2
+K.	Sei-ryu2
+L.	L. Byak-ko2
+M.	M. Su-Zaku2
+N.	N. Creator
+O.	Author's Note: This isn't a walkthrough but a guide to each of the
+bosses of the game. It'll go along with my FAQ, so if you're just
+having trouble with the bosses you know where to look if you don't
+have time to spend looking through a walkthrough.
+     Legal stuff
+I.   This document is copyright 2000/2003 by Walker Boh-Ohmsford, and may only
+be used for nonprofitable purposes. Don't try anything smart or you'll be
+bbusted! There are laws after all, and no one's above them.
+     Intro
+II.   	I also have a walkthrough which tells how to beat the bosses, but
+if you just want info on the bosses and not the area you're in
+you don't have to keep looking through the FAQ. This just has
+info on the bosses. HP info comes from Robert Paulson's guide fore.
+(Rpaulson@Mtlakes.csnet.net is his E-mail Address.
+     Boss guide
+     Name: P-Frog HP: 82
+  This guy's a snap! Whatever you do, don't attack him with a
+handheld weapon such as a sword or hammer. If you do you'll be
+poisoned. Use bows, or fire and ice magic, which both cause
+around 70 damage, (quite a lot really.) He should be gone in an
+instant.
+     Name: King Sword HP: 114
+  This guy can be a little tough. If you bought the Sleep spell
+from the Town of Hero, use it to make this fight a heck of a lot easier. This
+guy deals heavy damage! You may have to use Sleep
+several times, (unless of course you also have fire, which works
+well.) He should die in a short time.
+     Name: Steward HP: ???
+  It doesn't matter, since by now you'll have the King Sword
+equipped. One hit with that and he's gone!
+     Name: Gen-Bu hp: 150
+  This guy's quite easy. Use fire a few times and he's gone. He can defend
+himself using Shell, and he has a Gas attack, so be a little careful, as Gas
+affects all party members. He also has a Tusk attack, and if you're not well-
+equipped that can do major damage. I know, I've made that mistake a few times.
+     Name: Sei-Ryu hp: 633
+  	This guy's a bit tough. Use your best attacks. I can't
+remember if fog works well. Try it and see. If I remember
+correctly Elec works decently as well. Be careful though, since
+this dragon uses powerful attacks such as Bite and Strict, and
+both do some major damage!
+     Name: Byak-Ko HP: 1000
+  This guy's easy. If you have a saw or creature with the SAW
+ability like a mosquito, use that to bring this battle to a
+speedy conclusion. Note: It may take several tries for the SAW to
+connect, but it's fatal when it does.
+      Name: Machine HP: 1500-2000
+  This guy does some heavy damage, so bring along some cures. Use
+fire a lot, it'll make life a lot easier.
+     Name: Su-Zaku HP: 1500-2000
+  An easy fight. If you have the Hyper cannon, use it one time and he'll be
+gone. If not, just hit him with your most powerful attacks to do him in.
+     Name: Ashura HP: 3000
+  This one's brutal! He deals a lot of damage! Make sure you at least
+have the Glass Sword and possibly 'Xcalibr sword also. I think Flare
+works also, but I can't remember. Try it. Anyway, try to bring along as many
+revives and X-Potions as you can. You'll need them!
+     Name: Gen-Bu2 HP: 1500-2500, quite a range there!
+  This guy's easy. Just whack him with your best stuff and you've got him.
+     Name: Sei-Ryu2 HP: about 2500
+  This guy is easy. Once again just show no mercy!
+     Name: Byak-Ko2 HP: 2500
+  Hopefully you bought yourself a whole bunch of Hyper cannons. Those
+rule! One shot and he's gone. If not though, just hit him with the strongest
+stuff you have.
+     Name: Su-Zaku2 HP: 2500-3000
+  Here's where Hyper cannons come in handy. One shot is all it takes. If not,
+just thrash him with your best attacks and watch your HP. I always recommend
+Hyper Cannons because this guy's Tornado attack does
+massive damage to all characters. Note: I don't know if this works
+in the second fight with Su-Zaku, but in the first fight you can
+turn him to stone after doing some damage to him.
+     Name: Creator HP: 3000-6000
+  The final and easiest boss of the game. Here's my strategy for
+beating him. Have one character equipped with the Masamune sword, and
+another equipped with the Glass sword, (hopefully it's still got
+some uses left.) Have your other two characters equipped with a few
+missiles. Note: I recommend a party of two humans and two mutants.
+You need that party if you're to use my strategy. Be careful though,
+Creator does have one unnamed attack which is almost guaranteed to
+take out a party member, but just keep on him and he'll die. After
+the battle, you've won the game! Note: I recently received a hint from Alcahest
+(Alcahest@club-internet.fr, that you can also use the Saw to defeat the
+Creator. Personally I wouldn't try it, as the Saw has a regretable tendency to
+miss most of the time, but it is something to consider. I also learned (alas I
+can't remember the name of the fellow who told me about this or his address
+would go here), that if you take a Human, raise all his/her stats to 99 and
+give him/her a saw, that they will almost never miss with it. The only problem
+I have with that idea is that it's way too time-consuming! Thanks for the
+hints, guys.
+	Also note: If you have anything you would like to add to either my
+walkthrough or this guide, feel free to let me know. My E-mail address is
+b-peterson@earthlink.net.

@@ -1,0 +1,256 @@
+Date: Tue, 19 Aug 1997 18:25:24 -0700
+From: ldctk <locke@napanet.net>
+
+The LordLocke FAQ of Final Fantasy Legend II  V 2.0
+
+
+	Hello all you happy people!  Welcome to the first version of the
+FF Legend II faq.  I know that a good guide to this game is hard to find,
+and an accurate one is even harder.  But never fear!  LordLocke has torn
+this game apart, and pieced it back together, just for all you happy
+people (Besides, 2 weeks of 8-10 hour days in a van just begs for this
+kind of activity.)  So, away we go
+
+Disclaimer
+
+ You MAY:
+-Download this FAQ for personal use
+-Put this faq on your web site, given that you give me credit for it,
+and don't alter it in any form.
+-Give me cash, praise, and call me your master (Work, slave!)
+
+You MAY NOT!:
+-Alter this faq for public referance
+-Publish in written form without my permission
+-Use any part of this faq without my permission
+-Flame me because you don't like Locke
+
+Thank you!
+
+
+NEW IN V. 2.0!
+-------------
+ THE BEST TEAM UPS section added
+ Changed the boss to the Next-to-Last boss (forgot about the Mech...droid..
+um....whatever it is.....)
+Now on to the meat!
+
+SETTING OUT
+-----------
+ This section involves the 8 character types
+
+Humans (Male and Female specimens):  Humans are the best fighters of the
+lot.  Humans gain HP and abilities the fastest, their weapon skills are
+second-to-none, and can make equal use of both strength and speed weapons.
+They do, however, have a weakness to magic, both in the inability to cast
+it, and gain defences against it.  The female gains HP slower, but gets
+Speed faster than the male.  Both gain strength at the same rate.
+
+Mutants (Male and Female specimens): Mutants are the equivilant of mages.
+They start the game with a hit-all magical attack (blizzard for the male,
+flame for the female), and gain mana quickly.  They also gain enough speed
+to make use to any speed weapons you can find.  Their strength, however,
+is low compared to humans, and strength weapons are all but ruled out.
+Give these guys a couple of spell books, and they're ready to rock.  They
+gain hp slowly, but their speed help them go first in combat.  The female
+gains speed faster than the male, while the male gets mana faster.
+
+Robot:  This is the oddball of the bunch.  This guy dosn't level up like the
+humanoids, or change form like the monsters.  He gains hp and stats by
+"upgrading" him, or equiping him.  He is not restricted to just equip 1
+helmet or gauntlet, but as many as he can hold.  Try and keep him fully
+equipped, too.  He often has the highest defence of the team, and even if
+he has less hp, put him in the front, as he will have about 5-10 more
+defence than the others.  His guns are just as good as magic, as most take
+out a group at a time.  This guy can't handle a spell, however, so be ready
+to cure during bosses.
+
+Monsters: (Slime, Red D, and Imp):  The monster's starting class  dosn't
+matter much, but if you really care, the Slime is a fighter, the Red D is
+an offensive mage, and the Imp puts the enemy to sleep.  Anyways, these
+guys eat meat to "level up", changing form.  If this form is for the better
+or for the worse, is unknown.  THese guys, while possible powerhouses, are
+more often than not unable to dish out enough damage to get the job done.
+Worse still, they can become weak, first world creatures at the worst
+times.
+
+
+THE BEST TEAM UPS!
+------------------
+
+2 Humans, 2 Mutants:  This team gives you 2 weapon fighters and 2 magical
+warriors.....between those too, plus the humans tendancy to strength and the
+mutants tendancy to speed, this covers all the bases.  However, this team
+eats gold like nothin' else.  Because the only re-charge ability is the
+mutants natural magic, you'll always be strapped for cash.
+
+2 Humans, 1 Mutant, 1 Robot:  My favorite team, this group can do it all.
+The humans have high attack, the mutant has magic, and the robot can take
+out tons o' enemies with his guns....cheaper than the previous team, as all
+the robot's weapons "recharge."  Just be wary of enemies resistant to
+physical attack, as only the one mutant can do much more than attack.
+
+1 Human, 2 Mutants, 1 Robot:  Similar to the above team, just 2 mutants
+instead of 2 humans.  Treat accodingly.
+
+1 Human, 1 Mutant, 1 robot, 1 monster:  This team gives a little of every-
+thing.  Just be wary, as with 1 true spellcaster (the monster is just too
+random) this team may run into trouble later in the game....cheap as hell,
+though.
+
+POWER UP!
+---------
+
+	"Leveling up" in this game is kind of strange, and quite a hassle.
+Instead of gaining a level after you earn so much exp, or after you defeat
+so many enemies, you gain stats, hp, and magic randomly.  The only
+thing you have to do for each are shown below
+
+HP: Be alive at the end of combat
+Str: Hit one enemy with a strength weapon (Chances of gaining str better
+if the blow kills the enemy)
+Speed: Hit one enemy with a speed weapon (Chances of gaining speed better
+if the blow kills the enemy)
+Mana: Cast spells or hit one enemy with a psi weapon
+Spells/Strengths/Weaknesses:These are random, but casting spells increases
+the chance of geting a spell, fighting helps develop a strength or
+weakness
+
+	Even though you should spend some time leveling up as soon as you
+enter a new world, there are 4 spots especially important to level up:
+
+First World: Level up after you finish the cave with Mr. S
+Ashura's World: Level up after you find the hidden town and the tower
+Apollo's World (The first one): Level up after seeing Apollo
+Venus's world: Level up after you find the town of the Dirty Ones
+
+Leveling up at these times and places increase your chances of being
+able to take on harder enemies, and keeps you from needing to run, which,
+in turn, allows you to level up more.  Just keep leveling up at these times
+until the enemies are drastically easy.
+
+OVERWORLD TATICS
+----------------
+
+	-Always find all the towns and important places early.  This will
+keep you from wasting money in towns on weaker items, let you know where to
+go when it is time to find those Magi, and keeps you up to date on
+information from both towns and "dungeons"
+	-If you find the overland enemies hard, then you need to level up.
+These guys are noticably easier than their dungeon-dwelling breathen.
+	-No town is more than a moment away on any of the worlds, so
+don't run unless you'll die if you don't.
+	-Do not use your strongest weapons on overworld enemies.  Quite often
+a weaker weapon will suffice. (I've used long swords as late as Apollo's
+second world)
+	-When all else fails, just wander aimlessly.  You'll eventually find
+a town to heal yourself.
+
+DUNGEON TATICS
+--------------
+
+	-Don't be afraid to use magic, especially the temp. magic of the
+mutants.  When the spells rotate in, your uses refill as a bonus.
+	-Always carry at least one cure book if you have a mutant.
+	-If you have a monster, try to make him into a creature that
+can cast spells BEFORE entering the dungeon.
+	-Never enter a dungeon if you are unsure of yourself.
+	-Always have the best equipment avaliable before entering a dungeon.
+	(Excepton: You don't need the Giant gear before entering Ki's body,
+	but it DOES help)
+        -Never save when in the dungeon except when getting ready to face
+one of the gods.
+
+
+THE GODS
+--------
+
+	While the regular enemies and sub-bosses are push-overs if you've
+leveled up, the gods are always tough. Here's a rundown on how to beat them
+
+Ashura:This is pretty easy, just make sure to have your strongest weapons
+and armor are equipped.  Don't bother with magic, as quite often, weapons do
+more damage
+
+Venus: Now things heat up.  Venus is extreamly strong, and can stump for a
+while.  Even though she has no weaknesses, she is strong against fire and
+ice.  Only thunder works, so give her a bad hair day if you have Thunder.
+Otherwise, just attack with your strongest.  Whatever mutant has the highest
+mana get the cure spell book.  If you have no mutants, than use LOTS of cures.
+She also likes to confuse you, so be ready to counter that.
+
+Apollo: This guy is amazingly a lot like Venus, except he knows Flame, and
+is vulnerable against ice, not thunder.  Make sure to keep the leader at
+good health, or else you'll need a new one real fast.
+
+Odin:  Simple.  Pop quiz: In 6 turns, Odin will kill you.  If you kill him in
+less than 6 turns, you fight the next-to final boss. WHAT DO YOU DO?  Really
+ just attack.  Magic does little or nothing, so just pray you put in enough
+ time with speed or strength
+
+ The Next-To-Final Boss:  He is immune to magic, but BOY, can he dish it out.
+Try and keep everyone healthy.  A good tatic is to put 2 characters on heal
+duty, and the other 2 attack the guy.  If you can finish this one fast, than
+ you will win.  Not too much more you can do against this guy :)
+
+
+The Final Boss:  Well, spells and physical attacks do about the same:
+VERY LITTLE!  Just start praying your leveling up puts you into an area
+where you can do a decent amount of damage  (My guys, 2 humans, 1 mutant,
+and a robot, all with maxed to nearly maxed out stats where it counts,
+looked similar to when they faced Venus. Terrible :) Curing is a must, as 2
+attacks will take out all but the toughest of your team.  Suprisingly, the
+Robot did the most damage with it's guns.......maybe that means.....oh well.
+....despite what I just said...this is an easy battle.  You've come this far
+...he has very few hp, making his high defence a counter to his low hp.
+If you can nail him hard, he'll be gone by the end of round 3.
+
+THE FUTURE
+----------
+
+Well, how is this FAQ?  Is everything accurate?   Have any more questions?
+Do your ears hang low?  Tell me!  E-mail me at locke@napanet.net with imput
+Hopefully, there will be a version 2.0 on the way soon!
+
+Here are some things that I am looking for:
+
+A logo (Anyone?)
+Someone to help me expand later versions (This is rather breif for this game)
+Regular enemy tactics (Anyone out there have any better ideas than ATTACK!)
+Corrections on my boss lists (I know I had to screw somthing up in there)
+An Item list ( I'll have one soon, but it's good to know someone out there
+likes me)
+A meat chart: (What turns what into what? WHAT?)
+
+THE FINAL WORD
+--------------
+
+	I thank you for reading this, and I hope you enjoy it.  I have a few
+ideas stewing in my mind.  MAybe if you demand, I'll obay >:)  Here's my faq
+ idea list:
+Diablo
+Lufia 2: The Anicent Cave
+Yoshi's Island
+The Ol' Classics: A collection of FAQ's on some of the best NES games
+(All mine, of course.....too many people get uppidy when their faq, even
+when given credit, appears anywhere but under their own file.)
+Dare to Compare: A look and comparison of the big 6 arcade fighting series
+(SF, VF, Tekken, Marvel, MK, DarkStalkers)
+War2: How to rock your friends (Cheesy, hilarious tatics that REALLY work...
+most of the time)
+Why 2D beats 3D ANYDAY!
+and finally...(long list this time)
+FINAL FANTASY 3 BOSS FAQ! (Whoo boy.....thats a lotta bosses)
+
+SOME WORDS TO LIVE BY
+---------------------
+Just shoot it!- Peppy Hare, StarFox 64
+You're supposed to hit me if you are going to win- LordLocke (me) after
+smashing the 8th Eddy player in a row with Paul in Tekken 3
+Up yours!- The current American Motto
+I am not a crook- Richard Nixon, less than a month before he got kicked out
+of the White House for that WhiteWater thing.
+I gotta go play Ramma 3 on ESNES- Ryoga, a #Square op dragon.dal.net,
+giving TRUE words to live by (Ain't that right, Ryoga >:)
+						-Matthew Karr (LordLocke)
+						locke@napanet.net

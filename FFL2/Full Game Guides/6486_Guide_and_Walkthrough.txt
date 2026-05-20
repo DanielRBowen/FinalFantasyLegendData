@@ -1,0 +1,956 @@
+*********************************************************************
+
+                   Final Fantasy Legend II Walkthrough
+                              Version 1.3
+                           By Robert Paulson
+
+*********************************************************************
+
+
+This walkthrough is meant to be a guide for Squaresoft's Gameboy game
+Final Fantasy Legend II. This walkthrough is protected under national
+copyright law. This document Copyright 1998 Robert Paulson. This document may
+only be used for non-profit purposes, and credit must be given to me, its
+author. You may put this walkthrough on your web site,given that you give me
+credit for it, and don't alter it in any form. I have put a lot of time and
+effort into this walkthrough. If you see any mistakes or have any new
+information, please contact me at rpaulson@mtlakes.csnet.net for corrections.
+New information is always appreciated.
+
+Contents---------------------------------------------------------------
+
+1. Corrections
+2. Walkthrough
+3. Controls
+4. Status Screen
+5. Characters
+6. Battle Information
+7. Magi
+8. Weapons
+9. Armor
+10. Items
+11. Magic Books
+12. Abilities
+13. Shops
+14. Monsters
+15. Monster Abilities
+16. Miscellaneous Tips
+17. Game Genie Codes
+18. Special Thanks
+
+
+1. Corrections---------------------------------------------------------
+
+I will try to have an update done with in the next three months
+
+1-12-99
+I added a Monster Ability section. This section explains what the different
+monster attacks do. I also added some weapons/armor/items to the list which
+shows what some enemies drop.
+
+1-8-99
+I corrected a couple more spacing mistakes and added the Dragon Warp tip to the
+Miscellaneous Tips section.
+
+1-7-99
+I corrected some of the spacing mistakes that appeared when this walkthrough was
+posted. I have corrected a few grammar mistakes, but I am sure there are more.
+
+
+2. Walkthrough---------------------------------------------------------
+
+1. Home Town – Cure Potion
+
+* After following the story line for a while, you will have to choose
+your group. For further information on how to build a good group, look
+at the character's section. Once you are able to control you character,
+go south into the main part of town.
+* Go inside the northeast house of the four houses and talk to the
+man. He will give you a Cure Potion. The southeast house is the Hero's,
+and his mom will let your group rest for free. Once you are done, leave
+the village. The exit can be found just southeast of the schoolhouse.
+Just before your group leaves the town, Mr. S will join you.
+* The Prism Magi that your Dad gave you tells you how many Magi are
+left in the world. The list of Magi that you currently have, can be
+found by going to the Magi section in your command list.
+
+2. North Cave – Cure Potion, Bronze Shield, Bow, Hammer
+
+* After leaving the town, go north and into the cave. Mr. S is a very
+valuable team member. By the time you defeat the end monster of the
+cave, you should have used all of Mr. S's attacks. By doing this you
+can gain a lot of experience and a large amount of gold.
+* Floor 1 * Follow the path south, east, and go north through the door.
+The ladder directly north of you will lead to two treasure chests. Open
+them for a Cure Potion and a Bronze Shield. Climb back down the ladder
+and go east, north underneath the bridge, and southeast to another
+ladder. Climb the ladder, follow the path, and then go north through
+the door. Follow the path north, go down the steps, and follow the
+path. As you go north look for an indentation in the wall to the east.
+There are two treasures that contain a Bow and a Hammer. Follow the
+path and save just before the monster. Talk to the monster and it will
+attack you. The BabyWyrm has 81 HP, and can be killed by one Fire
+attack by Mr. S. Once the monster has been killed, and use have used up
+all of Mr. S's attacks, go north through the door to exit the cave.
+
+3. First Town - Nothing
+
+* Your companion Mr. S departs as soon as you exit the cave. Go to the
+town in the northeast corner of your screen.
+* If you are running low on weapons, you should buy some more. However,
+you should definitely buy some armor. Armor is sold in the Item Shop.
+The café is a very useful place for finding information about your next
+destination.
+* You might want to consider building up some gold by fighting outside
+the town. This should give you enough money to buy some good weapons.
+
+4. Ki's Temple - Nothing
+
+* After exiting the town, walk north about ten steps, and then west
+until you see a large Temple. Go into the Temple and up the stairs. Go
+north and talk to Ki who will tell you that there might be relics in
+the Ruins south of the Temple. Once you have talked to her, exit the
+Temple.
+
+5. Southern Relics – Whip, Cure Potion
+
+* From the Temple go southwest. The Ruins can be found by moving (three
+spaces south of the rock and fourth space east of the rock).
+* Floor 1 * Go north, either east or west, and follow the path. Then go
+north and through the door.
+* BFloor 2 * The room to the east has a treasure chest with a Whip in
+it. Once you have opened the chest, exit the room, go east, and follow
+the path until you see an indentation on the south wall. Go south
+through the indentation and then down the stairs.
+* BFloor 3 * Go clockwise and then down the stairs. All the rooms here
+have empty treasure chests in them.
+* BFloor 4 * The path that goes west will lead to a room with a Cure
+Potion inside. Once you have gotten that, walk out of the room and go
+counter clockwise. Go through the door and follow the path to another
+door. Go through the door and walk north. You will see some people
+ahead of you who stealing the Magi you were looking for. After leave,
+follow them through the door. The chests they leave behind are empty.
+Go north and through another door. Open the treasure chests for three
+Magi (Power, Speed and Mana). Exit the room and take the path to the
+west where the raiders are. Follow them through the door.
+* Floor 1 * Your group is moved to a glade behind the ruins. The raiders are
+dead, their Magi stolen by Ashura's men. Exit the Ruins by following
+the path in the northwest corner of the forest.
+
+6. Ki's Temple - Nothing
+
+* After exiting the Ruins go northeast to Ki's Temple. Enter the Temple
+and go north to the next floor. Talk to Ki, and after she heals you,
+you tell her the story about Ashura's men. She decides to join you.
+* Exit the temple, go west a little and then north to the next town.
+* (If you haven't bought the Gold Gauntlet's yet, go back the First
+Town and buy them.
+
+7. Second Town - Nothing
+
+* The Weapons are probably too expensive for you to buy right now. Rest
+at the Inn, and then exit the town.
+
+8. Ashura's Base – Speed Potion, Silver Gauntlet, Axe, (Defense, Ice,
+Fire Magi)
+
+* Go east until the mountains stop you. Go north and take the first
+path east. Then go north and enter Ashura's Base.
+* Floor 1 * Don't touch any of the wandering monsters or you will have
+to fight them. Go counterclockwise and through the door. Go west and up
+the stairs.
+* Floor 2 * Go east and south through the door. Follow the path east
+and then south through another door. Then go east and up the stairs.
+* Floor 3 * Go west and then south. Go through the door to the west and
+follow the path. There is a treasure chest in the northeast corner of
+the room with a Speed Potion. Now go southeast and up the stairs.
+* Floor 4 * Follow path going west and go into the room. Go north and
+open the treasure chest for a Silver Gauntlet. Then go east and up the
+stairs.
+* Floor 5 * Follow the path counter-clockwise and open the treasure for
+an Axe. Then go east, north, and through the door. Go north and save
+your game before you attack the Rhino. The Rhino has 170 HP. Just to
+show you how easy the Rhino is, I used a Thunder spell and a Flame
+spell and the Rhino died. The building starts to blow up. Go north and
+open the treasure chests for three Magi, (Defense, Ice and Fire. Then
+go north and exit the base.
+
+9. Pillar of the Sky – Nothing
+
+* You characters have been recharged after leaving the base, so go
+north into the Pillar of the Sky. I view the Pillar of the Sky as a
+large vine growing straight up, and that has different branches coming
+off of it which lead to different worlds. This is why I have listed
+different floors.
+* Floor 1 * Go north and Ki leaves once you step on the odd tile. You
+are moved north to another platform. Then go north and through the
+door.
+* Floor 2 * Go east and up the vine.
+* Floor 3 * Go south onto the tile and then out the door.
+
+10. Desert Town – Nothing
+
+* In this town you can encounter random battles. Go to the Item shop
+and buy some new armor, (Silver Helmets).
+* Exit the town and go west to until you reach the mountains. Stay
+along the mountain's edge and go south. Once you reach the bottom of
+the screen go east along the mountains. After walking for a while, look
+for a patch of sand near the north side of you screen. Stand directly
+before it and go north.
+
+11. Ashura's Town - Nothing
+
+* Keep on going north until you reach the town. If you are having trouble
+finding the town, it is also slightly northwest of Ashura's Tower. This town has
+nothing much to offer except its Inn. Recharge at the Inn and enter Ashura's
+Tower.
+
+12. Ashura's Tower – Sabre, Colt, Silver Shield, Power Potion, Magic
+Potion, Battle Sword, Silver Helmet, (Magi - Power, Speed, Mana, Fire,
+Ice, Thunder, Poison)
+
+* Go southeast and into the tower.
+* Floor 1 * Go north up the steps until you reach the stairs. Then go
+up the stairs to the next floor.
+* Floor 2 * Go counterclockwise around the room and then north through
+the door.
+* Floor 3 * Go west, north up the steps and follow the path. Go west
+and then through the door.
+* Floor 4 * Go northeast and open the treasure chest for a Sabre. Then
+go south and up the stairs.
+* Floor 5 * Go north and talk to the Woodman. He will then attack you.
+This battle is easy; the Woodman only has 148 HP. After he is defeated
+a character called Mask will join your group. Go north and up the
+stairs.
+* Floor 6 * Go north and Mask will find his equipment. Go either east
+or west to the bottom of the floor. Then go up the stairs.
+* Floor 7 * Go north and at the north end of the floor, open the
+treasure chest for a Colt. Go southwest and through the door to the
+next floor.
+* Floor 8 * Follow the path as it zigzags, and go through the door to
+the next floor.
+* Floor 9 * Follow the path counterclockwise. Open the treasure near
+the stairs for a Silver Shield. Then go up the stairs.
+* Floor 10 * Open up the treasure chests on either side of the stairs
+for Power Potion on the right and a Magic Potion on the left. Go north
+up the small steps and open the treasure chests for a Battle Sword and
+a Silver Helmet. Go north up the steps and save your game before you
+talk to Ashura.
+* Ashura has 850 HP. He is very hard to kill. He can use the Flame
+spell which does roughly 90 damage to each character. His other attacks
+are the Sleep Spell and 6-Arms. The Mask's hammer does the most damage,
+around 125 per turn. Once you have defeated Ashura you will get 7 Magi.
+(Power, Speed, Mana, Fire, Ice, Thunder, Poison)
+
+13. Ki's Temple – Defense Magi
+
+* Once you have defeated Ashura you will be warped back to Ki's Temple.
+While you are being warped you are also healed of all the injuries
+sustained while fighting Ashura.
+* Go north to Ki. Talk to the fairy next to her and she will give you a
+Defense Magi. She will also tell you to go see the Giant's so that you
+can micronize yourself. Now go north to the Pillar and begin to climb
+the floors to Giant's World.
+
+14. Pillar in the Sky - nothing
+
+* Floor 1 * Go north and step onto the odd tile. Go north and through
+the door.
+* Floor 2 * Go east and up the vine.
+* Floor 3 * Go east and through the door.
+* Floor 4 * Go north and up the vine.
+* Floor 5 * Go south onto the tile. Then go south and out the door.
+
+15. Giant Town – Thunder Magi
+
+* Go south and into the town. Go a little northeast and into the Item
+Shop. If you want you can buy some Silver Armor or save up your money
+for better armor. Go west to the Weapon Shop and if you want you can
+upgrade all your character's weapons. The Item Shop above the Weapon
+store sells some very expensive Giant Armor. This armor is a lot better
+then what you have but also a lot more expensive.
+* Go to the bar in the northeast corner of town. Talk to Johnny who is
+sitting near the west section of the bar. As soon as you talk to him he
+denies doing anything. That sounds pretty incriminating. Now go south
+and just before you exit the town follow the east path in between the
+woods. At the end of the path talk to your Dad. He says that he must
+keep on looking for Magi. He also gives you the Thunder Magi.
+* Your Dad leaves but promises to meet you back here. Follow the path
+northwest and into the back area of the Giant's Item Shop. Talk to the
+owner and he tells you that Johnny was able to get into the Old Giant's
+Town. Go back to the bar and talk to Johnny. He tells you that you can
+get up on the stairs near the northern part of Giant's Town and that
+you can climb the shelves there. Now exit the town.
+
+16. Old Giant's Town – Power Magi, Poison Magi, Gold Shield, Geta
+Shoes, Micron
+
+* To find the Old Giant's Town go east and then north. Take the first
+path going east and walk to the bottom of the stairs. You should see a
+darker color on one of the bottom stair blocks. In case you can't see
+it, it is the third block to the east. Walk north onto the space.
+* Once you are moved to the top of the stairs. Go east a little and
+south. There are four houses here. Go south to the third house from the
+top. Go through the small hole into the house. Go southeast and open
+the treasure chests for a Poison and Power Magi.
+* Exit the house and go north to the first house. Go through the small
+hole. Go south and open the treasure for a Gold Shield. Then go east
+and open the treasure for Geta Shoes. Then go north and climb up the
+shelves. Go south and get the Micron. Exit the house and go back to the
+Giant Town.
+* If at all possible you should try to fight around the town to get
+money. The Giant armor that is being sold is much more powerful then
+the armor you currently have. The Giant armor also increases your
+strength. I highly recommend buying it. Once you are ready, trace back
+your path to the Ki's Temple.
+
+17. Ki's Body – (Fire, Ice, Thunder, Defense, Speed, Poison, and Mana)
+Magi
+
+* Go north up the stairs and talk to Ki. The Micron is used, and you go
+into her body. Ki has seven magi in her body. One in her right foot,
+left foot, right hand, left hand, heart, and stomach/intestine. The
+last Magi are in her head, but you need to have the other six before
+you can get it. If you need to you can always go back out to heal up or
+buy weapons.
+* Go south and at the intersection go west. Follow the path and go into
+the mini-cave. Now go east and follow the path to a big room. To the
+north and east of you are 5 passages. They represent the five fingers
+of a left hand. Take the "ring finger passage," the second passage
+going from left to right. Go north to get the Fire Magi. Once you get
+this you will be brought out of Ki's hand and outside the mini-cave.
+* Now follow the path and at the intersection continue straight ahead.
+(This means keep on going east) Now follow the path to another mini-
+cave which is Ki's right hand. Follow the path to the intersection.
+Take the path going left and then take the first path north. When you
+reach the fork take the west path. Go north and get the Ice Magi. Once
+you are back to Ki's main body follow the path northwest back to the
+intersection.
+* At the intersection go south and then at the fork go west. Follow the
+path a little ways to another fork. Take the one going northeast.
+Follow the path and enter the mini-cave. This is Ki's heart. Go east
+and follow the path through Ki's heart. At the end of the path open the
+treasure chest to get a Defense Magi.
+* After being warped out of the mini-cave go south. Follow the path to
+a cave; this is Ki's left foot. Follow the path around until you reach
+a fork. Take the east path and then go north. At the next fork take the
+east path and follow it north. Get the Thunder Magi, and once you are
+outside Ki's foot, go north. At the fork take the left path and follow
+that to a three-way intersection. Continue going straight (east) and
+follow the path as it goes south.
+* At the fork take the short path to the west, which will bring your
+group to Ki's Stomach and Intestine. Follow the path. (It goes on for a
+while). Once you enter the big room, go northeast and get the Speed
+Magi. Once you are out of the mini-cave go south and follow the path to
+Ki's right foot.
+* Follow the path north. Once you reach the intersection take the path
+to the east. At every fork take the path to the east. Go up the
+farthest path to the east and get the Poison Magi. Now go north, at the
+fork take the right path, at the intersection take the north path, and
+at the next intersection take the north path.
+* If you want you can get outside Ki's body by taking the path directly
+to the north. Then you can go to a town and heal up. If you are ready
+for a major battle, take either the left or right path. Follow the path
+and then go north into the mini-cave. This is Ki's head. Go north and
+at the fork take either path. At the next fork take either path and
+follow it to the creature blocking the road. Save your game and talk to
+him.
+* Some Phagocytes that are guarding Ki's last Magi will attack you. The
+number of Phagocytes that you fight can vary, so if you want you can
+try to get a low number so the fight will be easy. However, they are
+relatively easy to beat and they have only 145 HP. At the end of the
+battle, your HP and abilities will be replenished. Once they are
+defeated, go north and get the Mana Magi. Once you get the Magi you
+will be warped outside Ki's body.
+
+18. Pillar in the Sky – Nothing
+
+* Floor 1 * Go north and step onto the odd tile. Go north and through
+the door.
+* Floor 2 * Go east and up the vine.
+* Floor 3 * Go east and through the door.
+* Floor 4 * Go north and up the vine.
+* Floor 5 * Go east and through the door.
+* Floor 6 * Go east and up the vine.
+* Floor 7 * Go south onto the tile. Then go south and out the door.
+
+19. Apollo's World – Defense Magi
+
+* Go south, and then take a couple steps east to Apollo's Castle. Once
+you are in the castle, go north and through the large door. Go north
+and talk to Apollo. He gives you a Defense Magi and tells you a riddle,
+" One is where wind blows under ground… One is where flame burns under
+water… One is where darkness shines brightly. These are the three
+locations where you will find the other Magi.
+
+20. Port Town – Nothing
+
+* From outside Apollo's castle go southeast and into Port Town. If you
+talk to the villagers they say that Neptune is bothering them. The
+scholar in the Café says that there is an Undersea Volcano to the
+south.
+* The weapons and armor here aren't that great. I didn't buy anything.
+* Exit the town and go south. Go south and walk into the water.
+
+21. Undersea Volcano – Gold Sword, Power Potion, Fire Spell Book, and a
+(Fire, True Eye and Poison Magi)
+
+* Go southwest and into the volcano. (The lava near the volcano's
+entrance and the lava inside the volcano take off a hit point when you
+step on it.
+* Floor 1 * Once you are in the Volcano go south through the lava and
+up the ramp. Go south back into the lava, east, and north through the
+archway. Go north and up the stairs.
+* Floor 2 * Go north up the ramp and onto the land. Then go east and
+then up the stairs in the northeast corner of the room.
+* Floor 3 * Go west, up the ramp, and follow the path south. Open the
+two treasures for a Gold Sword and Power Potion. After getting the
+treasures go east and up the stairs.
+* Floor 4 * Go southwest and open the treasure for a Fire Spell Book.
+If you walk to the west you will see the healing pool on a different
+landmass. If you want, you can use the healing pool by going south,
+into the lava, west, and up the ramp to the healing pool. Otherwise go
+north at the opened treasure chest and into the lava. Go north and
+through the door to the next floor.
+* Floor 5 * Go north up the different levels of the floor. At the top,
+open the treasure chests for a Fire, True Eye and Poison Magi. (There
+is nothing up the side passages) Go north and up the steps to exit the
+volcano. Go northeast and get out of the water. Go back to Port Town
+and heal up.
+
+22. Cave of Light – Power Potion, Giant Gauntlet, Thunder Spell Book,
+Laser Sword, Revenge Sword, (Thunder, Mana and Ice) Magi
+
+* The cave is to the northeast of Port Town. You need the True Eye Magi
+to see in the cave.
+* Floor 1 * Go southeast and up the stairs.
+* Floor 2 * Go west across the bridge, south down some steps, east, and
+up the stairs.
+* Floor 3 * Go north to the two different tunnels. The right tunnel
+will bring you to a treasure chest with a Power Potion. Then go back
+south and take the left tunnel. Go north through another tunnel, and
+then go up the stairs to the north.
+* Floor 4 * Go east and open the treasure for a Giant Gauntlet. Go
+southeast and through the wall. Continue going east to a treasure
+chest. Open the treasure for a Thunder Spell Book. Then go south, west,
+and up the stairs.
+* Floor 5 * Go north up the steps and then west. Take the first set of
+steps south, and then walk west. Open the treasure for a Laser Sword.
+Then go east and back up the steps. Now go west across the bridge. Then
+go north up the steps and follow the path to the stairs. Then go up the
+stairs to the next floor.
+* Floor 6 * Go east until you reach three paths that go north. Take the
+far right path, and go north through the tunnel. Continue going north
+and open the treasure chest for a Revenge Sword. Then go back south and
+walk out of the path. Now take the middle path and go north. Then go up
+the stairs to the next floor.
+* Floor 7 * Go west and up the steps. Open the treasure for a Thunder
+Magi. Go down the steps and then east. Take the first path going north
+that you find. Go north, up another pair of steps, and open the
+treasure for a Mana Magi. Go south to the bottom of the screen and then
+east to the wall. Go north up the steps and open the treasure for an
+Ice Magi. Then go south down the steps and take the large path going
+north. Follow the path and then go up the stairs to exit the cave.
+
+23. Dunatis Town - Nothing
+
+* From the cave go a couple steps south and then west to the widely
+spaced forest. From its east edge go north to Dunatis Town.
+* The Weapon Shop sells some great weapons. Go into the house that is
+located in the northeast corner of town. Go northwest and up the
+stairs. Talk to the person lying down in the bed, and she will tell you
+that her daughter went into the Mountain Cave.
+
+24. South Mountain Cave – Hermes Boot
+
+* Exit the town and go north into the cave.
+* Go directly south to the wall. Then go east, and then go north
+through the tunnel. Go east and open the treasure for a Hermes Boot.
+Then exit the cave by going west, south through the tunnel, and
+northwest to the exit.
+
+25. North Mountain Cave – Rocket, X-Cure, (Magi - Power, Speed, and
+Mana)
+
+* This cave is directly to the north of the South Mountain Cave.
+* Floor 1 * Go southeast and then south through the tunnel. Then go
+south and down the stairs.
+* BFloor 2 * Go southeast until you reach a large fork. Go south to
+another fork. Take the small path going south. Then go west and down
+the stairs.
+* BFloor 3 * Go a little east and then north. Go north through the
+tunnel and then go north through another tunnel to a treasure. Open the
+chest for a Rocket, and then go south back through the tunnel. Go east,
+north through a tunnel, southeast, and then down the stairs.
+* BFloor 4 * Go south and take the first path to the east. Follow the
+path and at the intersection go east. Then go down the stairs to the
+next floor. (The other path leads to the same spot)
+* BFloor 5 * Go south down the slippery tunnel. The path to the west
+will bring you to a treasure. Open the chest for an Elixier. Then go
+back and continue to walk east. Eventually you will see a person
+blocking the path. Talk to Lynn and she says Dunatis is blocking the
+way. Lynn then joins your group. Go east and then north. Save your game
+before Dunatis the robot. Talk to him and he will attack you.
+* Dunatis has 275 HP and attacks with a powerful SMG. This battle is
+fairly easy, and once you have defeated him you will get an X-Cure
+along with the (Power, Speed, and Mana) Magi. You might also get a
+ChainSaw or BlitzWhip. Supposedly, there is a way to get the Flare
+ability from Dunatis. I have been unable to get the Flare ability, but
+it should be noted that when you fight Dunatis, you have about a 35%
+chance of having your ability changed. It is worth fighting him a
+couple times, to see if you can even just get a good ability like O-
+All.
+* After winning the battle, you are warped back to Lynn's house. You
+walk into the house and see… DAD! Your character thinks that Dad is
+Lynn's father. After seeing this scene you leave the house, and vow to
+collect all the Magi.
+
+26. Pillar in the Sky – Nothing
+
+* Exit the town and go west to the Pillar in the Sky. If you want you
+can stop by Apollo's Palace. However, Apollo is missing… I wonder where
+he went off too.
+* Floor 7 * Go north onto the odd tile. Then go east and through the
+door.
+* Floor 8 * Go northwest and then up the vine.
+* Floor 9 * Go south onto the tile. Then go south and out the door.
+
+27. Guardian Town – Nothing
+
+* Go to the Item Shop and buy the Hermes Boot for any characters that
+need them. Buy everything you may need for the coming adventure. Once
+you are done shopping go to the Café.
+* Go to the jukebox and play the Heroic Tune. A secret door opens and
+you are suddenly captured as spies.
+
+28. Guardian Base – Power, Speed, Defense, and Fire Magi
+
+* Go to the gate and hit the A button. The guard tells you to
+"Shut up." Then Dad comes and gives the guard a talking too. The
+guard opens the gate, and your Dad leaves. Go south and out the door.
+* BFloor 1 * Follow the path clockwise and go down the stairs.
+* BFloor 2 * Go south and down the stairs.
+* BFloor 3 * Go west, north up the path, and through the door. Talk to
+Dad who will tell you to rest. During your sleep you hear a loud noise
+and you wake up. Go south out the door. Monsters are attacking the
+Guardian,s Base.
+* BFloor 3 * Go south, east, and talk to the Ogre. Once you have
+defeated it, you will get the Power Magi. Go north and up the stairs.
+* BFloor 2 * Talk to your Dad and he joins your party. Go north and
+fight a Mantcore. Once he is defeated you will get a Speed Magi. Go
+north up the stairs.
+* BFloor 1 * Go west and save your game before the Magician. Once he is
+defeated you will get the Defense Magi. Then go north and up the
+stairs.
+* You are now in the Café. Take either path to the next screen. Now go
+south and exit the café. Go north back to the Pillar in the Sky. Save
+your game, and talk to the Commando.
+This battle is very easy. After the battle you will get the Fire Magi.
+The Commando will also tell you that Lynn is captured, and that she can
+be found in the next world.
+
+29. Pillar in the Sky - Nothing
+
+* Floor 9 * Go north onto the odd tile. Then go east and through the
+door.
+* Floor 10 * Go west and up the vine.
+* Floor 11 * Go south onto the tile. Then go south and out the door.
+While you are going south you might see a couple stores to the side. If
+you hold down the control panel to one side you will be able to access
+the stores. The store sells the exact same weapons and items, as the
+stores at Guardian's Base.
+
+
+30. Ninja World – Ice and Poison Magi
+
+* Go west and follow the path. After some dialogue your Dad gives you
+an Ice Magi, and then goes to fight the Ninja. He is defeated and the
+Ninja comes back for you. The Ninja has 670 HP, and has a very powerful
+Katana or Ice Sword attack. After defeating him you get the Poison
+Magi.
+
+31. Dunatis Town – Thunder Magi
+
+* You then go back to Lynn's house.
+* Talk to Lynn and you vow to keep on collecting Magi for your Dad.
+Then talk to Lynn's mother and she tells you that your Dad was looking
+after Lynn after her real father died and she gives you the Thunder
+Magi.
+* Exit the town and go west to Apollo's Castle and then north to the
+Pillar in the Sky.
+
+32. Pillar in the Sky - Nothing
+
+* Floor 7 * Go north onto the odd tile. Then go east and through the
+door.
+* Floor 8 * Go northwest and then up the vine.
+* Floor 9 * Go east and then north through the door.
+* Floor 10 * Go west and up the vine.
+* Floor 11 * Go east and then north through the door
+* Floor 12 * Go south and up the vine.
+* Floor 13 * Go south onto the tile. Then go south and out the door.
+
+33. Venus Town – Nothing
+
+* Follow the path south, west, and then go into the city.
+* Visit Venus who is in the building in the middle of the city. Her
+palace can be found on the second level of the city. Once you have
+talked to her, you will be able to exit the town. Make sure that you
+also talk to Nils and Flora, who can be found on opposite sides of the
+palace.
+* The city also sells better weapons and armor.
+* The exit through the town walls can be found in the southwest corner
+of the outer city wall.
+
+34. SubVenus Town – Nothing
+
+* After exiting the wall guarding Venus, follow the mountains to the
+immediate left. Walk clockwise around them and enter the town. The town
+is also located near the bottom corner of Venus's west wall.
+* Go north and talk to Leon. Then go to the northwest house in the
+town. Talk to the frog, who should be in, or near the house. He says
+that there is a sewer near the Town of Venus's north wall.
+
+35. Sewers – Speed Potion, Psi Sword, Key, (Magi - Speed, Power, Mana,
+Thunder, Defense and Ice), Elixier, Giant Helm
+
+* Go east and follow the city's wall, north, and then east until you
+see the cave. Go into the cave.
+* BFloor 1 * Go south and into the water. Follow the stream southeast.
+Take the first steps you see coming out of the water, and follow the
+path to a treasure chest. Open the chest for a Speed Potion. Go back
+into the water and continue going southeast. Then walk up the next
+steps you see coming out of the water. Then circle around clockwise and
+go down the stairs to the next floor.
+* BFloor 2 * Go west, south and east. Go north up the bridge, and then
+east to a treasure. Open the treasure for a Psi sword and go north
+through the door. Go north and save your game before talking to the
+Hermit. The Hermit only has 392 HP. Once he is defeated you will get
+the Key. Go south out of the room and south across the bridge. Then go
+east, and then south down the stairs.
+* BFloor 3 * Go east, into the water, east, and up the first steps you
+see. Open the door and walk in. There are four treasure chests here.
+The ones on the left, have a Power and Speed Magi. The top right one
+has a Mana Magi. The bottom right chest has a powerful monster group in
+it. There is at least one Mephisto and one Phantom. The meat from these
+monsters is fairly useful if you have a monster. Exit the room and go
+into the water. Then go east and up the next steps that you see. Then
+go southeast and down the stairs.
+* BFloor 4 * Go east and up the steps to another door. When you enter
+this room, you will see that it is similar to the last. The bottom
+right treasure still has the same monster group except the number of
+monsters may be different. The other treasure chests have a Defense,
+Ice, and Thunder Magi. Exit the room and go south through the tunnel
+into a big room. Go south, up the steps, and down the stairs to the
+next floor.
+* BFloor 5 * Go into the water and west. Open the submerged treasure in
+the northwest corner or water for an Elixier. Then go east and back
+onto land. Follow the path as it zigzags around. Take the path to the
+north before you cross the bridge. Open the treasure for a Giant Helm
+and then walk back to the bridge. Then go south and east across the
+bridge. Then follow the path and go through the door. Now take a couple
+steps west and go south through the door.
+* You are now back at Venus's Castle. Go west and up the stairs. Then
+go north and talk to Venus. She says the Magi must be fake… "Cough…"
+can you say liar. Exit the castle and talk to Flora. As you are talking
+a large Volcano rises up in northwest section of this world.
+
+36. Volcano – Flame Sword, Magic Potion, Fire Gun, Mage Staff, Flame
+Shield, Fire Magi, Poison Magi (Power Magi which Leon steals from you)
+
+* Exit Venus Town and walk to Sub-Venus town. From here, go northwest
+and walk into the Volcano.
+* Floor 1 * Follow the path south, east, and then north. While you are
+walking you will catch a glimpse of Leon following you. Ignore this. As
+you are walking north you will have to walk through some lava. The
+damage is only –1 HP, however, still try to get through as quickly as
+possible. Go north and up the stairs to the next floor.
+* Floor 2 * Go north and recover you HP at the recovery fountain. Then
+follow the path south and walk into the lava. Go east and back onto
+land. Go east, north through the passageway, and follow the path as it
+loops around to the stairs. Then go up the stairs to the next floor.
+* Floor 3 * Walk north and into the lava. Then walk 5 steps west and 5
+steps south. Then walk west until you are stopped by a rock. Then look
+west for the pier so that you can climb out of the lava. Once you are
+on land, follow the path and go up the stairs.
+* Floor 4 * Follow the path west for a long ways, and then go up the
+stairs to the next floor.
+* Floor 5 * Go north and into the lava. Go north and onto the pier. Go
+east through the wall, and continue walking east. Once you see the pier
+go onto it, and walk south. Open the treasure in the lava for a Flame
+Sword. Then walk north, onto the pier, and back onto land. Go east and
+then south. Follow the path and open the treasure chest just before the
+bridge for a Magic Potion. Go south, across the bridge, and go up the
+stairs to the next floor.
+* Floor 6 * Go east and open the treasure chests for a Fire Gun and a
+Mage Staff. Go east, south off the pier, and into the lava. Go south
+and take the last path going west. Follow the path west and go up the
+stairs.
+* Floor 7 * Go north, onto the pier, and then continue going north. Go
+east through the hole in the wall. Now you can stay on land and go east
+to a HP recovery fountain, or go into the lava to continue your
+journey. Once you are in the lava, go east to the next screen. Go
+southeast and go onto the pier that is the closest to you. Follow the
+path west a couple steps and then go south to the treasure. Open the
+treasure chest for a Flame Shield.  Then follow the path back north and
+go back into the lava. Then take the pier below the one that you just
+went on. Follow the path south and then east. Open the first chest for
+a Fire Magi, the next one for a Power Magi. Once you have opened this
+chest Leon steals it from you. Then open the next treasure chest for a
+Poison Magi. Then go north and out of the cave.
+
+37. The Wedding – Power Magi, (Magi - Power, Speed, Mana, Fire, Ice,
+Thunder, Poison and Aegis)
+
+* Go southeast and back to Venus town. Heal your group and buy any
+upgrades on your battle equipment. Use the escalator stairs to the
+west, and then follow the path to Venus's palace. Then go east and talk
+to the moth person who tells you that the wedding ceremony of Nils and
+Flora is just about to begin. Use the west door of the palace, and go
+north into another room. Go north and talk to Venus. Just when you
+think that they are going to get married, Leon crashes the wedding.
+* After a scene you decide to oppose Venus. Before you fight Venus talk
+to Leon who will give you back your Power Magi. Venus has about 2,280-
+2500 HP. I tried several times to calculate an exact amount, but I
+found a wide range of conflicting HP values for when she dies. Venus c
+can attack with Flame, Blitz Whip, Charm and Erase. I also think that
+Venus also has O-All protection. Once Venus is defeated you will get
+the Power, Speed, Mana, Fire, Ice, Thunder, Poison and Aegis Magi. Now
+restock on any weapons that you need and exit the town. Now go to the
+Pillar of the Sky.
+
+38. Pillar of the Sky – Nothing
+
+* Floor 13 * Go north onto the odd tile. Then go east and through the
+door.
+* Floor 14 * Go north and up the vine to the next floor.
+* Floor 15 * Go south and onto the odd tile. Then go south and through
+the door.
+
+39. Race Town – (Magi – 2 Defense, Speed, and Mana)
+
+* From the vine take about 4 steps south and walk west until you see
+the town.
+* Once you are in the town visit the Weapon Shop, and if you want, you
+can buy some new weapons. The Armor Shop is selling Dragon Armor, which
+is slightly better then the Giant Armor because it gives protection
+against elemental based attacks and poison. Once you are done with this
+go visit Apollo who is living in the large house in the west section of
+town.
+* Go into Apollo's house and north through a door. Talk to him and he
+will tell you that Magi are rewarded to those who win the race.
+* Go to the Dragon Renting stalls, which are in the northeast corner of
+town. The Dragon starting from the left going right, are priced at
+1,000 for the fastest, 800 for the next fastest, 600 for the next, and
+the slowest dragon is free. No matter which dragon you choose, you will
+still win the race. If you take the slowest dragon you will avoid most
+of the battles and if you take the fastest you will have to battle a
+lot of monsters. However, I do recommend using the fast dragon so you
+can fight some of the advanced monsters, and get better meat that your
+monsters can eat.
+* If you are using the very fast dragon, the first main battle you
+fight will be a large group of Adamant's. Once they are defeated you
+will get a Defense Magi. The second main battle is a small group of
+Tortoises. Once they are defeated, you will get a Speed Magi. The third
+main battle is a small group of Lamias. Once they are defeated, they
+will give you a Mana Magi. The battle is a group of around three or
+four Watchers. When they are defeated you will get a Defense Magi. Now
+follow the track to the finish line. Once you are back in town, restock
+and go back to the Pillar in the Sky.
+
+40. Pillar in the Sky – Nothing
+
+* Floor 15 * Go north onto the odd tile. Then go east and through the
+door.
+* Floor 16 * Go south and up the vine to the next floor.
+* Floor 17 * Go south and onto the odd tile. Then go south and through
+the door.
+
+41. Edo Village - Nothing
+
+* From the vine, go south until you hit the water. Then go east until
+you hit the water. Then go south until you hit the wall. Then go
+clockwise along the town's wall and into the town.
+* Go to the Weapon/Item store and buy some Dragon Helmets. If you have
+some money to blow you can buy some Dragon Swords for your Robot.
+* Then go to the north section of town and talk to the Hatamatos. They
+are fairly easy to beat, and have about 355 HP. However, their Katana
+Sword can hurt you pretty bad. Across the town there is a cheaper
+Weapon Shop, and a very good Armor shop.
+
+42. Hana's Town – Nothing
+
+* From outside Edo Village, go east, and across the bridge that can be
+found a couple steps north of you. Then go east, across another bridge
+and into Hana's Town.
+* Go east and into the first building you see. Talk to Hana who says
+she is investigating Echigoya. Talk to some of the people in town and
+you will hear rumors about Echigoya killing Hana's father, and a secret
+banana smuggling operation. The Weapon Shop here offers the cheapest
+weapons in this world, and there is also an Item Shop. After walking
+around in town for a while go back to Hana and talk to her. She says,
+"If only I could get their ship…" Sounds like Echigoya is a smuggler.
+Now go back to Edo Village.
+
+43. Shipyard – Laser Gun, Tank Cannon, Hecate Shoes
+
+* Now go to Echigoya's Weapon shop. Walk around the counter, and talk
+to Echigoya. He will tell you that the shipment is coming to the
+Harbor.
+* Exit the town and go south. Go east across the first bridge that you
+see. Talk to the Kame, the turtle guy, who is standing right near the
+entrance. He will tell you that Hana went to the ship alone. The ship
+is at the end of the middle pier. Keep on walking down the pier until
+you go to another screen.
+* Floor 1 * Once you are on the ship. Take either the right or left
+path going south, and follow it to the main cabin. Go into the cabin
+and down the stairs.
+* BFloor 2 * Go south to the end of the ship and open the treasure for
+a Laser Gun. Then go back north and go down the first stairs you see.
+* BFloor 3 * Go northwest and open the treasure chest near the barrels
+for a Tank Cannon. Then go north through the open lane in the middle of
+the barrels. After passing the barrels, go east and open the treasure
+chest for a Hecate Shoes. Then go north and through the gate. Talk to
+Taro, the man, and he tells you that he saved Hana and that Echigoya is
+smuggling bananas and can now be arrested. Leave the room and then exit
+the ship.
+
+44. Smuggling Operation – Nothing
+
+* From the shipyard, go west until you hit a wall. Then go into the
+little building you see. Talk to the judge and Echigoya will be
+investigated. After a small scene you are moved to Hana's house. Taro
+brings in Hana's friend Kame, who was beaten up by Echigoya's guards.
+* Exit the town and go Echigoya's shop. The clerk is now gone so follow
+the path to the end of the room. Open the door and go into the
+basement.
+* BFloor 1 * Walk west and go past first door that you see. This door
+just leads to needless fights. Keep on going west and save your game
+before entering the door. Enter the door and you will hear a
+conversation between the Sho-gun and Echigoya. After listening to them
+for a while, you decide to teach them a lesson.
+* In this battle you will fight a large group of Hatamotos and
+Echigoya. The battle is fairly easy. I had my Robot use a Tank which
+killed the Hatamato group in only one shot. However, Echigoya does use
+the Vulcan Cannon which can pack a powerful punch, but despite this,
+you should have no problem winning the battle.
+* After the battle you will reappear back at Hana's house. Here Hana
+will leave you, and Taro, a guardian like your Dad, will join you. Taro
+is about ten times better then Hana. Once you are ready to fight leave
+the town and go west to the Sho-gun's castle.
+
+45. Sho-gun's Castle – Ninja Gauntlet, Body Potion, Missile Cannon,
+Dragon Sword, Dragon Shield, Samurai Bow, (Fire, Ice, Thunder, Poison
+Magi)
+
+* Once you are in the castle, go north and talk to the guards. They
+will attack you, and once they are defeated, go north and through the
+doors. Go west to the end of the castle, and then north through the
+door. Go north, east, and south through the double doors. Follow the
+path east, north, east, south, west past the ladder, and then north
+through the double doors. Go west and up the small set of steps. Then
+go west and through the double white doors.
+* Floor 1 * Go north through the west doors. Then go north, east, and
+to the next screen. Then go northeast and up the stairs to the next
+floor.
+* Floor 2 * Go west, south, west, and into the first door you see. Then
+go north and up the stairs. (The other room to the west is empty)
+* Floor 3 * Go south and then east. Go through the doorway and then
+north to the treasures. Open the chests for a Ninja Gauntlet, Body
+Potion, and Missile Cannon. Then go back out the doorway and west to
+the end of the corridor. Go north through the doorway, and then north
+up the stairs.
+* Floor 4 * Go south, east and into the first doorway. Go north and
+open the treasure chest for a Dragon Sword. Then go back out and
+continue east. Then go north through the doorway and up the stairs.
+* Floor 5 * Go south and open the treasure chest to the east for a
+Dragon Shield. Go west and then north through the doorway. Then go
+north through the doors and save your game.
+* Go north and open the treasure chest for a Samurai Bow. Then talk to
+Sho-gun. Sho-gun has 1900 HP. Once he is defeated you will have to
+fight his father Magnate. Go north and attack Magnate. Magnate has very
+powerful attack spells and can attack with a Vulcan Cannon. He has
+about 5350 HP. I recommend using magic for your mutants, a Dragon Sword
+for your Robots, a Muramas for Taro, and a Katana Sword for your Human.
+Magnate can attack with a Katana, a Vulcan Cannon, and the magic
+spells, Thunder and Tornado. Once he is defeated you will get the Fire,
+Ice, Thunder, Poison Magi and 30800 gold. (If you look closely at the
+top of the roof, you will see two dolphin statues. You are able to
+attack these creatures, but they are very powerful. So far, I have been
+unable to find any special item or weapon that the Dolphins leave
+behind after they are defeated)
+* After the battle you appear back at Hana's house, and then you say
+good-bye to your friends. You then get warped to the section of vine
+that reaches into this world. Now climb up the vine.
+
+46. Pillar in the Sky – Nothing
+
+* Floor 17 * Go north onto the odd tile. Then go east and through the
+door.
+* Floor 18 * Go southeast and up the vine.
+* Floor 19 * Go south and onto the odd tile. Then go south and through
+the door.
+
+47. Nasty Dungeon – Pegasus Magi, Power Potion, Body Potion, Dragon
+Armor, Ogre Axe, Speed Potion, Magic Potion, CatClaw, Vulcan, Elixier,
+Laser Gun, Jyudo, Dragon Sword, Missile, Tent, Dragon Helmet, Muramas
+Sword, Wizard Staff, Selfix Armor, Defend Sword, Samurai Bow, ParaSuit,
+Psi Gun, Vampic Sword, Arthur Armor, Sun Sword, Karate, Hyper Cannon,
+Tent, Flare Book, Glass Sword, Nuke Bomb, Gungnir Spear
+
+* Go south and into the cave. Go south and talk to the fairy who says
+that this is a tough cave, and that there is a Magi in the treasure
+chest. Open the treasure chest for a Pegasus Magi. This is the only
+Magi in the cave, so if you want you can leave, but some of the most
+powerful weapons and armor are in here, so I recommend fighting through
+it. The Pegasus Magi will allow you to teleport to any town or "main
+place," that you have visited. I will now continue with instructions on
+how to beat the cave.
+* Floor 1 * After getting the Magi go south, east, and follow the path
+as it twists and turns. Eventually you will have to choose between two
+different steps leading to different paths. Take the right path, and at
+the fork take the right path again. Then open the treasures for a Power
+and Body Potion. Then go back and choose the other path at the next
+fork you encounter. Go west and north through the gate. Follow the path
+to find a Dragon Armor. Now go back to the gate and go west. Pass the
+first path going north and then take the second path going north. At
+the end of the path is an Ogre Axe. Now go back down, and then north at
+first path that you passed. Follow the path and then go down the stairs
+to the next floor.
+* BFloor 2 * Go west, south, and at the end of the path go east through
+the wall. Go north, three steps east and south through the gate. Go
+southeast, and then north through a new gate. Go north, open the
+treasure for a Speed Potion, and then go north through the gate. Follow
+the path and go through another gate. Take a couple steps east, and
+then walk north. Open the treasure for a Magic Potion. Now go back
+south and through the gate to the east. Follow the path to the treasure
+chests. Open the chests for a Catclaw and Vulcan Cannon. Follow the
+path back and go south to a path going east. Continue going east along
+the path, and then go south and down the stairs.
+* BFloor 3 * Go east to the fork. The path to the south will lead you
+to an Elixier and a Laser Gun. Now go back to the fork and take the
+path that goes east. Follow the path until you reach a fork. The west
+path will lead to a Jyudo and a Dragon Sword. Now go back to the fork
+and take the path going south. Follow the path to the stairs. Then go
+down the stairs to the next floor.
+* BFloor 4 * Go south and take the west fork. Follow the path to a Tank
+Cannon. Then go back to the fork and take the path going south. After a
+couple of steps there will be another fork. The east path leads to
+nothing, so take the path that continues going south. At the next fork
+take the east path, which will lead to a Missile Cannon. Now go back to
+the fork and continue south. At the next fork take the west path, which
+will lead to a Tent. Then go back to the fork and continue south. At
+the next fork continue south, and walk south until you find a treasure.
+Open the treasure chest for a Dragon Helmet. Then go north and back to
+the fork. Take the path and go east to another fork. Go east, follow
+the path and go down the stairs to the next floor.
+* Bfloor 5 * Take the east path, because the south path takes you to
+the next floor. After going east for a while you will encounter a fork.
+Take the north path and go west. Pass through the different walls and
+eventually you will come to a treasure chest. Open the treasure chest
+for a Muramas Sword. Now go back to the fork and take the south path.
+You will have an option of taking two paths. The first path will then
+split and open into two different rooms, with a treasure chest in them.
+The first room has a Wizard Staff and the second a Selfix Armor. Now go
+back and take the other path, which will also lead to two treasure
+chests. The first room on this path has a Defend Sword, and the second

@@ -1,0 +1,647 @@
+FINAL FANTASY LEGEND II
+The Complete FAQ/Walkthrough
+Version 2.2
+June 18, 2001
+Copyright © 1999-2001, XSceptor (Jeff)
+XSceptor@aol.com
+
+This FAQ/Walkthrough is protected under national copyright law.
+You may NOT copy, change, use, publish, or alter this FAQ in any
+way, shape, or form without my consent.  If you fail to comply with
+the above restrictions, you'll be in BIG trouble.
+
+This FAQ/Walkthrough can always be found at:
+
+[http://www.gamefaqs.com]
+
+Now on with the show…
+
+This FAQ/Walkthrough is meant to be a guide to any and all who are
+having difficulty with the game in any way.  I strongly suggest you
+use this document only as a reference, because you will have the
+most fun completing the game on your own.
+
+*****************
+Table of Contents
+*****************
+A. Introduction/Version History
+B. Character Information
+C. Controls
+D. Battle Information
+E. Recommended Party Arrangement
+F. The Walkthrough
+   1. Home Town
+   2. The Cave of North
+   3. 1st Town
+   4. Shrine of Isis
+   5. Relics of the Ancient Gods
+   6. Return to Shrine of Isis
+   7. 2nd Town
+   8. Ashura's Base
+   9. Ashura's World
+      a. Desert Town
+      b. Ashura's Town
+      c. Ashura's Tower
+ 10. Giant's World
+ 11. Inside Ki's Body
+ 12. Apollo's World
+     a. Underwater Volcano
+     b. Bright Cave
+     c. Cave of Dunatis
+ 13. Guardian's World
+ 14. Venus' World
+     a. Sewer
+     b. Volcano
+     c. The Wedding Ceremony
+ 15. The Dragon Race
+ 16. Magnate's World (World of Sho-Gun)
+     a. Edo
+     b. Villiage, Ship, and Echigoya
+     c. Sho-Gun's Hideout
+ 17. Nasty Dungeon
+ 18. Valhalla Palace
+ 19. The Final Dungeon
+ 20. The Central Shrine
+ 21. Center of the World
+G. Items
+   1. Magic Books
+   2. Weapons
+   3. Armor
+   4. Other Items
+H. Powering Up Your Party
+I. Cheat/Codes
+J. Credits
+*********************
+
+********************************
+A. Introduction and Version Info
+********************************
+This is the complete FAQ/Walkthrough for Final Fantasy Legend II.
+That means that this document contains_everything_ you need to know
+about the game and more.  It does or will contain every useful hint,
+tip, strategy, cheat, code, and piece of information you could ever
+need. I will update this FAQ as needed. Feel free to e-mail me, but
+not with an abundance of game questions.  I would prefer suggestions
+for the FAQ/Walkthrough, questions are welcome though.
+
+Version 1.0- December 5, 1999
+The Introduction, Character information, Controls, Battle Information
+the Recommended Party Arrangement and the Walkthrough from F.1-F.9.b
+is included.  More walkthrough information will be included in the
+next update along with parts of sections G and H.
+
+Version 1.5- December 6, 1999
+The walkthrough up to the 1st town in Giants' World is included.
+I fixed some alignment mistakes in the shops tables.  In the next
+update, the walkthrough up to Guardians' World will be included.
+I didn't get around to adding to sections G and H, but they will
+be up soon!
+
+Version 2.0-January 7, 2000
+Finished the walkthrough for Giant's Town.  The walkthrough for
+Ki's Body will be in the next update.  I've been really busy for the
+past month, but updates will be more frequent now.
+
+Version 2.1-July 17 , 2000
+It's been a while since I updated. The walkthrough for Ki's body
+is included, and some mistakes have been corrected as well.
+
+Version 2.2-June 18, 2001
+Well, the guide is back after nearly a year. The guide was removed for
+several reasons (which I don't care to discuss), but I'm back now
+(along with the guide ^_^) and I hope to be updating this guide
+very heavily in the near future. It's good to be back.
+*********************
+
+************************
+B. Character Information
+************************
+-Humans- Generally speaking, Humans become powerful by fighting in
+battles.  Such qualities as Strength, Defense, Agility and Mana will
+upgrade their level depending on the Weapons, Armors, and Magic
+Books that have been used in the battles.  HP (Hit Point Level),
+however, goes up regardless of the items and equipment used.  While
+fighting the enemy increases the various characters' HP, their growth
+rate will not all be equal.  The stronger the enemy is, the more
+powerful the characters become.  Since the Humans do not possess any
+Special Skill, they need to depend on the items they carry.  The
+Humans can use any items they wish and can possess eight such items.
+
+-Mutants- The basic system of growth for Mutants is equivalent to
+that for Humans, but the rate of growth is a little slower.  However,
+they possess a higher level of Mana and can acquire various Special
+Skills by fighting battles.  Mutants can posses up to eight items,
+of which a maximum of four can be Special Skills that are acquired.
+Mutants can acquire these Skills if there is room in their Ability
+List.  If their capacity is full, a newly acquired Special Skill is
+exchanged with the last one in the list.  It's best to let Mutants
+become powerful by using a lot of Special Skills and upgrade their
+Mana.  It's also a good idea not to give them too may weapons since
+they acquire different Special Skills as they continue to become
+powerful.
+
+-Robots- Robots don't become powerful as a result of fighting in
+the battles.  They can raise the HP and the values of Abilities by
+equipping them with weapons and armors.  In other words, the more
+weapons and armors they acquire, the stronger they become.  They can
+equip themselves with any available items with different degrees of
+power.  You are reminded, however, that every time they put on or
+take off their items, the number of times you can potentially use
+these items will be decreased by half.  When the robots have used
+up their weapons, don't throw them away.  If the robots are staying
+in the Inn, such weapons will be restored to 50% of their maximum
+usage. (Ex: If you equip a robot with Colt (50 uses), use it all up,
+and then stay at the Inn, the Colt will be restored to 50% (25 uses).
+However, the operating level of the Skill Items will not decrease
+but they will not be restored at the Inn, either.  It is recommended
+that the Robots be equipped with as many powerful weapons and armors
+as possible.
+
+-Monsters- Monsters don't become powerful by themselves.  They can
+transform themselves into another Monster by eating the meat of the
+enemy Monster, which my occasionally be available after a battle.
+Whether or not they become stronger depends on the meat they eat.
+Basically, they need to eat the meat of a strong Monster to become
+stronger.  They should not miss the meat of the Boss monster when
+it's available.  They may become weaker, however, by eating the
+meat of a weak Monster.  Once the Monsters become strong, they should
+not eat the Monster's mean unless you are sure that it's the meat of
+a very strong monster.
+
+-Non-Playing Characters (NPCs)- During your adventures, you will
+meet people, some of whom will join the group as the 5th member.
+These characters are called NPCs.  They will leave your party when
+they have accomplished their goal.  If you press the B button, they
+will give you helpful hints to help you proceed through the game.
+They will also participate in battles when you select a command for
+them.
+*********************
+
+***********
+C. Controls
+***********
+-The Control Pad- Used to move Character on the game screen, and
+also used to move through Menu Screens.
+
+-A Button- Used to examine object, open treasure chests, talk to
+people, and execute commands in the Menu Screens.
+
+-B Button- Used to cancel a command executed with the A Button.
+Also used to have conversations with NPCs while they are in your
+party.
+
+-Start Button- Used to bring up the Menu Screen while you're in
+the overworld and in the cities.
+
+-Select Button- Used to bring up the Alter Order Screen.  Use the A
+Button and the Control Pad to switch the order of your party members.
+*********************
+
+*********************
+D. Battle Information
+*********************
+When a battle starts, you will be presented with two options:
+Fight or Run.  In most battles, I suggest you Fight.  If you always
+run from battles, you have no chance to become powerful and gain
+GP (Gold Pieces).
+
+When you choose fight, the name and number of each enemy is displayed
+on the screen (In this list, enemies are listed top to bottom to how
+they correspond left right on the screen. Ex: The enemy at the top
+of the list is at the left side of the screen.).
+
+When the first member of you party is displayed, select the attack
+or item you would like them to use and press the A Button.  Select
+the attack/item for each member as they are displayed.  After you
+have selected commands for all of your party members, you and the
+enemy exchange attacks.  This is known as a Turn-Based Battle.
+
+During the battle, your party member may be inflicted with one or
+several ailments which are:
+Blindness- You lose sight and have difficulty attacking. (cure with
+Eye Drops)
+The Curse- You are unable to move. (cure with Curse Potion)
+Sleep- You are asleep and can't do anything.  (you will automatically
+wake up after a few turns.)
+Paralyze- Your body is numb and you can't control it. (cure with
+Elixir)
+Stone- You are turned to stone and do not recover. (cure with Soft)
+Poison- HP decreases each turn. (cure with Elixir)
+Confused- You are confused and unable to distinguish friend from foe.
+(cure with Elixir)
+Stunned- All your HP is lost
+*Note: Any of the ailments above can be cured with Elixir.
+
+After the battle, you will gain GP.  Sometimes, an attribute of one
+of your party member may rise.  The amount of GP and the level
+to which your attributes rise is dependent upon how tough the enemy
+is.
+*********************
+
+********************************
+E. Recommended Party Arrangement
+********************************
+m stands for Male, f stands for Female
+For the sake of conformity, I will base this walkthrough around my
+party of a Human (m), a Mutant (m), a Human (f), and a Robot.  I
+will, however, include information for ANY party so that this walk
+through is universal.
+
+You can also use:
+Human (m) or (f), Mutant (m) or (f), Robot, Monster. OR
+Two Humans (m) or (f), Two Mutants (m) or (f). OR
+Two Mutants (m) or (f), Two Robots. OR
+Any other party you would like!
+
+I do NOT recommend:
+Four Monsters. OR
+Four Robots.
+However, Four Robots is a little bit better than using Four Monsters.
+Like I said before, though, you can use any party arrangement you
+would like.
+*********************
+
+**************
+F. Walkthrough
+**************
+The walkthrough will take you step by step through the game.  If
+you don't find the information you are looking for, read this walk
+through again.  If you are still having trouble, feel free to e-mail
+me.
+
+***1.Hometown***
+When the game begins, you are presented with the story.  After the
+story, you will be asked to choose and name your main character.
+I chose a Human (m), but you can choose which ever character you
+like best.  Name the character.  There is a short cut-scene in which
+your father gives you the Prism Magi, and then he proceeds to exit
+through the window.  When you can control your character, go visit
+the School which is at the north end of the town.  Talk to Mr. S.
+After a short dialogue, you will be prompted to choose three other
+members for your party.  I chose Mutant (m), Human (f), and a Robot.
+Choose which ever three you like, and then name them.  After you
+have chosen and named your characters, exit the town by following
+the path to the east (right).  Before you can exit the town, Mr. S.
+will join your party.
+
+***2.The Cave of North***
+Exit the town with Mr. S. in your party.  Go into the cave that is
+to the north.  Mr. S.' Fire skill will be able to defeat all of the
+enemies in the Cave if you are too weak.  Follow the path until you
+come to a door-like opening.  Go through it and go up the stairs to
+get Bronze Shield and a Cure Potion.  Climb down the stairs and go
+right then climb the next set of stairs.  In the next area, climb
+down the stairs.  Follow the path and when it splits right, get the
+Hammer and Bow in the treasure chests.  Go back and follow the path
+to the end.  A BabyWyrm blocks the exit.  Use Mr. S.' fire to rid
+of him easily.  When you have defeated the Wyrm, exit the cave.  Back
+outside, Mr. S. will leave the party.  If you're in good health, you
+can battle to gain some attributes and GP.  When you are finished
+battling, head to the first town, which is NE of the Cave.
+
+***3.First Town***
+The people in this town speak of a Shrine which is to the west.  In
+this town you can buy some good Weapons and Items.
+S-Sword    A-Armor     B-Book
+H-Helmet   G-Gauntlet  K-Knife
+Sh-Shield  P-Potion    x- means infinite use
+
+Weapons Shop                               Item Shop
+Hammer     x50    50 GP               Bronze G   x-     25 GP
+Bow        x50    50 GP               Bronze H   x-     50 GP
+Punch      x90    50 GP               Bronze Sh  x50    50 GP
+Rapier S   x50   400 GP               Gold G     x-   3400 GP
+Long S     x50   400 GP               Curse P    x4    300 GP
+Whip       x40   400 GP               EyeDrop P  x4    200 GP
+Psi K      x50  1400 GP               Soft P     x4   1000 GP
+Kick       x50  1400 GP               Cure P     x4     50 GP
+
+You should by as many weapons and items as you can afford.  You should
+buy at least 2 Cure P.  Don't equip your mutants (if you have any)
+with weapons because you'll be able to buy Magic for them in the next
+Town.  In the Café, the people talk of Ashura.  The man in the upper
+right corner of the town looks like your dad! Is it really? No, it's
+just a man who asks you if you have heard about the Relics.  When
+you have purchased some items and visited the Inn, leave the Town
+and head west to the Shrine.
+
+***4.Shrine of Isis***
+This is the big building to the west of the 1st town.  When you're
+inside, head north up the stairs and talk to the lady who is standing
+in front of the Statue.  She will heal your wounds (rejuvenate your
+HP), and then give you directions to the Relics of the Ancient Gods.
+Leave the Shrine and head SW to enter the forest and find the big
+rock Ki spoke of.  Go 4 steps East from the rock, then go 3 steps
+South from your current position.
+
+***5. Relics of the Ancient Gods***
+Go north up the stairs.  From here, going left and right from the
+split in the path lead you to the same area.  Go up the stairs and
+then into the little door.  In the next room, go up the stairs to
+get a Whip.  After the Whip, go back down the stairs.  Going left
+or right from here will lead you to the same area.  When you reach
+the little door, go through it and then go down the stairs.  Follow
+this path right, then go up, right, down the stairs, and then up and
+around the left.  When you see the men, they take the Magi and
+run.  Follow them.  When you are in a room with the men, go into
+the door that they are not guarding.  Collect the Magi that are in
+the treasure chests (Power, Speed, and Mana).  Exit the room with
+the Magi and then go through the door that the men were blocking.
+Outside, both men are dead and Ashura's men have stolen the Magi
+from them.  Return to the Shrine of Isis.
+
+***6.Return to Shrine of Isis***
+Go all the way inside the Shrine and talk to Ki.  She will heal you
+and then she'll join your party because she is the only one who can
+enter Ashura's Base.  She is very strong compared to the members
+of your party.  Her attacks are very useful.  Exit the Shrine and
+NW then NE to get to the second town.
+
+***7.Second Town***
+Before you enter the Town, engage in some battles in order to get
+some more GP.  When you feel you have enough money, enter the Town.
+The people in this Town talk about Ashura's Base.  First off, head
+into the Inn to heal yourself if needed, then go visit the Shops.
+
+Weapon Shop                       Item Shop
+Ice B     x30  6800 GP         Curse P    x4    300 GP
+Temptat   x30  6800 GP         X-Cure P   x4    300 GP
+SMG       x30  6800 GP         EyeDrop P  x4    200 GP
+Thunder   x30  6800 GP         Soft P     x4   1000 GP
+Fog  B    x30  6800 GP         Cure P     x4     50 GP
+Rocket    x30  6800 GP         Heal Rod   x15 17000 GP
+Sleep B   x30  6800 GP         Cure B     x30  6800 GP
+Prayer B  x30  6800 GP         Elixir     x1   5000 GP
+
+Buy some Magic Books for your Mutant(s).  You may notice that the
+Heal Rod costs an amazing 17000 GP.  Buy this only if you have ample
+GP.  The Magic Book of Cure may not be as good, but it is cheaper.
+After you have bought what your money can allow, leave Town and go
+North and East to reach Ashura's Base.
+
+***8.Ashura's Base***
+Be careful!  If you touch any of the enemies you see walking around,
+you will be engaged in a battle! (there are still "regular battles").
+Follow the path through the 1St and 2nd floors.  On the 3rd floor,
+don't forget to get the Speed Potion in the treasure chest.  Keep
+following the path, and on the 4th floor get the Axe in the treasure
+chest.  On the 5th floor, follow the path and go through the door.
+Go talk to the enemy you see.
+
+<>Mini-Boss: Rhino<>
+HP: 150-300
+Weak vs.: Ice
+If you have a Mutant(m), his Blizzard ability works excellent for
+this battle.  The Ice magic also works well.  If you don't have a
+Mutant, use the Rapier or Psi.  If you have neither of these, then
+use your strongest attacks.  Easy battle.
+
+When you defeat the Rhino, the base will begin to explode.  Grab
+the Magi (Defense, Fire, and Ice), and exit.  The Base will explode
+allowing you to proceed.  Head north into the Pillar.  While you're
+on the Pillar, you will not encounter battles.  Step onto the light
+colored square.  Ki will leave your party.  Walk through the door,
+and then go left to the next Pillar.  Walk onto the light colored
+square, and then walk through the door.
+
+***9.Ashura's World***
+a.Desert Town
+The people in this town talk about Ashura and how he came to power
+using the Magi.  The Shops in this Town have good weapons and items,
+but you might want to save you money to buy things in the next town.
+
+Weapon Shop                       Item Shop
+Rapier S  x50   400 GP         Bronze A   x-    75 GP
+Long S    x50   400 GP         Silver G   x-   700 GP
+Whip      x40   400 GP         Silver Sh  x50  700 GP
+Psi K     x50  1400 GP         Silver H   x-  1400 GP
+Kick    	 x80  1400 GP         Curse P    x4    50 GP
+Stungun   x40  1400 GP         EyeDrop P  x4   200 GP
+Colt      x50  1400 GP         Soft P     x4  1000 GP
+Axe       x50  1400 GP         Cure P     x4    50 GP
+
+When you are finished shopping, heal at the Inn, then head to the
+Café to get directions to Ashura's Tower.  In order to get the right
+directions, you have to pay the man behind the counter 10 GP.  The
+Tower is 7 east and 7 south of the cactus south of the town.  Exit
+the Café and then exit the Town.  Go south and you'll see a cactus.
+Walk 7 spaces east of it, then 7 spaces south from where you are
+standing.  You'll see a cactus.  Walk south of it and you'll see a
+Town and a Tower.  Enter the Town first.
+
+b.Ashura's Town
+If you have some money to spend, spend it here.  There are some good
+weapons and items for sale.  If you have enough money you should buy
+the Heal Rod.  It will be helpful.
+
+Weapon Shop                     Item Shop
+Psi K    x50  1400 GP         Curse P    x4    300 GP
+Kick     x80  1400 GP         X-Cure     x4    300 GP
+Stungun  x40  1400 GP         EyeDrop P  x4    200 GP
+Colt     x50  1400 GP         Soft P     x4   1000 GP
+Axe      x50  1400 GP         Cure P     x4     50 GP
+Sabre S  x50  3200 GP         Heal Rod   x15 17000 GP
+Battle S x50  3200 GP         Cure B     x30  6800 GP
+                              Elixir     x1   5000 GP
+
+The Sabre S and Battle S are very good weapons.  They will be very
+helpful in Ashura's Tower.  Heal at the Inn, and go to the Café if
+you want to.  When you are ready, leave town and enter Ashura's
+Tower.
+
+c.Ashura's Tower
+When you go in the tower, go up the stairs then through the door to
+the 2nd floor.  Go left and down around the poles, then up the stairs
+and through the door.  Go right and open the chest to get a Sabre
+Sword.  Head right, down, and then around up the stairs.  Talk to
+the monster you see
+
+<>Mini-Boss:  Woodman<>
+HP:  200-350
+Weak vs.:  nothing
+Strong vs.:  nothing
+This enemy isn't too tough, just use your strongest weapons.  The
+Battle Sword would work best if you have it.
+
+After the battle, a man named Mask will join your party.  He says
+he came to the tower to defeat Ashura.  Go up the stairs, and walk
+up to the white box to get Mask's equipment so he can fight.  Walk
+around to the right and go up the stairs.  Follow the path and go in
+the door.  Follow the path and open the chest to get a Silver Shield.
+After you open the chest, go up the stairs.  In the left chest, there
+is a Magic Potion, in the right chest there is a Power Potion.  Go
+up the next set of stairs.  In the left chest, pick up the Silver
+Helmet, in the right chest get the Battle Swords.  Go up the stairs.
+Before you walk up to the monster (all you have to do is touch it),
+equip your characters with Magi.  Press start and go to the MAGI
+option and press A.  Select equip and choose a character.  Pick the
+Magi you want to equip them with and press A.  Press B twice to
+choose another character.  Equip your strongest character with the
+Power Magi, your Mutant (if you have one), with the Mana Magi, and
+equip your weakest character with the Defense Magi.
+
+<>Boss:  Ashura<>
+HP:  ~900
+Weak vs.: Sleep
+Strong vs.:  Ice, Fire, Thunder, Fog
+Magi:  Power, Speed, Mana, Fire, Ice, Thunder
+(Magi: (list of Magi) stands for the magi you receive after beating
+Ashura.  This item (Magi list) will be listed with every major boss.)
+This is the toughest battle yet.  Use the Battle Sword which causes
+100-400 damage, Sabre Sword which causes 100-350 damage, Long Sword
+which causes 50-250 damage, Whip which causes 50-200 damage, and
+Rapier which causes 100-400 damage.  The only magic book effective
+on Ashura is sleep.  Have your Mutant(s) cure as needed.  When the
+battle is over, you'll receive the Magi listed above.
+
+After the battle, Mask will leave your party and you'll be brought
+to Ki.  Talk to the monster beside Ki.  She'll tell you to go to
+Giant's World because the people there know how to make you small.
+She will also give you a Defense Magi.  Leave the Shrine and head
+back to the Pillar (in the north).  Go through the Celestial World
+(the world with all the pillars, tiles (squares on the floor), and
+doors) until you come to the third pillar.  Go on it and enter the
+door to get to Giant's World.
+
+***10.Giant's World***
+Head south when you exit the Pillar to get to a Town.  Enter the
+town and when the path splits, take the left path to get to a man.
+Talk to the man and he's your dad!  You'll have a short conversation
+in which you try to convince him to come home with you, but he does
+not want to and he insists on continuing his quest to find the Magi.
+Before he leaves, he'll give you a Thunder Magi.  Continue following
+the path and enter the door.  Follow the path and when it splits,
+go down.  Go and talk to the Mutant.  He'll tell you to talk to a
+man named Johnny who is in the Café.  Leave the way you came and
+the enter the town and go to the Café.  Talk to the man sitting at
+the table.  He'll tell you how to get into Giant's Town.  When he
+asks you if you think he's a giant, answer No, and he'll give you
+another hint.  Before you go to Giant's Town, heal yourself at the
+Inn, and then go buy any needed items at the shops.
+
+Weapon Shop                       Item Shop
+Sabre S    x50  3200 GP       Silver A   x-  2100 GP
+Battle S   x50  3200 GP       Gold G     x-  3400 GP
+Katana S   x50  6800 GP       Cure B     x30 6800 GP
+Gold Bow   x50  6800 GP       Curse P    x4   300 GP
+Ice B      x30  6800 GP       X-Cure P   x4   300 GP
+Temptat    x30  6800 GP       EyeDrop P  x4   200 GP
+SMG        x30  6800 GP       Soft P     x4  1000 GP
+Thunder B  x30  6800 GP       Cure P     x4    50 GP
+
+Giant's Shop
+Giant A     x-  26000 GP
+Giant H     x-  17000 GP
+Giant G     x-   8500 GP
+Geta Boots  x-   2800 GP
+
+You may notice that the items in the Giant's Shop are very expensive.
+I would only recommend shopping here if you have ample GP.  If you
+don't have much GP to spend, go shop at the regular Item Shop.
+
+***Giant's Town***
+Exit the town you were just in and head right.  When you're inside
+the "wall border", walk north until you see giant steps.  Walk up to
+the dark spot in the stone (the bottom step).  When you are in giants
+town, go right a few steps then south until you come to a building
+with 2 windows and a cave-like opening under one of the windows.  Go
+into the cave-like opening and go down and open the treasure chests.
+They contain a Power Magi and a Poison Magi.  Leave the building
+by going back through the cave-like opening.
+
+Go into the northern most building in Giant's Town and go into the
+cave-like opening.  Go down and open the chest to get a Gold Sword.
+From the treasure chest, go right to another chest to get Geta Boots.
+From this chest, go up and climb the dark box-like shelf in order
+to get onto the table (the table is the thing with stripes that go
+from side to side).  Walk down when you're on the table and walk to
+the round ball-like object.  When you're touching the object, press
+the A button to get the Micron Potion.  Once you have the Micron,
+leave the building and go back to the cave you first entered which
+is to the left of this building in order to exit the Giant's Town.
+head back to the Pillar, and go back to the First World to get to Ki.
+Talk to the Fairy standing next to Ki to get a Thunder Magi.  Then,
+talk to Ki to "Micronize" (shrink) and enter her body.
+
+***11.Inside Ki's Body***
+The pathways inside of Ki's body can be somewhat confusing at
+times, so remember where you have been, and remember where you
+are headed.  From the entrace to Ki's body, walk down and when the
+path splits, take the left-most path.  Follow this trail and enter
+the opening at the end of it.  Work your way around the path and
+when you reach the multiple pathways, take the 2nd from the left.
+When you reach the round object, press the A button when you are
+touching the object and you will receive a Fire magi.  After you
+receive the magi, you will be returned to entrance to the opening.
+Return to the main entrance and from there go down the center path
+ and the follow the path that splits to the left.  Go all the way
+down and into the opening.  Follow this path and when it splits
+take a right, and the when it splits again follow the right-most
+path to get to a Thunder magi.  When you are returned to the
+entrance to the opening you just were in, go up and go right when
+the path leads to the right and then go into the opening.  Follow
+the path to get to a Defense magi.  When you are returned to the
+entrance to the opening, go to the main entrance of Ki's body and
+go down the center path and then go right when you can.
+
+Go in the entrance.  Follow the path and when the path splits, take
+the right-most path to get to a Poison Magi.  When you are returned
+to the path entrance, go up the path and go left when the path
+deviates left and go in the entrace.  Follow the path to get to a
+Speed Magi.  When you are returned to the path entrance, go to
+the main entrance and take the right-most path and go into the
+opening.  Follow the path and when it splits, go left then up the
+first path on the left.  When the path splits again, go up the left
+path to get to an Ice Magi.  When you are retunred to the opening
+to the path, you should have 24 magi.  Go to the entrance to Ki's
+body and go north of the entrance and enter the opening.  Follow
+the path to the center and talk to the monster (it's white and it's
+moving from side to side).
+
+<>Mini-Boss: Phagocyt (there are between 5 and 8 of them)<>
+HP: ~150 each
+Weak vs.: Ice
+Strong vs.: Poison
+These monster(s) aren't too incredibly tough. They attack with
+Dissolve which causes 50-150 damage and Wind-Up which causes
+30-150 damage. You should attack with Whip which causes 40-200
+damage, Katana which causes 50-150 damage. For magic use Fog which
+causes 100-200 damage to all foes, and Ice which causes 150-300
+damage to all foes. The Colt gun also causes 50-100 damage.
+
+When you defeat the Phagocyts, go up and get the Mana Magi. When
+you are returned to the outside of Ki's body, talk to her and she'll
+thank you for saving her.  Return to the pillar (up north), and go
+through pillars and doors until you can't go any further. Step on
+the light-colored tile and go through the door to enter Apollo's
+World.
+
+***12.Apollo's World***
+Coming Soon!
+
+********
+G. Items
+********
+Coming Soon!
+
+*************************
+H. Powering Up your Party
+*************************
+Coming Soon!
+
+***************
+I. Cheats/Codes
+***************
+Coming Soon!
+
+**********
+J. Credits
+**********
+All information in this walkthrough was/is created by me and it is
+protected under international copyright law.  You may NOT do any
+thing with this FAQ/Walkthrough without my consent.  If you fail to
+contact me and you use my information anyway, you'll be in BIG trouble.
+
+Thank YOU for reading my FAQ/Walkthrough!
+
+Copyright © 1999-2001 XSceptor (Jeff). All rights reserved.

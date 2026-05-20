@@ -1,0 +1,989 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                       The Final Fantasy Legend
+
+                    ***SINGLE-CHARACTER CHALLENGE***
+
+                             by DamageInc
+                         aka Michael DiBernardo
+
+                          mikedebo@gmail.com
+
+                             VERSION 2.1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CONTENTS:
+    1.  Motivation
+    2.  The Scenario
+    3.  What Makes the SCC Difficult?
+    4.  What Makes the SCC Rewarding?
+    5.  The Human SCC
+        + 5.1   Why a Human is well-suited for the SCC
+        + 5.2   Why a Human is (theoretically) better than a Mutant
+                for the SCC
+        + 5.3   General Things to Watch Out For in the Human SCC
+        + 5.4   Human SCC Game Guide
+                - 5.4.1     World I
+                - 5.4.2     The Ascent to World II
+                - 5.4.3     World II
+                - 5.4.4     The Ascent to World III
+                - 5.4.5     World III
+                - 5.4.6     The Ascent to World IV
+                - 5.4.7     World IV
+                - 5.4.8     The Divine Whacking of Ashura
+                - 5.4.9     The Sacreligious Finale
+    6.  The Mutant SCC
+        + 6.1   Why Most of What I Said Before About Mutants
+                Doesn't Matter
+        + 6.2   General Things to Watch Out For in the Mutant SCC
+        + 6.3   Mutant SCC Game Guide
+                - 6.3.1     World I
+                - 6.3.2     The Ascent to World II
+                - 6.3.3     World II
+                - 6.3.4     The Ascent to World III
+                - 6.3.5     World III
+                - 6.3.6     The Ascent to World IV
+                - 6.3.7     World IV
+                - 6.3.8     Things Aren't Getting Any Easier
+                - 6.3.9     Some Time to Reflect
+                - 6.3.10    Deicide is an Iffy Business
+    7.  The Monster SCC
+        + 7.1   All I'm Going to Say About This
+        + 7.2   Future Work
+    8.  Comments and Credits
+    9.  Version History
+
+1. Motivation
+=====================================================================
+
+The general motivation for this kind of challenge is simple: to get a
+new, stimulating experience from an otherwise old and stale game!
+Final Fantasy Legend has a lot of replay value simply because there
+are so many character combinations, and the whole atmosphere of the
+game is just... trippy. Once you've gone through the game a few times,
+though, it can really be hard to pick it up again. This daunting solo
+quest might be just the thing you need to breathe new life into this
+classic title.
+
+
+2. The Scenario
+=====================================================================
+
+The idea behind the single-character challenge (SCC) is simple: you
+are to complete the entire game using _only_ the "hero" character.
+You are NOT ALLOWED to recruit ANYONE from the Guild - EVER!
+
+Some assumptions are made about the player at this point.
+
+It is assumed that you are _very_ familiar with the (sometimes
+quirky) gameplay mechanics of the Final Fantasy Legend (FFL). It is
+also assumed, but _not_ required, that you have finished the game at
+least once -- more than once, if you can help it. I'm not going to
+even attempt to avoid spoilers, though, so expect to have some of
+the bigger surprises ruined for you if you use this guide before
+completing the game on your own.
+
+Ideally, you shouldn't be using the Saw to kill bosses. There is a
+bug in the game that causes the Saw to instantly kill any enemy with
+a higher defense than the character wielding it (provided the wielder
+has a high enough agility), and exploiting a bug really isn't the
+honorable thing to be doing.
+
+
+3. What Makes the SCC Difficult?
+=====================================================================
+
+The most obvious difficulty in the SCC is that you are the sole
+target of all enemy attacks. The success of your "party" hinges
+entirely on the competence of your single character. Giving and
+taking damage is going to be more difficult, and you won't have the
+variety of approaches to a problem that a full party would have.
+
+There are other, more subtle difficulties in the SCC. One is managing
+inventory space. Another related problem is the budgeting of your
+resources: running out of money or weaponry can mean having to start
+the entire game from scratch.
+
+Unless you're playing from a ROM, you're only going to have one save
+slot to work with; thus, you have to make sure that you save ONLY
+when you are completely sure that you haven't screwed anything up.
+Again, making a mistake here can mean having to start the game over.
+
+Basically, the SCC is more difficult than the regular game because
+making a mistake with a single-character party results in much more
+dire consequences than making the same mistake with a full party.
+So pay attention to what you're doing!
+
+Personally, though, I think the SCC is almost easier than the
+"normal" game (at least with a Human) because you only have to
+concentrate on the development of one character. If you're playing a
+diverse, four-character party, you have to worry about the
+progression of all four of those characters and you can't just rely
+on equipment found in chests to pull you through the game. In the SCC,
+though, after some initial training woes you can practically coast
+through the rest of the adventure.
+
+
+4. What Makes the SCC Rewarding?
+=====================================================================
+
+The best thing about the Final Fantasy Legend SCC is that it is
+difficult enough to require some ingenuity to accomplish, but it is
+still readily manageable. It does not involve constantly restarting
+the game in the hopes that the random number generator will squeak
+you out of an otherwise impossible battle, like many of the Final
+Fantasy Low-Level challenges do. (Unless, of course, you're foolish
+or masochistic enough to try the Monster SCC).
+
+The SCC lets you play the game from a different angle without
+grinding your teeth in frustration or tossing your GB out the window.
+The SCC really has nothing to do with bragging rights or any other
+such ridiculous things; its main purpose is to bring new enjoyment to
+a classic title.
+
+So buck up! It's time to get this show on the road.
+
+
+5. The Human SCC
+=====================================================================
+We open with a discussion of why the Human-type character has a
+greater potential for success in the SCC in comparison to a Mutant
+character.
+
+5.1 Why a Human is well-suited for the SCC
+--------------------------------------------------------------------
+
+* REASON 1: GROWTH AND DAMAGE POTENTIAL
+
+Simply put, Humans have the absolute highest growth potential in the
+game. While it is true that their susceptibility to (and ineptness
+with) magic limits their development in some sense, they have no
+equal when it comes to maximum stat growth. Due to some sloppy
+programming on the part of the FFL team, the STR and AGI of a human
+can be boosted far beyond the apparent maximum of 99: both can
+actually be raised as high as 254! I've never found a maximum for
+their HP, but I'm assuming it's somewhere around 2048. In comparision
+to the maximum of (approximately) 99 that a Mutant can achieve and
+the fixed maximums that Monsters are restricted to, Humans have a far
+greater capacity for growth than their fellow races.
+
+This, of course, translates into a much higher damage potential. It
+is not unusual to see a juiced-up Human hitting extremely high-level
+opponents for 300-400 damage with a first-tier weapon (such as a long
+sword or an axe). Since there's going to only be one of you dishing
+out the pain, you've got to make sure that you have plenty of it to
+go around.
+
+* REASON 2: GROWTH IS GUARANTEED
+
+When playing FFL with a full party, it's usually not a big deal if
+one member of the team is lagging behind the rest in terms of
+growth -- your more reliable members will pick up the slack. In the
+SCC, you only have ONE character to depend on, so you have to make
+SURE that said character will be able to advance at a steady,
+dependable rate.
+
+With a human character, you can advance as much as your wallet will
+allow. There is no praying to the Mutant Gods to grant you a new
+stat boost or ability, and no crossing your fingers as you bite into
+a chunk of a fallen foes' corpse -- buy some potions, suck them down,
+and you can be SURE that you're going to be more effective the next
+time you go into battle.
+
+(It turns out that this reason isn't ALL that relevant. See the
+section on the Mutant SCC to find out why.)
+
+* REASON 3: WEAPONS DON'T MATTER
+
+With the amount of money you're going to be spending upgrading your
+statistics and armor, you might be wondering where you're going to
+drum up the cash to buy the new shiny sword with the badly
+translated name that the shopkeeper is selling. Guess what? You DON'T
+NEED IT! As long as your stats are high enough, you can get through
+the entire game using only the most basic weapons. And by basic, I
+mean BASIC - Long swords, Rapiers, Axes, maybe some Battle swords if
+you're feeling rich-blooded. With the number of high-powered weapons
+that you find lying around the Tower, you'll always have a crazy
+uber-weapon to rip through bosses with. Most of the time, though,
+you'll be dispatching the hordes of the wicked with your cheaper
+equipment. This is what I call the "fly-swatter strategy" -- carrying
+four or five weak weapons (on your person or in your inventory) to
+kill normal enemies, and only using your more powerful weapons
+against the bosses.
+
+* REASON 4: CARRYING CAPACITY
+
+You'll find that inventory space becomes a SERIOUS problem very early
+into the SCC. Having all eight slots open on your hero is going to be
+VERY helpful.
+
+(This is another point that, in practice, doesn't really matter.)
+
+* SOME WEAKNESSES
+
+Of course, Humans aren't TOTALLY perfect.  For one thing,
+Humans are EXTREMELY susceptible to magic and status-effects.
+Enemies that cause stone, blind, or instant-death are going to be a
+big problem. You're going to have to rely heavily on elemental armor
+and the like to deal with this. If you see anything with a snake-wig
+or an extremely large eyeball, it's time to flak out of there.
+
+Another problem is that you have to rely entirely on items to heal
+yourself, as you don't have any cure spells or abilities at your
+disposal. Packing a couple of potions on your person is a necessity.
+
+A third issue is multi-target attacks: you don't have any. Well, you
+don't have TOO many, and they all suck except for the Excalibur --
+which you don't get until the end of the game.
+
+Finally, you only have the potential to cause physical damage --
+status effects and attack magic just aren't your thing. Fortunately,
+status attacks aren't really that effective in this game (at least
+they aren't when YOU use them :/), and there are few enemies that
+your steroid-enhanced body can't make short work of. Almost anything
+that a Mutant or Monster can kill with magic can be killed faster
+with a Human's physical attack.
+
+Basically, the gist of this whole section is that Humans are great!
+Yay! Like we didn't already know.
+
+
+5.2 Why a Human is (theoretically) better than a Mutant for the SCC
+---------------------------------------------------------------------
+
+When starting the SCC, your first thought might be that a Mutant
+would be a great choice. After all, they have the potential to be
+good physical fighters, they have a much higher resistance to magic
+than humans, and they're not nearly as expensive to level. These are
+all very understandable things to be thinking; they are also all very
+WRONG.
+
+It is true that a Mutant with a STR and AGI of 99 is going to be a
+pretty good fighter -- using a Psi weapon with 99 MANA is also a
+great strategy. Unfortunately, said Mutant STILL won't be nearly as
+deadly as a Human with 254 STR and AGI. You need to be able to cause
+as much damage as possible in as short a period of time as possible.
+Now, it is true that magic can demolish entire groups of enemies at
+once, but the utility of this isn't as great as you might initally
+think.
+
+Magic spells are very effective at taking out groups of fairly weak
+monsters in a short period of time. Unfortunately, the most difficult
+battles in the SCC are boss fights, and these are one-on-one: in
+cases like this, a juiced Human with a Long sword is going to do more
+damage than a maxed-out Mutant with Flare.
+
+A Mutant's higher magic resistance is also a highly disputable reason
+to use one in the SCC. Enemies don't really start using strong magic
+and instant-death attacks until the 3rd world or so, and by then you
+have access to armor that makes you immune to almost all of these
+attacks (the Dragon armor). As long as you choose your wardrobe
+carefully, you should have relatively few problems with magic attacks
+using ANY race.
+
+Finally, Mutants aren't nearly as cheap to raise as they first appear.
+Sure, it costs thousands of GP to completely stack a Human character.
+However, at least you know that spending that GP is actually
+_getting_ you somewhere. Mutant advancement is so unreliable that you
+could conceivably spend tons of gold on weaponry before seeing any
+_real_ improvement in performance. (This, of course, only holds true
+with an "ideal" random number generator (RNG) on ideal hardware -- we
+will see later that this is easy to get around because of the crummy
+RNG programming that is usually done for the Gameboy series of
+consoles).
+
+The Mutant does have _some_ strengths in the SCC. Their ability to
+use physical and magical attacks certainly makes for a more varied
+gaming experience, and many of the Mutant abilities are extremely
+useful -- in the right situations. Their lack of inventory slots is
+going to be a problem, though -- you have to ensure that you can
+always pack enough extra weapons and spellbooks to keep from running
+out.
+
+In the end, the sheer randomness involved in playing as a Mutant makes
+it difficult for them to succeed at the SCC; the experience will
+probably be more frustrating than anything else. Don't forget, we're
+doing this to have fun! (By the way: I'm going to eat these words
+a bit later on in this FAQ. Stay tuned.)
+
+5.3 Some General Things to Watch Out For in the Human SCC
+---------------------------------------------------------------------
+
+ * At the outset, it is very important to WATCH YOUR WALLET! Make
+   sure that you always have enough weaponry to net you a steady
+   income. Later in the game, you will probably be rich beyond your
+   wildest dreams, and this ceases to be a concern.
+
+ * Don't spend too much money on high-quality weaponry. Cheaper is
+   better; save the greater portion of your cash for procuring stat
+   boosting items. You should be shopping with this list of
+   priorities in mind:
+
+   	1. Strong and Agility Potions
+	2. Armor
+	3. MaxHP boosting potions
+	4. HP recovery items (Elixir, XPotion, etc.)
+	5. Powerful weapons
+
+   You will be finding enough powerful weapons throughout your
+   journey that you really won't need to buy any. Spend your extra
+   cash on stacks of fly-swatters (ie low-level weapons) instead.
+
+ * On a related note, try to buy LOTS of cheap weapons (eg Battle
+   swords) when they are accessible to you. Most of the weapons for
+   sale in the 3rd and 4th worlds are ridiculously expensive, and
+   you will be strong enough that nothing will really be able to
+   stand against you no matter WHAT weapon you use.
+
+ * DON'T SAVE unless you are ABSOLUTELY SURE you haven't screwed
+   anything up. You only have one save slot here, so you have to use
+   it wisely.
+
+ * DON'T GO BALLISTIC with the stat-boosting items. If you ever go
+   over 254 STR or AGI, the resulting integer overflow will knock
+   the stat in question into the single digits. Keep in mind that
+   much of the equipment found at the end of the game will give you
+   STR and AGI bonuses; having astronomical stats will prevent you
+   from using these items, since wearing them will push your stats
+   over the limit of 255. Keep track of your STR and AGI, and make
+   sure it doesn't go over 220 or so. You can completely max out your
+   character once you've finalized your end-game equipment.
+
+ * Once you build more than 99 STR or AGI, CHECK YOUR STATS every
+   time you apply stat-boosting items to your character! If you
+   accidentally push a stat over the 255 limit and it wraps around
+   to 1, it is going to be almost impossible to build it up again.
+   I have the tendency to save automatically after doing anything
+   "good" to my character; this habit can be EXTREMELY dangerous when
+   applying Strong and Agility potions. Be careful.
+
+ * Since magic and status attacks are going to be your Achilles heel,
+   hang on to any resistant armors that you can get your grubby paws
+   on. If you're wearing the Dragon armor and you find a Suit for
+   sale that would increase your defense by 10 or so at the expense
+   of your resistances, DON'T BUY IT! Being immune to your most
+   potent weaknesses is far more desirable than having physical
+   attacks do a few less points of damage to you on average.
+
+ * Learn this key sequence -- A, B, SELECT, START. You're going to be
+   using it often. Pressing and momentarily holding these four buttons
+   will soft-reset the game and bring you immediately to the title
+   screen. Not only is this faster than the hard-reset, but it saves
+   the state of the random-number generator, meaning that you'll have
+   more "luck" in avoiding a random battle if it keeps cropping up.
+   The Game Boy Advance is especially notorious for it's foofy
+   pseudo-randomness, so you're better off using the soft-reset.
+
+ * RESIST TEDIUM. If you are playing really meticulously and you find
+   that the SCC is becoming more like work than entertainment, loosen
+   up a bit. Your character doesn't need to be _perfect_ to survive
+   on his or her own. Don't try to emulate those Everquest drones
+   that make something that is supposed to be a fun experience into
+   an ulcer-inducing quest for perfection.
+
+With these general rules in mind, it's time to begin the SCC in
+earnest!
+
+
+5.4 Human SCC Game Guide
+---------------------------------------------------------------------
+
+I hesitate to call this part of the FAQ a "walkthrough", because I'm
+not really going to walk you through anything. Basically, I'm going
+to assume that you know the sequence of events that are required to
+finish the game, and I'll just point out things that pertain to the
+SCC. For a real walkthrough for FFL, check out RPaulson's FAQ for
+more FFL information than you will ever need.
+
+5.4.1 World I
+.....................................................................
+
+Surviving the first world is the most difficult part of the SCC.
+If you prepare your character properly in this world, you've already
+won -- the rest of the game will consist of you ascending the tower
+and making Spam of any living (or undead) organism that tries to
+hinder you.
+
+I personally prefer to use a Human Female in the SCC because she
+starts the game with a Sabre, which can be sold for a whole whack of
+gold at the beginning of the game. I'm sure you'll do fine with a
+Male, though, so pick whatever suits you.
+
+When the game opens, unequip your hero's weapon and make your way to
+the weapons counter and buy a Rapier (If you're playing a Male,
+your weapon is almost worthless and there aren't any cheaper strength
+weapons to buy, so you can't do much shopping: don't bother with this
+step. Do you see why starting with a female character is so much
+easier?). Spend the rest of your cash on Agility potions.
+
+Alternately, you could forego the Agility potions and invest in the
+Gold armor and Gold glove right away. With 8 agility, you'll still
+be inflicting decent damage with your Rapier, but you won't be hit
+as hard as you would be if you were armorless. It's really up to
+you. I generally opt for the Agility potions, myself.
+
+Now the fun begins. Walk around outside the town and fight Goblins
+and Albatros' to make some cash. You should be avoiding Lizards and
+Zombies at this point because they net you the same amount of cash
+even though they are much more difficult to kill (Zombies especially,
+since they have 60HP compared to 40 for a Lizard and 20 for a Goblin
+or Albatross). Your priority right now is to buy all of the Bronze
+equipment (in the case that you decided to buy Agility potions with
+your leftover Sabre money) and raise your Agility a few points. The
+first Agility potion you suck down should raise your AGI by quite a
+bit, so get one as soon as you can. While it is tedious, I suggest
+that you reset the game every time you get hit for now -- the extra
+money you make this way will help A LOT (this isn't true if you're
+already wearing the Gold armor).
+
+Once your Agility is at around 18 or so, you should be able to hack
+your way to the forest town where King Armor's girly-girl is pining
+away her days. I find that the Goblins and Albatros' are more
+plentiful around here (ie in forest terrain), so things should go a
+bit faster. You should be aiming to acquire all of the available
+Gold equipment (it's not really that expensive) and to knock your
+Agility up to around 35. Alternately, you could fight the Lizards
+wandering around the Bandit's cave. (Thanks to Andrew Brown for
+pointing this out. I do a lot of training in this area almost every
+time I run an SCC, but somehow I forgot to mention it here). If you
+can afford an HP200 or two, go for it, but I'd stay away from the
+Strong potions for now. Additionally, you can stop resetting the
+game every time you take damage -- it's not worth the time and
+effort anymore.
+
+Having done this, spleunk through the Bandit's cave and slice him a
+new one. Don't worry about his venomous counterattack -- Poison
+doesn't stick with you after the battle is over.
+
+After bringing the good news to Mrs. Armor, make the long trek back to
+Castle Armor to receive your reward. Congratulations! You are now
+practically invincible! There aren't really any monsters on this
+world that can cut through the King's Armor. I shouldn't have to tell
+you to save your shiny suit of Gold Armor, though -- the King's gear
+is just on extended loan. :/
+
+Relish in your tankness for a while, and then hotfoot it to King
+Sword's castle in the south. Run from the enemies here, slowly making
+your way towards King Sword's antechamber. His attacks shouldn't be
+able to touch you, so just peel his hide away with your Rapiers and
+procure the King Sword off of his ribboned corpse.
+
+This is great! Now you're invincible AND you have a weapon that never
+breaks! You know what this means -- it's time for some SERIOUS
+levelling. This will definitely be the most boring part of the SCC,
+but some hard work now will save you a lot of grief later. Camp out
+in one of the hallways of Castle Sword and keep running into the
+guards that are wandering around -- you should be able to slaughter
+them without any trouble. Your strength should be really pathetic
+right now, so winning these fights will take a while at first -- it's
+time to start investing in Strong potions.
+
+I know it's a bit extreme, but you should juice your hero until you
+have roughly 100 STR and AGI and around 200HP. This shouldn't take
+more than a few hours, and it will ensure that you'll be able to get
+through some tough situations later on.
+
+(It was pointed out to me that if you want to be sneaky, you could
+park yourself in front of a guard and put a rock or something on
+the A button of your Gameboy. Leave the thing on for a night or so,
+and you'll have a whole whack of cash that you can readily spend.
+Thanks to Alexander Wu for this tip.)
+
+By the way, once your STR and AGI go over 99, I STRONGLY suggest that
+you keep track of their "real" values on a scrap of paper or
+something. This will keep you from having to play guessing games with
+your stats later on. You should NOT, under ANY CIRCUMSTANCES, let
+your STR or AGI go above 235 -- if it does, you might be locking
+yourself out of some effective armor combinations.
+
+Let's get hacking!
+
+*...many battles later...*
+
+Can you FEEL the POWER?!?! You are truly a force to be reckoned with!
+Dealing over 500dmg to enemies with only the most basic weapons, you
+are now ready to ascend to the next world. Make a quick side trip to
+pick up the King's shield, and then purchase a few Long swords to
+help you through the Tower. Go to the Town of Hero and bid a fond
+farewell to the King's equipment -- it was great while it lasted!
+Don your old gear, and get ready to mix it up with Gen-Bu.
+
+If you've prepared yourself to the degree that I suggested above, you
+should be able to clean this thing's clock with a couple of swings of
+your Long Sword. If you're slightly weaker than I expected you to be,
+equipping an X-Potion will help out a lot. I've beaten Gen-Bu with a
+lone Oni, though, so you really shouldn't have much trouble.
+
+Before entering the tower, you should have at least one X-Potion and
+two spare Long Swords in your inventory. You probably won't need them
+all, but playing it safe is what the SCC is all about.
+
+5.4.2 The Ascent to World II
+.....................................................................
+
+This should be relatively straightforward. Killing everything in your
+path on your way to the next world will fatten your wallet with very
+little effort required on your part, so don't be merciful. It is a
+very BAD IDEA to fight enemies from the Eye or Slime group, though --
+their Beam and Drink/Melt attacks ignore your armor. If you encounter
+any, RUN!
+
+Unfortunately, the only weapon you find on your way up is the Colt,
+which is completely worthless. It only sells for about 40GP, so it's
+not worth hanging on to.
+
+Just a quick note here -- I've noticed that it becomes IMPOSSIBLE to
+score a hit with projectile weapons once your stats have become
+really high. If anyone has any explanations or comments about this
+observation, drop me a line.
+
+Andrew Brown observed that if you keep your levelling to sort of a
+minimum in World I, you can gain a lot of cash in a hurry in that
+last giant room that holds the entrance to World II. There's a
+healing pool in there, and the enemies come in large clumps and
+drop a decent amount of gold. If you bring enough weapons along with
+you, it's relatively easy to raise the roughly 40000-50000 gold you
+need to max out your hero. I personally prefer to incrementally raise
+stats as I go, but Andrew made the good point that by raising the
+money all at once and purchasing the bulk of your potions in one go,
+you won't have to worry about keeping track of the actual value of
+your stats -- you can just do the math once and then progress
+worry-free through the game.
+
+5.4.3 World II
+.....................................................................
+
+Ah... fresh ocean air! Your stay in this world WILL resemble a
+vacation, so the setting is certainly appropriate. Make sure to check
+in at the town and spend some of your Tower-earned currency. While
+you will be able to buy powerful armor later on in this world, I
+still recommend that you pick up some new equipment here -- it's
+important to have the highest defense possible in the SCC. Snatch a
+few stat-boosters while you're here, but stay away from the weapons.
+Your Long Swords will suffice for now.
+
+From now on, you should be investing in Strong and Agility potions in
+small batches as you progress until you max out. There's really no
+need to spend an inordinate amount of time levelling if you did your
+homework in World I -- buying a few stat-boosters here and there will
+still net you 200+ STR and AGI by the end of the game, and you won't go
+nuts fighting the same enemies over and over again.
+
+Anyways, it's time to begin your hunt for the foofy floating island.
+The enemies on this continent have the extraordinaily ANNOYING habit
+of repeatedly casting Sleep spells on you -- which, of course, you
+succumb to every time. While this is infuriating, it's not really all
+that dangerous, since these opponents have a difficult time
+inflicting damage on you anyways. Stay away from the Bull and Tiger
+type monsters -- they can hurt you badly. I shouldn't have to tell
+you to run from Eyes. If you ever find yourself drowning in cash,
+indulge yourself with some Battle Swords -- they're going to be a
+staple in your inventory for the rest of the game, so you might as
+well become familiar with them now. Buying the Silver Armor is
+largely unnecessary, since you'll find one in the Underwater Castle.
+
+Basically, make your way through this entire world with your sword
+drawn -- slaughter EVERYTHING that doesn't put up significant
+resistance. If you do this instead of running from everything, you
+won't have to waste time levelling up later on.
+
+Facing Sei-Ryu, your weaponry should consist mainly of Battle
+Swords -- those Long Swords are quickly becoming outclassed. The
+Dragon-King of Astounding Irritability himself won't offer anything
+resembling a good fight -- you'll probably take him out before he can
+cause any damage. His Thunder spell usually misses, but you might
+have to suck down an X-Potion if it connects.
+
+Don't forget that you can leave the Underwater Castle instantly after
+beating Sei-Ryu by jumping into his orb!
+
+Before beginning the climb to World III, you should have a STR and
+AGI of ~140, and about 400HP. Buying 4 Battle Swords before you leave
+will guarantee that you won't have to purchase any other weapons for
+the rest of the game, but it's up to you.
+
+5.4.4 The Ascent to World III
+.....................................................................
+
+There's really not much to this climb. The only thing really worth
+keeping is the P-Knife, and that's just so you can sell it later. If
+you're having trouble defeating the enemies here, you're likely going
+to be in trouble when you arrive in World III. There seem to be an
+inordinate number of enemies who like casting Stone spells on you in
+this area of the Tower, so you might end up restarting frequently.
+
+5.4.5 World III
+.....................................................................
+
+The first thing you want to do when you get here is BUY THE DRAGON
+ARMOR! Not only is it stylish and creakingly comfortable, but it
+protects you from pretty much everything. This is going to be your
+most valued piece of equipment until you acquire the Band Helmet.
+
+I didn't really see any need to use any other weapon than the Battle
+Sword throughout this entire world -- you should be able to kill most
+enemies in one hit with it. If you failed to purchase enough of these
+trusty blades in World II, it's going to be almost impossible to find
+a cheap substitute: all of the strength weapons here cost upwards of
+9800GP, and the cheaper Katanas and Sabres are twice as expensive as
+Battle Swords and aren't as effective. The moral of the story is
+obviously to stock up on Battle Swords in World II -- but you already
+did that, right?
+
+As for high-end equipment, you can pick up a L-Saber and a Giant
+Gauntlet when you're breaking out of Byak-Ko's floating palace. If
+you went overboard with the Strong potions (like I did), you might
+not be able to equip the Giant Gauntlet without having your strength
+wrap around to 0, which is a pretty tough break. Sell the Revenge
+sword -- it's absolutely useless to you. If something does enough
+damage to you that using the Revenge sword's counterstrike is even
+moderately effective, odds are that you're not going to make it
+through the battle.
+
+Byak-Ko himself is a pushover; just bust him with your nifty L-Saber,
+and head back to the Tower.
+
+You're probably going to want your character to have about 180 STR
+and AGI at this point, but you can keep your HP at 400 or 500.
+
+Keep in mind that it is actually cheaper and more effective to buy a
+whole whack of HP200s than it is to buy a single HP600, and once
+you're over 600HP, buying HP200s is the only financially feasible
+way of boosting your max HP. As you might suspect, boosting your max
+HP by one point at a time is excruciatingly tedious, so you might not
+have the patience to break the 600HP barrier.
+
+The enemies are about to start getting tougher, so make sure you have
+enough fly-swatters at your disposal to hack through this part of the
+game! Otherwise, you might want to scoot back down to World II to
+relieve the shopkeepers of a crapload of their Battle Swords.
+
+5.4.6 The Ascent to World IV
+.....................................................................
+
+You're going to net yourself a whole bunch of useful equipment on
+this leg of your journey. The Vampic, P-Sword and Revive are
+obviously useless to you, but they'll sell for a huge wad of cash
+once you get where you're going. The Army helmet provides a
+significant improvement to your defense, and the Elixirs are VERY
+handy to have in your inventory, although unfortunately they can't be
+used in battle when stored on your person. Or at least, I haven't
+figured out why they REFUSE to show up on my battle menu when I equip
+them. If anyone wants to prove how much of an idiot I am by telling
+me how to do this, then feel free to email me.
+
+5.4.7 World IV
+.....................................................................
+
+Completing this world with only a single character is liable to take
+a VERY LOOONG time because there are so many quests to complete, and
+almost all of the monsters require a couple of hits to kill -- and it
+certainly doesn't help that most of them travel in large packs.
+
+You may be tempted to buy the Suit right off the bat, but the Dragon
+armor is much better because of the resistances it provides. You
+might want to buy the Suit as a backup armor for fighting battles
+against enemies that you are absolutely certain will not use magic
+or status attacks against you. Again, I don't suggest buying any of
+the weapons here -- just use your cheapy Battle Swords against normal
+enemies. You'll be able to find enough killer weapons here for free
+that you won't even have to peek at what the weapon shop is selling.
+In fact, if you still have that L-Saber from World III, you might
+want to sell it or break it on ugly monster faces, because you'll be
+finding some items in this world that will outclass it.
+
+There are three pieces of equipment available in World IV that you DO
+NOT want to miss. The first is the horribly translated Catcraw: this
+baby will make the baddest bosses quake in their pixellated boots,
+and it's free! The second is impossible to miss, and possibly the
+greatest piece of armor in the game: the Band helmet. Once you get
+this, you can drop the Dragon armor and suit up in the Suit, since
+the Band will protect you from absolutely everything. The third and
+final item that you'll want to procure is the Hyper that is lying
+around the Skyscraper: this will prove very useful during the
+endgame. I know that some people find using the Hyper sort of cheap,
+so go ahead and sell it if you're the anal type.
+
+For all of his bluster and fire, Su-Zaku is one horrible wanker of a
+boss. I think you'd stand a good chance at beating him with a fourth-
+tier monster, so your roid-case of a human should be able to fricasee
+him with little effort.
+
+Before leaving this world, it's a good idea to have your hero more or
+less maxed out. The Northeast town is a great place to boost your HP,
+since there is a vendor in the southeast corner of the town that
+sells the HP200s you'll need to stack your HP above 600. At this
+point in the game, the short unsigned integer is the only limit when
+it comes to upgrading stats, since money is so plentiful in World IV.
+While it's great to have a hero with 255 STR, 255 AGI, and 999HP, it
+does take a lot of the challenge out of the endgame. No matter what
+your decision, make sure you've tailored your character's stats to
+your desires before moving on, since we're fast running out of game
+to play.  :)
+
+5.4.8 The Divine Whacking of Ashura
+.....................................................................
+
+While you'll pick up a lot of uber-weapons on your ascent to Ashura's
+lair, only two are really worth keeping: the Xcalbr, and the Glass
+sword. The Nuke will probably do less damage than your melee attack
+on a boss, and it seems kind of silly to use it against a normal
+group of enemies. Often overlooked, the Door is an INCREDIBLY useful
+item at this point in the game -- if you think you've missed anything
+along the way, or if you want to juice your hero up a bit more, just
+use the Door to return to World I. It only takes about 20 minutes or
+so to climb back up to World IV, and if you're hurting for weapons or
+stat-boosters, it's well worth it. (As of version 2.0: I only just
+realized, after playing this game for about 8 years now, that you
+can use the door to go to *any* floor of the tower, not just the
+first! Ugh.)
+
+Ashura is the first tricky boss you encounter in the SCC;
+fortunately, he is also one of the last. My first time through, I
+had absolutely no trouble because his 3-heads attack couldn't touch
+me through my astronomical agility. The second time around, I
+wasn't so lucky. Nonetheless, as long as you're packing the Glass
+sword, some magic-resistant armor, and a curative item, this battle
+should be elementary. Don't forget that you have to approach Ashura
+from the left when walking up to him, otherwise you'll be warped
+back down to the bottom of the escalator. Isn't that cute. :/
+
+(Radon mentions that Revenge can actually come in handy against
+Ashura if he decides to wack you with 3HEADS... maybe in some
+cases the Revenge reflects more damage than is caused? It's worth
+trying if you're still carrying it.)
+
+After defeating Ashura, make sure that EVERYTHING is in order with
+your hero before progressing. If you feel that your character still
+has a few rough edges that need evening out, then by all means use
+the Door to return to World I. However, the fact that you were able
+to defeat Ashura in the first place indicates that you should be
+strong enough to finish the entire game. It's up to you.
+
+5.4.9 The Sacreligious Finale
+.....................................................................
+
+It's time to bring this game to its somewhat disturbing conclusion.
+
+First, you'll want to do some preparation for the final ascent. While
+the weapon store has some VERY powerful weapons, none of them are
+nearly as good as the Glass sword, except maybe the Sun Sword, and
+that's only because it is capable of causing critical hits. I chose
+not to buy anything, myself.
+
+If you have any fly-swatters left on you, you might as well get rid
+of them now. Sell all of your weapons except for the Glass Sword and
+maybe the Xcalbr, and buy yourself an Arcane at the item store. This
+allows you to use the absurdly powerful Glass sword as your primary
+melee attack without worrying about it running out of uses -- as soon
+as the blade is about to expire, just use the Arcane to top it back
+up. (Someone has told me that if you Arcane the Glass sword, it
+actually plunges to 1 use. This conceptually makes sense, since the
+Glass sword was intended to be a one-use item in the first place.
+However, I distinctly remember using the Arcane to boost the Glass
+sword back up to 50 uses, so I'm not sure what the truth is here,
+and I always seem to forget to test it when I get to Tower part
+deux.) The Arcane is my favorite item in the game, hands-down. If you
+want to make the upcoming boss fights really easy on yourself, then
+you should also make sure that you're carrying the Hyper. Finally,
+if you're the cautious type, you'll probably want to be carrying
+a Door with you in case you need to flee back to the Base Town for
+healing.
+
+I would hold off on buying armor, since you're going to find much
+cooler stuff on the last leg of your journey.
+
+Once you think you're totally prepared, bust out those Spheres and
+wreck that Tower door.
+
+You're probably going to want to run from all of the random
+encounters in the final incarnation of Tower, simply because most of
+the enemies are HPmongers and will chew through your Glass sword
+really quickly. Most of the enemy packs are exceptionally easy to run
+away from.
+
+Every piece of equipment that you find during your climb is useful,
+with the possible exception of the Masmune. The Arthur armor is a
+welcome substitute for your Suit (or your Dragon Armor, depending on
+how outdated your wardrobe is), and the Ninja Gauntlet and Shoe are
+nifty accessories that should boost your defense well over 70.
+
+If you decide to use the Hyper against the revamped Fiends, then the
+walk up to Paradise will probably be a leisurely one, although the
+futuristic gizmo does miss fairly often -- it was probably made by
+Microsoft.
+
+Even without the Hyper, the fact that you are immune to
+practically everything and swinging an insanely powerful weapon with
+the strength of three giants means that none of these fights will be
+all that difficult for you. Keeping a few elixirs in your pack and an
+XPotion on your person is still a prudent thing to be doing, though.
+
+(As an aside: When you're traversing that final escalator to Paradise
+that shoots you into outer space, Radon tells me that if you lean on
+the left or right key -- I'm not sure which -- you can actually slip
+off the escalator into a little 'side compartment'. Useless, but
+cool! It's fun discovering these little gotchas :)
+
+The final battle with the Creator can be unpredictable, to say the
+least. The Creator is the only enemy in the game who is capable of
+damaging you significantly in every round, although he tends to waste
+a lot of turns using stupid attacks like REPENT and LIGHT. You would
+do well to remember, though, that it will only take a few doses of
+RIGHT or FLARE to put you in a world of hurt -- so don't get cocky.
+
+Despite all of this, there is really no strategy to this fight. Swing
+the Glass sword with all of your might each round, and hope that the
+random number generator doesn't decide to kick your head in
+with a bunch of consecutively powerful attacks.
+
+With a well-prepared character and a little bit of luck, you
+should be able to send the Creator to wherever it is that Gods (or
+God impersonators) go when their 4-bit creations come back and make
+a fatal mockery of them. And now for the generic congratulatory
+message:
+
+Congratulations! You have just completed the Final Fantasy Legend
+Single Character Challenge!
+
+Ugh... that made me feel so *dirty*.
+
+
+6. The Mutant SCC
+=====================================================================
+We open with a discussion of why most of the criticisms I had about
+Mutants in the previous section aren't all that relevant, and why
+Mutants make for a very casual SCC.
+
+6.1 Why Most of What I Said Before About Mutants Doesn't Matter
+---------------------------------------------------------------------
+
+* REASON I: THINGS IN GAMEBOY ARE NOT AS RANDOM AS THEY APPEAR
+
+One of the main reasons I initially had for excluding Mutants from
+the SCC is that gains are only acquired randomly and thus you
+could potentially be involved in a lot of fights without any
+discernible benefit. However, for various technical reasons, the
+Gameboy consoles always generate the same sequence of random numbers
+after a hard reset (shutting the power on and off), and so the
+sequence of events that occurs after you power up the game will
+always be essentially the same (I assume this is because the GBA does
+not have the internal clock that programmers need to select a 'random'
+seed for their generator). This limitation has been used to great
+effect by GBA gamers in RPGs like Golden Sun to allow easy retrieval
+of otherwise extremely rare equipment drops.
+
+This allows us to devise a strategy that will result in quick,
+predictable gains for our Mutant. If you are playing this game via
+PC emulation, the RNG will likely not be predictable (since the
+typical ANSI C rand() uses a the system clock time as a seed) unless
+you can access some sort of debug menu in your emulator that allows
+you to specify a seed. Also, you may think of this sort of "random
+number generator manipulation" as cheating: I, however, think of it
+as saving my sanity. If you want to be a purist and spend long hours
+fighting monsters for indeterminate benefit, then go right ahead. But
+you could have done that without the use of this guide, now, couldn't
+you? :D
+
+* REASON II: YOUR BODY IS THE WEAPON
+
+Another concern I initially had with Mutants is that their carrying
+capacity is 3/4s that of a human (4 slots on person + 8 slots
+inventory for a Mutant, compared to 8 slots on person + 8 slots
+inventory for Human). In practice, though, the Mutant actually ends
+up with almost MORE space to spare than Humans, because they have
+some innate strengths that Humans have to rely on items and
+equipment for.
+
+One of the really neato (and almost unfair) things about Mutants is
+that they have a natural defense than can grow just like any of
+their other statistics. I will show you in the Game Guide that it is
+actually quite simple to boost your Mutant's defense to the point
+where he/she can be wearing absolutely no armor at all and still have
+a defense of 99. This instantly frees up about 3-4 slots that a Human
+would normally require for armor.
+
+And don't forget the Mutant's abilities! If you've got a Heal ability,
+that's two less X-Potions that you'll have to carry with you. If
+you've got Teleport, who needs a Door? So it is easy to see that, if
+you play just a little smart and pay careful attention to the
+abilities that you are gaining and losing, inventory space will not
+be any more of a problem for Mutants than it is for Humans.
+
+* REASON III: LIFE IS EASY
+
+When you stop and think about it, the game really isn't all that
+tough (at least not until you fight the last couple of bosses).
+I made a big deal about the damage potential of humans being much
+greater than that of mutants etc., but in the end there aren't
+really all that many enemies or bosses that dish out a heck of a lot
+of damage. Once you have a reasonably high agility (over 70 or so)
+it's pretty darn easy to run away from any 'normal' monsters, and
+a Mutant with a single high combat stat (be it Mana or Strength or
+Agility) should always be able to cause enough damage to squeak
+out a victory against any opponent. Also, the Mutant will continue
+to gain HP throughout the game, while raising the HP of a Human over
+600 can be extremely strenuous on the fingers. This extra HP, coupled
+with a greater healing potential during battle, will generally allow
+a Mutant to whack the same monsters as a human, even if it does take
+them a bit longer.
+
+6.2 Some General Things to Watch Out For in the Mutant SCC
+---------------------------------------------------------------------
+
+ * Because you won't have the same ultra-buff stats as a human, and
+   you won't be spending a heck of a lot of money on items,
+   splurging on the occasional powerful weapon or spell is probably
+   a good idea. Really, what else are you going to do with the money?
+
+ * Check your stats after EVERY BATTLE! If everything still looks
+   good, save. If you lose an ability that you really liked, SOFT
+   reset the game (start + select + A + B) and try the fight again.
+   If you hard-reset the game, you'll just replay the same sequence
+   of battles that led you to that ability loss in the first place.
+
+ * DON'T SAVE unless you are ABSOLUTELY SURE you haven't screwed
+   anything up. You only have one save slot here, so you have to use
+   it wisely. (I've said it once, but it's worth saying again).
+
+ * Your Mutant is *not* going to be well-rounded if you follow my
+   strategy. Specifically, Strength is going to be extremely lacking.
+   For this reason, if you ever find that you've learned a Power
+   ability, HOLD ON TO IT! If your strength is less than (roughly)
+   50, two Powers will make you as 'good' as an SCC human with
+   Strength weapons for one battle.
+
+   You will otherwise be relying on Defense, Agility, and Mana to
+   get you through -- and really, even Agility becomes unimportant
+   in the endgame.
+
+ * Once you get a piece of magic-resistant armor (Dragon armor or
+   Band), it's worth equipping it so that you can get rid of abilities
+   that confer resistance. One piece of protect-all armor is more
+   space efficient than two or three Protect-(element) abilities.
+
+   On the other hand, a Mutant with a high Mana score will not take
+   very much damage from spells (except Flare). So, you might want to
+   avoid armor altogether until the 4th world or so when monsters start
+   trying to insta-kill you, if you're keen on keeping an extra slot
+   free. It all depends on your playing style, I suppose.
+
+ * Don't be afraid to go naked. Once your natural defense is high
+   enough to protect you from monsters, DON'T waste inventory space
+   on armor, except maybe for a piece that grants many resistances.
+
+ * Don't count on getting a lot of good abilities if you're using a
+   GBA or GBA SP. The random number generation on these consoles is
+   such that you don't start gaining abilities at all until you've
+   fought several battles in one sitting without hard resetting, and
+   these aren't all that great. I think I spent the entire game with
+   Flame, Power, and Forseen as my only abilities.
+
+   If you're dead set on picking up some good innates, it's going
+   to require fighting MANY battles in a row without powering down.
+   If you have another console handy (GBC, pocket, Super Gameboy, or
+   even the ol' brick), you might want to switch to it for a while to
+   shake things up a bit.
+
+ * RESIST TEDIUM. As noted in the Human SCC. This is easier with the
+   Mutant SCC because you have a number of different abilities at
+   your disposal, and because the initial training required for a

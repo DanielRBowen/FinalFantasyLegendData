@@ -1,0 +1,194 @@
+Sep's Top Tier Trash Can Bug Guide
+Final Fantasy Legend II
+prime7 at gmail dot com
+
+================================================================================
+00. Intro
+================================================================================
+If you've read any of my other guides, you should know that I'm not into verbose
+introductions. If you haven't, you know now.
+
+I'm well aware that there is already another trash can bug FAQ on GameFAQs right
+now, but it's terribly outdated, and I've learned information that is not
+currently in any other FAQ on this (or any other) site. Rather than bug the
+author about something he wrote nearly five years ago, I thought I would just
+write one myself. So let's get to it.
+
+================================================================================
+01. Legal Mumbo Jumbo
+================================================================================
+Yeah, I don't really care who uses this, but please let me know if you want to
+post it somewhere. And if you intend to use this for profit, I want a cut.
+
+In the interest of brevity, I will refer to the player with male pronouns. If
+you're a female and are offended by this, get over yourself.
+
+All the data in this document were either found myself or built upon the info
+found in some of the other FAQs on GameFAQs.
+
+================================================================================
+02. Version History
+================================================================================
+Barring any major mistakes or updates, this is pretty much the final version.
+
+================================================================================
+03. Contents
+================================================================================
+Search by number.
+ -00. Intro
+ -01. Legal Mumbo Jumbo
+ -02. Version History
+ -03. Contents
+ -04. The Trash Can Bug
+ -05. When Can I Use the Trash Can? / What Does the Trash Can Do?
+ -06. How Many Times Can I Use the Trash Can?
+ -07. The Nasty Bug
+ -08. Fixing the MAGI Counter (Emulators only)
+ -09. Frequently Asked Questions
+ -10. Closing
+
+================================================================================
+04. The Trash Can Bug
+================================================================================
+If you open the ITEM menu in your pause menu and scroll all the way to the
+bottom, you may notice that there's a trash can. Its intended purpose is for
+the player to dispose of unwanted items in his inventory. However, for whatever
+reason, you are able to use the trash can as an item at certain times, for a
+certain amount of uses. You've probably read some faux explanations, or you
+probably don't care, but when you can use the trash can depends on how many
+total MAGI you have in your possession.
+
+Even stranger is that, with each use of your trashcan, you will lose a Power
+MAGI (and always Power MAGI), although sometimes you can use it more times than
+the total amount of Power MAGI you have. Your lost Power MAGI will NOT be
+deducted from your MAGI total, so you may need to keep track of how many times
+you have used the trash can.
+
+After a certain amount of uses (to be detailed later), your MAGI total will
+become 99, which will allow you to pass through any door in Sky (WARNING: If you
+go to Final Town, you will lose all of your MAGI. You will know if you're about
+to enter Final Town because it's the last--or final--destination in Sky). You
+will also no longer be able to use the trash can. At this point, if you collect
+another MAGI, your MAGI counter will reset to 0, and you can potentially be
+forever trapped in whichever world in which you screwed up. I have found a fix
+for this problem if you're playing on certain emulators, but you should still
+probably try to avoid this if you can.
+
+================================================================================
+05. When Can I Use the Trash Can? / What Does the Trash Can Do?
+================================================================================
+Like I said earlier, you can only use the trash can at certain times, and it
+depends on how many MAGI you have in your possession. Here's a table of when you
+can use it and to what effect.
+
+MAGI / Effect
+29 / Cure
+30 / Cure
+31 / ? (maybe Body?)
+32 / Eyedrop
+36 / X-Cure
+47 / Heal Staff
+67 / Power
+68 / Speed
+
+So, realistically, you would probably only care about 67 and 68 for the STR and
+AGI boosts.
+
+================================================================================
+06. How Many Times Can I Use the Trash Can?
+================================================================================
+Here's where it gets complicated. The number of times you can use the trash can
+is variable. This is where all the other FAQs disagree with what determines the
+number of uses, but they're pretty much all wrong. What determines how many
+times you can use the trash can is not only which MAGI you equip but also the
+order with which they are equipped, and the number of usages you get will always
+be a multiple of 8 which cannot exceed 72.
+
+You can divide up your uses between characters and effects (meaning that you can
+give one character some uses of Power and another some Speed and then another
+some more Speed and then your first again some Speed). The division does not
+have to be equal, and any use that gives you a "Nothing Happened" dialogue won't
+count toward your total usage.
+
+I haven't tested every combination of MAGI (because there are a lot), but I'm
+guessing that you only really care about getting the full 72 usages of Power and
+Speed, so here's the permutation that worked for me:
+
+ 1. Prism
+ 2. Speed
+ 3. Aegis
+ 4. Power
+
+Remember that ORDER ABSOLUTELY DOES MATTER. If you equip the same MAGI but in a
+different order, you'll end up with either 24 or 40 uses.
+
+================================================================================
+07. The Nasty Bug
+================================================================================
+Okay, so by this point, you've probably used up your 72 uses of Power and Speed,
+and you're going through the Nasty Dungeon. Well, I found a very nasty bug
+(which I think can occur anywhere, but I found it in the Nasty Dungeon). Anyway,
+it turns out that, if you have a full item queue and then receive an item from
+battle, your MAGI counter gets screwed up. Mine dropped from 99 to 45 and left
+me unable to access the next world. Be very wary of this bug; if you're playing
+on the actual cartridge, it will screw you, and there is no way to fix it.
+
+================================================================================
+08. Fixing the MAGI Counter (Emulators only)
+================================================================================
+As of this writing, there are currently no known Game Genie or Gameshark codes
+that will modify your MAGI counter, and, let's face it, with the game being 16
+years old, there probably won't be any. If you screw up your MAGI counter while
+playing the actual cartridge, sorry. Hopefully you have a save that isn't too
+far behind. If you're playing on one of several Gameboy emulators (the ones that
+won't work with this fix are the exception, to my knowledge), you'll have a shot
+at fixing your counter through HEX editing.
+
+Here's what you'll need to do:
+
+ 1. Download SMYGB and create a save state.
+ 2. Download Hex Workshop.
+ 3. Open the .mgb file.
+ 4. Edit the last two digits of offset 55CBD to read 44 (this is hex for 68).
+ 5. Save the file.
+ 6. Load your state in SMYGB.
+ 7. Save the game.
+ 8. Continue to play using whatever emulator you were using before.
+
+If you have trouble understanding all this, try reading the Save State Hacking
+Guide on GameFAQs. It should tell you pretty much everything you'll need to
+know, short of the actual MAGI counter offset, which I have found for you.
+
+================================================================================
+09. Frequently Asked Questions
+================================================================================
+Q: How do I beat this boss/area/whatever?
+A: Read a FAQ that covers it.
+
+Q: Why do you write out your email address the way you do?
+A: I don't want bots to spam my inbox.
+
+Q: What are the other combinations of MAGI for 72 uses?
+A: I don't know. I only found one and wrote it down.
+
+Q: Are you sure you know what causes The Nasty Bug?
+A: No. I think that might be it, but I can't say for sure. If you find the real
+   cause for the bug, feel free to email me. If it's been 5 years since I've
+   updated this guide at that time, you should probably write your own guide.
+
+Q: Can I use another emulator for HEX editing?
+A: Probably. You'll have to find your own offsets, though. While game saves
+   tend to be interchangeable with most GB emulators I've found, save states
+   usually aren't. You can probably save yourself some time by just using
+   SMYGB.
+
+Q: Where can I download the ROM for this game?
+A: You figure that one out. Be sure you own a copy of the actual game.
+
+Q: Do you own an actual copy of the game, you pirate bastard?
+A: Yes, I do. Get off my case about it.
+
+================================================================================
+10. Closing
+================================================================================
+Looks like we're done. Thanks to all the people whose work I used for research.

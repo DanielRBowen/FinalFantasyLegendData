@@ -1,0 +1,949 @@
+Final Fantasy Legend II FAQ/Walkthrough
+Version 2.1
+
+By chessjerk (John Kearsley IV)
+
+Created - May 27, 2011
+Updated - February 15, 2012
+
+Questions?  Comments?  Contact me: chessjerk@msn.com
+
+=============================================================================
+
+Welcome to my Final Fantasy Legend II FAQ/Walkthrough. This is one of the
+first Game Boy games I ever played many years ago and, being the fan I am of
+Final Fantasy games, I still enjoy it to this day.
+
+=============================================================================
+Table of Contents:
+=============================================================================
+
+I. Introduction
+II. Controls
+III. Main Menu
+IV. Walkthrough
+  i. Introduction and Party Formation
+  ii. Mr. S Teaches Death and Destruction
+  iii. The Shrine of Isis and the First Search for MAGI
+  iv. Ki Helps Find Ashura's Base
+  v. The Pillar of Sky/Ashura's World
+  vi. The Search for the Giants
+  vii. Saving Ki from the Inside
+  viii. Apollo, a New God
+  ix. The Search for Lynn
+  x. Neptune and the Underwater Volcano
+  xi. The Bright Cave
+  xii. Infiltrating the Guardian Base
+  xiii. The Search for Lynn, revisited
+  xiv. Venus and the Castle of Beauty
+  xv. The Sewers (aka This Is What They Throw Away?!)
+  xvi. A Rumbling Creates Another Volcano
+  xvii. A Wedding and a Showdown
+  xviii. A Dragon Race for the Ages...and MAGI!
+  xix. Edo - Home of the Forbidden Bananas
+  xx. Echigoya - Busted?
+  xxi. Showdown with Shogun
+  xxii. That is One Nasty Dungeon
+  xxiii. Valhalla - Land of the Dead
+  xxiv. Nasty Dungeon, Revisited and Ready to Plunder
+  xxv. Apollo Returns
+  xxvi. The Return of Dad and the Final Cave
+  xxvii. The Battle for the MAGI
+  xxviii. Journey to the Center of the World
+  xxix. The Final Battle
+  xxx. Epilogue
+V. Types of Units
+VI. Party Formations
+VII. Stats
+VIII. The Basics of Battle and Stat Gaining
+  i. Fighting the Enemy
+  ii. Battle Rewards - GP
+  iii. Battle Rewards - Meat and Items
+  iv. Battle Rewards - Stat Gaining
+  v. Battle Rewards - Tactics to Maximize Stat Gaining
+  vi. Negative Status Effects (During and After Battle)
+IX. Item List
+  i. Strength-Based Weapons
+  ii. Agility-Based Weapons
+  iii. Mana-Based Weapons
+  iv. Spell Books and Staves
+  v. Static Weapons
+  vi. Martial Arts
+  vii. Armor
+  viii. Shields
+  ix. Potion and Restorative Items
+  x. Other Items
+  xi. Item Locations
+X. Mutant Ability List
+XI. MAGI List
+XII. The Memo File
+XIII. Secrets/Glitches
+XIV. Resources
+XV. Unknown or Unclear Information
+XVI. Credits/Disclaimer
+XVII. Version History
+
+=============================================================================
+I. Introduction
+=============================================================================
+
+MAGI are the shards of the shattered statue of the goddess Isis. The
+Guardians are the members of a secret organization dedicated to protecting
+the MAGI and keeping them out of the hands of those with sinister motives.
+Supposedly, anyone who collects all of the MAGI can become a god.
+
+Your father awakens you one night and gives you a MAGI shard called the
+Prism. He tells you that he has to leave (but he will return) and to take
+care of your mother while he is gone. After agreeing to do so, he leaves
+through the window.
+
+But, he never returned.
+
+For many years, you wonder what the Prism MAGI is. One day, you decide to go
+and find your father. After receiving your mother's blessing, and with a
+group of friends from your hometown, you set out on a journey to find your
+father. On this journey, you discover the purpose of the MAGI, why your
+father is involved with them, and how to help keep them out of the hands of
+the evil ones.
+
+=============================================================================
+II. Controls
+=============================================================================
+
+Select: enter the party order menu, can rearrange order of your party
+Start : enter the main menu (see below)
+B     : cancel a selection, leave the main menu, talk to guests while they
+        are in your party for clues
+A     : make a selection, talk to other people in towns, open treasure
+        chests, fast forward text
+
+Select+Start+B+A: execute a soft reset, returning to the title screen
+
+=============================================================================
+III. Main Menu
+=============================================================================
+
+On the Title Screen, you can either start a new game or continue a saved
+game. There are three save slots available for saving. To differentiate the
+save slots, each save slot indicates the leader of the party, the current
+HP/max HP of the leader of the party, and the number of MAGI accumulated.
+The counter on the left is merely an indicator of the overall number of
+times the game has been saved. This counter starts at 1, increases by 1 each
+time the game is saved, and resets to 1 when it reaches 100.
+
+The main menu during the game includes the following options:
+
+Abil - Select a party member and use or rearrange its equipped items and
+       abilities (each unit has eight slots for equipped items and abilities)
+Item - Use, rearrange, or throw away unequipped items (you can have up to 16
+       unequipped items in your item list)
+Equip- Move items from the item list to an empty slot on a party member's
+       list of active abilities, exchange an item on the list for one that is
+       currently active, or remove an active item from a party member to an
+       empty slot on the item list
+MAGI - Use MAGI or equip MAGI to the party members
+Memo - View a log of information you have learned (see section XII)
+Save - Save your game; this can be done at any time (except during battle)
+
+The main menu also shows the party's total GP available for spending, the
+total MAGI collected, and each party members current HP and maximum HP (if a
+party member is afflicted with a status that lasts after battle, that status
+is shown instead of maximum HP).
+
+=============================================================================
+IV. Walkthrough
+=============================================================================
+
+=============================================================================
+i. Introduction and Party Formation
+=============================================================================
+
+MAGI...The symbol of great power. The legacy of the ancient gods who made
+this world.
+
+Many fought for the mighty power. Some won and some failed.
+
+Now...another legend of bravery is about to begin...
+
+Create the main character. Choose a robot (named CJ).
+
+Many years after your father left, you are all grown up and you tell your
+mother you want to find out what happened to your father (who has never
+returned from that journey). Your mother agrees to let you go, telling you
+that you are adventurous like your father. She recommends you go and see your
+teacher (Mr. S) first.
+
+Mr. S tells you about the MAGI: its powers and history, the specific power of
+the Prism MAGI (which lets you see how many MAGI are in the current world),
+and why your father was concerned with them. As he is finishing his lecture,
+a bunch of other students, who have apparently heard the news that you are
+going on a journey, want you to take them with you. You ask Mr. S what to do,
+and he recommends that you select three to be your party members. He also
+tells you to go to a town beyond the North Cave.
+
+Choose a human female (named Liss), a mutant female (named Lyla), and a Baby-
+D (named Pixy). Here are the plans for each of these party members:
+
+CJ starts out focusing on Defense and Agility, serving as a tank to absorb
+damage for most of the game. When the proper high level weapons have been
+acquired, he abandons all defense and serves only to deal massive damage very
+quickly.
+
+Liss starts out using martial arts to raise her Agility. Once the good
+martial arts run out, she focuses on her excellent Mana growth. Finally,
+once a great weapon is obtained, she uses it with ease.
+
+Lyla starts out building her Mana using her learned abilities. Eventually,
+she learns two high level abilities that greatly assist the party throughout
+the entire game.
+
+Pixy starts out as a (relatively) weak monster, but once decent monster meat
+is available, she becomes an offensive powerhouse.
+
+You are finally past the confines of the beginning of the story and now may
+move about freely. Talk to various people milling about and learn that
+something's going on outside the town. Besides the schoolhouse, there are
+four houses where the parents of the party members live. In the eastern
+house, Liss's parent gives you a Cure potion. In the southeastern house,
+your mother restores your HP (but not your abilities).
+
+Start to leave town through the path east of the schoolhouse. Once you get to
+the end of the path, Mr. S stops you and decides to join your party
+temporarily. He has great stats (at least, compared to your party) and
+three abilities: Dissolve (a single enemy attack that can drain HP, not that
+Mr. S ever takes damage), Fire (a fire based attack that hits a group of
+enemies) and Cure (heals a party member).
+
+=============================================================================
+ii. Mr. S Teaches Death and Destruction
+=============================================================================
+
+Enemies to watch out for:
+Jaguars and Spiders deal high damage at this early point in the game, so hope
+that they don't target your back row members too often. All random enemies in
+this world are level 1 (for purposes of Lyla's ability learning, see section
+X for details).
+
+Mini-boss: Babywyrm (level 2)
+
+To start off, move Liss's Rapier to CJ and move Lyla's Bow to Liss. Leave
+town and walk north to the cave. Outside of town and inside the cave, you
+begin to encounter random battles. Mr. S is very fast and powerful, so use
+him to take out stronger enemies first. Use Dissolve on single enemies and
+Fire on larger groups of a single enemy. Some of these monsters drop meat, do
+not eat any meat unless told otherwise. The monster meat in the first world
+is very bad and actually causes Pixy to grow weaker instead of stronger.
+Humanoid enemies (Gang and Asigaru) don't drop meat and instead drop items
+(Punch and Long Sword, respectively). If you receive a Punch after a battle
+with a Gang, give it to Liss and move her Bow to CJ. I also suggest you read
+section VIII concerning the basics of battle and stat-gaining, as it can help
+you know what to do in battle and raise your stats more quickly. In general,
+try to make sure that Liss and Lyla get a chance to act in every battle and
+let Lyla (who generally acts last) use her powerful abilities to finish off
+the enemies.
+
+While progressing through the cave, you find various treasure chests to open.
+The first two chests have a Bronze Shield (equip on CJ) and a Cure potion.
+The second pair of chests have a Bow (equip on CJ) and a Hammer.
+
+Also, keep an eye on Lyla's abilities. She may randomly learn abilities after
+battle. There are good ones (Cure, Fire, Ice) and useless ones (Warning, O-
+Poison). If you have four abilities learned, keep a bad one (or a duplicate,
+if you don't have a bad one) at the bottom of the list. When a new ability is
+learned, it replaces the bottom ability on the list. See section X for the
+list of abilities that she can learn depending on the level of the enemies.
+
+At the end of the cave, you see a monster in front of the exit. This monster
+is a BabyWyrm that demands that you hand over the Prism MAGI. However, it is
+not very threatening and dies to a single use of Dissolve or Fire from Mr. S.
+
+Once you leave the cave, Mr. S stays behind to protect your hometown. So, if
+you want, you can wander around in the cave, fighting random battles for GP,
+maximum HP gains, stat increases, and new abilities for Lyla while exhausting
+Mr. S's supply of attack abilities. Once Mr. S is down to just Cure magic,
+let him heal your party to maximum HP and leave the cave. I recommend you
+fight battles at least until Lyla learns Fire or Ice so that she has a
+single-party attack option instead of just the hit-all Flame.
+
+There is a town close to the exit of the cave. When you enter the town, you
+see a character that looks like your father! While you wonder about his
+identity, he runs away. Talk to the townspeople and learn about a cute cleric
+named Ki at the Shrine of Isis, Ashura's monsters, Ashura's Base, and the
+Pillar of Sky. In the northeast corner of town, you find that suspicious
+character that looks like your father, but he isn't your father. He asks if
+you know about MAGI in the relics of ancient gods.
+
+Generally, every town has a Weapon Shop (indicated by a sword icon), an Item
+Shop (indicated by a potion icon), an Inn (look for the word "Inn"), and a
+Pub (look for a coffee cup). The Weapon Shop sells various types of weapons
+(including swords, guns, martial arts, magic books, etc.), the Item Shop
+sells armor, potions, and other restorative items, the Inn allows you to
+restore your HP and recharge your abilities at the cost of 1 GP per HP
+restored (meaning that if you are at full HP, the recharge of abilities costs
+nothing), and the Pub can be a useful source of information, both true and
+false.
+
+Go to the inn and rest to recharge your abilities for free. Then, go to the
+Item Shop and sell the Hammer and any Long Swords you may have picked up. Buy
+two Bronze Helmets and four Bronze Gauntlets. Equip Liss and Lyla with one of
+each, and equip the other two Bronze Gauntlets on CJ. The Weapon Shop doesn't
+hold anything crucial at this point. Buy a Punch for Liss if you haven't
+picked one up in battle yet. Remember to move her Bow to CJ.
+
+=============================================================================
+iii. The Shrine of Isis and the First Search for MAGI
+=============================================================================
+
+Enemies to watch out for:
+Large groups of Lizards can easily wipe out your party members (except for
+CJ) if they focus on them instead of CJ, so kill them quickly if possible.
+
+Go west until you reach a large building. This is the Shrine of Isis, where
+the inhabitants tell you about Ki's healing abilities, Ashura, and the
+existence of other worlds.
+
+Ki is on the second floor in the back of the room. After she heals you, you
+ask her about MAGI. She reveals that a "guy with a hat" (that might be your
+father) came in and also asked about MAGI. As you turn to leave, she also
+tells you that there is a secret cave four steps east and three steps south
+of the big rock in the southern forest.
+
+Travel southwest to the forest, fighting random battles on the way. In the
+forest, follow Ki's directions to find the hidden dungeon. The layout is
+fairly straightforward, but the random battles are slightly harder than on
+the outside. Larger groups of enemies also appear, but Lyla's abilities
+should easily defeat them. Pixy's Flame can be used as well to mop up damaged
+enemies not killed by Lyla's abilities.
+
+On the first floor, go up into the hole in the wall. On the second floor go
+right and up into the small room to find a chest with a Whip (equip on CJ,
+replacing the Colt gun). Go back around the room and down the stairs.
+
+The third floor looks similar to the second floor, simply go left and around
+the room and down the stairs. There are two rooms along the top of the wall,
+but they only have empty chests.
+
+The fourth floor is much longer than the others. There are two paths at the
+start. Go left to find a Cure potion at the dead end. Backtrack to the right
+and follow the path to find a large room with people stealing MAGI from three
+chests. They flee the room, and if you check the contents of the chests, you
+see they are now empty like the others. Go outside the room and to the left,
+where the thieves open the door and escape. If you try and open the door, you
+get a message indicating that you need more MAGI to open this door.
+
+This is a recurring theme in the game to keep you from advancing too far
+without collecting MAGI. Some doors simply cannot be opened until you have
+collected enough MAGI to open them.
+
+Backtrack and go into the top right room to finally find three MAGI in the
+chests. These MAGI greatly enhance certain types of damage inflicted by those
+who equip them. Go into the menu and equip the Speed MAGI on CJ to improve
+his attacks with Agility-based weapons and equip the Mana MAGI on Lyla to
+improve her Mana-based ability attacks. The Power MAGI is useless (since no
+one in your party uses any Strength-based attacks) so don't worry about
+equipping it on anyone.
+
+You can now open the door to follow the thieves. Outside, you find two dying
+men, who tell you that they are Guardians (the protectors of the MAGI) and
+that Ashura's men took the MAGI.
+
+=============================================================================
+iv. Ki Helps Find Ashura's Base
+=============================================================================
+
+Enemies to watch out for:
+Now there are large groups of multiple monsters in battle. However, one shot
+of Flame from Lyla (with the Mana MAGI equipped) kills everything in this
+world (except Asigaru).
+
+Mini-boss: Rhino (level 3)
+
+Return to the Shrine of Isis. Ki heals you and, upon hearing that Ashura's
+men stole the MAGI, joins you to find them. Ki is a Cleric and has great
+abilities, including a Cure Book for healing and a Thunder Book to deal
+damage to a group of enemies.
+
+Go north from the shrine and you find Second Town. This town has an Inn, an
+Item Store with only healing potions and Cure magic, and a Weapon Store with
+very expensive items that you won't likely be able to afford yet, unless you
+spent a lot of time grinding earlier. Talk to the residents and learn about
+Ashura's plans for the MAGI, the location of Ashura's Base, and the Pillar of
+Sky.
+
+Go northeast through the mountains to find Ashura's Base. Again, the path is
+very straightforward. Only the fourth floor has two options for a path, but
+they both ultimately lead to the stairs. You also notice that there are
+monsters milling about. If you run into one or try to talk to one, a random
+battle begins. This makes for an excellent grinding spot if you want to get
+enough GP to afford some premium weapons from Second town. The best buy would
+be an SMG for 6800 GP to give to CJ so that he has a group enemy attack
+(replace one of his Bronze Gauntlets).
+
+The third floor has a Speed potion for Liss to increase her Agility. The
+fourth floor has the divided path; go left to get a Silver Gauntlet (equip on
+CJ, replacing his other Bronze Gauntlet). The fifth floor has an Axe. The
+boss is in the right-side room on this floor, so this is the best spot to
+grind. I recommend that you grind here at least long enough until Lyla has a
+full complement of abilities (at least Flame, Fire, and Ice) and Liss has
+only a few uses of her Punch remaining (under 20 is good).
+
+The boss is a Rhino. A shot of Thunder and an attack from CJ are enough to
+take it down. Once you do, the tower begins to shake. In the back are three
+chests with MAGI: Fire, Ice, and Defense. Equip the Defense MAGI on Liss to
+boost her defense. Equip the Fire MAGI on Lyla to give her Fire immunity in
+addition to boosting the power of her abilities. Move Lyla's Mana MAGI to
+Pixy. After collecting the MAGI escape out the back as the base collapses.
+
+After the Rhino battle, the party is healed to full HP and all abilities are
+restored. Go north to the entrance to the Pillar of Sky. This network of
+transporters allows you to access other worlds, provided you have enough MAGI
+collected to open the connecting doors.
+
+Current Equips:
+CJ  : Rapier, Whip, Bow (2), SMG, Bronze Shield, Silver Gauntlet, O-Pa/Po,
+      Speed MAGI
+Liss: Punch, Bronze Armor, Bronze Helmet, Bronze Gauntlet, Defense MAGI
+Lyla: Flame, [3 random action abilities], Bronze Armor, Bronze Helmet, Bronze
+      Gauntlet, Fire MAGI
+Pixy: Baby-D (Nail, Flame, O-Quake), Mana MAGI
+
+=============================================================================
+v. The Pillar of Sky/Ashura's World
+=============================================================================
+
+Enemies to watch out for:
+Slimes have the Dissolve attack, which do a lot of damage since it is a Mana-
+based attack. Pebbles have high resistance to physical attacks, but can be
+killed easily with magic abilities. All random enemies in this world are
+level 2.
+
+Mini-boss: Woodman (level 3)
+
+Boss: Ashura (level 7)
+
+As you step on the transporter, Ki announces that she must stay behind at the
+Shrine of Isis, so she leaves the party. Teleport up the Pillar and walk to
+the next connecting pillar. After entering the pillar, if you try to walk
+right to the next door, you are informed that you do not have enough MAGI to
+proceed. Instead take the transporter down to Ashura's World.
+
+In this world, you have an opportunity to transform Pixy into a much more
+powerful monster. If you can find a WereRat and get it to drop meat, eat it
+and transform Pixy into a Sprite, a tremendously useful creature with Sleep,
+Thunder, and Cure abilities, as well as very high stats for this point in the
+game. If you can't find any WereRats, you can instead find Eagles in battle
+(which are somewhat more common) and eat their meat twice to become a Sprite.
+Since Pixy as a Sprite has high Defense, once you turn her into a Sprite,
+reorder your party and place Pixy second, Liss third, and Lyla fourth.
+
+Directly south is Desert Town. Be careful, since you are not safe from random
+battles even while walking around town. Talk to the townspeople to find out
+about how Ashura became a god with MAGI, conflicting accounts of where
+Ashura's Tower is in the desert, the confusing path through the desert you
+can take to reach it, and the possible existence of giants in the next world.
+You can visit the shops and the inn if you want, but there isn't anything of
+consequence to be bought.
+
+The bartender in town tells you that to get to the tower, go seven steps east
+and seven steps south of the cactus to the south of town to another cactus,
+and then go south again. The problem with that path is that the swirling
+winds in the desert often carry you away from where you are trying to go if
+you don't step carefully.
+
+If you choose not to brave the desert, there is another way to get to the
+tower. There is a path around the entire world that is unaffected by the
+desert winds. Follow that path along the mountains around the entire world
+until you reach the south side of the world. Along the south edge of the
+desert, you can see the tower and can walk to it easily from there. However,
+before entering the tower, walk north around the tower to find Ashura's town.
+
+Here, the townspeople tell you about the 3-headed, 6-armed goblin that Ashura
+turned into by using MAGI, and the Guardian spy with a hat on who tried to
+get Ashura by sneaking into the tower, but he got caught. Some of this town
+is obscured by desert winds. At the Weapon Shop, buy a Sabre for CJ
+(replacing a Bow) and a Kick for Liss. Sell items that you have no use for
+that you might have picked up, then go to the tower. When Liss gets down to
+one use left of her Punch, save the last usage for later and start using the
+Kick.
+
+As with previous dungeons, the tower is a relatively straightforward path all
+the way to the top. The first treasure chest is on the fourth floor (another
+Sabre for CJ, replacing a Bow).
+
+On the fifth floor is a prison. Fight the prison guard, a Woodman (who falls
+easily as it is not much more powerful than anything else in this world).
+Once it is defeated, a prisoner who looks suspiciously similar to your father
+is released. He tells you to call him Mask. He thanks you for saving him and
+offers his assistance to help fight Ashura. He has very high Strength and
+Agility, so he is an excellent addition to the party. However, he has no
+equipment and you can't equip anything on him yet.
+
+On the sixth floor, Mask finds his equipment: a Hammer and a full set of
+Bronze Armor. With his high stats, even the weak Hammer does significant
+damage to enemies. You can equip items on him now, but he won't need them, so
+don't bother.
+
+On the seventh floor, you find a Colt Gun. The ninth floor has a Silver
+Shield (equip on CJ, replacing the Bronze Shield). Finally, on the tenth
+floor there are four chests to be had: a Magic potion (use on Lyla for a Mana
+bonus), a Power potion (use on Liss for a Strength bonus), a Silver Helmet
+(equip on Liss, replacing her Bronze Helmet), and a Battle Sword.
+
+Since this is the end of the tower and the enemies here give good GP, feel
+free to wander around the hallway and use up most of your abilities to earn
+money and stats. Remember to make sure that Liss has exactly one use left on
+her Punch to make the last fight much easier.
+
+At the end of the path on the tenth floor you finally meet up with Ashura. He
+has about 900 HP and O-Damage, meaning that the elemental attacks of Lyla and
+Pixy are useless on him. However, Ashura is vulnerable to status effects, and
+Pixy just happens to have a Sleep attack in her arsenal. Ashura also has
+Flame (the same as Lyla's starting ability) and a variety of physical
+attacks. Talk to Ashura, he brags about plotting to kill Ki by sending his
+micronized men into Ki's body to take out the MAGI she was born with inside
+of her body. Angered, the party attacks him.
+
+Ashura is the first high level boss you face, and as such, Lyla can learn
+quite a variety of abilities from this battle. In my opinion, the best
+ability you can learn from this battle is Surprise, which allows you to
+randomly get the first strike in battle (essentially, you get one full turn
+where you can attack while the enemy does nothing). Therefore, it pays to
+save right before Ashura and fight him over and over to try and learn
+Surprise.
+
+Luckily, the battle goes by quickly. Liss's final usage of Punch inflicts
+about 800 damage on Ashura, so that coupled with an attack from Mask
+or CJ should do the trick. If Ashura gets to act and kills Liss or Lyla with
+a physical attack, reset and try again. Hopefully, Lyla learns Surprise
+without too many retries. Remember to move it to the top of Lyla's ability
+list so that she doesn't lose it the next time she learns a new ability.
+
+After Ashura's defeat, he drops seven MAGI (Power, Speed, Mana, Fire, Ice,
+Thunder, and Poison).
+
+Current Equips:
+CJ  : Sabre (2), Rapier, Whip, SMG, Silver Shield, Silver Gauntlet, O-Pa/Po,
+      Speed MAGI
+Pixy: Sprite (Sleep, Thunder, Cure, O-Quake), Mana MAGI
+Liss: Kick, Bronze Armor, Silver Helmet, Bronze Gauntlet, Defense MAGI
+Lyla: Surprise, Flame, [2 random action abilities], Bronze Armor, Bronze
+      Helmet, Bronze Gauntlet, Fire MAGI
+
+=============================================================================
+vi. The Search for the Giants
+=============================================================================
+
+Enemies to watch out for:
+Amoeba has the Dissolve and Acid attacks (the latter being an attack that
+hits the entire party with a Poison based attack). Terorists sometimes show
+up in large groups and can hit hard with Colt guns. All random enemies in
+this world are level 3.
+
+You are automatically healed and warped outside of the tower. Mask, having
+accomplished his goal, immediately takes off. Concerned about the attack on
+Ki by Ashura's men, you warp directly to the Shrine of Isis. There you find
+out that Ki is sick due to Ashura's micronized men invading Ki's body and
+attacking her from the inside. Talk to the fairy next to Ki and she suggests
+that you go to Giant's World since the giants apparently know something about
+micronizing. The fairy gives you a Defense MAGI.
+
+Return to the Pillar of Sky and advance two worlds to Giant's World. There
+are two towns here, one a normal-sized town and the other a gigantic town
+where giants used to live, but don't anymore. The townspeople tell you about
+the giants, why they left, and about the strange shop that sells nothing but
+excellent Giant goods, but they wonder where they get the items from. If you
+go to that shop, you'll see that they weren't lying. However, the Giant gear
+is quite expensive. What you can buy here depends on how much grinding you
+did before. At a minimum, buy a Giant Gauntlet for CJ, moving the Silver
+Gauntlet to Liss. Extra Giant armor can be bought if you want, but it isn't
+required. Also, go to the Weapon Shop and buy an Ice Book for Liss. Change
+Liss's equipped MAGI to Thunder to boost her damage with Mana-based attacks.
+Use this book in battle if you need a group attack from Liss. Even with her
+low Mana, with the Thunder MAGI equipped, it inflicts good damage, especially
+if she targets an Ice weakness. Also, her Mana will increase rapidly.
+
+In the pub, you'll notice a man sitting at a table. If you talk to the
+bartender and buy a drink, he'll tell you that his name is Johnny and that he
+used to be a giant. If you confront Johnny, he denies this.
+
+You'll also notice that there is a path around the edge of town. Follow this
+path and there is a familiar man blocking your path. It's your father! You
+are quite relieved to have found him after all of these years. The discussion
+quickly turns to MAGI. Surprised that you are collecting MAGI, he gives you a
+Thunder MAGI. You ask that he come home to see your mother, but he declines,
+saying that his goal to protect the MAGI must come first. He tells you that
+once the MAGI are safe, he promises to come home, and he leaves. After
+talking to Dad, rearrange your party lineup back to CJ/Pixy/Liss/Lyla.
+
+Continue around the path and enter the rear of the Giant shop. Talk to the
+shopkeeper and ask him where he gets his giant goods. He is surprised that
+someone snuck up on him and tells you that Johnny told him how to get in to
+Giant Town, but also to keep this a secret, or else he will be out of
+business.
+
+Go back to the pub and talk to Johnny again. This time, Johnny confirms
+everyone's suspicions and tells you that there is a differently colored spot
+on the staircase in front of Giant Town that is a secret entrance. If you
+further tell him that you don't think he is a giant, he also tells you that
+you can climb up the shelves in Giant Town.
+
+Go outside and walk to Giant Town. Walk into the differently colored wall in
+the staircase to find the secret passage. There are many buildings here, but
+only two have entrances that you can enter. The closer one to the right is
+locked by MAGI. The lower building has an entrance, and inside that house are
+two chests containing Power and Poison MAGI.
+
+Go back to the first house, there are three chests there. The first is a Gold
+Shield (equip on CJ, replacing the Silver Shield). The second is Geta Boots
+(equip on Liss). Climb the shelves in the top-right corner of the room to get
+on the shelf for the third chest, the Micronize potion.
+
+=============================================================================
+vii. Saving Ki from the Inside
+=============================================================================
+
+Enemies to watch out for:
+Amoeba are here too, and in groups. Plasma can hit you with Dissolve. ROBO-28
+has a very powerful Rocket attack, but (being a robot) dies quickly from
+Mana-based abilities. All random enemies here are still level 3.
+
+Mini-boss: Phagocyt (level 4)
+
+Now you have what you've been looking for. Walk all the way back to the
+Shrine of Isis, resting at Second Town along the way to recharge your
+abilities, and enter Ki's body with the Micronize potion.
+
+Inside Ki's body, the difficulty level of the random battles is higher than
+before since most battles are against large groups of enemies. With the
+Surprise ability providing many first strikes and Pixy's powerful Thunder
+attack, you should still have no problems. There are seven MAGI to collect
+inside Ki's body: one in each of her hands (Fire, Ice), one in each of her
+feet (Thunder, Poison), one in her heart (Defense), one in her stomach
+(Speed), and one in her head (Mana). The one in her head is locked by a MAGI-
+door, so you have to collect the other six first. Feel free to get a few of
+the MAGI and leave Ki's body to rest at an Inn; you can always reenter later
+as long as you still have the Micronize potion. If, for whatever reason, you
+sell or throw away the Micronize potion, you have to go back to Giant Town
+and get another one.
+
+The MAGI in her heart and stomach are straightforward paths. The MAGI in her
+hands and feet are more complicated since there are five paths in each
+extremity for her fingers and toes. In her hands, the MAGI are always in her
+second finger from the left. In her feet, the MAGI are always in her right
+toe.
+
+Once you have all six, head for the head, and follow the path to the last
+MAGI. Unfortunately, some of Ki's cells are blocking the MAGI. A group of
+Phagocyts attack you. You have been fighting Plasma enemies throughout Ki's
+body. The Phagocyts are simply a stronger version of them. If you get a first
+strike, they fall quickly, and then you can get the last MAGI.
+
+Current Equips:
+CJ  : Sabre (2), Rapier, Whip, SMG, Gold Shield, Giant Gauntlet, O-Pa/Po,
+      Speed MAGI
+Pixy: Sprite (Sleep, Thunder, Cure, O-Quake), Mana MAGI
+Liss: Kick, Ice Book, Bronze Armor, Silver Helmet, Silver Gauntlet, Geta
+      Boots, Thunder MAGI
+Lyla: Surprise, Flame, [2 random action abilities], Bronze Armor, Bronze
+      Helmet, Bronze Gauntlet, Fire MAGI
+
+=============================================================================
+viii. Apollo, a New God
+=============================================================================
+
+Enemies to watch out for:
+The enemies as a whole are getting stronger. You will see the next evolution
+of various enemies that you have seen before (Jelly, P-Spider, Cameleon). New
+enemies include Medusa (who can use StonGaze to turn you into stone) and
+Hofud (who is similar to the Pebble family with high defense and resistance
+to physical and status attacks, but can be taken out with elemental
+abilities). All random enemies in this world are level 4.
+
+You are automatically healed and warped out of Ki's body. She has recovered
+and thanks you for saving her. She no longer has the ability to heal (since
+you removed the MAGI from her body), and she wishes you luck on your journey.
+
+Return to the Pillar of Sky and go forward three worlds. This world is
+Apollo's World. Walk southeast and you see a temple. Inside are Apollo (a new
+god) and his servants, who greet you and thank you for defeating Ashura. Talk
+to Apollo and he gives you a Defense MAGI in gratitude. You question his
+motives, but he assures you that he has enough power and doesn't need
+any more. He also informs you that there are still some MAGI in this world
+and gives you three clues to the locations of the MAGI:
+
+One is where wind blows underground
+One is where flame burns under water
+One is where darkness shines brightly
+
+=============================================================================
+ix. The Search for Lynn
+=============================================================================
+
+"One is where wind blows underground"
+
+Mini-boss: Dunatis (level 11)
+
+There are three sections in this world, each corresponding to one part of the
+riddle. Go to the northern town (Lynn's Town) and the townspeople tell you
+about Dunatis, the god of the mountains (who "sings" in the cave on windy
+days), the debate about what is causing some mysterious wind to blow out of
+the northern cave, some signs of concern over Apollo's motives, and your
+resemblance to Lynn's father. You also hear that Lynn's mother is sick, her
+father is missing, and she has gone to look for something to help her mother.
+
+Next to Lynn's house is the Weapon Shop. Buy a Laser Sword for CJ (replacing
+the SMG, which has lost a lot of its usefulness with the stronger enemies in
+this world) and a Headbut for Liss. As with the Punch, once Liss is down to
+one use of her Kick, save it and start using the Headbut. Also, buy a Soft
+potion from the item shop in case of unfortunate random encounters with
+Medusa in this world.
+
+Leaving town, you see that there are two entrances to the northern mountain
+cave. Go to the southern cave entrance. This is a short path that dead ends
+at a treasure chest that has the very useful Hermes Boots, which increase
+Agility by 10 when worn. Equip them on Liss and move her Geta Boots to Lyla.
+
+Leave the southern cave and walk to the northern cave. The path is a little
+less linear than previous dungeons, but still not too bad. On the second
+floor, go down and left to reach the stairs. On the third floor, you see a
+room up and to the left with a chest that contains a Rocket. Go back to the
+right for the stairs. Keep going down and to the right on the fourth floor to
+find the stairs. On the fifth floor, as soon as get off the stairs, you slide
+down a hill and cannot retreat, so you cannot backtrack from this point. Go
+left for a chest with an Elixier. Go back to the right and find a girl on the
+path. This is Lynn, apparently she wandered into the cave looking for a
+potion for her mother, but fell down the slope and couldn't get back up.
+Dunatis is in the way and she can't escape. She joins you hoping to get home
+safely. Lynn has good Agility and Mana, but only has a Punch and a Kick
+equipped. She will only be with you for a very short time, so don't equip her
+with anything since you can't get it back afterwards.
+
+Keep going forward and save in front of Dunatis. This is another opportunity
+to have Lyla learn a great ability. Since Dunatis is a level 11 enemy,
+defeating him can allow Lyla to learn any ability that she will ever be able
+to learn in the entire game, and, fortunately, CJ can kill Dunatis in one hit
+from a Laser Sword, so the battle is over quickly. Keep fighting this battle
+until Lyla learns an ability that you want. Some suggestions are:
+
+1. P-Blast : My personal favorite. This ability hits all enemies with a
+             powerful non-elemental attack. This ability will instantly kill
+             all enemies you will face in the next few worlds. Even better,
+             it has 15 uses (unlike most other powerful hit-all abilities in
+             the game, which all have 5 uses).
+2. Flare   : Another great ability that hits all enemies with a non-elemental
+             attack. It is slightly more powerful than P-Blast, but it only
+             has 5 uses, whereas P-Blast can be used 15 times.
+3. O-All   : This great defensive ability renders all elemental and status
+             attacks ineffective against Lyla. Of course, if you kill
+             everything in one turn before they can do anything, you don't
+             really NEED defense.
+4. Teleport: See the section on glitches about the Dragon Warp. This is one
+             of only two opportunities to learn Teleport to take advantage of
+             this glitch.
+
+I would personally go with P-Blast. After defeat, Dunatis drops Power, Speed,
+and Mana MAGI, along with an X-Cure potion. You are healed and automatically
+warp to Lynn's house, where you find Dad is there with Lynn and her mother!
+Shocked, you turn and leave the house, vowing to collect all of the MAGI
+since you think your father is leading a secret double life. Make sure you
+adjust Lyla's ability list so that P-Blast is not at the bottom so you won't
+lose it. I recommend moving Flame to the bottom, since you don't need more
+than one ability that attacks all enemies, and, unless you have been grinding
+Lyla's Mana to a high level, Flame isn't killing many enemies outright
+anymore.
+
+=============================================================================
+x. Neptune and the Underwater Volcano
+=============================================================================
+
+Enemies to watch out for:
+Now that you have Surprise and P-Blast, not many enemies will survive to see
+an actual turn, so enjoy it while you can.
+
+"One is where flame burns under water"
+
+Walk south to reach Port Town. Here you can learn about the angry god Neptune
+(who is apparently wrecking havoc on nearby ships), the story of how a man
+fell in love with a mermaid and walked straight into the ocean, a bright cave
+where you need an eye to see the truth, and some discussion about whether
+Neptune actually exists or if it is a submarine volcano.
+
+Outside of town, walk south straight into the water, since apparently you can
+breathe underwater with no problem. Walk southwest to the underwater volcano.
+Watch out for the dark lava squares. For each step you take on them, everyone
+in the party loses 1 HP. Fortunately, the lava cannot kill your party
+members; anyone with 1 HP remains at 1 HP.
+
+There is nothing much to speak of on the first two floors. You are forced to
+walk on lava at times, but you should have plenty of HP. On the third floor
+there are two chests: a Power potion (use on Liss) and a Gold Sword. On the
+fourth floor there is a chest with a Fire Book. Equip this on Liss as a
+complement to her Ice Book. Further down and to the left from the chest is a
+strange icon. It is a healing square. If you talk to it, everyone in the
+party is healed 100 HP, and it can be used as often as you like. Finally, on
+the fifth floor, go straight up the path to find three MAGI: Fire, Poison,
+and TrueEye. Exit through the top of the volcano.
+
+=============================================================================
+xi. The Bright Cave
+=============================================================================
+
+Enemies to watch out for:
+Larger groups of enemies roam around in here. Remember to have some Soft
+potion ready if a Medusa petrifies a party member. SabreCats have the
+Surprise ability, so watch out for surprise attacks by them.
+
+"One is where darkness shines brightly"
+
+Return to Port Town and rest to recharge your abilities, and then walk east
+of town to the Bright Cave. If you came here earlier (before going to the
+volcano), you weren't able to see anything due to the bright light in the
+cave. With the TrueEye MAGI you found in the volcano, you can now see
+properly. Try not to stare at the moving floor patterns for too long as they
+can make you (the player) dizzy.
+
+This cave is mostly just a haven for some useful treasure. The first two
+floors are uneventful. The third floor has two paths; go right for a Power
+potion (use on Liss), then go left for the stairs. The fourth floor has a
+Giant Gauntlet (equip on Liss, move the Silver Gauntlet to Lyla) and a
+Thunder Book (equip on Liss, replacing her Kick that should have one use left
+by now). The fifth floor has another Laser Sword (equip on CJ, replacing the
+Whip). The sixth floor has three paths. The left path leads nowhere. Take the
+right path to get a Revenge Sword. The middle path leads to stairs to the
+last floor, where there are the final three MAGI in this world: Thunder,
+Mana, and Ice MAGI.
+
+Current Equips:
+CJ  : Laser Sword (2), Sabre (2), Rapier, Gold Shield, Giant Gauntlet, O-
+      Pa/Po, Speed MAGI
+Pixy: Sprite (Sleep, Thunder, Cure, O-Quake), Mana MAGI
+Liss: Headbut, Fire Book, Ice Book, Thunder Book, Bronze Armor, Silver
+      Helmet, Giant Gauntlet, Hermes Boots, Thunder MAGI
+Lyla: Surprise, P-Blast, [2 random action abilities], Bronze Armor, Bronze
+      Helmet, Silver Gauntlet, Geta Boots, Fire MAGI
+
+=============================================================================
+xii. Infiltrating the Guardian Base
+=============================================================================
+
+Enemies to watch out for:
+Sprites finally begin appearing in battle. Knowing how powerful they are,
+eliminate them quickly. WereWolf has the Surprise ability, and O-Bake has
+Touch, which is a stronger version of the Dissolve attack you've seen
+previously. All random enemies are now level 5.
+
+Mini-boss: Ogre (level 6)
+
+Mini-boss: Mantcore (level 6)
+
+Mini-boss: Magician (level 6)
+
+Mini-boss: Commando (level 7)
+
+Having finally collected all of the MAGI, return to Apollo's temple. Apollo
+and his servants have mysteriously disappeared. With nothing else to do here,
+go to the Pillar of Sky and advance to the next world, Guardian Town. This
+world is very small, and consists entirely of a town. Learn about Guardians,
+the increasing frequency of earthquakes, and how to find the Guardians'
+secret base.
+
+Go to the item store and buy Hermes Boots for Lyla (replacing the Geta
+Boots). If you want, you can also buy Gold Armor for both Liss and Lyla,
+finally replacing their crappy Bronze Armor. This is not necessary, however,
+since by the time Liss and Lyla's low defense may become a problem, even
+better armor will be available for them. Sell any extra items to clean up
+your inventory.
+
+In the pub, play "Heroic Tune" on the jukebox to open the secret passage. You
+are promptly captured as spies and are thrown in jail. Talk to the guard
+through the bars and demand your release. As the guard argues with you, your
+father suddenly shows up and vouches for you. The guard opens the cell door
+and releases you.
+
+Talk to the Guardians and learn about the purpose of MAGI, why the Guardians
+are protecting the MAGI, who is trying to collect them all, what could happen
+if you collect all of the MAGI, what happened to previous ancient gods who
+were destroyed by the power of the MAGI, why they are on the lookout for
+"new" gods, the instability of the Pillar of Sky, and why "Captain" (your
+father) is on the team. You also notice there is one room that is labeled
+"Off limits - MAGI Storage". On the bottom floor, in the back room, talk to
+your father. He suggests you rest.
+
+After resting, you are awakened suddenly by the noise of an invasion of
+enemies. The MAGI storage room is open, and the MAGI have been stolen. There
+is a monster blocking the stairs. Fight the Ogre, who should fall quickly to
+CJ's Laser Sword. The Ogre drops a Power MAGI.
+
+Go down the stairs and find your father. He tells you that the base has been
+infiltrated and you have to quickly escape. He joins the party temporarily.
+At the next staircase, fight a Manticore, who again falls to a single Laser
+Sword slash. It drops a Speed MAGI.
+
+The next floor down has another monster, a Magician, blocking the stairs.
+Fight him (again, a Laser Sword shot does it). Feel free to save and fight
+him over and over until he drops a spell book if you want. The Magician drops
+a Defense MAGI.
+
+You've finally reached the pub, which has been virtually destroyed. Escape
+the room and head for the Pillar of Sky. There is a Commando blocking the
+entrance. Save right before him, then fight and kill him with CJ's Laser
+Sword of Doom. Keep fighting him until he drops a Bazooka (equip on CJ,
+replacing the Rapier). The Commando brags about kidnapping Lynn and dares Dad
+to chase them to the next world. He then drops a Fire MAGI.
+
+=============================================================================
+xiii. The Search for Lynn, revisited
+=============================================================================
+
+Mini-boss: Ninja (level 7)
+
+Chase the enemies through the Pillar of Sky to the next world. This is a
+peculiar world that has no towns or any other notable features. It is simply
+used for the purposes of this kidnapping event.
+
+On the way down the Pillar of Sky, you notice that there are shops and an Inn
+in mid-air as you teleport back to the ground. These are the shops and Inn
+from the Guardian Town. If you feel so inclined, rest at the Inn to recharge,
+then head for the kidnapping area.
+
+At the end of the short path, there is a Ninja who is holding Lynn hostage.
+Lynn lets it slip that your father is not her real father; he was just there
+for her mother when her real father disappeared. The Ninja, furious that he
+apparently captured Lynn for no reason, moves to kill her anyway. Your father
+gives you an Ice MAGI and lunges at the Ninja, allowing Lynn to escape. She
+joins your party temporarily.
+
+Unfortunately, the battle between your father and the Ninja doesn't go well,
+and the Ninja brags about having taken care of the number one guy of the
+Guardians. In a fit of rage, you attack the Ninja.
+
+He has about 700 HP, but his attacks shouldn't threaten you. Just attack him
+with your best abilities, and he dies quickly. He drops a Poison MAGI.
+
+The party is restored after that battle. You automatically teleport to
+Apollo's World and take Lynn home. Talk to Lynn, she thanks you for saving
+her again. You then vow to continue your father's work. Lynn's mother tells
+you how her husband (who was also a Guardian) was lost on a mission and his
+friend (your father) was there for her when she needed help. She gives you a
+Thunder MAGI that your father left with her.
+
+Current Equips:
+CJ  : Laser Sword (2), Sabre (2), Bazooka, Gold Shield, Giant Gauntlet, O-
+      Pa/Po, Speed MAGI
+Pixy: Sprite (Sleep, Thunder, Cure, O-Quake), Mana MAGI
+Liss: Headbut, Fire Book, Ice Book, Thunder Book, Bronze Armor, Silver
+      Helmet, Giant Gauntlet, Hermes Boots, Thunder MAGI
+Lyla: Surprise, P-Blast, [2 random action abilities], Bronze Armor, Bronze
+      Helmet, Silver Gauntlet, Hermes Boots, Fire MAGI
+
+=============================================================================
+xiv. Venus and the Castle of Beauty
+=============================================================================
+
+Enemies to watch out for:
+Watch out now, as the enemies' strength in this world is increasing
+dramatically. Encounters with Sprites and WereWolves increase, as well as
+some new strong enemies (Baby-D, Thunder, and Guard, to name a few). All
+enemies are still level 5 in the outer world and in the sewers.
+
+Go forward to Venus' World, a world where only the most beautiful creatures

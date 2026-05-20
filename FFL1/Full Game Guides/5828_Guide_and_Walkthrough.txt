@@ -1,0 +1,1122 @@
+*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
+                  Final Fantasy Legend (I) Walkthrough
+                          Platform: GameBoy
+                             Version 1.3
+                          By Robert Paulson
+                     Email: LevinMage@hotmail.com
+
+*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
+Author's Note:
+--------------
+Hi, welcome to my guide for the Gameboy game Final Fantasy Legend (I).
+This is one of my favorite games, and I hope you enjoy it as much as I
+did. Good luck on your journey!
+
+*** Thank you to all the people who have been sending my emails. I
+really appreciate your responses. If you need help, have new
+information, or see any errors in this walkthrough, PLEASE email me at
+LevinMage@hotmail.com
+
+=======================================================================
+                               Copyright
+=======================================================================
+
+This walkthrough is a guide for Final Fantasy Legend, which was
+produced by Squaresoft. This walkthrough is solely intended for public
+use and may only be used for non-profit purposes. It cannot be
+reproduced, retransmitted, or re-written in any other form except by
+the notice of the author. Furthermore, This FAQ and everything within
+this file cannot be reproduced in any way, shape or form, (physical,
+electronically, or otherwise) from its original, unedited, and
+unaltered format. This walkthrough is protected under national
+copyright law, and by the Berne Copyright Convention of 1976. Any
+violation of this code will result in strict penalty and high fines
+susceptible by law.  If this legal document is portrayed in any
+commercial use, you will be stricken under the code of law and will be
+punished. Revisions of this walkthrough are only to be done with notice
+of the author before hand. This document is not to be plagiarized in
+anyway, and if plagiarized, the person/criminal will be punished to the
+full extent of the law. This means that you may put this walkthrough on
+your web site if you ->
+
+1) Send me an email asking for my permission.
+
+2) Once my permission is granted you give credit to the author (me),
+and DO NOT ALTER this walkthrough in any form.
+
+-----------------------------------------------------------------------
+
+-> The latest version of this walkthrough can be found at GameFAQs.com!
+-> Final Fantasy Legend (tm) a registered trademark of Square, co. Ltd.
+Gameboy (tm) is a registered trademark of Nintendo
+
+Version 1.3
+07/10/02
+
+=========
+CONTENTS:
+=========
+
+I. Revisions & Updates
+II. Tutorial and Guide to FFL(I) (Basic game information)
+   - Controls
+   - Menu/Status Screens
+      <> Menu Screen
+           ~ Floor Position
+           ~ Gold
+           ~ Save
+           ~ Ability Sub-screen
+           ~ Item Sub-screen
+           ~ Equip
+      <> Status Screen
+           ~ HP
+           ~ Hearts
+           ~ Name
+           ~ Speed
+   - Game Tutorial
+      <> Beginning the Game
+      <> Battle
+      <> Weapons
+      <> Magic Spells
+      <> Special Skills and Abilities
+III. Characters
+   - Humans
+   - Mutants
+   - Monsters
+IV. Walkthrough
+   4.1.1  Base Town
+   4.1.2  Town of Hero
+   4.1.3  Castle of Armor
+   4.1.4  South Town
+   4.1.5  Bandit Cave
+   4.1.6  Castle of Armor (Revisited)
+   4.1.7  Castle of Sword
+   4.1.8  Castle of Shield
+   4.1.9  The Statue of Hero
+   4.1.10 Tower
+   4.2.1  Port Town
+   4.2.2  Underwater Caves
+   4.2.3  East Island Village
+   4.2.4  South Island (Old Man's Island)
+   4.2.5  Underwater Town
+   4.2.6  Sea Castle
+   4.2.7  South Island (Old Man's Island)
+   4.2.8  Tower
+   4.3.1  Sky Town
+   4.3.2  Hidden Town
+   4.3.3  The Resistance Base
+   4.3.4  Rescuing Millie
+   4.3.5  Jail
+   4.3.6  Rebel Base
+   4.3.7  Tower
+   4.4.1  Underground Tunnels
+   4.4.2  Southwest Town
+   4.4.3  The Library
+   4.4.4  Akiba
+   4.4.5  Northeast Town
+   4.4.6  Secret Tunnel
+   4.4.7  Power Plant
+   4.4.8  Skyscraper
+   4.4.9  Tower
+   4.1.1  Base Town
+   4.1.2  Tower
+   4.1.3  Creator
+V. Weapons
+VI. Armor
+VII. Items
+VIII. Magic Spell Books
+IX. Mutant Abilities
+X. Tips and Hints
+XI. Frequently Asked Questions
+XII. Shops
+XIII. Monster Charts
+   - Monster List
+   - Other(s) List
+XIV. Monster Transformation Table
+XV. Mini-Walkthrough when using only 1 character
+- Humans (partially complete)
+- Mutants (unavailable)
+- Monsters (unavailable)
+XVI. Miscellaneous
+XVII. Credits
+
+
+=======================================================================
+I. Revisions/Updates
+=======================================================================
+
+-----------------------
+Version 1.3 (7/10/02)
+-----------------------
+   - Updated the monster section
+   - Put in a monster chart courtesy of sxp
+   - Corrected some small errors in the pricing of my Weapons and Armor
+     lists, along with some other minor corrections throughout
+
+-----------------------
+Version 1.2 (3/10/02)
+-----------------------
+   - Updated the walkthrough section
+   - Corrected, Updated, and reformatted the Monster section
+   - Reformatted the Weapon, Armor, Item, and Magic section
+   - I added a Credit, Miscellaneous, Shop, and Tips and Hints section
+   - Lot's of other updates
+
+-----------------------
+Version 1.0 (11/01/99)
+-----------------------
+   - I added a correction's section, a Control's section, and a Status
+     section.
+
+
+=======================================================================
+2. II. Tutorial and Guide to FFL(I) (Basic game information)
+=======================================================================
+
+                            It has been said
+                            that the tower in
+                            the center of the
+                           World is connected
+                              to Paradise
+                           Dreaming of a life
+                              in Paradise,
+                          many have challenged
+                           the secret of the
+                                 tower,
+                             but no one knows
+                           what became of them.
+                                  Now,
+                          there is another who
+                             will brave the
+                                adventure...
+
+-> The order and information of this tutorial is roughly based upon the
+instruction manual of Final Fantasy Legend I
+
+ GameBoy Controls
+==================
+
+-> This picture is for the Color and Non-Color GameBoy only!
+
+ ____________________          +------------------+
+|       -KEY-        |         | +--------------+ |
+|                    |         | |              | |
+| D= Directional Pad |         | |  SCREEN      | |
+| A= A Button        |         | |              | |
+| B= B Button        |         | |______________| |
+| Sta= Start         |         |   _ Nintendo _   |
+| Sel= Select        |         | _| |_    _  (A)  |
+| ooo= Speaker       |         |(_ D _)  (B)  -   |
++--------------------+         |  |_|     -       |
+                               |                  |
+                               |     Sel  Sta   oo|
+                               |              oooo|
+                               |__________________|
+
+Directional Pad
+---------------
+The directional pad allows you to move your character on the screen.
+Your character can be moved in only four directions, up, down, left,
+and right, NOT diagonal. The directional pad also allows you to move
+the cursor on the menu screen.
+
+A Button
+--------
+- On the World Screen, this button lets you search or talk to another
+character. The A button is also used in battle to make your character
+attack with the weapon he has equipped.
+
+- On the Menu Screen, the A button is used to execute the command that
+you have selected.
+
+B Button
+---------
+- On the World Screen, the B button can be used to speed up a
+conversation between two characters.
+
+- On the Menu Screen, the B button can be used to cancel a command that
+has been selected or to exit a menu screen.
+
+Start
+-----
+The Start button starts the game. It also brings up the Menu Screen.
+The Menu Screen is where you can check on your character's abilities,
+items, gold, equip items and use items.
+
+Select
+------
+The Select button opens up the Status screen. Here you can check on the
+parties HP, floor placement, and hearts. You also have the ability to
+increase or slow down the speed of the text messages, by selecting a
+text speed. Speed one is the fastest, and eight the slowest. The Status
+Screen may not be accessed during battle.
+
+-----------
+Menu Screen
+-----------
+
+This screen is accessed by pressing the A button. Use this screen to
+check you current ability levels, your gold, over all progress, equip
+your characters, and save your game.
+
++-------------------------------------+
+|                                     |
+|                                     |
+|  +-------------------------------+  |
+|  |  Position               4F    |  |
+|  |  Maximum                4F    |  |
+|  +-------------------------------+  |
+|                                     |
+|                                     |
+|                                     |
+|  +-------------------------------+  |
+|  |  Abil       Item        Equip |  |
+|  |  Save                  1356GP |  |
+|  +-------------------------------+  |
+|                                     |
++-------------------------------------+
+
+Position & Maximum
+------------------
+The number next to "Position" shows the floor of the Tower that you are
+currently on. Below that is a number representing the maximum number of
+floors that your group has climbed.
+
+GP (Gold Piece)
+---------------
+This number represents the total amount of gold that your party has.
+This is the total party's amount of gold, you can't divide this money
+in anyway among your party.
+
+Save
+----
+You may select this option by pressing the A button. Once you do this,
+another screen will appear asking you whether you want to save the game
+or not. Remember, once you save the game the information of the
+previous save is lost forever. It is a good idea to save the game as
+often as possible, since your party may be killed or your Gameboy
+batteries die! My batteries have run dead many times, so remember to
+save, save, and save. The more often you save, the less backtracking
+you will have to do if something goes wrong.
+
+Abil
+----
+This button allows you to evaluate your character's ability. Once you
+select this option another screen will pop up displaying your four
+characters. You may then use the directional pad to scroll to one of
+your characters. Then press the A button to access that characters
+ability sub-screen.
+
+	Ability Sub-screen
+      ------------------
+
+          +------------+
++---------+            |
+|     234 |  Hammer 50 |
+|    /354 |  Rapier 34 |
+|Hero     |  Long   50 |
+|Str. 29  |  Battle 21 |
+|Def. 12  |  Gold    - |
+|Agl. 11  |  Bronze  - |
+|Mana  0  |  SMG    11 |
++---------+  Gold    - |
+          |            |
+          +------------+
+
+HP - Your character's current and maximum HP are shown in the upper-
+left corner of the screen, adjacent to your characters icon. On the
+above screen, the HP is signified by 234 / 354 HP.
+
+Name - Your character's name is displayed below your HP amount. On the
+above screen, your character's name would be where "Hero" is written.
+
+Str. - This displays your character's strength. The higher number, the
+greater your strength will be. The screen only displays a maximum of 99
+strength, however, you may have may have up to 255 strength.
+
+Def. - This displays your character's current defense. The greater your
+rating, the less damage you will take. At this point in time, I am
+unsure whether you may have over 99 defense points.
+
+Agl. - This displays your character's agility. The higher number, the
+greater your agility will be. The screen only displays a maximum of 99
+agility, however, you may have up to 255 agility.
+
+Mana - This displays your character's mana power. Mana determines the
+damage and power of the spells that you cast.
+
+Equipment - This list, to the far right, shows the equipment that your
+character is currently equipped with.
+
+Items
+-----
+
++--------+
+| Slot 1 |
+| Slot 2 |
+| Slot 3 |
+| Slot 4 |
+| Slot 5 |
+| Slot 6 |
+| Slot 7 |
+| Slot 8 |
+| Trash  |
+| Sphere |
++--------+
+
+This screen shows all the items that are carried by the party. These
+items are not the ones equipped by characters, but the items that your
+group carries. There are 8 slots available for items.
+
+Using an Item: To use an item, move your cursor over a desired item and
+press the A button. A finger will appear pointing to the item you
+clicked on. You now have the option of moving the item to a different
+slot, or using it on one of your characters. Up to this point, you may
+cancel by pressing the B button. Now you may move the item or use it on
+one of your characters. If your character is unable to use that
+specific item, a message will be displayed telling you this.
+
+Trash: To discard an item, first select that item by pressing the A
+button once. Then scroll down the item list until you reach the Trash
+Can. With the pointer over the Trash, press the A button again.
+
+Spheres: To use a Sphere, scroll down to the bottom of your item list.
+Then press the A button, which will open a new screen that shows any of
+the Spheres you currently have. Then move your cursor over the desired
+Sphere and press the A button.
+
+Equip
+-----
+
+When you see weapons or armor in your item list, it doesn't mean you
+have equipped them already! You must use the equip command to move any
+weapons, armor, or items, into your characters own inventory. Once the
+items are in your characters inventory, you can use them in battle when
+needed.
+
+-------------
+Status Screen
+-------------
+
+To access this screen, press the Select button.
+
++-------------------------+
+|  Alter Order   Hearts   |
+|  Name 1        100/130  |
+|                Hearts   |
+|  Name 2        201/230  |
+|                Hearts   |
+|  Name 3        67/280   |
+|                Hearts   |
+|  Name 4        134/236  |
+|          Speed          |
+|     1 2 3 4 5 6 7 8     |
++-------------------------+
+
+HP - Your current and maximum HP are displayed on the right side.
+
+Hearts - This shows how many hearts you have remaining. If character
+runs out of Hearts and then dies, he/she must be revived. If your
+character still has Hearts remaining, you may restore that character at
+the House of Life for a 100 GP fee. However, each time you do this, one
+of your hearts will be removed.
+
+Name * - This is where your character's names are displayed. This
+screen also allows you to rearrange the order of your characters. The
+character that is first will receive a majority of the attacks, and the
+character that is last the fewest enemy attacks.  To change the order
+of your characters order, first move the cursor to one of the
+characters you want to move. Then press the A button, which will then
+cause a "finger pointer" to appear. Then move this new pointer to the
+character you want to change with and press the A button.
+
+Speed - By selecting different numbers, you may change the speed of the
+text messages here. The fastest speed is 1 and the slowest 8.
+
+------------------
+Game Tutorial
+------------------
+
+Beginning the Game
+------------------
+
+When you begin the game you will notice that you have only one
+character in your group. How do you remedy this situation? Well, go
+north into town and talk to the Guild Member. The Guild Member is the
+person behind the counter next to the Inn Keeper. The Guild Member will
+ask you "Who." You now have a chance to recruit group members. Move
+your control pad down to the selected character and press the A button.
+You now have the opportunity to name your character. Repeat this
+process until you have recruited a full group. For tips and suggestions
+on what type of party to recruit, please look at the end of the
+Character section of this walkthrough.
+
+Battle
+------
+As you walk around in the Overworld you will encounter enemies. Once
+you meet an enemy, a screen that will pop up, giving you two
+options...to Fight or Run. If you try to run, only one party member
+attempts to run, yet if he succeeds or fails, your entire group will do
+the same. If you fail, all the monsters will get a round to attack you.
+
+If you select Fight, you will have the option to attack with whatever
+weapons or items you possess. Once you select an item or weapon, the
+game will ask you which group of monsters you wish to attack.
+
+Many times you will encounter multiple enemies in a group. If any of
+your characters choose to attack that group, they will continue to
+attack the same monster until it is destroyed. Then when you attack
+again, your characters will attack the next monster until it is
+destroyed before moving on to the next enemy. The exception to this
+rule is if your character(s) is/are using a weapon that attacks all the
+monsters in a group, or even multiple groups.
+
+Victory: Once victory is achieved, you will receive gold, and possibly
+a piece of meat. If you have a Monster, you will have the option of
+eating the meat.
+
+Recovering HP: Throughout the game there will be times when it is
+necessary to restore your group's HP. This can be done at an Inn, where
+it costs 1 GP for every 1 HP restored. Remember, if you can't pay the
+full amount, you won't be able to restore any of your character's HP.
+Besides going to the Inn, you also have the option of restoring your
+character's HP with restorative items, or at a Healing Fountain.
+
+Death: If one of your characters dies, you may restore his life for the
+price of 100 GP at a House of Life. However, every time this is done, a
+Heart will be removed from your character. Each character starts out
+with 3 Hearts in a game. If you run out of Hearts, you will either need
+to purchase a Revive, or get a new character at the Guild.
+
+Weapons
+-------
+
+Weapons, (with the exception of some,) have a limited number of uses.
+Therefore it is very important that your characters have enough weapons
+to get them through their various quests. Remember, there is no way to
+equip weapons in the middle of a fight. Accordingly, I suggest that you
+buy extra weapons while you are in town. There are some weapons that
+have unlimited uses. These weapons will have a "-" where the number
+would usually appear. Later on in the game you will have the
+opportunity to purchase an item, (Arcane) which can restore your
+weapons back to their full amount of uses. This is particularly useful
+with such powerful weapons like the Glass Sword, Masmune, and
+Excalibur.
+
+*** There are three different main categories of weapons, Melee,
+Ranged, and Skill weapons.
+
+Melee Weapons: These weapons are categorized based on the fact that
+they are hand-to-hand type of weapons. The amount of damage that can be
+done with these weapons is related to your characters strength,
+agility, mana, or a combination of those attributes. Melee weapons are
+a very important part of the game, and critical for your success.
+Examples of melee weapons are Swords, Rapiers, Hammers, Axes and Whips.
+
+       Strength Based Weapons: Axes, Hammers, and Swords (except for
+                               the P-Sword and P-Knife)
+
+       Agility Based Weapons: Rapiers, Sabers, Projectile weapons,
+                              Whips and the Saw
+
+       Mana Based Weapons: P-Sword, P-Knife, Vampic Sword
+
+Ranged Weapons: This type of weapon is fired at monsters. Examples of
+ranged weapons are Bows and Missiles. The damage that these weapons
+deal to enemies is based on a number of factors. First, whether you hit
+the monster itself is based on something called the "Rate of Success."
+This factor is determined by your agility and how many times you have
+used that weapon. In almost all the cases, the more you use the weapon,
+the more likely you are to succeed with it. The amount of damage dealt
+for most projectile weapons is based on your agility. These weapons are
+great for attacking monsters with high Defense, or monsters that have
+protective "coatings," like P-Skin.
+
+Skill Weapons: As you progress further along in the game, you will have
+the option of buying skill weapons. These skills deal limited damage
+when you begin to use them, but as you use them more times, your
+proficiency with them will increase. As you become more proficient with
+skills, the amount of damage you deal with them will increase
+drastically. The last use of a skill is the most powerful
+
+Some weapons have special powers. I have listed these powers next to
+the individual weapons in my Weapon section of the walkthrough.
+
+------------
+Magic Spells
+------------
+
+Spells may either be combative or non-combative. Magic Spells may work
+on multiple enemies' or/and multiple groups depending upon the spell.
+
+Attack Spells -These elemental spells directly damage enemies. Examples
+of these spells would be Elec, Fire, Ice, etc.
+
+Non-Combative Spells - These spells do no physical damage, but they
+incapacitate the enemy. An example of this type of spell would be
+Sleep.
+
+Healing Spells - These spells help restore back your lost HP. An
+example of this type of spell would be Cure.
+
+----------------------------
+Special Skills and Abilities
+----------------------------
+
+X's and O's - When you are looking at your Mutant's or Monster's
+abilities, you might notice that they have a XFire, or OIce. If there
+is a letter "X" next to word, it means that you are weak against that
+attack. For example, if you have XFire, you will be weak against
+enemies who use fire-based spells on you. If there is an "O" next to
+the word, it means that you are strong against that attack. For
+example, if you have OIce, you will be strong against enemies who use
+ice-based spells on that character.
+
+Direct Attacks - Monsters often have attacks unlike those of Humans.
+They have attacks like Fin, Horn, etc., which may often deal more
+damage than weapons or magic. However, these attacks can only hit one
+monster at a time. These attacks can be restored, just like Mutant's
+abilities can, by going to an Inn.
+
+Ranged Attacks - These attacks will work on multiple enemies and
+possibly even multiple enemy groups. These attacks are very powerful
+and will helpful you throughout your journey. Examples of these types
+of attacks would be Elec, Gas, Quake, Tornado, etc.
+
+Lethal Attacks - These types of skills, D-Fangs, Petrify, etc., have
+the power to kill an enemy in a single blow.
+
+Enhancing Party Abilities - These types of skills, Mirror, Power,
+Armor, etc., have the ability to temporarily boost the attributes of
+your caster. Spells like Barrier will even temporarily increase the
+defense of your entire group.
+
+Decreasing Enemy Abilities - These types of skills, Stench, Drain, Web,
+etc., do not deal physical damage to an enemy. Instead, they will
+reduce an enemy's ability, which will then decrease the monsters
+ability to deal damage to your characters.
+
+Non-Combative Skills - These types of skills, P-Fangs, Sl-Gaze, Flash,
+etc., are used to incapacitate or damage your enemy. As you play the
+game, you will become more comfortable using attacks such as these.
+
+Waiting Skills - These types of skills, P-Skin, S-Skin, etc., are what
+I call "waiting" skills. They do no direct physical damage to your
+enemies. Instead, they only damage your enemy when he attacks your
+character.
+
+Parasitic Skills - These types of attacks will drain the HP from an
+enemy. These skills can be very deadly as the game progresses.
+
+Healing Skills - These types of skills, Heal, Honey, Cure, etc., will
+restore HP to the caster, or even the entire group. Some of these
+skills may even bring a dead character back to life! In my opinion,
+these skills are some of the most valuable in the game.
+
+
+=======================================================================
+3. Characters
+=======================================================================
+
+There are many different "races" of characters for you to choose from
+when you are creating your group. The different races in this game are
+Human, Mutant, and Monster. Furthermore, you may also choose either a
+Male or Female member from the Human or Mutant race.
+
+Each of these races has certain advantages and disadvantages over the
+other. These differences are based mainly on how each race develops as
+you progress in the game. The following is a comprehensive list of how
+the different races develop as you play the game. I will then give "my
+advice" on what I think the best groups are.
+
+------
+HUMANS
+======
+
+Humans are the most well-rounded and versatile race. They also have the
+possibility of becoming the most powerful characters by the end of the
+game. The main difference between Humans and the other races is that
+Humans do not get stronger as a result of battle.  Instead, you need to
+buy items that will increase their attributes.  There are five
+different items in the game that will permanently improve the
+attributes of Humans. These five items are Agility Potions, Strength
+Potions, HP200, HP400, and HP600.
+
+On a side note, there are some types of armor that will increase your
+Humans attributes. However, once you unequip that piece of armor, you
+Humans attributes will return back to its previous value.
+
+HP Items (200, 400, 600)
+------------------------
+
+You may use the Items to permanently increase your Humans HP. Each of
+these Potions cost a different amount, but in general, they all have
+the same type of effect.
+
+HP200:  This Item costs 100 GP, and raises a Human's HP, ranging from a
+        1-20 point increase. However, once your Human has over 200 HP,
+        your HP will raise by only 1 point.
+
+HP400:  This Item costs 1000 GP, and raises a Human's HP, ranging from
+        a 1-20 point increase. However, once your Human has over 400
+        HP, your HP will raise by only 1 point.
+
+HP400:  This Item costs 5000 GP, and raises a Human's HP, ranging from
+        a 1-20 point increase. However, once your Human has over 600
+        HP, your HP will raise by only 1 point.
+
+If you have any Human characters, it is essential that you use these
+items to boost your HP. However, since these items are very costly, you
+may not be able to buy as many of these as you like. Luckily, there are
+a few "tricks" that will help you save money.
+
+1. Before you use your HP items, save your game. Since the amount of HP
+that you gain is variable, you can restart your game if you do not get
+an increase your HP by a decent amount. I recommend trying to get at
+least a 13 point increase when you use an HP*00 item.
+
+2. If you compare the price and HP increase rate of HP600 and HP200,
+you will realize that HP600 is not worth your money. It costs less
+money to buy HP200 and use them to gain a 1 point HP increase, then to
+spend 5000 GP and only get a maximum of 20 HP increase with the HP600.
+However, this approach is fairly time consuming so you still might want
+to consider buying HP600 if you are a lot of gold.
+
+3. Another trick is for you to reach a HP amount just before that
+specific HP items limit, such as you are using a HP400 item and you
+reach an HP amount of 399. Then, when you use the Item for the last
+time, you will get an increase over that items limit. Now if you use
+HP400 again, your HP has the potential to be 419HP.
+
+I have received many questions inquiring about what the maximum HP
+value is for a Human. My reply is that it is NOT 999 like you screen
+will display. The limit for HP is much higher, although the screen will
+not display any values over 999. Personally, I have raised my HP over
+2000 points! However, this requires a lot of time, since once you get
+above 600 HP, you can only increase your HP 1 point at a time.
+
+Strength and Agility
+--------------------
+
+To increase these attributes, you need to use Strength and Agility
+Potions. Each of these potions costs 300 GP to purchase. They will
+raise the particular attribute by 2 points. These stats will reach a
+maximum at 255, although only 99 will be displayed. However, once you
+are over 99 points you must be CAREFUL. If use another of these
+attribute-raising Potions and it raises you over the maximum 255
+attribute point limit, your Strength or Agility will reset back to 1!
+If you are unsure whether you will raise it over 255 points, save your
+game before you use the potion. On the other hand, make sure you that
+if you are using attribute-raising potions that you don't save your
+game while your attribute has been unknowingly reset back to 1.
+
+You will be quite amazed at the amount of damage your Humans can deal
+once they have their Strength and Agility around 255. I recommend
+increasing your Agility stats in the beginning of the game. This is
+because Agility also affects the your "hit rate" percentage. Many of
+the Agility based weapons are also cheaper than their counterpart
+Strength based weapons. Later on in the game you will want to work on
+Strength because at the end of the game, the most powerful weapons are
+Strength based.
+
+Weapons and Armor
+----------------
+
+The best advantage of a Human over any other character is that they can
+hold up to 8 Items. This is a huge advantage, since Armor alone may
+take up to 5 slots!
+
+Armor: My first task when I walk into a new town is to look for any
+better armor than what my characters currently have equipped. Armor is
+the only way to raise your Human's Defense, so it is necessary to get
+the "best" armor you can. I write "best" in quotations, because the
+best armor is not always the one that gives you the most defense
+points. I recommend looking in the Armor section of this walkthrough to
+determine what Armor is best for you. Another important aspect is that
+some armor boosts your character's attributes or may give your
+character a resistance to a type of magic element (fire, ice, etc.)
+
+*** If you are already at the maximum strength or agility (255),
+equipping a piece of armor that boosts that specific stat will
+temporarily reset that stat back to ~1, until you unequip that armor.
+
+Shields: In my opinion, Shields are the most useless type of defense
+armor you can buy. The first disadvantage about Shields, is that they
+are not used automatically, but instead must be used during your turn
+before the enemy attacks.
+
+Shields have two main uses. The first use is that when you use a
+shield, you increase the chance that your character will evade the
+enemy attack. The second use is that some shields may place a
+protective barrier over your party for the turn that it is used. These
+barriers will often protect your group from certain spells. However,
+your character must use the shield before the attack, otherwise it will
+not have the protective barrier in place when the enemy attacks.
+Therefore, I suggest putting your character with the highest agility in
+front, this way that character has a higher percentage of using the
+Shield before the enemy attacks.
+
+Weapons: As I have noted in other sections, there are different types
+of weapons. There are strength, agility, and mana based weapons. There
+are also projectile weapons, which use a combination of factors to
+determine damage. Early on in a game, I prefer to focus on agility,
+since not only does it affect just agility-based weapons, but also
+projectile weapons, and the percentage that you will hit your enemy.
+I recommend buying the Rapiers in the first world and then Sabers in
+the second world. My characters are still sometimes using Sabers in the
+third world, since they are effective and a whole lot cheaper than the
+newer weapons. Later on in the game, I switch to Strength based
+weapons, since these will be your most powerful weapons. Examples of
+these weapons are the Defense, Sun, Glass, and Excalibur swords. The
+most powerful weapon is the Glass sword, then followed by the Sun
+Sword. I have listed the particular benefits of all the weapons in the
+Weapons section of this walkthrough.
+
+Spells: I do not recommend equipping your characters with Spell Books.
+This is because Humans aren't meant to use spells. Later on in the game
+when you get the Shoe, your Mana will increase by 10 points, but even
+then your Humans will not be good at casting spells.
+
+Potions: If you have some extra slots, you might want to consider
+equipping a X-Potion, Elixir, or a Revive. Other than that, I would
+just equip weapons and armor.
+
+-------
+Mutants
+=======
+
+Mutants are unlike any of your other races because their stats improve
+from battles. They also have 4 of their slots blocked off for special
+mutant abilities. Since they only have 4 slots for armor, weapons and
+spells, you are often forced with the difficult choice of selecting the
+appropriate items, weapons, and armor.
+
+Stats
+-----
+
+Mutant's stats increase only at the end of battles. By now, you might
+be wondering about the specific mechanism determining their rate or
+type of increase. Your mutant's stats will most likely increase
+depending upon what type of weapon or magic you are using. For example,
+your strength might go up after you used a strength-based weapon, a
+Hammer, in battle. The amount that a stat may raise, if anything at
+all, is variable. The more successful you are with your weapon, the
+more likely your stats will go up. There are rare occasions where you
+will use one type of weapon, and have another unexpected stat increase.
+What also seems to help is using new and different weapons. This will
+often help to "kick start" your attribute raising if has become
+stagnant. Your stats also seem to have a greater percentage of
+increasing during the initial usage and the final usages of your
+weapons. By this I mean if you had a Hammer, you might better expect
+your stats to increase during the first 10 and the last 10 usages of
+that weapon. The following is a guide on how to boost each specific
+type of attributes for your Mutant.
+
+HP:  Mutants will gain HP from battle, and as far as I can tell, this
+increase in HP is random. If anything, having your Mutant sustain
+damage will help boost your max HP. Therefore, if you are trying to
+your increase your Mutants HP, I would put him in the front. By the end
+of the game, your Mutant may have around 800 HP, or even 999 HP. Unlike
+humans, your Mutants may only get 999 HP, and not any higher.
+
+Strength:  Mutants gain Strength as a result of using a strength-based
+weapon in battle.  While this is random, as I noted above, it is likely
+that your stats have a greater percentage of increasing during the
+initial usage and the final usages of your weapons. By this I mean if
+you had a Hammer, you might better expect your stats to increase during
+the first 10 and the last 10 usages of that weapon. Unlike Humans, you
+may not gain more then 99 strength.
+
+Agility:  Mutant's gain agility as a result of using a agility-based
+weapon in battle.  While this is random, as I noted above, it is likely
+that your stats have a greater percentage of increasing during the
+initial usage and the final usages of your weapons. By this I mean if
+you had a Rapier, you might better expect your stats to increase during
+the first 10 and the last 10 usages of that weapon. Unlike Humans, you
+may not gain more then 99 agility.
+
+Defense:  Mutants may also gain defense from battle. This is the
+hardest stat to increase. The attribute will increase when your
+character sustains damage. This attribute is similar to how you would
+increase your HP stats. Therefore, if you are trying to your increase
+your Mutants defense, I would put him in the front. In my opinion, this
+is the most important attribute that you can increase.
+
+Mana:  Mutants may gain Mana as a result of using Spells or Mana based
+weapons, i.e. the P-Sword, in battle. Besides defense, this is the best
+stat you could increase since the reason you have a Mutant in your
+group is so that you can use Magic. Similar to the other attributes of
+Mutants, you cannot gain over 99 Mana. The most powerful purchasable
+weapon for the Mutant is the P-Sword.
+
+
+Mutants start the game with four slots for Abilities. Abilities will
+randomly change as battle enemies. If you lose an ability that you
+really like, I recommend restarting the game so that you still have
+that specific ability. I am not quite sure exactly how the Abilities
+change, but they are more likely to change if you use them in battle,
+and when you use all of that specific ability up.
+
+Therefore, the best thing you can do to improve your Mutants is to
+fight in a lot of battles. It is possible to have a super powerful
+Mutant at the end of the first world if you are patient. The most
+important thing about Mutants is to get the best abilities possible. I
+recommend having a couple of attack abilities, a healing ability, and a
+miscellaneous ability, (Power, Kinesis, etc.) The list of abilities
+that a Mutant can gain is listed further on in the walkthrough. Mutant
+abilities may be restored to there maximum number of uses at the Inn
+free of charge.
+
+Weapons, Armor, and Spell Books
+-------------------------------
+
+Mutants only have four slots for equipment.  This means you have to
+decide what are the best items for you to buy knowing that you only
+have four slots available.  However, Mutants also have four abilities,
+so they don't always need as many weapons as Humans might.
+
+For most of the game, I recommend having two of your slots filled with
+the most powerful pieces of armor you can buy. At the end of the game
+you should buy the Power Armor, which will leave the other armor slot
+empty for something else.
+
+If you are lacking in any desired abilities, you have the option of
+using one of the slots for a Spell Book. However, I recommend using
+your abilities first, since they are powerful and free. The most common
+spell books I have equipped with my Mutant are some type of attack
+spell, (Fire, Ice, Elec, Flare, Stone) or a restorative spell, Cure.
+Try to rely on using your abilities, and not your Spell Books, since
+this will leave another slot open for other things. The Flare Spell is
+the most powerful spell a Mutant can have in the game, so you might
+want to consider equipping that Spell Book at the end of the game.
+
+I do not recommend ever equipping your Mutant with a Shield or a
+Potion. I think that this would be a waste of a badly needed slot.
+Your Humans have double the available slots as a Mutant, so it would
+make more sense to equip them with a Shield or Potion.
+
+Any other available slots that you have should be filled with weapons.
+I usually give my Mutant a Rapier or Saber early on in the game to
+develop his/her agility. Then, I will usually switch to a Mana-based
+weapon, like the Psi-Knife, or Psi-Sword. I think that these are the
+best swords money can buy for your Mutants. Other possible weapons that
+you might want to consider equipping your Mutant with are the Vampic
+Sword or the Defense Sword. These swords have special powers that will
+help your Mutant. If you still have any open slots, you may equip your
+Mutant with a projectile type weapon, such as a Nuke, Missile, or
+Rocket.
+
+--------
+Monsters
+========
+
+In my opinion, Monsters are the weakest of your characters, especially
+early on in the game. Towards the end of the game they become more
+equal with your other characters, but they are still not as strong.
+
+However, monsters are the most "fun" characters because they can change
+into other monsters depending on what meat they eat. This
+transformation can be good or bad depending on what monster you change
+into. The meat of Boss monsters is often very powerful and will
+increase your monsters level. As you progress through the game, you
+will notice that there are different categories of monsters. At
+different points in the game, like when you eat a Boss's meat, you may
+jump to a higher level or category of monsters. An example of this
+would be instead of changing to a Dragon 3, you will change to a Dragon
+4. These changes often go across the entire spectrum of monsters.
+Occasionally it is possible to decrease a monster level, especially
+early on in the game. However, near the end of the game it is nearly
+impossible to decrease your monsters level.
+
+If you plan on having a monster in your group, I highly recommend
+looking at the monster charts and monster transformation table at the
+end of this walkthrough. This will help you as you try and find your
+best monster. In my opinion, the best monsters to have at the end of
+the game are Ki-Rin, Lich, or Susano-O.
+
+
+*** Many people have asked me what is the best group of characters to
+have during the game. Potentially, the most powerful group in the game
+is a group of 4 Humans, the weakest group 4 Monsters. If this is your
+first time playing this game, I recommend having a group of 2 Humans, 1
+Mutant, and 1 Monster. This group is very well rounded and you will be
+able to experience all of the aspects of each race. Final Fantasy
+Legend I also allows you to mix and match all of the different races,
+depending upon whether you want fun, a challenge, or just to beat the
+crap out of the game.
+
+
+=======================================================================
+4. Walkthrough
+=======================================================================
+
+I have divided my walkthrough into different sections to make it easier
+for the readier to follow. The first major division I have made is that
+I have divided the Walkthrough up into different Worlds. I then
+separated these Worlds into different parts, based upon the certain
+necessary or interesting steps that you must advance through to beat
+the game. The numbers that I have before the subject headings designate
+certain places. The first number (4), represents the exact section of
+the walkthrough. The second number (1,2,3,4), represents what World
+this section is located in. The last number represents what major part
+or step of the World you are currently in. To the right side of each
+subject heading I have listed what Items can be found by following the
+steps listed below that certain part of the walkthrough.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                               World 1
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+-----------------------------------------------------------------------
+4.1.1  Base Town - Nothing
+-----------------------------------------------------------------------
+
+Once you start a new game you have the option of choosing what
+character you would like to begin with. For more information on
+choosing characters, refer to the tutorial and guide section of this
+FAQ/Walkthrough.
+
+Your character will appear at the entrance to a town. Before you do
+anything else, you should go to the Guild and recruit 3 other party
+members. Walk directly north from your starting point into the building
+and talk to the human female (to the right of the octopus person).
+
+Once you have your party, your next step is to outfit them for battle.
+Walk northeast and talk to the person on left behind the counter. If
+you began with a Human or Mutant female, unequip the Saber and sell it
+for money. Otherwise, you will need to go outside the town and fight
+until you have gained enough gold.
+
+Once you have enough money, buy Rapiers for every possible character.
+Not only are they cheap, but also in my opinion, they are best weapons
+to begin with. Then keep on fighting outside the town until you have
+enough money to buy Gold Armor and Gold Gauntlets for your party
+members. Remember, Monster type party members cannot equip armor or
+weapons! The defense points the Gold armor gives to your characters
+will really help you once you begin to fight harder enemies.
+
+At this stage in the game, it is also very important to plan ahead on
+how you would like to develop your Mutant. For information regarding
+this refer to the Tutorial and Guide section of this walkthrough.
+
+-----------------------------------------------------------------------
+4.1.2  Town of Hero - Nothing
+-----------------------------------------------------------------------
+
+Exit Base Town and walk northeast. Go across the bridge and start
+walking south. Walk a little bit east, and keep on going south until
+you reach the Town of Hero.
+
+In general, it is very important that you to talk to the people you see
+in town because they give you great advice about the surrounding areas.
+I personally think that talking to townspeople also enhances the "game-
+play" aspect of the game. If you do talk to the people, you will learn
+that in order to get into the Tower, which is located in the center of
+Base Town, the statue in the middle of town must have the King Sword,
+Armor, and Shield. Each of these items is in the possession of a
+different king. Your mission now is to find and gather all three pieces
+of equipment. Before you leave town, make sure that you buy a couple of
+Bows, because you will need them in your journey to get the King Armor!
+
+-----------------------------------------------------------------------
+4.1.3  Castle of Armor - Nothing
+-----------------------------------------------------------------------
+
+This step is not necessary, but adds to the storyline. If you wish to
+continue on with your journey and skip this part, follow the directions
+in the section below 4.1.4 (South Town)
+
+From the Town of Hero, walk northeast through the forest and past the
+castle. Continue walking northeast until you see a lake to your right.
+Then walk north and follow the water west. Walk across the bridge and
+go east into the castle.
+
+* Floor 1 * Walk north through the main section of the castle, and then
+go northeast. Walk across the bridge and go up the stairs.
+
+* Floor 2 * Work your way through the twisty passages and go into the
+room in the southwest corner of the screen. Walk north and talk to the
+King. The King says that he wants to marry a girl in South Village, but
+she won't consent to marry him! Hmmm, that sounds suspicious... what
+girl wouldn't want to marry a rich and powerful King. J/K
+
+-----------------------------------------------------------------------
+4.1.4  South Town - Nothing
+-----------------------------------------------------------------------
+
+Exit the Castle of Armor and go back across the bridge. Now walk
+southeast through a forest until you see some streams. Walk south
+across the bridges and into South Town.
+
+There are no real necessary items to buy in this town. Once you are
+done looking around, go to the northwest corner of town and talk to the
+Girl standing in a corner of trees. (She is standing below the person
+from the House of Life) The Girl says that she wants to marry the King,
+but the Bandit King is threatening to destroy her town if she doesn't
+marry him. This situation just gets more and more complicated! Exit the
+town and walk southwest across some more bridges. Walk around the mini-
+lake, and go into the Bandit Cave.
+
+-----------------------------------------------------------------------
+4.1.5  Bandit Cave - Potion (x3), Strong (x1), Bronze Shield (x50)
+-----------------------------------------------------------------------
+
+* Floor 1 * Take a couple of steps east and follow the passageway as it
+curves to the northwest. Walk south and go down the stairs to the next
+floor. (If you bump into or talk to any of the monsters, you will get
+into a fight)
+
+* B-Floor 2 * Go west until you reach the wall, and then walk south
+until you see a door. Go through the door and follow the passageway
+until you see the Bandit King. Save your game and then talk to him.
+After a nice little chat with the Bandit King, you eventually get down
+to business.
+
+_______________________________________________________________________
+BOSS Name: Bandit King (P-Frog)
+HP: 82
+GP: 120
+Attacks: Bite, P-Skin
+Weakness: Ice
+Strength: None
+
+Strategy: The only difficulty in fighting the Bandit King is that he
+has a "special coating" on his skin. This coating will poison any party
+member who deals damage to him with a hand-held weapon. Luckily for
+you, those Bows that you bought at the Town of Hero will let you attack
+the Bandit King without getting poisoned!
+_______________________________________________________________________
+
+After you win the battle, the Bandit King will plead for mercy.
+However, your party is guided by a hard code of justice and your
+character kills the Bandit King. Now that you have killed the Bandit
+King, all the doors in the cave are open. So, backtrack through the
+passage, through the door, and back into the large room. Walk to the
+northeast corner of the room and go through the door. Open the chests
+for a Potion, Strong, and a Bronze Shield. Once you have done this you
+may exit the cave.
+
+-----------------------------------------------------------------------
+4.1.6  Castle of Armor (Revisited) - King Armor
+-----------------------------------------------------------------------
+
+Once you are outside walk back to South Town and talk to the Girl.
+Then, walk north to the Castle of Armor and go up to the second floor.
+Now talk to the King and he will give you the King Armor! Exit the
+Castle of Armor. If you want, you may equip the King Armor, which will
+greatly increase your defense by 20 Defense. Otherwise you can store it
+in your inventory for further use, or you may put it on the statue in
+the Town of Hero. To put the armor back on the statue, face the statue
+and click on the King Armor twice. The armor will disappear from your
+list and be put back onto the statue.
+
+-----------------------------------------------------------------------
+4.1.7  Castle of Sword - King Sword
+-----------------------------------------------------------------------
+
+Walk back to the Town of Hero, and restock on whatever items and
+weapons you need. I would also recommend buying the Magic Spell Book of
+Fire since it will prove to be very valuable in your next quest.

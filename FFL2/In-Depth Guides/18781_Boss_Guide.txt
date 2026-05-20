@@ -1,0 +1,386 @@
+Final Fantasy Legend II---Boss FAQ
+Version 1.0
+By: Magus999 a.k.a. Joe Sura
+
+Sections:
+I.    General Information about the FAQ
+II.   General Tips
+III.  Specific Bosses
+
+Current information needed:
+-Strategies on specific bosses
+-More exact boss HP
+-Anything else that should be added
+
+*NOTE: For now, most of the information is in General Tips.  This will
+change once I finish the specific boss section (probably by Thursday at
+the latest) and once I start getting in information about some of the
+specific hard bosses.
+
+--I. General FAQ Information--
+
+This FAQ is for defeating specific bosses in the game Final Fantasy
+Legend II for the GameBoy.
+
+-----------------------------------------------------------------------
+
+Version History
+Current Version: 1.0
+
+Version 1.0: Basic layout of the FAQ, and also covers the first two
+worlds.
+
+[Next Version] Finish first information about all bosses.
+
+-----------------------------------------------------------------------
+
+This guide is copyrighted and the author (Magus999) grants you these
+privileges:
+A. You may read this guide.
+B. You may download this guide and keep it on your PC.
+
+You are not allowed to:
+A. Sell this guide for profit.
+B. Take any information from this guide without giving me FULL credit
+for all of my work and asking my permission via email.
+
+Websites are allowed to post this guide under the following conditions:
+A. This guide will not be changed in any way.
+B. I get FULL credit for this guide.
+C. This guide is not displayed on a page with any advertisements.
+D. Send me an e-mail that tells me you are posting the guide and gives
+the web address of the site.
+
+
+There are several things I assume about you in this walkthrough:
+
+1. You have the game obviously.
+2. You are not massively cheating.  If you are adding minor things,
+fine, it's your life, however if you're using an invincibility code or
+giving O-All and 99 Defense to every party member, you probably don't
+even need to read this guide.
+3. You know the interface in the game.  Read the manual.  I'll be
+giving lots of help in fighting the bosses and what attacks to use, but
+if you don't know how to equip a Flare Book or raise Agility, all my
+information isn't going to help at all.
+
+
+About the Author
+This FAQ is written by Magus999.  If you want to contact me:
+
+E-mail
+Geniusjoe2001@yahoo.com
+MY E-MAIL POLICY IS
+ Make the subject "Final Fantasy Legend II" or "FFL2"
+ Put all information in the text of the message
+ No attachments
+ Contributing information is great
+ If you contribute, list what name you want in the credits section
+ Constructive criticism is accepted
+ Non-constructive criticism is not accepted
+ It may take some time for me to respond
+ Don't send the same message multiple times
+
+I can also be contacted in the Final Fantasy Legend II Message Board at
+www.gamefaqs.com
+At gamefaqs, I am in the message boards as Magus999.
+
+-----------------------------------------------------------------------
+
+ABBREVIATIONS USED IN THIS FAQ:
+FFL2         Final Fantasy Legend II (the game you're playing)
+AGI          Agility
+STR          Strength
+DEF          Defense
+HP           Hit Points
+
+
+--II. General Tips--
+
+This section is mainly for information that applies to any boss.  For
+information about a specific boss, check that piece of Part III.
+
+-----------------------------------------------------------------------
+RACE BREAKDOWN AND TIPS:
+
+Humans:  The physical fighters of FFL2.  They are there mainly to use
+weapons and items.
+-They have 8 free spots in their inventory for items and you should
+remember that.  If you lack Cure spells, something as simple as
+sticking an X-Cure Potion in one of your humans' free slots can often
+fix lots of problems.
+-Specialize your humans.  While it is possible to create a human with
+99 in both STR and AGI, it takes a long time.  Male Humans gain STR
+faster than AGI and Females gain AGI faster than STR.  So you should
+follow these automatic guidelines in equipping and gaining stats.
+Remember though, that even Males will need a minimum of Agility to hit
+enemies, but it is relatively low.  Generally you will only want to
+raise Male AGI when you're missing enemies a lot.
+-In most parties, your Humans will be the ones in the front of your
+party getting hit more often.  So they will need high HP and Defense.
+To raise HP, you just fight lots of battles and it'll go up naturally.
+Using Shields in battle can raise defense, but defense raises are quite
+rare.  Usually if you make sure your Human is wearing good Armor,
+you'll never need to fight for defense raises.
+-Equip MAGI that match your type of weaponry.  AGI for a Human using
+AGI weaponry, STR for a Human using STR weaponry and so on.  Sadly,
+this isn't always possible since you only are able to equip one person
+with each type.  If you have two Humans using the same weapon type, I
+recommend giving the one with lower stats the correct MAGI and giving
+the other either a Defense MAGI or a useable MAGI such as Aegis.
+
+Mutants:  The main magical users of FFL2.  They have 4 slots for spells
+and only 4 slots for weaponry, armor and items.  Unfortunately, this
+means that Mutants will have most of their slots taken up by armor,
+leaving just a single weaponry slot.  Mutants are highly useful against
+regular enemies, but against major bosses until near the end of the
+game, they are purely Healers since several bosses are immune to all
+elements.  Once you go through the Nasty Dungeon, you will have tons of
+money to buy Flare Books and Mutants will begin doing tons of damage.
+-Despite how bad it sounds to only have one weapon, Mutants should
+always have lots of armor.  Mutants usually have low HP, so you need
+the DEF.  Always wear Armor and Helmets, they give the biggest raises
+in Defense.  Gauntlets are optional, but I use them until the
+Guardian's World.  I strongly recommend buying a pair of Hermes Boots
+from Guardian's World and giving them to your Mutant for the +10 AGI.
+Late in the game, unequip all your armor and give the Mutant a Parasuit
+that gives massive DEF, AGI and STR bonuses, plus only takes up one
+slot.
+-Your one weapon should almost always be an AGI weapon.  Female Mutants
+gain AGI faster than Males, but Male Mutants do NOT gain any bonus
+speed to gaining STR.  AGI is just like STR, except AGI allows you to
+attack before the enemies in battle.  Obviously, if you're trying to
+cast a Cure spell or kill the enemy before he attacks you, high AGI
+will help a lot more than high STR.
+-Rely on skills.  They are your main weapons.  Your starting spell,
+Flame or Blizzard, is highly useful, even late into the game, since it
+is reliant on Mana and hits all enemies.  Also, I recommend not
+doubling the Element spells.  For example, a Male Mutant has Blizzard.
+Since he has an ice-element attack, why would he need Ice?  Sure Ice
+does a little more damage, but if you're looking to hit a normal
+enemy's weakness, having Fire will help a lot more.  Generally, I also
+like having Thunder in addition to the starting spell for elemental
+stuff, because Thunder appears to have more enemies weak against it
+than either Fire or Ice.
+-Good abilities to have are:
+1.) Cure (restores HP, 15 uses)
+2.) P-Blast (high damage, hits all enemies, 15 uses)
+3.) Flare (most powerful spell in the game, hits all enemies, only 5
+uses though)
+4.) StonGaze (eliminates groups of regular enemies easily)
+5.) O-All (gives immunity to all element attacks)
+6.) O-Change (immune to status effects)
+7.) O-Weapon (immune to physical damage, which is about half of all
+damage)
+-Most books are pointless.  The basic books, such as Fire and Ice
+aren't that valuable and can easily be acquired as skills from beating
+monsters anyway.  Stone would be a nice book to have, however you only
+get 15 uses.  There are much better ways to spend 17,000 gold.  The
+main exception to this rule is Flare Books.  Once you reach the last
+world, your characters will be rolling in money, especially if you go
+through the entire Nasty Dungeon and sell the stuff from there that you
+don't use.  Flare is the most powerful spell in the game and does
+whopping damage to all enemies.  Cure Books are also nice, however you
+can usually get Cure on a Mutant without too much trouble.
+-The best MAGI for Mutants is obviously Mana since it gives a large
+boost to your Mana stat.  If you have two Mutants, give the MAGI to the
+Mutant with lower Mana, and give the other Mutant the element MAGI that
+matches your most used element type.
+
+Robots: They are the ones who are best at using valuable items that run
+out fast such as Tank or Missile, since you can always recharge the
+items by staying at an inn.  Robots can be nice against bosses, but you
+need to be careful what you use as several Robot weapons, especially
+the Fire Gun, lose their power against bosses.
+-Aside from items like the ones mentioned above with low uses but high
+value, the Robot should focus on AGI weaponry.  As I mentioned in the
+Mutant discussion, AGI is generally better than STR.  Getting lots of
+AGI weaponry can give the Robot massively high AGI damage.  Giving a
+Robot a bunch of Bows and one Rapier can result in over 120 damage
+right at the beginning of the game.  Laser Guns give the biggest AGI
+increase, tied with the very good damage Samurai Bows.  This applies
+later in the game too.
+-Always have lots of items equipped.  Even if they are really wimpy
+like Bows, the items still give you free HP and a small stat boost.
+-Against bosses, the specialty items like Tank generally lose
+usefulness.  This makes the AGI weaponry you should be carrying even
+more important since it gives a very reliable source of damage.
+-With Robots, you can often survive quite well just by equipping them
+with items found in dungeons.  But you must make sure to actually give
+the items to the Robot and not others, or else your Robot will end up
+very weak.
+
+Monsters: The wild card of the game.  They can be either very helpful
+against bosses, or 100% worthless.
+-Don't always eat meat when it's dropped.  If you have a good monster
+that you like, then keep it.  There is an excellent FAQ by Amuseum
+describing how monsters transform when eating meat.  Just print off the
+main chart and look at it before deciding to eat meat.  If you'll end
+up with a bad monster, then don't bother.
+-Some monster types are inferior and some are excellent, just like
+you'd expect.  The best monster types, in no particular order, are:
+1.) Sprite class.  Includes Sprite, Fairy, Nymph, Sylph and Titania.
+These monsters have good HP and DEF, plus amazing Mana and AGI.  Also,
+even the weakest kind has Cure, Thunder and Sleep, all good abilities.
+Even if the current boss resists Thunder and Sleep, these are still
+great to have to restore HP.
+2.) Medusa class. Includes Medusa, Lamia, Naga, Scylla and Lilith.
+Good all-around stats, plus StonGaze for quick removal of regular
+enemies.  Tends to be less useful against bosses, but nice against
+regular enemies, so worth mentioning.
+3.) Ghost class.  Includes O-Bake, Phantom, Wraith, Specter, and Ghost.
+Has Touch and possibly Paralyze or Ice depending on the kind.  Touch
+absorbs HP and does damage and is highly useful if the boss doesn't
+resist it.  Nice overall stats.  Not much to really say.
+4.) Dragon class.  Includes Baby-D, Young-D, Dragon, Great-D and Sei-
+Ryu.  Flame for a nice hit all attack and some physical attacks such as
+Nail to cover in case the boss resists Fire.  Overall one of the best
+boss classes.
+Those are the ones I consider generally the best, but if you have other
+recommendations (and in-game information to back it up), send them in.
+Note that for specific bosses, certain monsters might be less useful or
+more useful depending on the boss.
+
+-----------------------------------------------------------------------
+
+General tips if you are having trouble beating a boss:
+1.) Level up.  This is the single biggest thing you can do to improve
+your party.
+2.) Buy new weaponry or armor.  I recommend armor over weapons most of
+the time, because weapons run out, but armor is forever.  However, if
+you have lots of money or already have good armor, weapons can be
+highly useful.  Just make sure not to run out of uses before fighting
+the boss.  If I have a Human in my group, I'll buy the best weapon I
+can, then make it purely for boss fighting.  You can always rely on
+cheap Rapiers and Long Swords to deal with regular wimps, but bosses
+often demand the very best.
+3.) Check your Mutant's abilities.  Several bosses resist certain
+elements.  While there isn't much to change the abilities (short of
+buying a Book for an element that isn't resisted), if you know for sure
+that the monster resists all your abilities, then why not just give the
+Mutant an X-Cure potion or a Cure Book to heal during the battle?  Heal
+Rods work even better, but chances are against having enough money to
+buy them early in the game.  If you have the Aegis MAGI, you can give
+it to your fastest Mutant and use it for some free party element
+defense.
+4.) Make sure the monsters are upgraded.  While that Sprite may have
+been highly useful against Ashura, it's horribly outdated by the time
+you fight Venus.  If you are at the current level, try another monster.
+A Sprite type is useful for Cure, but if your Mutant has Cure and the
+monster resists elemental attacks, both your Mutant and Sprite will be
+just Curing with nothing else to do.  You probably don't really need
+that much healing.  So try to switch the Sprite to a physical class to
+do some solid damage.
+5.) If you have Aegis or a high level shield that defends the whole
+party, use it.  Regardless of how little damage you do per turn, if you
+aren't taking any damage, then you will win eventually.
+6.) Be persistent.  Often, you can hit the enemy down to low HP before
+unluckily getting hit with a powerful attack that wipes out your party.
+Try again and you could win easily without trouble.
+7.) If all else fails, take a break.  Leave the game for an hour or so
+and go do something else, such as reading or watching TV.  While you
+should be persistent, staying and failing repeatedly will only cause
+you to get angry at the game.  Once you reach that breaking point, turn
+off the GameBoy and forget about FFL2 for a few minutes.  Then once you
+go back to it, you'll be back and ready to try again or level up some
+more.
+
+-----------------------------------------------------------------------
+
+--III. Specific Bosses--
+
+Now that you've read or skipped my general section on characters,
+here's the section on specific bosses.  The HP and resistances are
+purely based on what I tried out.  If you have any better information,
+send it!  The HP especially is rather far off, since it was based on
+highly unscientific methods (me sitting there with a Calculator till
+the boss dies) and could easily be a hundred or so off.
+
+-----------------------------------------------------------------------
+
+BabyWyrm:
+HP==Less than 100.  Resistances: None that I know of.
++++The easiest boss battle in the game.  One shot of Dissolve or Fire
+by Mr.S will kill this boss.  Even if Mr.S has somehow used up all his
+skills, you can still shred this boss with one Colt shot from a Robot,
+a couple physical attacks or two uses of Flame/Blizzard.  This is a
+regular enemy who comes in large groups in the very next world.
+
+-----------------------------------------------------------------------
+
+Rhino:
+HP==Roughly 100-150.  Resistances: None that I know of.
++++This is a cakewalk, especially with Ki.  One casting of her Thunder
+finishes Rhino easily.  If you have a Robot with a SMG (highly useful),
+one shot will also kill Rhino. Also, look at those Resistances.  He was
+hit with everything I tried, including status effects.  The reason is
+because this is actually not a true boss, just a regular enemy from
+slightly later in the game.  Still deserves his own section, even if
+Rhino is a major wimp.
+
+-----------------------------------------------------------------------
+
+Woodman:
+HP==Less than 157.  Resistances: Again, none (enjoy it while you can)
++++Another simple battle.  Again, one SMG firing will kill the Woodman.
+Also a couple spells from a Mutant or 3 physical attacks will easily
+finish this boss.  I believe all status effects work here also.  I'm
+sure that Sleep and Paralysis work on this boss, plus probably
+everything else.  This is yet another regular enemy, which explains the
+weakness.
+
+-----------------------------------------------------------------------
+
+Ashura:
+HP==760-885 (probably 800).  Resistances:  Currently known: Fire, Ice,
+Thunder, Sleep, Paralysis.  I'd guess he resists all elements and
+status effects, but I haven't tested thoroughly enough yet.
++++Your first true boss.  Ashura can do lots of damage to your whole
+party with Flame (about 70-90 to all party members).  If you have a
+Robot, this is the time to use those AGI weapons you've hopefully been
+stocking up in his inventory.  Humans should also use physical weapons,
+which works perfectly since you picked up the best current STR and AGI
+weapons on your way up his tower.  Mutants will be restricted to mainly
+casting Cure or using Cure potions unless you've done some major
+physical damage raising.  You can try Psi Knives for damage if you've
+got any, but I didn't have any so I couldn't try them to say how useful
+they are.  The most useful monsters in this battle are Raven, MapleMan,
+and RedBone for physical damage or Sprite for Cure.  IMO, MapleMan is
+the best overall since he does the most physical damage with Bash.
+Finally, we come to Mask, your ace in the hole.  If your party is
+lacking in the damage department (highly possible), Mask can bail you
+out.  Mask with even a weak Long Sword or Rapier can do 100+ damage and
+carrying a Saber or Battle Sword, he can do over 300 damage at times.
+Usually, I'll give him a Long Sword so I can use or sell the
+Saber/BattleSword myself since you can not get the item back if you
+give it to Mask.  If you find yourself having trouble, just give Mask
+your best weapon, then set your entire party to casting Cure or using
+Cure Potions.
+
+-----------------------------------------------------------------------
+
+Phagocyt:
+HP--Roughly 200 or so each.  Resistances: None known, except probably
+Poison.  Weak against Ice.
++++These are in Ki's Body and come in groups of anywhere from 2-8 (its
+random, so if you end up with a huge group and can't handle it, reload
+and try again).  These are actually just the next level of the Plasma
+monsters you fought earlier.  They seem hard, but it's just a
+deception.  One SMG blast will kill off the entire group.  Also, look
+at that weakness to Ice.  One decent Mutant (15+ Mana) with Blizzard or
+Ice can kill off all of them in one hit.  If you don't have any group
+attacks, just fight them one by one, but in this case you need to be
+much more careful with casting Cure and using X-Cure potions more
+often.  I recommend reloading until you get less than 5 monsters if you
+have to fight physically without anything to hit the whole group,
+otherwise you'll take lots of damage and it will take a long time.  The
+best monster is Sprite due to Thunder hitting all the enemies and the
+high Mana (can definitely destroy the group in two hits of Thunder,
+possibly even just one).  A Big Eye may also be useful if the monsters
+are vulnerable to Paralysis.  If you can get a Medusa, one StonGaze
+will kill the whole group.
+
+-----------------------------------------------------------------------
+
+To be continued by tonight, once I get my game up to the Guardian's
+World since I forget who the bosses there.

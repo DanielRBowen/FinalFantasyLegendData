@@ -1,0 +1,689 @@
+Final Fantasy Legend 2 Monster Evolution and Mutant Skills FAQ
+Copyright (c) 1999-2003 Xay Voong
+Version 3.0 August  2003
+Amuseum --> kattdood @ yahoo . com
+
+This may be not be reproduced under any circumstances except for personal,
+private use. It may not be placed on any web site or otherwise distributed
+publicly without advance written permission. Use of this guide on any other
+web site or as a part of any public display is strictly prohibited, and a
+violation of copyright.
+
+***********************************************************************
+TABLE OF CONTENTS
+
+PART I:: MONSTER EVOLUTION GUIDE
+PART II:: MUTANT SKILLS GUIDE
+PART III:: MONSTER STATS AND SKILLS
+PART IV:: MONSTER LOCATIONS
+***********************************************************************
+
+PART I:: MONSTER EVOLUTION GUIDE
+
+FAMILY   LEVEL 1               LEVEL 2   LEVEL 3   LEVEL 4   LEVEL 5   DS LEVEL
+0    A   Fungus     18   -18   Mushroom  Champgno  Shiitake  Toadstol  156AB
+1    B   Flower     18   -18   P-Flower  F-Flower  SunPlant  DarkRose  269AB
+2    C   MapleMan   18   -18   LiveOrk   EvilPine  MadCedar  Treant    457AB
+3    A   Pebble     21   -15   Cobble    Boulder   Rock      Earth     237AB
+4    B   Woodman    21   -15   Clayman   Stoneman  Ironman   Mazin     357AB
+5    C   Hofud      21   -15   Gae Bolg  Answerer  Moaner    Kusanagi  478AB
+6    A   Slime      24   -12   Jelly     Tororo    Pudding   SlimeGod  246AB
+7    B   Worm       24   -12   P-Worm    LavaWorm  SandWorm  GigaWorm  358AB
+8    C   Big Eye    24   -12   Gazer     Watcher   Evil Eye  Beholder  479AB
+9    A   Spider     27   -9    P-Spider  Tarantla  F-Spider  Arachne   147AB
+10   B   Beetle     27   -9    Chafer    Ant Lion  C-Fisher  Scarab    256AB
+11   C   Moth       27   -9    Swallow   FireMoth  Gloom     Madame    468AB
+12   A   Octopus    30   -6    Amoeba    Ammonite  Squid     Kraken    236AB
+13   B   Barracud   30   -6    Piranha   Shark     Gunfish   Leviathan 268AB
+14   C   Crab       30   -6    Hermit    IceCrab   KingCrab  Dagon     379AB
+15   A   Toad       33   -3    P-Toad    HugeToad  GianToad  KingToad  159AB
+16   B   Snake      33   -3    Serpent   Anaconda  Hydra     Jorgandr  267AB
+17   C   Tortoise   33   -3    Turtle    Adamant   D-Turtle  Gen-Bu    458AB
+18   A   Lizard     3   -33    Cameleon  Komodo    Salamand  Basilisk  146AB
+19   B   Rhino      3   -33    Triceras  Dinosaur  T Rex     Behemoth  368AB
+20   C   Baby-D     3   -33    Young-D   Dragon    Great-D   Sei-Ryu   589AB
+21   A   BabyWyrm   6   -30    Wyrm Kid  Wyvern    Wyrm      FengLung  247AB
+22   B   Eagle      6   -30    Thunder   Cocatris  Roc       Su-Zaku   259AB
+23   C   Raven      6   -30    Harpy     Ten-Gu    Garuda    Nike      459AB
+24   A   Jaguar     9   -27    SabreCat  SnowCat   BlackCat  Byak-Ko   148AB
+25   B   Silver     9   -27    Kelpie    Nitemare  Sleipnir  Unicorn   348AB
+26   C   Griffon    9   -27    Mantcore  Chimera   Sphinx    Kirin     469AB
+27   A   Fly        12  -24    Hornet    Mosquito  Cicada    Mantis    157AB
+28   B   WereRat    12  -24    WereWolf  CatWoman  Rakshasa  Anubis    258AB
+29   C   Medusa     12  -24    Lamia     Naga      Scylla    Lilith    489AB
+30   A   Goblin     15  -21    Oni       Ogre      Giant     Susano-O  136AB
+31   B   Fiend      15  -21    Mephisto  Demon     DemoLoad  Athtalot  378AB
+32   C   Sprite     15  -21    Fairy     Nymph     Sylph     Titania   579AB
+33   A   Skelton    18  -18    Red Bone  Warrior   BoneKing  Lich      126AB
+34   B   Zombie     18  -18    Ghoul     Ghast     Wight     Revenant  248AB
+35   C   O-Bake     18  -18    Phantom   Wraith    Spector   Ghost     578AB
+
+SPECIAL MEATS
+
+6    A   Plasma     24  -12    Phagocyt  Corpuscl  Cancer              346AB
+6    A   Grippe     24  -12    Virus     Pathogen  Plague              347AB
+24   A   Fenrir      9  -27    OdinCrow                                B7
+21   A   TianLung    6  -30                                            B
+
+CLASS MODIFIERS
+             A meat   B meat   C meat
+A eats...        0        0        +1
+B eats...       -1        0        +1
+C eats...       -1        0         0
+
+Notes: Level one monsters in first few worlds. Level two monsters
+appear before Nasty Dungeon level four. Level three monsters appear from Venus
+volcano to Final Town. Level four monsters appear in Center of the World. You
+can only become level five monsters after eating TianLung or Fenrir's meat, and
+you stay at level five regardless of what level of meat you eat. More
+explanation on "gaining levels" below.
+
+***Figuring what family of Monster after eating a meat:
+
+There are three classes of monsters (A, B, C). Generally, Class C monsters are
+better: Big-Eye/Beholder, Sprite/Titania, O-Bake/Ghost. Plasma and Grippe
+monsters behave like Slime. Apparently, human and robot enemies don't leave
+meat, but sometimes they leave items. There are four levels of these enemies,
+instead of five like the monsters because you never fight level five monsters.
+
+When you eat a meat, add the number in column 4 or 5 of the meat monster to the
+number in the first column of your monster. Then Add class modifiers (A,B,C).
+
+See examples in the columns below. The Baby-D that I started out with ate
+several samples of meat. Baby-D has 20 in first column. Add that to the meat's
+modifier in column 4 or 5, for example, Jaguar has modifier 9 or -27. Last,
+Baby-D is Class C and ate Class A Jaguar meat, so subtract 1. The result is
+20+9-1=28, WereRat. You get the same result if you subtract 27 because
+then you would continue from the bottom starting with the O-Bake family.
+The Plasma and Grippe families are not counted. (They're there because they give
+meat.) When adding, if you get a number larger than 35, continue from the top.
+And when subtracting, resume from the bottom if you get less than 0, starting
+with O-Bake.
+
+***Figuring the species according to dragonspirit at GameFAQs.com:
+
+Each monster has a DS level which corresponds to the area you can find the
+monster. After you find the family of monster you will become using the above
+method, you need to look in last column--DS level. This has five digits--one
+for each species in that family. This digit stands for its DS level. When you
+eat a meat, the higher of the two DS level between the original and the meat is
+taken, ie maxlevel (orig, meat). This is compared to the DS level of each
+species in the new family you become, starting from the strongest to weakest.
+If your number is equal or greater than the species, then you become that
+species. Else, you compare to the next weaker species until you reach the
+condition above, or reach the weakest species in the family. If your maxlevel
+(orig, meat) is smaller than the weakest species in the family, then you become
+that species.
+
+With this method, after you become the second strongest species in the family
+(level four monster), you can never do worse. Also, after you eat TianLung or
+Fenrir's meat, you will become the strongest in any family (level five monster)
+and can never do worse.
+
+The DS level is in hex, which uses letters A and B for 10 and 11: 123456789AB.
+
+NOTE: Monsters you start out with have DS of 1, not the DS listed above.
+
+Legend: DS: Original, Meat = Maxlevel, Become  | | | |
+                                               V V V V
+Original      Meat             Become       DS:O,M=X,B Next DS in family
+Baby-D 20     Jaguar     9-1   WereRat 28      1,1=1,2 5
+Baby-D 20     Jaguar   -27-1   WereRat 28
+Baby-D 20     Baby-Wyrm  6-1   Silver 25       1,2=2,3 4
+Baby-D 20     Goblin    15-1   Zombie 34       1,1=1,2 4
+Baby-D 20     Spider    -9-1   Beetle 10       1,1=1,2 5
+Baby-D 20     Rhino      3     Raven           1,3=3,4 5
+Baby-D 20     Zombie    18     MapleMan        1,1=1,4 5
+Baby-D 20     Barracud  -6     Crab 14         1,2=2,3 7
+Baby-D 20     Silver     9     Medusa 29       1,3=3,5 8
+Silver 25     Crab      -6+1   Baby-D 20       3,3=3,5 8
+Silver 25     Plasma   -12-1   Amoeba 12       3,3=3,3 6
+Silver 25     Raven      6+1   Sprite 32       3,4=4,5 7
+Medusa 29     Grippe   -12-1   Snake 16        4,3=4,2 6
+Medusa 29     Moth      -9     Baby-D 20       4,4=4,5 8
+Medusa 29     Plasma   -12-1   Snake 16        4,3=4,2 6
+Medusa 29     Phagocyt -12-1   Snake 16        4,4=4,2 6
+Medusa 30     Big Eye  -12     Tortoise 18     4,4=4,4 5
+Amoeba 12     Grippe   -12     Fungus 0        3,3=3,1 5
+Amoeba 12     Moth      -9+1   Woodman 4       3,4=4,3 5
+Amoeba 12     Big Eye  -12+1   Flower 1        3,4=4,2 6
+Sprite 32     Mantcore -27     Hofud 5         5,6=6,4 7
+Sprite 32     Werewolf -24     Big Eye 8       5,5=5,4 7
+Sprite 32     Moth      -9     Harpy 23        5,4=5,5 9
+Sprite 32     Big Eye  -12     Baby-D 20       5,4=5,5 8
+Hofud   5     Piranha   30     O-Bake 35       4,6=6,5 7
+Hofud   5     Ogre      15-1   Triceras 19     4,6=6,6 8
+
+***********************************************************************
+
+PART II:: MUTANT SKILLS GUIDE
+
+There are a total of thirty-two special abilities that mutants
+can learn. They are listed below, in order, after I discuss the
+relationship between the mutant abilities and the DS level of
+the monsters.
+
+The DS level that determines what abilities a mutant learns is
+the same DS level that determines the evolution path of
+monsters. The DS can go from 0 to F, but for mutants, we
+are only concerned with 1 to A, since that is the highest
+regular monster you will encounter in Central Shrine.
+Furthermore, the best abilities, therefore the hardest to
+learn, can be gotten from these monsters in the Central
+Shrine as well, with much luck of course. Each unique boss
+also has a corresponding DS. They are as follows:
+
+Ashura, 7; Venus, 9; Dunatis, B; Hatamoto, B; TianLung, B;
+Fenrir, B; EchigoYa, B; OdinCrow, B; Odin, D; Sho-gun, 7;
+Dolphin, 9; Magnate, C; Minion, E; Apollo, F; Haniwa, C.
+
+To get the DS level of other monsters, please check out
+the Monster Evolution guide in the section above.
+
+Anyway, for each DS from 1 to A, there are a set of abilities
+that can be first obtained at that level. For example, on the
+first world, you can learn Cure, Warning, Fire, O-Poison, and
+Ice from the regular DS 1 monsters that reside on that
+world. From there on, you can also acquire these same skills
+on higher worlds. In other words, any monster with a DS of 1
+or higher can also give your mutants any of these five
+abilities.
+
+Finally, here is the complete list of the mutant abilities and
+the first DS at which you can learn them.
+
+DS 1+: Cure, Warning, Fire, O-Poison, Ice
+DS 2+: O-Para, Thunder, O-Quake
+DS 3+: Blitz, X-Fire, Steal
+DS 4+: X-Ice, StonSkin, X-Thunder, Gaze
+DS 5+: Surprise, StonGaze, O-Stone
+DS 6+: Explode, Heal
+DS 7+: Charm, O-Weapon, Hypnos
+DS 8+: Teleport, Touch, O-Damage
+DS 9+: P-Blast, O-Change, Mirror
+DS A+: Recover, Flare, O-All
+
+Interpretation and Discussion:
+As another example, the DS 5+ category is Surprise,
+StonGaze, and O-Stone. Any monster or boss that you fight
+that has at least a DS 5 has a chance to give your mutants
+one of the three abilities that were mentioned in this example.
+
+On the same note, any monster or boss can teach an ability of
+a lower DS than itself. That's why you hear some players can
+get Teleport or P-Blast early by defeating Dunatis--it has a
+DS B, which is higher than the necessary DS 9 for P-Blast or
+DS 8 for Teleport.
+
+Note that there are two Mirror skills in the game. The Mirror
+that mutants can learn reflects or absorbs magic. I don't
+know exactly since I don't have much experience using it. The
+other Mirror, which mutants cannot learn, boosts the user's
+agility. (Aside, I therefore took the liberty to rename the
+first Mirror to Fizzle in my neoFFL2.gb ROM).
+
+***********************************************************************
+
+PART III:: MONSTER STATS AND SKILLS
+
+SPECIES, T/W,    HP,STR,AGI,MAN,DEF, ABILITIES/WEAPONS/ARMOR/BOOKS/MAGI
+
+Fungus,   20,    45,  5,  3,  5,  6, Punch
+Mushroom, 23,   248, 25, 22, 25, 28, Punch, Poison, SleepGas, O-Para
+Champgno, 24,   324, 32, 29, 32, 36, Punch, Poison, SleepGas, Blind, O-Para
+Shiitake, 26,   731, 73, 68, 73, 78, Punch, Bash, Poison, SleepGas, Blind,
+                                     FatalGas, O-Para
+Toadstol, 27,   858, 86, 80, 86, 91, Punch, Bash, Poison, SleepGas, Blind,
+                                     FatalGas, Recover, O-Para
+Flower,   21,    81,  8,  6, 10,  8, Tusk, X-Ice
+P-Flower, 24,   324, 32, 29, 36, 32, Thorn, Poison, SleepGas, O-Pa/Po, X-Ice
+F-Flower, 25,   614, 61, 57, 66, 61, Thorn, Poison, SleepGas, SunBurst,
+                                     O-Pa/Po, X-Ice
+SunPlant, 26,   731, 73, 68, 71, 73, Thorn, Poison, SleepGas, Flame, O-Fire,
+                                     O-Pa/Po, X-Ice
+DarkRose, 27,   858, 86, 80, 91, 86, Thorn, Absorb, Charm, Poison, SleepGas,
+                                     Blind, FatalGas, O-Pa/Po
+MapleMan, 22,   195, 18, 14, 18, 21, Branch, Bash, X-Fire
+LiveOrk,  23,   263, 25, 20, 25, 28, Branch, Bash, O-Para, X-Fire
+EvilPine, 24,   430, 41, 35, 41, 45, Bash, Branch, Wind Up, O-Para, X-Fire
+MadCedar, 26,   756, 73, 66, 73, 78, Branch, Bash, Wind Up, Riddle, Warning,
+                                     O-Change, X-Fire
+Treant,   27,   885, 86, 78, 86, 91, Branch, Bash, Wind Up, Heal, Life,
+                                     Recover, Warning, O-Change
+Pebble,   21,    90,  7,  4,  8, 13, Bash, O-Change
+Cobble,   22,   137, 12,  7, 13, 18, Bash, Sand, O-Change
+Boulder,  24,   430, 39, 32, 39, 51, Bash, StoneGas, Sand, Surprise, O-Change
+Rock,     26,   756, 71, 61, 66, 86, Bash, StoneGas, Quake, Sand, Warning,
+                                     Surprise, O-Change
+Earth,    27,   885, 83, 72, 86, 99, Bash, StoneGas, Quake, Sand, Recover,
+                                     Warning, Surprise, O-Change
+Woodman,  21,   148, 13,  8, 13, 15, Punch, X-Fire
+Clayman,  23,   278, 25, 19, 25, 28, Punch, Kick, Wind Up, O-Pa/Po
+Stoneman, 24,   449, 41, 33, 37, 45, Bash, Punch, Gas, Sand, O-Change
+Ironman,  26,   781, 73, 63, 66, 78, Kick, Bash, Gas, Flame, Quake, O-Damage,
+                                     O-Change
+Mazin,    27,   912, 86, 75, 86, 91, Sword, Branch, Flame, Beam, Tornado,
+                                     Warning, O-Damage, O-Change
+Hofud,    22,   156, 18, 20, 21, 17, Stab, Defense, O-Change
+Gae Bolg, 24,   373, 41, 43, 45, 39, Stab, W-Attack, Defense, O-Damage,
+O-Change
+Answerer, 25,   465, 51, 53, 55, 49, W-Attack, Counter, Defense, Stab,
+                                     O-Damage, O-Change
+Moaner,   26,   681, 73, 76, 78, 71, Absorb, Stab, W-Attack, Defense, Counter,
+                                     O-Damage, O-Change
+Kusanagi, 27,   804, 86, 89, 91, 83, Absorb, Stab, W-Attack, Defense, Counter,
+                                     Critical, O-Damage, O-Change
+Slime,    21,    90,  8,  5, 10,  8, Dissolve, X-Fire
+Jelly,    22,   195, 18, 14, 21, 18, Dissolve, Wind Up, X-Fire
+Tororo,   24,   341, 32, 27, 36, 32, Dissolve, Wind Up, Surprise, O-Weapon,
+                                     X-Fire
+Pudding,  26,   756, 73, 66, 71, 73, Dissolve, Wind Up, P-Skin, Gas, Surprise,
+                                     O-Weapon, O-Quake
+SlimeGod, 27,   885, 86, 78, 91, 86, Dissolve, Wind Up, P-Blast, Hypnos, Gas,
+                                     Surprise, O-Weapon, O-Quake
+Worm,     21,   126, 15,  9, 15, 12, Tail, O-Quake
+P-Worm,   23,   248, 28, 20, 28, 23, Poison, Tie Up, P-Skin, O-Quake
+LavaWorm, 25,   507, 55, 44, 50, 49, Tusk, Flame, Tail, Burning, O-Fire, X-Ice
+SandWorm, 26,   731, 78, 66, 71, 71, Tusk, Tail, Tie Up, Sand, Quake, Surprise,
+                                     O-Quake
+GigaWorm, 27,   858, 91, 78, 91, 83, Tusk, Tail, Tie Up, Fire, Tornado,
+                                     Teleport, O-Quake, O-Fire
+Big Eye,  22,   182, 17, 14, 23, 18, Gaze, Warning, O-Quake
+Gazer,    24,   411, 39, 35, 49, 41, Flash, Beam, Gaze, Warning, O-Quake
+Watcher,  25,   614, 59, 55, 71, 61, Flash, Beam, Gaze, StonGaze, Warning,
+                                     O-Quake
+Evil Eye, 26,   731, 71, 66, 83, 73, Flash, Beam, Gaze, Gaze, StonGaze,
+                                     Warning, O-Quake
+Beholder, 27,   858, 83, 78, 97, 86, Beam, D-Beam, Gaze, StonGaze, X-Gaze,
+                                     Warning, Explode, O-Quake
+Spider,   20,    45,  5,  5,  5,  5, Tusk
+P-Spider, 22,   182, 18, 18, 18, 18, Tusk, Poison, Cobweb
+Tarantla, 24,   411, 41, 41, 41, 41, Tusk, Poison, ParaNail, Cobweb, Warning
+F-Spider, 26,   731, 73, 73, 66, 73, Tusk, Poison, ParaNail, Cobweb, Gas,
+                                     Flame, Warning
+Arachne,  27,   858, 86, 86, 86, 86, Tusk, Poison, ParaNail, Cobweb, Gas,
+                                     Tornado, Warning, O-Quake
+Beetle,   21,    81,  4, 10,  8, 10, Horn, X-Ice
+Chafer,   23,   248, 19, 28, 25, 28, Bash, Steal, O-Quake, X-Ice
+Ant Lion, 24,   324, 26, 36, 32, 36, Pincer, Sand, Blind, Surprise, X-Ice
+C-Fisher, 26,   731, 63, 78, 66, 78, Tusk, Pincer, Flame, Gas, Mirror,
+                                     Teleport, O-Quake
+Scarab,   27,   881, 75, 91, 86, 91, Tusk, Gas, Bash, Stench, Cure, Teleport,
+                                     O-Poison, O-Quake
+Moth,     22,   182, 13, 22, 22, 16, Bash, Poison, O-Quake
+Swallow,  24,   324, 26, 38, 38, 29, Absorb, Poison, Stunner, Warning, O-Quake
+FireMoth, 25,   507, 42, 57, 52, 47, Stunner, Flame, Poison, Burning, Warning,
+                                     O-Quake
+Gloom,    26,   731, 63, 81, 81, 68, Absorb, Poison, Stunner, FatalGas, Charm,
+                                     Warning, O-Quake
+Madame,   27,   858, 75, 94, 94, 80, Absorb, Poison, Stunner, FatalGas, Heal,
+                                     Charm, Warning, O-Quake
+Octopus,  22,    99, 10,  7,  8,  5, Tentacle, Ink, X-Thunder
+Amoeba,   22,   148, 15, 12, 12,  9, Dissolve, Acid, X-Thunder
+Ammonite, 25,   358, 36, 31, 32, 27, Ink, 8-Legs, Tusk, Shell, O-Fire,
+                                     X-Thunder
+Squid,    26,   781, 78, 71, 66, 66, Tusk, 8-Legs, Ink, Tie Up, Thunder, Gas,
+                                     O-Fire
+Kraken,   27,   912, 91, 83, 86, 78, Tusk, 8-Legs, Ink, Tie Up, Thunder
+Barracud, 21,    99,  6, 10,  8,  6, Gas, Whirl, O-Fire, Tusk, X-Thunder
+Piranha,  24,   358, 29, 36, 32, 29, Fin, Tusk, Tail, O-Fire, X-Thunder
+Shark,    25,   549, 47, 55, 51, 47, Headbut, Tusk, Tail, Warning, O-Fire,
+                                     X-Thunder
+Gunfish,  26,   781, 68, 78, 73, 68, Fin, Tusk, Tail, Blitz, Squirt, O-Quake,
+                                     O-Fire
+Leviathn, 27,   912, 80, 91, 86, 80, Fin, Tusk, Tail, Blitz, Thunder, Whirl,
+                                     O-Quake, O-Fire
+Crab,     21,   115, 10, 12, 13, 17, W-Pincer, X-Thunder
+Hermit,   24,   392, 37, 39, 41, 49, W-Pincer, Shell, ParaNail, O-Fire,
+                                     X-Thunder
+Ice Crab, 25,   591, 57, 59, 55, 71, W-Pincer, Blizzard, ParaSkin, Tusk, O-Ice,
+                                     X-Thunder
+KingCrab, 26,   706, 68, 71, 73, 83, W-Pincer, Tusk, ParaNail, Thunder,
+                                     O-Stone, O-Fire, X-Thunder
+Dagon,    27,   831, 80, 83, 86, 97, W-Pincer, Tusk, ParaNail, Thunder, Whirl,
+                                     O-Poison, O-Stone, O-Fire
+Toad,     21,    52,  5,  6,  3,  4, Tongue, X-Ice
+P-Toad,   24,   263, 25, 28, 20, 23, Tongue, P-Skin, Gas, O-Poison, X-Ice
+HugeToad, 25,   637, 61, 66, 52, 59, Tongue, Kick, Gas, Tie Up, CursSong,
+                                     O-Poison
+GianToad, 26,   756, 73, 78, 62, 71, Tongue, Kick, Tie Up, Gas, CursSong,
+                                     Warning, O-Poison
+KingToad, 27,   885, 86, 91, 80, 83, Tongue, Kick, Tie Up, Gas, MadSong,
+                                     CursSong, Warning, O-Poison
+Snake,    21,    81,  9,  8,  6,  9, Tusk, X-Ice
+Serpent,  24,   324, 34, 32, 29, 34, Tusk, Poison, Tie Up, Surprise, X-Ice
+Anaconda, 25,   411, 43, 41, 34, 43, Tusk, Poison, Gas, Tie Up, O-Poison, X-Ice
+Hydra,    26,   731, 76, 73, 62, 76, Tusk, Tie Up, 4-Heads, Gas, Recover,
+                                     O-Poison, X-Fire
+Jorgandr, 27,   858, 89, 86, 80, 89, Tusk, Tie Up, Gas, Quake, Teleport,
+                                     Recover, O-Change, O-Quake
+Tortoise, 22,   182, 18, 13, 17, 25, Tusk, Shell, X-Ice
+Turtle,   23,   248, 25, 19, 23, 32, Tusk, Bash, Shell, X-Ice
+Adamant,  25,   507, 51, 42, 45, 61, Bash, Gas, Shell, Tusk, O-Poison, X-Ice
+D-Turtle, 26,   731, 73, 63, 64, 86, Tusk, Bash, Gas, Shell, O-Poison, X-Ice
+Gen-Bu,   27,   858, 86, 75, 83, 99, Tusk, Bash, Gas, Shell, Cure, Recover,
+                                     O-Poison, O-Para
+Lizard,   21,    59,  6,  2,  5,  5, Tusk, X-Ice
+Cameleon, 22,   208, 21, 13, 18, 18, Tongue, Warning, X-Ice
+Komodo,   24,   358, 36, 26, 32, 32, Tusk, Nail, Tail, Bash, X-Ice
+Salamand, 26,   781, 78, 63, 66, 73, Nail, Tusk, Burning, Flame, Fire, O-Fire,
+                                     X-Ice
+Basilisk, 27,   912, 91, 75, 86, 86, Nail, Tusk, Poison, ParaSkin, Gas,
+                                     StonGaze, Warning, O-Change
+Rhino,    21,   170, 18,  8,  7, 13, Tusk, X-Ice
+Triceras, 24,   392, 41, 26, 24, 32, Nail, Tusk, 3-Horns, Bash, X-Ice
+Dinosaur, 25,   591, 61, 42, 40, 51, Tusk, Nail, Tail, Bash, O-Poison, X-Ice
+T Rex,    26,   831, 86, 63, 61, 73, Nail, Tusk, Headbut, Bash, O-Weapon,
+                                     O-Poison, X-Ice
+Behemoth, 27,   966, 99, 75, 72, 86, Nail, Tusk, Headbut, Bash, Quake, Recover,
+                                     O-Weapon, O-Poison
+Baby-D,   23,   248, 26, 20, 26, 25, Nail, Tusk, Flame, O-Quake
+Young-D,  24,   507, 53, 44, 50, 51, Nail, Tusk, Flame, Tie Up, O-Quake
+Dragon,   25,   614, 64, 55, 60, 61, Tusk, Flame, Nail, Tie Up, O-Fire, O-Quake
+Great-D,  26,   731, 76, 66, 71, 73, Nail, Tusk, Flame, Blizzard, Tie Up,
+                                     O-Fire, O-Quake
+Sei-Ryu,  27,   858, 89, 78, 91, 86, Nail, Tusk, Tie Up, Lightng, Gas, Whirl,
+                                     O-Quake, O-Damage
+BabyWyrm, 21,    81, 10,  9,  5,  8, Beak, O-Quake
+Wyrm Kid, 22,   182, 21, 20, 14, 18, Beak, Blind, O-Quake
+Wyvern,   24,   411, 45, 43, 35, 41, Tusk, Nail, Poison, Blind, O-Quake
+Wyrm,     26,   731, 78, 76, 60, 73, Nail, Tusk, Tail, Poison, Blind, Lightng,
+                                     O-Quake
+FengLung, 27,   858, 91, 89, 78, 86, Nail, Tusk, Poison, Blind, Lightng,
+                                     Tornado, O-Quake, O-Damage
+Eagle,    21,    45,  8, 13, 10,  5, Beak, O-Quake
+Thunder,  23,   188, 25, 32, 28, 20, Beak, Thunder, Warning, O-Quake
+Cocatris, 25,   522, 61, 73, 66, 55, Petrify, StonSkin, Nail, Surprise,
+                                     Warning, O-Quake
+Roc,      26,   631, 73, 86, 71, 66, Nail, Beak, Blind, Tornado, Surprise,
+                                     Warning, O-Quake
+Su-Zaku,  27,   750, 86, 99, 91, 78, Beak, Flame, Tornado, Blind, Recover,
+                                     Warning, O-Quake, O-Damage
+Raven,    22,   143, 17, 22, 21, 17, Nail, Beak, O-Quake
+Harpy,    23,   203, 23, 29, 28, 23, Nail, Tusk, MadSong, O-Quake
+Ten-Gu,   25,   545, 59, 68, 60, 59, Beak, Thunder, Nail, Tornado, Blind,
+                                     O-Quake
+Garuda,   26,   656, 71, 81, 71, 71, Nail, Beak, Thunder, Blind, Tornado,
+                                     Warning, O-Quake
+Nike,     27,   777, 83, 94, 91, 83, Sword, Thunder, Blind, Mirror, Charm,
+                                     Tornado, Warning, O-Quake
+Jaguar,   20,    45,  6,  5,  3,  5, Tusk
+SabreCat, 22,   182, 21, 18, 16, 18, Nail, 2-Tusks, Surprise
+SnowCat,  25,   507, 55, 51, 43, 51, Tusk, Nail, Blizzard, Surprise, X-Fire
+BlackCat, 25,   731, 78, 73, 68, 73, Nail, Tusk, Gaze, Erase, Surprise, Warning
+Byak-Ko,  27,   858, 91, 86, 80, 86, Tusk, Sword, Blizzard, Flash, Tornado,
+                                     Teleport, Recover, O-Damage
+Silver,   21,   126, 14, 14, 10, 13, Kick, Breath
+Kelpie,   22,   182, 20, 20, 16, 18, Tusk, Kick, Breath
+Nitemare, 25,   507, 53, 53, 43, 51, Sword, Breath, Flame, Kick, Gaze, O-Fire
+Sleipnir, 26,   731, 76, 76, 62, 73, Tusk, W-Kick, Bash, Breath, Flame,
+                                     Warning, O-Change
+Unicorn,  27,   858, 89, 89, 80, 86, Kick, Horn, Charm, Cure, Heal, Teleport,
+                                     Warning, O-Change
+Griffon,  22,   169, 22, 18, 16, 18, Nail, Beak, O-Quake
+Mantcore, 24,   307, 38, 32, 29, 32, Nail, Tusk, Poison, Warning, O-Quake
+Chimera,  25,   591, 68, 61, 52, 61, Tusk, Nail, Flame, 3-Heads, Warning,
+                                     O-Quake
+Sphinx,   26,   706, 81, 73, 68, 73, Nail, Tusk, Fire, Cure, Riddle, Warning,
+                                     O-Quake
+Kirin,    27,   831, 94, 86, 80, 86, Horn, Thunder, Cure, Tornado, Teleport,
+                                     Recover, O-Quake, O-Damage
+Fly,      22,    38,  4,  7,  4,  5, Nail, O-Quake, X-Ice
+Hornet,   24,   233, 23, 29, 23, 25, Tusk, Poison, Honey, O-Quake, X-Ice
+Mosquito, 25,   392, 39, 47, 39, 41, Tusk, Absorb, Sword, Surprise, O-Quake,
+                                     X-Ice
+Cicada,   27,   706, 71, 81, 71, 73, Sword, Tusk, Absorb, Thunder, MadSong,
+                                     CursSong, O-Quake, X-Ice
+Mantis,   27,   831, 83, 94, 83, 86, Tusk, 2-Swords, Drain, Thunder, Teleport,
+                                     Surprise, O-Poison, O-Quake
+WereRat,  21,    99, 10,  8,  6,  6, Nail, Recover
+WereWolf, 23,   278, 28, 25, 22, 22, Nail, Tusk, Surprise, Recover
+CatWoman, 25,   549, 55, 51, 47, 47, Tusk, Nail, Charm, Poison, Surprise,
+                                     Recover
+Rakshasa, 26,   781, 78, 73, 68, 68, Tusk, Fire, Ice, Cure, Mirror, Surprise,
+                                     Recover
+Anubis,   27,   912, 91, 86, 80, 80, Nail, Tusk, Ice, Mirror, Dispel, Heal,
+                                     Cure, Recover
+Medusa,   22,   182, 17, 18, 22, 16, Tail, Poison, StonGaze
+Lamia,    24,   507, 49, 51, 57, 47, Tail, Poison, Ice, Fire, Charm
+Naga,     25,   614, 59, 61, 68, 57, Poison, Ice, Tail, Fire, Cure, Charm
+Scylla,   26,   731, 71, 73, 73, 68, Tail, 4-Heads, Poison, Ice, Fire, Whirl,
+                                     Charm
+Lilith,   27,   858, 83, 86, 94, 80, Tail, 6-Arms, Tie Up, Thunder, Flame,
+                                     Charm, Quake, O-Damage
+Goblin,   20,    31,  7,  4,  5,  5, Punch
+Oni,      21,   104, 16, 12, 13, 13, Punch, Horn
+Ogre,     24,   290, 38, 31, 32, 32, Kick, Punch, Bash, Sleep, Ice
+Giant,    26,   681, 81, 71, 73, 73, Punch, Kick, Bash, Sleep, Ice, Cure,
+                                     Teleport
+Susano-O, 27,   804, 94, 83, 86, 86, Sword, Bash, Thunder, Ice, Tornado,
+                                     Teleport, O-Damage, Recover
+Fiend,    21,   104, 13, 13, 15, 13, Nail, Sleep
+Mephisto, 24,   373, 41, 41, 45, 41, Nail, Sleep, Fire, O-Fire, O-Quake
+Demon,    25,   465, 51, 51, 55, 51, Sleep, Fire, Nail, Hammer, O-Fire, O-Quake
+DemoLoad, 26,   681, 73, 73, 78, 73, Nail, Sleep, Fire, Stone, Teleport,
+                                     O-Fire, O-Quake
+Athtalot, 27,   804, 86, 86, 91, 86, Sword, Gaze, Flare, Erase, Cure, Teleport,
+                                     O-Damage, O-Quake
+Sprite,   23,   218, 17, 31, 32, 22, Sleep, Thunder, Cure, O-Quake
+Fairy,    24,   373, 32, 49, 51, 37, Sleep, Thunder, Ice, Cure, O-Quake
+Nymph,    25,   568, 50, 71, 66, 57, Thunder, Sleep, Whirl, Ice, Cure, O-Quake
+Sylph,    26,   681, 61, 83, 78, 68, Sleep, Thunder, Ice, Tornado, Cure,
+                                     Teleport, O-Quake
+Titania,  27,   804, 72, 97, 99, 80, Fire, Thunder, Ice, Flare, Cure, Erase,
+                                     Teleport, O-Quake
+Skelton,  22,    52,  4,  5,  7,  2, Punch, O-Weapon, X-Fire
+Red Bone, 23,    90,  7,  8, 11,  5, Punch, Poison, O-Weapon, X-Fire
+Warrior,  25,   347, 31, 32, 38, 27, Sword, Saw, Axe, O-Weapon, O-Pa/Po, X-Fire
+BoneKing, 26,   756, 71, 73, 81, 66, Sword, Thunder, Ice, Erase, O-Ice,
+                                     O-Weapon, O-Pa/Po
+Lich,     27,   885, 83, 86, 94, 78, Thunder, Ice, Erase, Flare, Teleport,
+                                     O-Ice, O-Weapon, O-Pa/Po
+Zombie,   22,   117, 12,  4,  8,  4, Nail, Tusk, X-Fire
+Ghoul,    23,   234, 23, 13, 18, 13, Tusk, ParaNail, O-Pa/Po, X-Fire
+Ghast,    26,   591, 59, 42, 51, 42, Tusk, ParaNail, Stench, P-Skin, O-Ice,
+                                     O-Pa/Po, X-Fire
+Wight,    26,   831, 83, 63, 73, 63, Tusk, ParaNail, Stench, ParaSkin, Touch,
+                                     O-Ice, O-Pa/Po
+Revenant, 27,   966, 97, 75, 86, 75, Nail, Poison, Stench, ParaSkin, Touch,
+                                     Recover, O-Ice, O-Pa/Po
+O-Bake,   23,   263, 20, 29, 29, 19, Sleep, Touch, O-Quake, X-Fire
+Phantom,  24,   430, 35, 47, 47, 33, Ice, Sleep, Touch, O-Quake, X-Fire
+Wraith,   25,   528, 44, 57, 57, 42, Touch, Ice, Sleep, O-Change, O-Quake,
+                                     X-Fire
+Spector,  26,   756, 66, 81, 81, 63, Ice, Stone, Touch, Cure, O-Weapon,
+                                     O-Change, O-Quake
+Ghost,    27,   885, 78, 94, 94, 75, Drain, Gaze, Erase, Touch, Cure, O-Weapon,
+                                     O-Change, O-Quake
+Asigaru,  00,   120,  5,  5,  2,  6, Long Sword
+Samurai,  01,   320, 14, 14,  8, 15, Long Sword, Silver Helm
+Ninja,    05,   700, 43, 43, 33, 45, Katana, Blind, Mirror, Ice Sword,
+                                     Surprise, Warning
+Musashi,  06,  2000, 76, 76, 63, 78, Stab, Defense, Counter, 2-Swords,
+                                     Critical, Warning, Elixier
+Hatamoto, 05,   400, 43, 43, 33, 44, Katana, Bazooka, X-Cure Potion, Magnum
+Gang,     00,    45,  5,  7,  3,  4, Punch
+Wh. Belt, 02,   248, 25, 29, 22, 23, Punch, Kick, Headbut
+Killer,   05,   507, 51, 57, 47, 49, Axe, ChainSaw, StunGun, Poison,
+                                     Blitz Whip, Surprise
+Bl. Belt, 06,   731, 73, 81, 68, 71, Punch, Kick, Headbut, X-Kick, Jyudo,
+                                     Karate, Samurai Bow
+TianLung, 24,  2000, 86, 94, 80, 83, Tornado, Tusk, Lightng, Gas, O-All
+Trooper,  01,    90,  8,  6,  6, 11, Long Sword, Bronze Shield
+Guard,    02,   263, 25, 22, 22, 29, Gold Sword, Gold Shield, Cure Potion
+Knight,   05,   390, 41, 37, 37, 47, Flame Sword, Ice Sword, Thunder Sword,
+                                     Flame Shield, Ice Shield, X-Cure Potion
+Paladin,  06,   756, 73, 68, 68, 81, Sun Sword, Dragon Sword, Defend Sword,
+                                     Dragon Shield, Dragon Helm, Ninja Glove,
+                                     Dragon Armor
+Fenrir,   24,  2500, 86, 80, 80, 94, Tornado, Tusk, Blizzard, Recover, O-All
+Terorist, 01,   148, 14, 14,  8, 13, Colt Gun, Kick
+Mercenar, 03,   358, 34, 34, 26, 32, Musket Gun, Grenade, SMG Gun, Cure Potion
+Commando, 05,   410, 43, 43, 33, 41, X-Kick, Fire Gun, Bazooka, Magnum,
+                                     Army Armor, Surprise
+SS,       06,   781, 76, 76, 63, 73, Laser Sword, Vulcan Cannon, Fire Gun,
+                                     Missile Cannon, Tank Cannon,
+                                     X-Cure Potion, Army Armor
+EchigoYa, 02,   443, 43, 43, 36, 41, Abacus, Vulcan Cannon, Psi Sword
+Conjurer, 01,   123,  8, 16, 17,  9, Sleep Book, Cure Book
+Magician, 03,   324, 26, 38, 39, 27, Fire Book, Ice Book, Sleep Book, Cure Book
+Sorcerer, 05,   614, 52, 68, 64, 55, Thunder Book, Stone Book, Mage Staff,
+                                     Death Book, Ice Book, Cure Book
+Wizard,   06,   731, 63, 81, 75, 66, Thunder Book, Fog Book, Stone Book,
+                                     Mage Staff, Wizard Staff, Flare Book,
+                                     Heal Staff
+{NULL},   00,   858, 75, 94, 97, 78, Rocket, O-Pa/Po
+ROBO-28,  31,   137, 15, 15,  0, 14, Rocket, O-Pa/Po
+ROBO-Z,   33,   263, 28, 28,  0, 26, Rocket, Flame, Beam, O-Pa/Po
+Ridean,   35,   637, 66, 66,  0, 64, Rocket, Laser Gun, Vulcan Cannon,
+                                     Laser Sword, Blitz, O-Pa/Po
+G-7,      36,   756, 78, 78,  0, 76, Rocket, Laser Gun, Vulcan Cannon,
+                                     Laser Sword, Missile Cannon, Selfix,
+                                     O-Pa/Po
+Dunatis,  33,   300, 30, 30,  0, 29, SMG Gun, ChainSaw, Blitz Whip, O-Pa/Po
+MechBug,  32,   248, 29, 25,  0, 29, SMG Gun, Blitz Whip, O-Pa/Po
+Hawk,     33,   324, 38, 32,  0, 38, Grenade, Fire Gun, Warning, O-Pa/Po
+Falcon,   35,   614, 68, 61,  0, 68, Defense, D-Beam, Vulcan Cannon, Beam,
+                                     Warning, O-Pa/Po
+Intrcept, 36,   731, 81, 73,  0, 81, D-Beam, Vulcan Cannon, Beam,
+                                     Missile Cannon, Warning, Selfix, O-Pa/Po
+{NULL},   30,   858, 94, 86,  0, 94, SMG Gun, ChainSaw, Blitz Whip, O-Pa/Po
+Plasma,   21,   104, 15, 13, 13, 13, Dissolve, X-Ice
+Phagocyt, 22,   156, 21, 18, 18, 18, Wind Up, Dissolve, X-Ice
+Corpuscl, 25,   290, 36, 32, 32, 32, Wind Up, Dissolve, Multiply, Recover,
+                                     O-Weapon, X-Ice
+Cancer,   26,   681, 78, 73, 73, 73, Wind Up, Dissolve, Surprise, Warning,
+                                     Recover, O-Weapon, X-Ice
+{NULL},   20,   804, 91, 86, 86, 86, Poison, X-Fire
+Grippe,   21,    71, 12, 15, 14, 16, Poison, X-Fire
+Virus,    22,   117, 17, 21, 20, 22, Poison, Heat, X-Fire
+Pathogen, 24,   316, 39, 45, 43, 47, Multiply, Poison, Heat, ParaSkin, X-Fire
+Plague,   26,   606, 71, 78, 76, 81, Poison, Heat, ComVirus, Surprise,
+                                     Multiply, DNA, X-Fire
+{Null} ,  20,   723, 83, 91, 89, 94, Dissolve, Fire, Cure
+Teacher,  27,   185, 18, 15, 19, 18, Dissolve, Fire, Cure
+Cleric,   07,    80,  8, 13, 14, 11, Hammer, Bronze Shield, Thunder Book,
+                                     Cure Book, Bronze Armor, Bronze Helm,
+                                     Bronze Glove
+Unknown,  27,   321, 35, 29, 35,  2, Bronze Glove
+Unknown,  07,   321, 35, 29, 35, 11, Hammer, Bronze Shield, Bronze Armor,
+                                     Bronze Helm, Bronze Glove
+Girl,     07,   100, 16, 25, 21,  0, Punch, Kick
+Guardian, 07,   321, 35, 35, 29, 15, Gold Sword, SMG Gun, Blitz Whip,
+                                     Army Armor, Cure Book
+Girl,     07,   247, 23, 33, 28, 21, Headbut, X-Kick
+Detectiv, 07,   473, 46, 62, 39, 49, Sypha, Coin, Kimono Armor, Temptat
+Samurai,  07,   551, 63, 60, 45, 56, Muramas Sword, Katana, Ninja Glove,
+                                     Kimono Armor, Samurai Bow, Cure Book
+Guardian, 07,   700, 70, 80, 60, 70, Defend Sword, Vulcan Cannon, Magnum,
+                                     Battle Armor, Heal Staff, Cure Book
+Ancient,  27,   999, 99, 99, 99, 99, Masmune Magi, Aegis Magi, Heart Magi,
+                                     TrueEye, Pegasus Magi, Flare, O-All,
+                                     Recover
+Haniwa,   25, 10000, 90, 90, 90, 90, Bash, Quake, Flare, Seven Sword, O-All,
+                                     Recover
+Dolphin,  27,  5000, 60, 60, 60, 60, Blitz, Fin, Whirl, Tusk, Thunder, Tail,
+                                     O-Quake, O-Fire
+OdinCrow, 26,   669, 75, 85, 79, 69, Nail, Beak, Blind, Tornado, Surprise,
+                                     Warning, O-Quake
+WarMach,  34, 10000, 120, 60, 0, 90, Missile Cannon, NukeBomb, Bash, ParaNail,
+                                     O-Pa/Po
+Human  M, 01,    59,  6,  5,  3,  3, Long Sword, Bronze Armor
+Human  F, 01,    52,  5,  6,  4,  3, Rapier Sword, Bronze Armor
+Mutant M, 12,    52,  5,  4,  6,  3, Hammer, Blizzard, Bronze Armor
+Mutant F, 12,    45,  4,  5,  6,  3, Bow, Flame, Bronze Armor
+Robot,    31,    60,  6,  5,  0,  6, Colt Gun, O-Pa/Po
+Slime,    21,    52,  5,  2,  6,  5, Dissolve, X-Fire
+Baby-D,   22,    45,  5,  2,  6,  5, Nail, Flame, O-Quake
+Imp,      21,    31,  5,  5,  6,  5, Nail, Sleep
+Ashura,   24,   900, 18, 18, 17, 18, 6-Arms, Flame, Sleep, Axe, O-Damage
+Venus,    04,  2500, 52, 52, 52, 52, Charm, Blitz Whip, Flame, Erase, O-Damage
+Sho-gun,  04,  2000, 41, 41, 41, 41, Riddle, Poison, SleepGas, Katana, O-Change
+Magnate,  05,  6000, 63, 63, 63, 63, Katana, Thunder, Tornado, Vulcan Cannon,
+                                     Stone, O-Change
+Odin,     04,  3700, 75, 75, 68, 75, Gungnir, Lightng, Ice, Cure, O-Change
+Minion,   24,  5000, 63, 63, 57, 63, Flame, Gas, Tornado, Blizzard, Lightng
+Apollo,   01, 25000, 99, 99, 80, 99, Flare, O-All
+Arsenal,  31, 10000, 99, 99,120, 99, Smasher, O-Change
+SPECIES, T/W,    HP,STR,AGI,MAN,DEF, ABILITIES/WEAPONS/ARMOR/BOOKS/MAGI
+
+T/W: Type/World. Types 0=Humans, 1=Mutant, 2=Monster, 3=Robot.
+Worlds 0=First World, 1=Desert Town to Ki's Body, 2=Lynn's World,
+3=Guardian's World to Race Circuit, 4=Race Circuit to Nasty Dungeon
+5=Nasty Dungeon to Final Town, 67=Central Shrine. Exceptions are bosses and
+everything after Plague.
+
+
+***********************************************************************
+
+PART IV:: MONSTER LOCATIONS
+
+(unfinished list below)          **BOSSES in CAPS
+1st no. DS level    2nd no. Monster level
+First Town      1  1   Lizard, Spider, Goblin, Gang, Asigaru, Toad, Fungus,
+Skelton, Fly, Jaguar, BABYWYRM
+
+2nd Town        1  1   Lizard, Spider, Goblin, Gang, Asigaru, Toad, Fungus,
+Skelton, Fly, Jaguar, RHINO
+
+Shrine of Isis  1  1   Lizard, Spider, Goblin, Gang, Asigaru, Toad, Fungus,
+Skelton, Fly, Jaguar
+
+Desert Town     2  1   Flower, Trooper, Eagle, Barracud, Slime, BabyWyrm,
+Zombie, WereRat, Pebble, Snake, Octopus, Red Bone
+
+Ashura's Town   2  1   Flower, Trooper, Eagle, Barracud, Slime, BabyWyrm,
+Zombie, WereRat, Pebble, Snake, Octopus, Red Bone, WOODMAN, ASHURA
+
+Giants' Town    3  12  Worm, Fiend, Rhino, Woodman, Silver, Oni, Grippe,
+Samurai, Amoeba, Plasma, Terorist, Conjurer, ROBO-28, Cobble, Crab, PHAGOCYT
+
+Lynn's Village  4  12  Moth, Kelpie, Big Eye, Hofud, Griffon, Raven, Medusa,
+Jelly, Tortoise, Phagocyt, Ghoul, Mapleman, Wyrmkid, Cameleon, SabreCat,
+P-Spider, Virus, Mapleman, DUNATIS
+
+Port Town       4  12  Moth, Kelpie, Big Eye, Hofud, Griffon, Raven, Medusa,
+Jelly, Tortoise, Phagocyt, Ghoul, Mapleman, Wyrmkid, Cameleon, SabreCat,
+P-Spider, Virus, Mapleman
+
+Guardian's Town 5  12  O-Bake, WereWolf, Sprite, Clayman, Hornet, P-Worm,
+Mushroom, P-Toad, Wh. Belt, Chafer, Thunder, Guard, OGRE, MANTCORE,
+MAGICIAN, COMMANDO, NINJA
+
+Venus' City    56  123 O-Bake, WereWolf, Sprite, Clayman, Hornet, P-Worm,
+Mushroom, P-Toad, Wh. Belt, Chafer, Thunder, Guard, LiveOrk, MechBug, Falcon,
+Baby-D, Turtle, Magician, Piranha, Hawk, Triceras, Ogre, Mantcore, P-Flower,
+Champgno, Komodo, Serpent, Warrior, Mercenar, HERMIT, MEPHISTO, PHANTOM,
+VENUS
+
+Race Circuit    6  23  Magician, Mantcore, Triceras, Ant Lion, P-Flower, Ogre,
+Piranha, Serpent, Champgno, Mercenary, Swallow, ADAMANT, TORTOISE, LAMIA,
+WATCHER
+
+Edo             7  23  Mephisto, Phantom, Wyvern, Tarantla, Gae Bolg, Hermit,
+Knight, Anaconda, Fairy, Gazer, Mosquito, Stoneman, EvilPine, Pathogen,
+Boulder, Commando, HATAMOTO, ECHIGOYA, SHO-GUN, DOLPHIN, MAGNATE
+
+Nasty Dungeon  89  23  Wraith, Nitemare, Lamia, Young-D, Swallow, Dinosaur,
+Adamant, FireMoth, Answerer, Demon, CatWoman, SnowCat, Ten-Gu, F-Flower,
+Dragon, Chimera, Cocatris, Watcher, Naga, Sorcerer, Ridean, HugeToad, Shark
+
+Valhalla Palace 9  3   Answerer, Demon, CatWoman, SnowCat, Ten-Gu, F-Flower,
+Naga, Young-D, LavaWorm, Dinosaur, Shark, Ghast, Killer, Adamant, Wraith,
+Cocatris, Watcher, SLEIPNIR, ODINCROW, ODIN
+
+Final Town      9  34  Cocatris, Ice Crab, Watcher, Falcon, Dragon, Sorcerer,
+Nymph, MINION, WARMACH
+
+Central Shrine  A  4   Haniwa, Cicada, Shiitake, Musashi, Scylla, Moaner,
+D-Turtle, Sphinx, Intrcept, Pudding, Cancer, Wyrm, Giant, Paladin, Bl. Belt,
+DemoLoad, Rakshasa, Wizard, APOLLO, TIANLUNG, FENRIR, ARSENAL
+
+***********************************************************************
+
+ACKNOWLEDGEMENTS:
+
+dragonspirit on GameFAQs.com for finding the method of determining the levels
+of monsters, which I named after him DS level.
+
+The Saga team for making such an awesome game and series.

@@ -1,0 +1,733 @@
+THE FINAL FANTASY LEGEND MINI-FAQ v0.1
+for the Nintendo GameBoy
+by Chris MacDonald
+
+ Unpublished work Copyright 1999-2001 Chris MacDonald
+
+ This document is protected by US Copyright Law, and the Berne Copyright
+ Convention of 1976.  It is for private and personal use only--it cannot
+ be reprinted in part or in whole, or reproduced in any way or in any
+ form (written or otherwise).  It is a free document that cannot be used
+ in any sort of commercial transaction, including selling it or giving
+ it away as a gift.  This FAQ cannot be referenced, altered, or used by
+ anybody (including webmasters, publishers, and magazine staff) without
+ my express written permission.  This FAQ was created and is owned by
+ me, Chris MacDonald <kmegura (at) yahoo (dot) com>.  It can be found
+ exclusively at (www.GameFAQs.com).  All copyrights and trademarks are
+ acknowledged and respected that are not specifically mentioned herein.
+
+ I expressly forbid the following publishers/publications from using this
+ FAQ, namely: Ziff-Davis Video Game Group (publishers of Expert Gamer),
+ Future Publishing, Ltd. (publishers of PlayStation Power, Official UK
+ PlayStation Magazine, etc.), IDG Media, Game 13th Magazine, Brady Games,
+ and Prima Games.  Remember, plagiarism is a crime and is punishable by
+ law.
+
+ The Final Fantasy game series is (c) Square.
+
+
+ =================
+ TABLE OF CONTENTS
+ =================
+
+ 1.  Hints and Suggestions
+       - Character Types and Statistics
+       - Some Advice
+ 2.  The Walkthrough
+       - The First World
+       - Exploring the Tower, Part 1
+       - The Second World
+       - Exploring the Tower, Part 2
+       - The Third World
+       - Exploring the Tower, Part 3
+       - The Fourth World
+       - Exploring the Tower, Part 4
+       - The First World Revisited
+       - Exploring the Tower, Part 5
+       - The Final Battle
+ 3.  Author's Note
+
+
+ This game is really old, but since (to my surprise), it seems as if
+ no one has written a FAQ for it, I made this one.  This was done in
+ about two hours from memory, so it's not exactly definitive and there
+ may be some errors, but it explains what needs to be done in each
+ area and stuff you should keep an eye out for.  Anyway, enjoy!
+
+
+ ========================================================================
+ 1.  HINTS AND SUGGESTIONS
+ ========================================================================
+
+
+ ------------------------------------------------------------------------
+ CHARACTER TYPES AND STATISTICS
+ ------------------------------------------------------------------------
+
+  - Each character in your party has several different statistics:
+
+     HP stands for Hit Points, and they represent your character's life.
+     When they hit zero, your character is dead.  Dead characters can
+     be revived at a House of Life as long as they have a heart
+     remaining (press Select to see each character's Heart stock), but
+     once you run out of hearts, you cannot revive that character and
+     must make a new one.
+
+     Str. stands for Strength, and the higher your Strength is, the more
+     damage your attacks do.  Strength does not apply to firearms,
+     though.
+
+     Agility determines your ability to dodge attacks and the order in
+     which you get to fight.  It also helps you use items like firearms
+     and other lightweight weapons.
+
+     Def. stands for Defense and determines how much damage you take
+     from attacks.  You can increase this by buying better equipment,
+     including helmets, gloves, armor, and shoes.
+
+     Mana represents your magic power.  Your mutant abilities and the
+     effectiveness of spellbooks increases if your Mana is high.
+
+  - Weapons and items work differently in this game than in other RPGs,
+    too.  When you buy a weapon, there is a number next to it--this is
+    the number of times you can use that item before it wears out.
+    This creates sort of a catch-22 because you need to fight enemies
+    in order to get GP to buy new weapons, but then again, the more you
+    fight, the faster your weapons wear out.  However, as long as you
+    don't run away from too many battles, you'll always have plenty of
+    money to buy new weapons.  If a weapon or item has a dash next to
+    it  (a '-'), then it can be used as many times as you want.  Keep
+    in mind that it takes a few uses of a weapon for your character to
+    become proficient with it, so they may not use the weapons well in
+    the beginning and may miss or do low damage.  However, if that trend
+    continues for a while, then that weapon is not suitable for your
+    character, and you should pick another weapon.  Humans and males
+    are better off with strength-increasing weapons, while Mutants
+    and females are better off with agility-increasing weapons.
+
+  - There are different races you can choose when making a party of
+    adventurers in this game.  Humans are the strongest type, and can
+    carry 8 items on them.  However, they don't become stronger by
+    fighting--you have to buy potions in shops, and they get stronger
+    by drinking those potions.  The 'Strong' potion raises strength by
+    a few points, and the 'Agility' potion raises agility by a few
+    points.  Also available are potions labeled 'HP200' through 'HP800'.
+    These work somewhat differently than the Strong and Agility, because
+    they give you 5-20 permanent HP per dose, but their effectiveness is
+    reduced after your HP exceeds a certain amount.  For example:
+
+     Lisa the Human has 140 HP.  If I buy an HP200 potion and use it on
+     her, she'll gain, say, 12 HP, bringing her total to 152.  However,
+     if after a few more potions, her life is now at 201, she will no
+     longer gain 5-20 points from drinking an HP200 potion.  Instead,
+     she will only gain 1 extra point.
+
+  - In other words, using an HP potion will give you 5-20 points of
+    permanent extra HP until your HP exceeds the listed amount.
+    Afterwards, you have to buy a higher-numbered potion.  This also
+    means that once your life is higher than 800 points, using any sort
+    of HP potion will only give you one point of HP.  In that case, it's
+    best to simply buy a lot of HP200 potions and use them, since
+    they're the cheapest kind and still have the same effect.
+
+  - Mutants work a little differently.  They can only carry four items
+    at a time, and cannot use potions to increase their stats.  Instead,
+    they grow stronger through fighting, depending on what they do and
+    what types of weapons they use, shown below:
+
+     Strength-related weapons like heavy swords and martial arts will
+     increase Strength.
+
+     Agility-related weapons like sabers, knives, and firearms will
+     increase Agility.
+
+     Magic-related weapons like spellbooks, wands, and rods, not to
+     mention using mutant abilities, will increase Mana.
+
+     Simply surviving battles may result in HP increasing.
+
+    For example, Joey is a mutant.  If I equip him with an Axe or
+    Battle Sword for a while, his Strength may eventually increase.
+    If I then give him a Magnum or a Catclaw for a while, he may get
+    an increase in Agility.  If I then have him use spellbooks like
+    Cure, Ice, and Death for the next couple of battles, as well as
+    his natural abilities like Gas and Barrier, his Mana may increase.
+    As long as he's kept alive for each battle, his HP may increase as
+    well.
+
+  - The other thing about Mutants are their natural abilites.  As they
+    fight, Mutants randomly learn and forget various abilities.  These
+    abilities have limited uses, like weapons, but they aren't lost
+    once they run out--all you have to do is spend the night at an Inn
+    and they will be replenished.  Although it sucks to lose certain
+    abilities, there's nothing you can do about it, so instead just
+    have fun and experiment with the abilities you have.
+
+  - Monsters are the weakest of all allies because "they are what they
+    eat", so to speak.  When a monster eats meat left behind by a
+    defeated foe, he will transform into a new monster.  This can be
+    good, but if you eat the meat of a weak monster, you may change
+    into a weaker form.  Monsters cannot carry any items but get all
+    kinds of weird and cool abilities as they transform.  Ultimately,
+    though, they start to show their weaknesses as the game progresses
+    and they tend to stay on the weak side.  One thing to keep in mind
+    is to always eat the meat of boss monsters, because they'll make
+    your monster really powerful in most cases--often so poweful that
+    the monster doesn't show his weaknesses until several floors later.
+
+
+ ------------------------------------------------------------------------
+ SOME ADVICE
+ ------------------------------------------------------------------------
+
+  - Save, save, save, always save.  You never know when you'll be taken
+    out by a particularly strong enemy or accidentally sell that really
+    great weapon you had on you.  Saving allows you to go back and give
+    things a second shot.
+
+  - Unlike other RPGs, there's no penalty for dying (no loss of gold,
+    etc.)  If your whole party gets wiped out, you get taken back to
+    the title screen, and if you choose to continue, you start off
+    where you last saved.  So don't feel like you have to reset if you
+    die, just continue and keep at it.
+
+  - Keep people with weaker defense in the back of the party, and those
+    with stronger defense in the front, since members in the front are
+    more likely to be attacked.  Remember that the order of characters
+    automatically changes when someone dies or is afflicted with a
+    status ailment (like blindness), but you can change that by pressing
+    Select to go into the order change menu.
+
+  - Always keep some healing items on hand in case you're injured,
+    whether they're potions, Cure spellbooks, or maybe the natural
+    ability to heal that one of your Mutant or Monster allies possess.
+    You can heal yourself in Inns for a varying cost (1 GP heals one
+    point of lost HP), and there are healing pools that you can examine
+    to have your HP and abilities regenerated (if there's no sound when
+    you examine a healing pool, then it is a fake and won't heal you).
+    Don't forget that you can use healing abilites by choosing 'Abil.'
+    from the status menu and then selecting which ally and ability
+    you want to use.
+
+  - Buying stuff is important.  The most important thing is to always
+    have enough weapons for your characters, next important is armor.
+    If you have humans in your party, try to buy Strong, Agility, and
+    HP200 - HP800 potions whenever you have the money to spare, since
+    these will really pay off as you progress through the game and
+    need to have strong characters.
+
+  - One last note; as in FFL2, there's a point in this game where you
+    can use the Trash Can as an item to increase Character statistics
+    (I think it has the same effect as HP400 or else Agility).  If the
+    trick is the same as in FFL2, then it occurs after you get an
+    Agility potion or HP400 potion from a certain treasure chest.
+    However, while I've done this trick several times, I've never
+    figured out exactly how it works.  In any case, you can use the
+    Trash Can several times to increase your human character's stats.
+    before the trick ends (it's equal to the number of saves you've
+    made so far).  Good luck on getting it to work.
+
+
+ ========================================================================
+ 2.  THE WALKTHROUGH
+ ========================================================================
+
+ There are plot spoilers in this walkthrough, that really can't be
+ avoided.  So, only read this if you're prepared to have some stuff
+ revealed to you in advance.
+
+
+ ------------------------------------------------------------------------
+ The First World
+ ------------------------------------------------------------------------
+
+ The first thing to do here is get new members.  While you don't have
+ to get three more people, there's no real reason not to.  At this
+ point in the game, mutants are useful because they quickly become
+ powerful and their abilities are very useful for defense and attacking.
+ It's also fun with a monster in your party since you can fool around
+ with them and see how they develop.  However, in the long run, humans
+ are the best type to choose because you can power them up yourself when
+ you get more money, and they can hold lots of items.
+
+ I would suggest a party of 1-2 mutants and two humans for beginners,
+ although for more balance, a team of two humans, a mutant, and a monster
+ is also a good choice.  Males tend to be stronger than females, but
+ women team members tend to have higher Agility.  Male mutants earn
+ attacking powers more readily than female mutants, who tend towards
+ defensive powers.  One last thing to mention--the first character you
+ create is better equipped and has higher stats. than the others.
+ However, this character can never be replaced, so if you run out of
+ Hearts, you have to lug around a dead body with you until you can buy
+ one and then revive them.  For that reason, I strongly suggest you pick
+ a human as your first character, so that they'll be strong enough by
+ the time you reach the end of the game.
+
+ Once your party is assembled, explore the town.  A man wearing a hat
+ will tell you that a monster called Gen-Bu has hidden the key to the
+ Tower in the Statue of Hero.  The first call to order is to get better
+ weapons, and better armor.  Make your way southeast to the town near
+ King Shield's Castle and fight monsters until you can give Bows to all
+ members, and keep fighting until you can also get them as much equipment
+ (armor, gauntlets, and helmets) as possible.  Stock up on some
+ restorative items, then head east through the forest, and make your way
+ south through the rivers until you find a town.
+
+ In the town, stock up on any supplies you might need, then go south
+ again and west to the Bandit Cave.  This level isn't really too hard,
+ just pick up the treasures as you go along.  As is the case with any
+ dungeon, don't talk to any creatures wandering around as they will
+ attack you.  The boss of this cave is the Bandit, and he's a P-Frog.
+ If you hit him with physical attacks, you'll get poisoned...so aren't
+ you glad you all have Bows?  Just plug him full of arrows, then beat
+ a hasty retreat out of there.
+
+ Your next objective is to get the equipment that the Statue of Hero
+ once wore.  Since you killed the Bandit, go to King Armor's castle
+ (it's north of the forest, past the river), and he'll give you his
+ armor as a reward.  Now would be a great time to fight some more
+ battles so that you can earn enough GP to buy better equipment and
+ more curative items, and so you can improve your Mutants (if you have
+ any).  That's because the next part of your journey is going to be
+ pretty difficult.  Once you're ready, head west until you reach the
+ mountains (past the Tower), then make your way south.  Eventually your
+ path turns east again, then leads you north through a swamp to King
+ Sword's castle.  Inside the castle, don't talk to the guards, and make
+ your way to King Sword's chamber.  The stairs that lead to his chamber
+ are on the bottom of the second floor, not in the middle of the screen.
+ The enemies here can be pretty tough, so don't say I didn't warn you :)
+
+ King Sword isn't too shabby a fighter himself, but with a little
+ preseverance, you can take him down.  Your reward is the King Sword,
+ one of the best weapons in the entire game.  Surprised to get it this
+ early on, huh?  Well, I have bad news for ya--you have to give it up
+ in order to reach the second floor of the Tower.  That doesn't mean
+ you can't put this weapon to good use though--it's great for slicing
+ through monsters and earning yourself GP.  Anyway, the last piece of
+ equipment can be found in King Shield's castle, which is right next
+ to the Town of Hero.  Go back there, and make your way back to the
+ King.  You'll find that his steward has slain the King and taken the
+ Shield for his own.  After he finishes talking, he'll walk up to the
+ wall and go through it, so find the same place he disappeared and
+ press up to go through the secret passage in the wall.  After locating
+ the steward, kill him, and you'll get the King Shield.
+
+ The next thing to do on your list is to put the items back on the
+ Statue of Hero.  A nasty boss fight is coming up, though, so be sure
+ to get replacement equipment for whomever was using the King gear.
+ Unequip the King items and put them back into your main inventory,
+ then face the Statue of Hero and use each item.  You'll be confronted
+ by Gen-Bu, the Black Turtle.  Fighting him is hard because he's
+ resistant to a lot of Mutant powers and he has a high defense.  He
+ doesn't have many HPs, though, so keep hacking at him and he'll die
+ eventually.  Once you get the Black Sphere, return to the Tower town
+ and approach the front door.  Use the sphere (choose the 'sphere'
+ option that's beneath the trash can in your inventory menu, then pick
+ the black sphere), and the door to the Tower will open.
+
+
+ ------------------------------------------------------------------------
+ Exploring the Tower, Part 1
+ ------------------------------------------------------------------------
+
+ You'll spend a good deal of the game trekking through the Tower, and
+ your goals in this level should always be the same--look for treasure
+ chests, fight carefully, and make your way to higher floors.  The
+ enemies in the Tower tend to always be tough, so tread carefully.
+ Treasure chests tend to pop up most often in those stairwell rooms
+ that have a large chamber off to the left, but chances are, you'll
+ be attacked when you return to the stairs.  A good thing to always do
+ (this applies to when you're outside of the Tower as well), is to save
+ your game when you have two or more ways to go, so if one direction is
+ a dead end or leads to something unintersting, you can just reset and
+ take the other path.
+
+ The only interesting stuff between this world and the next is a sub-
+ world full of spikes and demons.  You won't get anything out of it, so
+ skip it and keep going.  The entrance to the second world is in a large
+ area with black walls.  Don't confuse it with the sealed door to the
+ upper levels of the tower--the entrance to the second world is near the
+ healing pool and the man with the hat.
+
+
+ ------------------------------------------------------------------------
+ The Second World
+ ------------------------------------------------------------------------
+
+ Getting through the second world is a lot harder than the first one.
+ Check out the town east of the Tower first.  It's advisable for you to
+ hang around here fighting enemies, then heal up at the town until you
+ have enough money to buy better weapons, since your First World
+ armaments don't work as well against the tough Second World baddies.
+ The first thing to do here is find a floating island, which you can
+ pilot through the seas (weird choice of a vehicle, but it'll do).  To
+ find it, you must traverse through the caves that connect each island.
+ When you arrive at a new island, try walking onto the little circular
+ floating islands.  You know when you've found the right one because it
+ bobs up and down and you disappear inside it.
+
+ There's a town in the far north-eastern corner of the map, so go there,
+ meet with the people, and all that.  South of the town is a hut where
+ an old man lives, so go talk to him.  Getting to him is a little tricky
+ since a table blocks the first set of paths to him, and there is a patch
+ of gravel to his right that, if you step on it, warps you back outside.
+ When you finally do reach him, he'll tell you that there's an Airseed
+ on one of the southern islands.  Sounds important, which means you
+ should go get it, right?  Get back in your floating island and head
+ south, and you'll eventually see an island with one palm tree in the
+ center.  Go up to the palm tree, stand beneath it, and search it for the
+ Airseed.
+
+ Now it's time to go underwater.  There's a whirlpool in the far north-
+ western edge of the map, so trek all the way across the ocean until
+ you find it. Once you're underwater, cross the bridge, and go south
+ and west until you reach a town.  There's some good gear you can buy
+ here.  This part of the game is really hard since there are no more
+ places where you can rest, so make sure your guys are strong enough,
+ then find the cave south of the town.  Make your way through the cave,
+ and you'll eventually find a stairwell leading back up to the surface
+ (in the room full of passages, it's at the end of the fifth passage
+ from the left).  Once you're outside, make your way south to the big
+ Japanese castle.  In the castle, don't talk to the squids, or they
+ will attack you.  Don't let the town-like music fool you either; there
+ are monsters in here.  The very first order of business is to get the
+ Blue Key on the first floor, since you can't unlock any of the other
+ doors without it.  Once you have it, just make your way through the
+ rest of the castle levels.
+
+ Eventually, you'll reach a series of three rooms; one has a row of
+ vertical orbs, the one above that has a row of horizontal orbs, and the
+ one above that is full of orbs.  You may remember that a person in the
+ underwater town told you to 'remember where the lines cross'.  They
+ cross at exactly 3 down and 3 left of the upper left corner of the
+ room, but the orb you want isn't there, it's actually located at 4
+ down, 4 left (sneaky, huh?)  If you examine the wrong orb, you'll get
+ attacked by an Atom Crab, which is no big deal.  However, examining
+ the right orb gets you a fight with Sei-Ryu, the Blue Dragon (and that's
+ a very big deal).  Like Gen-Bu, Sei-Ryu is a pushover, as long as your
+ HPs are decently high.  Kill him, get the Blue Orb, then go all the way
+ back out to the surface and go meet the old man in the hut again.
+ He'll ask you a riddle.  I've heard that the riddle's answer changes
+ sometimes, but in my 12+ plays of this game, it's only ever been the
+ Battle Sword.  So go buy a Battle Sword (it has to be a new one), stick
+ it in your inventory, and return to the old man.  He'll give you the
+ Red Orb.  The two of them, when combined, form the Blue Sphere that you
+ need to continue up the Tower, so say goodbye to this world and return
+ to the tower.
+
+
+ ------------------------------------------------------------------------
+ Exploring the Tower, Part 2
+ ------------------------------------------------------------------------
+
+ Stop by at the healing pool if you need to, then go to the door in the
+ lower-right corner of the screen and use the Blue Sphere on the door.
+ Voila!  You're on your way up again.  The only interesting thing on
+ this part of your Tower journey are two sub-worlds, one above the other.
+ The first one (which you can skip entirely the first time, since
+ you'll be coming back), is a world where octopuses live that has no
+ more water in it.  The second world is on a higher floor, and it's been
+ flooded because Bob the fly through garbage into the world's drain
+ (I know, it's kinda dumb).  Anyway, go to the whirlpool, and you'll
+ take out the trash and fall back into the octopus sub-world, which has
+ now been saved because water can now fall through from the above sub-
+ world.  Make your way back to that sub-world, and you'll find that the
+ waters have receded.  There is now a castle here, and although there
+ are enemies in it, there's some cool treasures as well.  Grab them and
+ keep climbing.
+
+ Eventually, you'll reach a chamber made of wood with fish statues
+ everywhere (there's no point in examining them, unlike the fish statues
+ in FFL2).  Ignore the passage by the man in the hat, since that's just
+ the door to the next floors of the tower.  Instead, keep going east
+ and you'll find a door leading to the Third World.
+
+
+ ------------------------------------------------------------------------
+ The Third World
+ ------------------------------------------------------------------------
+
+ The Third World is a pretty neat place, since it takes place in the
+ clouds.  Unfortunately, it's also really lame, since you can get
+ through the whole thing in about 20 minutes.  Go to the first town
+ and talk to the people in the Pub.  Fight them, and when you win,
+ you'll become a guard working for Byak-Ko, the White Tiger.  Don't
+ bother exploring Byak-Ko's palace; you'll be coming back there soon
+ enought.  Just get on the glider and leave.  You have to find Jeanne,
+ one of the twin daughters of Charles, the former leader of the
+ underground resistance against Byak-Ko.  She's living in a bunker in
+ a forest that's south of Byak-Ko's floating palace.  After meeting
+ with her, she'll tell you to go rescue her sister, Mileille, from the
+ palace.  So, return to the palace and start exploring.  It's a pretty
+ straightforward level, so just keep following the passages, get the
+ White Key from Byak-Ko's room, and make your way to the long hallway
+ at the top of the palace.  Walk all the way to the right, then open
+ the door to find Mileille.  Unfortunately, she's turned traitor, and
+ Byak-Ko will show up and throw you in jail.
+
+ Break out of jail, and grab the Avenge Sword on your way out.  This
+ is a cool weapon because using it does nothing, but if an enemy
+ attacks you, you hit them for lots of damage.  It works best for people
+ in the front, since they get hit more.  Some of the doors in the jail
+ are locked, but you can open them with the Jail Key you get from the
+ room full of guards.  Don't go through the north door first, since you
+ can't go back--instead, return to those locked doors and get the items
+ found inside the rooms you couldn't reach before.  Then go through the
+ door, find the working glider, and blast out of there.  Find Byak-Ko's
+ palace, enter it, then turn around and exit it again.  There's no
+ point in exploring the Palace since nothing happens if you return to
+ the room where you met Mileille.  Upon exiting the Palace, you'll
+ find that it's flown to a new location.  Walk into the area surrounded
+ by trees and you'll find Byak-Ko and the two sisters.  As long as your
+ levels are high enough and you have good equipment, the battle with
+ Byak-Ko is a snap.  Once he's dead, you'll get the White Sphere, so
+ once again, return to the Tower.
+
+
+ ------------------------------------------------------------------------
+ Exploring the Tower, Part 3
+ ------------------------------------------------------------------------
+
+ This part of the game is pretty boring since nothing much happens.  One
+ thing you'll want to look for is a sub-world that consists of little
+ more than a room full of bookshelves.  One of the shelves is actually
+ concealing a hidden chamber where you can get the Book of Flare, a
+ really useful magic spell to know.  Save it for boss battles.  Keep
+ going up until you meet the man in the hat again--the door above him
+ leads to the Fourth World.  The one below him, surrounded by spikes,
+ leads to the top of the tower, so ignore it for now.
+
+
+ ------------------------------------------------------------------------
+ The Fourth World
+ ------------------------------------------------------------------------
+
+ The fourth world is lacking in originality, since the concept behind
+ it's creation is the overdone and overused "futuristic half-destroyed
+ Neo-Tokyo" theme that you've probably heard of a dozen times if you
+ read manga or watch anime.  Anyways, you'll notice that you only meet
+ one type of enemy when you get attacked while on the surface, and that
+ enemy happens to be Su-Zaku, the Red Phoenix.  Su-Zaku can really
+ dish out the punishment, and his force field protects him from any
+ damage.  If you have a Saw, you can slice him to bits, but since he's
+ a phoenix, he'll just come back again the next time you are attacked.
+ So, make for the subway tunnels, since he can't follow you underground.
+
+ As you explore the subways, you'll meet a girl named Sayaka.  Follow
+ her, and rescue her from the monsters that attack her.  Keep going down
+ the subway tunnels, and you'll reach the city of Ameyoko.  Go to the
+ pub and talk to the bikers there--you'll meet So-Cho, who after hearing
+ how Sayaka was saved by you guys n' gals, will give you the key to his
+ hoverbike, which is a really cool way to get around.  So-Cho and friends
+ are trying to find a way to get rid of Su-Zaku's forcefield so that they
+ can kill him.  To do that, they need certain parts, a Board and a ROM.
+ However, the ROM is located in a hidden town, which they cannot find.
+ They think the location of the town might be alluded to in one of the
+ books in the Library, though.
+
+ So, make your way to the Library.  You can take the subway tunnels
+ there, or go back to the Tower and head south, either way is fine.
+ The Library is the big building that's south of a large lake.  There's
+ nothing of interest on the first floor, so go up to the second floors.
+ By walking across a particular area of the floor, your characters will
+ go and automatically check out the books, so walk around in front of
+ the stairs until you find it.  Once you've learned where the hidden
+ town is located at, go down one row of books and check the shelf
+ that's beneath the one where you found your information at.  You'll
+ discover a chest with the Book of Stone in it, which is kills enemies
+ instantly.  Neat.
+
+ Once outside, head 13 blocks east and 14 blocks north from the Library,
+ and you'll find yourself in the hidden town.  Fight the monsters here
+ and examine all the chests to find the ROM and other good equipment.
+ Don't bother examining the bookshelves in the buildings since they
+ don't hold anything of interest in them.  Now that you have the ROM,
+ you need to go to the Northwest Town to get the Board.  Unsurprisingly,
+ the town is in the northwest area of this world (it's just one
+ building, unlike the many buildings of Ameyoko).  Once inside the town,
+ look for the merchant's stall with the break in the northern wall, and
+ go through it.  At the far northwestern edge of town is a lizard who
+ will give you the Board as long as you have the ROM in your inventory.
+
+ Since you have both items, return to Ameyoko and make sure to stock up
+ on items and equipment, since you won't be able to later.  Meet with
+ So-Cho and he'll explain that one more component is needed to make the
+ device that will negate Su-Zaku's force field, and that's some atomic
+ fuel.  In the morning, So-Cho will lead you to the subway tunnel that
+ leads to the Atomic Power Plant.  Follow him through the tunnels, and
+ keep in mind that when he stops, you need to get out of your hoverbike
+ and talk to him to continue.  Once you reach the Power Plant, go
+ counter-clockwise on the first floor, the clockwise on the next, and
+ counter-clockwise on the third one, etc.  As you climb, you'll have
+ to fight a Death Eye, which is a long battle but not a really hard one.
+ Eventually you'll reach the top floor.  So-Cho will show up, and
+ destroy the machinery blocking your way to the power room, at the cost
+ of his own life.  He'll give you the Band headgear before dying, which
+ is pretty handy.  Go inside the room and examine the little nuclear
+ tower in the middle of the room to get the atomic fuel.
+
+ Unfortunately, doing this sounds the alarm, and the alarm summons the
+ Machine (aka Warmech from the original Final Fantasy).  The Machine
+ can really, really hurt you.  Your best bet it to simply keep attacking
+ him and have one character heal injured allies.  If he uses the Nuke
+ Bomb or something else that wipes out your party, just restart and keep
+ trying.  At some point, you'll be able to kill him before he uses a
+ really powerful weapon against your party.  Once the Machine has been
+ scrapped, return to Ameyoko.  You'll find that everyone has died.
+ Zoku, one of the bikers in the Pub, will tell you that Su-Zaku has
+ taken Sayaka to the Skyscraper.  Also, the shops have been destroyed,
+ so while you can still go to the Inn to recover lost life, you can no
+ longer buy equipment in Ameyoko.  Although you lost your hoverbike,
+ you can just take the one parked in front of the Pub.
+
+ You can now travel in the outerworld since Su-Zaku is cooped up in the
+ Skyscraper.  However, there are now monsters roaming around outside
+ as well.  Make your way to the Skyscraper, which is at the far left
+ end of the world (there's a passage through the craters that leads to
+ the Skyscraper).  Get off your hoverbike and go inside.  The Skyscraper
+ is a tricky level since there are dark rooms where you can see the
+ exits, but not the walls, so they require a little exploration.  On
+ the floor covered in stairwells, the one you want is on the left side;
+ find the path that leads to the right about halfway down and just walk
+ down it; you'll step onto the right set of stairs.  Once you reach the
+ bottommost floor, go up and find the entrace into the subway train,
+ then start going left.  There's a man in here you can talk to, but
+ there's a female mutant sitting in one of the other compartments who
+ you don't want to talk to, since she's just a Death Eye in disguise.
+ Once you go all the way left, you'll find Sayaka, who will take you
+ up to the roof of the subway, where Su-Zaku is.  Use the Erase99 item
+ in your inventory to disrupt his force field, and then he will fight
+ you.
+
+ The battle with Su-Zaku is also tough, especially because of his
+ Tornado attack which hits all members.  Again, it's useful to have one
+ person on hand to heal your party while the others attack.  When you've
+ killed him, you'll get the Red Sphere.  The game resumes at So-Cho's
+ grave, where Sayaka bids you farewell.  Go outside and you'll find the
+ Tower nearby, so go into it to continue on your way.
+
+
+ ------------------------------------------------------------------------
+ Exploring the Tower, Part 4
+ ------------------------------------------------------------------------
+
+ Back in the tower, head east, then south, then west to find the door
+ leading to the uppermost floors of the Tower.  Use the Red Sphere to
+ open it and continue on.  Last time you were in the Tower, there wasn't
+ much to do.  This time it's a different story.  On Floor 19, you'll
+ want to find the sub-world where there is a ruined bunker.  There are
+ several dead children here, as well as monsters.  At the end of the
+ bunker is a dead father--read his diary and then check your inventory;
+ you'll discover that you now have a Nuke Bomb, which is really useful.
+ It can only be used once but does about 550 damage to all enemies.  The
+ other sub-world you want to find (on floor 21) is filled with flowers.
+ There's a hut in the lower-left hand corner, where an old man will give
+ you the Excalibur sword.  As you climb, though, the most important
+ thing you need to get is the Glass Sword, which is in a treasure chest
+ in one of the stairwells.  This is the best weapon in the game, since
+ it does as much damage as a Nuke Bomb, but can be used 50 times.  I
+ would suggest saving it for future boss battles though (ditto with the
+ Excalibur).  Also look out for the Door, which you can use to warp to
+ any previous level of the Tower.  If you want to use it to do some
+ backtracking, you can, but you're almost at the end of your journey
+ anyway, so I would recommend that you keep climbing.
+
+ Eventually, you'll reach a floor with the man in the hat.  There's
+ nothing to do here but try climbing up the metal spire in the center
+ of the screen.  You'll be moved up along it and find yourself on the
+ last floor of the Tower.  Be sure to save your game as you climb,
+ since right in front of Ashura is an area of the floor that warps you
+ back to the room with the metal spire.  Well, here you are at the
+ final confrontation with evil, the big guy himself, Ashura the Demon.
+ Fighting Ashura is no day in the park since he's got lots of HPs and
+ can really deal out the damage.  Have your strongest characters use
+ the Glass and Excalibur swords.  If you have a mutant, they should be
+ using Flare, which leaves you with one character remaining to cure
+ his or her allies.  Once Ashura is defeated, head north and you get
+ to go through the door that leads to Paradise....
+
+
+ ------------------------------------------------------------------------
+ The First World Revisited
+ ------------------------------------------------------------------------
+
+ ...or not, since there's an unavoidable pitfall right in front of the
+ door, which drops you all the way back down to the First World.
+ Amazingly, you're not dead (heroes always survive, right?)  Things
+ have changed since you were last here; all your friends from the other
+ worlds have shown up (not to mention the man in the hat again), and
+ the Tower has apparently been resealed.  You'll want to talk to the
+ shopkeepers since they're selling some really cool equipment now.
+ Go unseal the Tower door using all four Spheres, then step inside.
+ Hmm...it's a different Tower altogether!  Maybe now that you've found
+ the real Tower, you can get to Paradise, right?  Well, you're not out
+ of danger yet--keep walking and you'll find that Gen-Bu (or rather,
+ Gen-Bu 2), is here waiting for you.  If you have the Hyper Cannon, you
+ can take him out in one shot.  Otherwise, just slice him up with your
+ Glass Sword and Excalibur, he's not that hard to kill.
+
+
+ ------------------------------------------------------------------------
+ Exploring the Tower, Part 5
+ ------------------------------------------------------------------------
+
+ Getting through the Tower the second time around is a snap.  What
+ happens is, you'll arrive at an area with a moving stairwell.  Find
+ which side of the stairs takes you up, then just step on to it, go
+ up the door, go through it, and repeat.  Eventually you'll reach a
+ new area, and each time you arrive at a new area, you'll get to
+ fight a boss again (Sei-Ryu, Byak-Ko, and Su-Zaku), all of whom are
+ now more powerful (but then again, so are you).  Grab the items as
+ you go along (don't forget to nab the powerful Masamune sword), and
+ make your way to the top.  If you want to go back and heal up, just
+ use the Door and return to the First World (you can buy more Doors
+ in the First World as well).  If you want to go back to the first
+ Tower to look for treasures you might have missed, or if you want to
+ return to any of the other worlds or sub-worlds, you can go back to
+ them using the Door, too.
+
+
+ ------------------------------------------------------------------------
+ The Final Battle
+ ------------------------------------------------------------------------
+
+ Eventually, you'll reach the top of the Tower, which has one long
+ stairwell.  Step on it and you'll shoot off into space and find
+ yourselves in a strange new area.  You're standing on an orb, but
+ if you step off it and turn around, you can examine it to restore
+ your HPs.  Head to the north-west corner of this area and you'll
+ meet the man in the hat again (aren't you sick of this guy by now?)
+ He reveals himself to be the Creator, who wanted to test out mankind's
+ bravery by creating a Tower filled with monsters.  Obviously, your
+ group doesn't take to kindly to having risked life and limb just to
+ entertain this guy, and decide to teach him a lesson.  The battle with
+ the Creator starts off easy because he doesn't do anything.  After a
+ few rounds, though, he starts busting out with some really powerful
+ attacks.  Sometimes, you'll just take damage without him having to
+ attack you, he's that powerful ^_^;  Luckily, you should still have
+ some uses of the Glass Sword, Excalibur, Masamune, and Flare remaining,
+ so pummel him with those weapons until he dies.
+
+
+ ------------------------------------------------------------------------
+ Exploring the Tower, Part 6
+ ------------------------------------------------------------------------
+
+ Then...hehe, just kidding. :)  After he's dead, you get your ending,
+ and the credits roll, and all that.  If you liked this game and want to
+ play something in a similar vein, go hunt down a copy of Final Fantasy
+ Legend II, it's a really great sequel with lots of improvements from
+ this game (not that FFL is a shoddy game, of course).
+
+
+ ========================================================================
+ 3.  AUTHOR'S NOTE
+ ========================================================================
+
+ I hope this FAQ was of some use to you.  If you want more information on
+ this game, there is a chart of Monster meat changes you can find at
+ <http://www.gamefaqs.com>, not to mention other hints and stuff.
+
+ That's all!
+
+ Unpublished work Copyright 1999-2001 Chris MacDonald

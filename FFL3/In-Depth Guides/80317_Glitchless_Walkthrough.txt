@@ -1,0 +1,514 @@
+START:
+
+~SIMULATOR BATTLE:
+TURN 1: Arthur/Curtis Attack Divner1, Gloria uses Ice1 on Diviner2, Myron
+attacks Sprite1.
+TURN 2: All Attack Sprite2.
+
+~DHARM CITY:
+Walk from Talon Shrine to Dharm City, enter magic shop and get Ice1 for Curtis.
+Enter battle simulator until all level 3, buy 2 Leather Armor(females), 2
+Leather Shoes(males), 3 Leather Helm(all but Sharon), 7 Belt(all but Gloria),
+use Inn before leaving town.
+
+~LEAVING DHARM/NORTH TOWER:
+Go to North Tower get Leather Glove and equip to Gloria, get Float Spell, fall
+down hole then walk down stars and leave North Tower. Give Float Spell to
+Arthur.
+
+~ELAN CITY:
+Fly Southwest To Elan, buy 4 Plume and 4 Psi Daggers, Equip 1 each to all party
+members, talk to Chronos in southern house to get Past Unit, use Inn on way out
+if needed.
+
+~BACK TO TALON SHRINE/WATER HAG BOSS FIGHT:
+Fly East to Water Hag boss, fully cure party with Myron before fight, SAVE
+before fight to avoid Unexpected Attack. Ideally level 4-5. Arthur/Sharon use
+Psi Daggers, Curtis/Gloria use Ice1, Myron Attacks. Try to keep all 4 alive for
+EXP bonus post fight. Cure party with Myron before entering Whirlgate inside
+Talon Shrine.
+
+~TO THE PAST:
+Equip Talon with Past Unit by checking viewer screen. Warp to Past, then fly
+southwest to Lae City. Buy max Cure1 Potions and get Flushex Unit. Buy 2 Fire1
+Spells, give to Curtis/Gloria. Use remaining GP to buy Silver Armors but save
+enough GP to use Inn before leaving. Walk outside Lae City and grind to level 7
+for party, using Inn to restore MP when required. By level 7 should have enough
+GP for 4 Silver Helm, 4 Bronze Shield and 4 Silver Armor, equip to all party
+members. Buy 2 Aero1 Spells, give to Curtis/Gloria. Do not leave Lae City area
+until at least level 7 with all aforementioned Spells and Armor, in addition to
+9 Cure1 Potions.
+
+~TO SOUTHERN CAVE:
+Take encounters on the path to Southern Cave. Fly South around mountains to get
+there. Heal/Save before entering cave. Use Maps to navigate direct path to Lara,
+skipping treasures. If encountering the Thoth/Jerrit enemy formation, battle
+them as you have a chance at getting a Pendant drop. If you get 1 or more, equip
+to Gloria/Curtis/Sharon/Arthur in that order of priority and replace the Belt
+they currently have equipped. Use Cure1 Potions to heal as needed.
+
+~LARA BOSS FIGHT:
+Heal/Save before engaging Lara to avoid Unexpected Attack. Use Psi Daggers with
+Arthur/Sharon and Fire1 with Curtis/Gloria. Lara has resistance to Fire but it
+does more damage than Ice. All 4 must survive to maximize EXP bonus and
+Leveling. Heal/Save after defeating Lara using her Cure1 Spell.
+
+~DOGRA BOSS FIGHT:
+This is a difficult battle, use Psi Daggers and Ice1 Spells to take out the
+Witches first, do not use Fire1 against Witches as they have resistance to Fire.
+Have Lara use Lit1 against Dogra. Try to keep HP high with remaining Cure1
+Potions, ideally all 4 party members must survive but 3 is okay. When the
+Witches are gone use Fire1 with Curtis/Gloria against Dogra. Heal/Save after
+battle and get the Rover unit. Take encounters on the way out of the cave unless
+low on MP/HP/Cure1 Potions. Level 8 is suggested for this fight at the very
+least.
+
+~BACK TO ELAN CITY:
+Use Inn and talk to Granny in southern house to get the Dive Spell. Leave Elan
+and go east to coast, then use Dive Spell. Go underwater and move north along
+coast and then west to find the underwater city of Muu.
+
+~MUU CITY (PAST):
+Go to western part of town to find a soft potion in the right chest, skip the
+left chest containing the Ifram seed as it is not required. Sell any extra armor
+and then buy as many Pendants, Gold Gloves and Iron Boots as you can in that
+order of priority, ideally 4 of each and equip to party, then sell remaining
+armor. Equip Pendants in place of Belts. Go to Item Shop and buy at least 1
+Elixir, then as many Cure2 Potions as you can, ideally the maximum of 9. Use Inn
+if required before leaving.
+
+~RETURN TO PRESENT:
+Move east and then south from Muu to return to the Talon Shrine and warp to the
+Present. Upon leaving the shrine in the present an auto scene will be triggered
+back in Dharm. Use Inn if required before leaving Dharm.
+
+~RETURN TO ELAN CITY (PRESENT):
+Fly west to Elan, talk to Cronos to get Tower Key, use Inn if required before
+leaving Elan City. Leave and use Float to travel south and east around mountains
+to South Tower, Heal/Save before entering Tower.
+
+~SOUTH TOWER:
+Get B-jack and air crystal on way to Ashura, taking encounters, equip B-jack on
+Arthur as soon as you find it. Use Maps to navigate direct path. Heal/Save
+before fighting Ashura to avoid Unexpected Attack.
+
+~ASHURA BOSS FIGHT:
+This can also be a difficult battle but usually not as tough as Dogra. Ideally
+you want to be at least level 10-11 for this fight. If you have enough GP, you
+can route diverge to Muu after Elan to pick up Lit1 spells for Curtis/Gloria,
+which can help a lot but is not required. Use B-jack/Psi Dagger and Fire1/Lit1
+to take out the Warriors first. Ashura has resistance to Fire, so use Ice1 or
+Lit1 if you have it on Curtis/Gloria. Use Cure2 Potions as needed to heal and
+try to keep everyone alive to get max EXP for the party after the battle. Pick
+up the TNT before leaving if you did not get it on the way up the tower.
+Continue to take encounters on the way out as the EXP and GP is going to be
+important.
+
+~RETURN TO MUU (PRESENT):
+Go north to the coast and use Dive. Return to Muu but be sure to check the
+sunken ship to the east of there for the Teargas/Air Crystal first. Use the Inn
+as it will most likely be needed when you get to Muu. Buy 2 Lit1 Spells if you
+do not already have them for Curtis/Gloria, and buy Cure2 Spells for everyone.
+Go to the Armor Shop and buy 4 Dragon Glove, then 3 Silver Shield, prioritizing
+the Dragon Gloves first. Sell extra armor after equipping and sell the Psi
+Dagger you replaced with the B-jack from Arthur. Then buy as many Gold Helmets
+as you can and equip those, selling the Silver Helmets and buying more Gold
+Helmets with the remaining GP. Be sure to get the Water Crystal in the building
+to the west of the Armor Shop if you do not have it already.
+
+~PLUNDERING SUNKEN SHIPS AND OPTIMIZING ARMOR:
+Use maps to plunder the 2 remaining sunken ships taking direct routes to each.
+Continue to take encounters as you do. Return to Muu once you have done so and
+pick up any remaining Armor that you did not get earlier, IE Gold Helmets and
+Gold Boots. Use the Inn to restore your HP/MP. Sell the Thunder Staff you
+plundered and the Iron Boots and remaining armor then go to the Item Shop. Buy
+max Cure2 Potions and Softs, then use all the remaining GP you have to buy
+Elixirs. You are going to need optimal armor and a good supply of healing
+potions for Chaos Castle. Avoid the Evil Eye enemies during your level and GP
+grinding if possible.
+
+~CASTLE OF CHAOS:
+Do NOT enter Chaos Castle until you are at least level 12. This gives you a good
+chance and running away from the Dual Mask enemies, which can be a real problem.
+Use Maps to get all the boxes on the way to Chaos except the Soft Potion which
+you should already have enough of. Take encounters on the way except for the
+aforementioned Dual Masks. The Horus/Fiend formation is very good and can drop
+Para spells to sell for more GP later. The Horus enemy is weak to your Aero
+spells. Equip the Psi Armor to Gloria and the Fire Shield to Curtis.
+
+~CHAOS BOSS BATTLE:
+This is widely regarded as one of the most difficult boss battles in the game.
+Ideally you want to be level 12-13 for this fight. Make sure to Heal/Save and
+equip the 2 TNT and Teargas weapons to Arthur/Sharon before you fight Chaos, and
+avoid the Unexpected Attack. Use the Teargas and TNT, then re equip your B-jack
+and Psi Dagger in battle once they are gone, and have Curtis/Gloria use Lit1. If
+Chaos uses Quake, make sure each character uses Cure2 Potions or Spells
+immediately after and keep HP high for this fight. If you lose someone in
+battle, use the Elixirs you have to revive them. Try to keep everyone alive to
+gain the EXP after the battle. The Teargas/TNT strategy will go a long way in
+helping you to win this fight.
+
+~LEAVING CHAOS CASTLE:
+Heal/Save after the battle and pick up the Future and Hover units. Continue to
+take encounters on the way out except for the Dual Masks. If you are lucky you
+might get Para Spells or Dragon Gloves to drop on the way out.
+
+~THE FUTURE AWAITS:
+Return to Muu, use the Inn and restock your Elixirs to full. Sell any extra
+armor or item drops you got. Fly east to Talon Shrine, warp to the future. Fly
+west to Elan City, beware of enemy encounters as they are stronger now in the
+future. Go to the Inn in Elan City and talk to Granny in the bed to get the
+Morph Spell.
+
+~RETURN TO MUU (FUTURE):
+Leave Elan City and go west to the coastline, use Dive and go north to Muu.
+First priority is to buy Quake Spells for everyone, then Ice2 Spells for
+Curtis/Gloria. Be sure to use the Morph Spell to avoid fighting WaterHags. There
+will be random encounters in Muu now so this is a good spot to grind out some
+more levels and GP, being close to an Inn. Suggested grind is to level 15, have
+everyone use Quake to maximize damage to the entire enemy formations. Next
+priority is to buy 4 Speed Helmets from the armor shop, these are very useful
+and will be used for a long time, 4 Shades are also recommended before leaving
+Muu.
+
+~PLUNDERING SUNKEN SHIPS (FUTURE):
+There are 3 more sunken ships to be found in the future, use maps to plot a
+direct route to each one, each has 2 boxes within them. Take encounters as you
+go, using Quake.
+
+~TO NEW DHARM/VIPER CITY:
+Surface, go east to New Dharm, buy elixirs, use inn, get password from Myron
+leave and go north to Viper, buy 4 Geta Boots, sell extras found from the sunken
+ships. Enter the main base, get items on right, equip the Laser Sword to Sharon,
+heal at Dr. Belksi, recruit Dion, get the Rocket, then leave and use Dive on the
+east coast, go north to Dr. Pulcers undersea base and get the Radio. Then leave
+and go southwest to the Talon Shrine and pier to use the Rocket at the edge of
+the pier to Floatland.
+
+~FLOATLAND ARRIVAL:
+First Priority Buy 4 Speed Armors, 2 X-Plane Shields for Arthur/Sharon and 3
+Earring. Sell extra armor afterward. Use the Inn then go north to the Floatland
+Ruins.
+
+~FLOATLAND RUINS:
+There are a lot of hidden passages in here, so use maps to take efficient routes
+and make sure you do not skip any boxes, continue to take encounters along the
+way. Quake is still your best option.
+
+~PATH TO MAITREYA:
+Use maps to navigate from the Floatland Ruins to Floatland Mountain, be sure not
+to miss the Ice Shield found on the mountain as it is very important later.
+Equip it to Gloria. When you reach the Tower, follow the maps to get all the
+boxes and be sure to check the top floor before backtracking to the hidden
+passage to Maitreya, continue taking encounters to build EXP and GP, Quake
+remains the best option. Make sure to get the Exit Spell and give it to Curtis.
+
+~MAITREYA BOSS FIGHT:
+Heal/Save before the battle to avoid the Unexpected Attack. Equip the Battle
+Armor to Sharon. Take out the Lamias first with Quake Spells and physical
+attacks. Use Ice2 and physical attacks on Maitreya, be sure to keep your HP high
+and do not hesitate to heal after getting hit with Cyclone. Recommended level is
+16-17. Get the X-Plane unit after the fight and use Curtis to exit out. Use the
+Radio to contact Dr. Pulcer, then use the Remote to call the Talon and warp to
+Pureland.
+
+~PURELAND ARRIVAL:
+Use Berth before exiting the Talon, which functions as a Inn, it can be found on
+the lower left part of the Talon. Go north to Darius City. Find the Firestar and
+Heal spell, then buy 4 Diamond Shields from the armor shop, which are very
+important! Buy 2 Fire2 Spells for Curtis/Gloria and buy Cure3 Spells for
+everyone, then 2 Dragon Swords for Arthur/Sharon, and the 1 remaining Earring
+for whoever did not get it earlier. You should have enough GP for all of this if
+you were taking encounters along the way and selling your extra equipment and
+items.
+
+~TO EITAR VILLAGE:
+Call the Talon using the Remote and fly west to Eitar, there will be a single
+tree next to the village to identify it. The Talon will now attack enemy
+formations with the Cannon so be sure to take advantage of this and continue to
+take encounters. In the village, go to the fenced area on the left and look for
+the broken fence, you can pass through this and then go north to get the Catnip
+by checking the trees there.
+
+~TO EITAR PRISON:
+Call the Talon using the Remote and fly north to the Eitar Prison. Faye is being
+held captive here. Once inside, use the Catnip to freeze the cat mummies in
+place, you can now push them out of the way. Use maps to navigate and be sure to
+get the Wizard Armor and Fur Armor here. Keep taking encounters but consider
+running from the Soarx enemies as they are resistant to Quake, which is still
+your best option for offensive spells.
+
+~FENRIR BOSS FIGHT:
+Heal/Save before Fenrir. The chances of avoiding the Unexpected Attack here are
+very low, so you are better off just taking it. The Diamond Shields you bought
+earlier will protect you from his Lit2 and Flood attacks. Use physical attacks
+and Fire2 spells against Fenrir and keep HP high, in an attempt to keep everyone
+alive to get the EXP after the fight. Get the Prison Key after the fight and
+proceed down and right to the locked door, makes sure to get the Fur Armor on
+the way. On the lower floor push the mummy cat out of the way and rescue Faye,
+then use the Exit Spell and leave.
+
+~RETURN TO EITAR VILLAGE/DARIUS:
+Use the Remote to call the Talon, use Berth if needed and return to Eitar
+Village, get the Dark Crystal and speak with Juba, then return to Darius to take
+boat to Knaya.
+
+~KNAYA CITY, THE CENTER OF TRADE:
+There are a lot of shops to check in Knaya, but the only one you should check is
+the Magic Shop, which is on the far right 3 towers. Buy CureA Spells for
+everyone, Lit2 Spells for Curtis/Gloria, and if you have enough GP left, buy the
+Weak Spell for Curtis/Gloria. Leave and call the Talon, use Berth if needed,
+then fly south and west to Mt. Hasid. Continue taking encounters to level up and
+gain more GP. Quake is still the most effective option.
+
+~MOUNT HASID:
+Use maps to get the Light Crystal, Cool Bracelet and Missile unit here. Make
+sure to Heal/Save on the stairs leading to Guha as you will automatically
+encounter him once you step off the stairs. Equip the Ice Shield to Sharon and
+the Cool Bracelet to Arthur, they will function as your healers and revive
+downed characters for this fight.
+
+~GUHA BOSS FIGHT:
+This is another difficult battle. Recommended level is 19-21. Save to avoid the
+Unexpected Attack, but it is costly on time as there is dialogue before the
+battle. Use Lit2 and physical attacks against Guha, keep HP high and try to
+survive to get the EXP at the end of the fight. Guha will use the FireX spell a
+lot and you will be healing with CureA Spells and reviving with Elixirs
+undoubtedly. If you can try to get in a few physical attacks between healing
+needs and hope to land a mighty blow. Get the Durend Sword after the fight and
+equip it to Sharon. Sage Buzi will join and sell items in the Talon after the
+battle.
+
+~TO SOUTHWEST RUINS:
+Use Berth in the Talon, restock your Elixirs at Buzi's shop, then fly west to
+the Southwest Ruins. Save before Dahak and avoid the Unexpected Attack.
+
+~DAHAK BOSS FIGHT:
+Another difficult battle, Dahak will often use Shake and land mighty blows on
+your party. Recommended level is 20-22. Use Lit2 Spells and physical attacks
+against Dahak. If he uses Shake consecutively you can be in big trouble, try to
+keep everyone alive and make use of Faye's Cure3 Spell. Sharon and the Durend
+Sword is your best offensive option and if you get lucky you can land a mighty
+blow. After the fight, get the Tablet behind Dahak. Leave and return to the
+Talon to use Berth, restock Elixirs and heal up before returning to the
+Southwest Ruins.
+
+~SOUTHWEST RUINS:
+Use maps to navigate here and make sure to get all the boxes, the Fire Crystal
+is critical so make sure not to miss it. There are puzzles here which require
+you to push stones to block the flow of water, be sure not to make a mistake
+with moving the stones or you will have to reset the room and lose time. Make
+sure you have collected all the items before finishing the last puzzle as you
+will automatically be warped out once the last stone is moved into place. Take
+encounters and keep using your Quake spells to level up and gain more GP, there
+are very good enemy groups here for EXP and GP.
+
+~TO THE FROST CAPE:
+Reboard the Talon and use Berth to heal and restock Elixirs. Then fly east and
+north, making sure to avoid going into the western desert or you will be pulled
+into the sandstorm. Take the Tablet to find Shar at the Frost Cape and speak
+with him until he says he needs more time to examine it. Then fly to the desert
+in west, but make sure you SAVE FIRST.
+
+~JORGANDR BOSS FIGHT:
+Jorgandr has resistance to everything except your Durend Sword. If you were able
+to get the Weak Spell it can do minor damage. Focus on Sharon using Durend and
+Faye using Rune Axe as these are your best attacks, everyone else should be
+supporting or healing. Jorgandr does not have much HP but can hit very hard. Try
+to keep everyone alive as usual to maximize the EXP after the battle.
+Recommended level is 21-22. After the fight the Talon will not be available so
+heal up before heading north to Talonsburg with your Cure Spells.
+
+~TALONSBURG:
+Go north and then west to find Talonsburg. There are important items here such
+as the Shield unit, so do not miss them and check maps if needed. Dr. Quacer
+will unveil the Talon2 and you will now be able to fly over the waters with it.
+
+~RECRUITING TALON CREW, LOST MAGIC AND XCALIBUR:
+Equip the Shield unit to the Talon2 right away, this will allow you to fly on
+the overworld without enemy encounters! First priority is to return to the Frost
+Cape and talk with Shar and Buzi, they will both join the Talon2. Then you want
+to locate the Cave near Eitar and pick up the items in there, most notably the
+Fire Crystal. With 2 of them now, you can talk to Shar and mix them to make the
+strongest spell in the game, the Flare spell. You also want to mix Earth and
+Water Crystals to make at least 1 or 2 LifeB Spells. Give Flare to Gloria and
+give LifeB to Arthur, then Sharon if you were able to make 2. Then fly north and
+east to Zhakal which is on a small island with ice, to get Xcalibur. Faye will
+draw Xcalibur and you can then visit the eastern house in Zhakal to speak with
+Masa, who will join the Talon2, also be sure to get the Light Crystal in Masa's
+house before leaving. Equip Xcalibur to Sharon and give Arthur the Durend Sword.
+
+~PLUNDERING CAVES:
+There are 2 more caves on the overworld to check, use maps to find them. Inside
+are important items such as Dark and Light Crystals and Light Armor. Take
+battles in the caves, with Quake and Flare Spells now available, you should have
+minimal problems.
+
+~TO CIRRUS THE CLOUD CITY:
+Recruit Juba in Cirrus Castle and get the Laser unit on the box to the left and
+Pass from King Clamin.
+
+~SPEED SHIELDS AND CURE B SPELLS:
+By now you should have enough Dark and Light Crystals to mix 2 Speed Shields
+from Juba, equip them to Curtis and Gloria. At this point you should also have
+enough GP to buy 1-2 CureB Spells from Shar. Give the CureB Spells to Curtis and
+then Arthur in that order of priority. Also make sure to equip the Laser unit to
+the Talon2 as at this point you will be doing a lengthy grinding session.
+
+~PREPARING FOR THE UNDERWORLD:
+While you can go straight to Porle City and enter the whirlgate to the
+underworld, it is not advised to do so until you are at least level 27-28. Most
+likely at this time you will only be level 22, and have a long way to go to get
+to those levels. You are also going to need a LOT of GP, to get more CureB
+Spells for your party, and to buy top tier armor in the underworld. Another
+reason to level up here is you have the speed of the Talon2, to make encounters
+faster, in addition to having the Laser unit for a preemptive attack, also
+speeding up enemy battles. Gloria should be fast enough now having high enough
+agility to go first, and between the preemptive Laser unit and Flare spell,
+enemy encounters should be short. Fly in the Talon2 in a circling pattern or
+left and right line near Porle City, which is on a small island east of the
+large hole in the ocean and take encounters until at least level 27 for your
+party. Be sure to Save after each battle, as the Tattler enemy is capable of
+confusing Gloria, and if she Flares the party, you might lose progress. Also buy
+Magic Potions from Buzi, and use those to restore MP rather than having to walk
+to the Berth unit every time, and heal with Faye's Cure3 spell as needed. This
+will save time.
+
+~BEFORE GOING INTO THE UNDERWORLD:
+When you finally reach the aforementioned levels, you should have 350000-400000
+GP, trust that ALL of this will be needed. With any luck you will also have
+gotten a few Warm Bracelets from enemy drops. Go to Juba and buy 4 Power Gloves
+and 4 Bangle Bracelets, equip the Bangles in place of the Pendants and equip the
+Power Gloves, then sell the remaining armor. Make CERTAIN that everyone in the
+party has CureB Spells, and that Arthur/Sharon have LifeB Spells as this is very
+important to survival.
+
+~INTO THE UNDERWORLD:
+Once you have made certain you are level 27 or higher, and have all the
+aforementioned Equipment and Spells, go to Porle and enter the whirlgate to the
+Underworld. Dion will join and Faye will leave the party.
+
+~OPTIONAL SIDE QUESTING:
+Once in the Underworld, you can elect to plunder the Mushroom areas, and caves,
+in addition to the Twin Towers. There is some good treasure to be found,
+including the items needed to make the Masamune and Emperor Mystic Swords and
+Aegis Shield, more Dark and Light Crystals to make another Speed Shield, and the
+E-Ray unit for the Talon2. Use maps to find all of these items if you have
+chosen to obtain them, but know that it is going to take quite a long time to
+get them all. So if you are attempting a Speedrun, all of these side quests
+should be skipped.
+
+~DWELG TOWN:
+Use the Morph Spell when entering the Dwelg Town to avoid fighting the Dwelgs,
+who are quite annoying and hit very hard. In the Armor Shop you will find some
+of the best armor in the entire game. Optimally you want to buy 4 Power Armors,
+5 Hecate Helmets and 5 Hermes Shoes, this is going to take a TON of GP however
+so hope you have been taking encounters since the lengthy grind to level 27 in
+the Talon2. The reason you want 5 of the Hecate Helmets and Hermes Shoes is to
+give 1 of them each to Borgin once he joins your party. He is severely lacking
+in equipment and if you are able to give him these, it can help a lot for the
+last 2 boss battles. Go north to the tower in the Dwelg Town and speak to the
+Dwelg in front of the fire, this will allow you to leave the Underworld when you
+go east and north of town by tricking the Dwelg guard there into leaving.
+
+~BARRIER MACHINE CAVE:
+When you have left the underworld, be sure to heal up and save. Then head east
+and south to find the Barrier Machine Cave. Use maps to get the items here,
+including more Light/Dark Crystals, a Scarf Accessory and a Magic Potion. If you
+are doing a Speedrun you should elect to skip all of these however and proceed
+straight to Agron. Be sure to keep taking encounters however as you will need
+all the EXP you can get at this point.
+
+~AGRON BOSS FIGHT:
+Make sure to Heal/Save on the tile before the ornate floor in front of the
+Barrier Machine and Agron, as you will automatically encounter him once you step
+on the ornate tile. Recommended level is 28-30. Try to avoid the Unexpected
+Attack if possible, but there is another series of dialogue before the fight and
+it can cost time. Agron will use White most of the time, and this will deal
+upwards of 300 damage to the party. Have Arthur and Sharon use Durend and
+Xcalibur and hope to land mighty blows. Curtis should be using CureB every
+single round and Gloria should use Flare and CureB when needed. If you lose
+party members have Arthur or Sharon use LifeB, and Curtis or Gloria use Elixirs
+to revive downed party members. Agron has a stone attack, if your party member
+becomes Stoned, you will not be able to use LifeB on them to revive and must use
+an Elixir or Soft Potion. It is difficult to keep everyone alive but try to do
+so to reap the full EXP bonus after the fight. Get the Soar unit after the
+fight.
+
+~FINAL PREP BEFORE MOUNT GOHT:
+Borgin will join the party after the Agron fight. Use Exit to leave and then
+call the Talon2 with the Remote. Go to Juba and buy another Power Glove, Bangle,
+and Samurai Shield for Borgin, and equip him with those and the extra armor you
+bought in the Dwelg Town for him. There are 2 more caves that are now accessible
+and both have very important items, including a Ribbon Accessory, which you
+should equip to Sharon. There are also 2 more Fire Crystals to be found, so you
+can make another Flare Spell if you wish for Curtis. The Metal item is also
+available to make the Aegis shield, but this also requires items found in the
+Underworld Sidequests. If doing a Speedrun prioritize only the Ribbon and skip
+the rest. Make sure you are completely stocked up on Elixirs, Magic Potions and
+Tents before entering Mount Goht.
+
+~MOUNT GOHT:
+Use maps to navigate the direct path here, there are recovery springs on the way
+so use them as required to save on items. The landscape will change after the
+Talon2 destroys part of the mountain so read the map carefully. There are no
+boxes to check in Mount Goht so proceed directly to Goht Castle. Continue taking
+encounters, if you are at level 31 or higher, and get the Gill Man meat drop,
+give it to Sharon or Arthur and they will transform into the Anubis monster,
+which is very powerful and ideal for the final 2 boss fights.
+
+~GOHT CASTLE:
+The path to take here is very straight forward. Take the northwestern stairs to
+the 2nd floor, hit the switch, carefully jump to get the 2 Ribbon Accessories on
+the left side of the room, then fall down the large hole in the center. From
+there go up and then left, then down and to the far southeastern part of the
+room to get the final Ribbon Accessory. Then continue north and east to find
+Balor. Take any battles you can get along the way, and if Arthur or Sharon is
+level 31 or higher, take any Cyborg or Meat drops you can get. The optimal
+transformation is the Anubis monster, but the Aeshma monster can also work, in
+addition to the Removed or Shogun Cyborgs.
+
+~BALOR BOSS FIGHT:
+Be sure to fully Heal/Save before fighting Balor with a Tent, and try to avoid
+the Unexpected Attack. Recommended level is 30 and up. Balor has a ton of HP and
+some devastating attacks. If he uses physicals your party target will most
+likely not survive. Attack him much the same as the Agron fight, with
+Arthur/Sharon using Mystic Swords and LifeB or CureB if needed. Curtis should
+use CureB every round and Gloria should use Flare and CureB as needed. Borgin
+should use White, CureA, or revive downed party members with Elixirs. Keep HP as
+high as possible every round as a double Nuke from Balor spells game over and
+hope to land mighty blows with Durend or Xcalibur. You will most likely gain a
+level after the battle, which can be a good or not so good thing depending on
+the current monster(s) you have, as they will transform. Again the optimal
+monster to have is Anubis, both for this fight and for the final boss.
+
+~PATH TO SOL:
+Use a Tent and Save after Balor. At this point you want to take encounters on
+the way to Sol unless you already have 1 or 2 Anubis monsters. If you have
+Cyborgs, continue to take encounters. You can elect to get the Nukebomb weapon
+on the way to Sol as it is just a few steps from the direct route. If so equip
+it to Gloria and save it for the final battle.
+
+~SOL/XAGOR FINAL BOSS:
+Recommended level is 31 or higher. Save/Tent before walking into the vertical
+path to Sol as it is another auto battle. Make sure you have all 4 Ribbons
+equipped and have your best equipment going into the fight. During the Sol
+phase, use only weapons except the Nukebomb and have Gloria instead use the Psi
+Dagger or Psi Gun. Curtis should use Psi Dagger or Psi Gun and Arthur/Sharon
+should use Durend/Xcalibur. Borgin should get off at least one cast of Shell on
+each party member, including himself, and then use White until Sol transforms.
+Once Xagor appears, continue to attack with the Mystic Swords but use CureB and
+LifeB as needed with Arthur/Sharon. Curtis should use CureB every round, Gloria
+should use the Nukebomb, then reequip the Psi Dagger or Psi Gun and use Flare,
+CureB or Elixirs to revive as needed. Borgin should use CureA and Elixirs as
+needed, and if you get a free round without having to heal, have him use White.
+Flare, LitX and Dk-Virus are Xagors most powerful attacks. Turn order can be a
+real problem in this fight as Agility does not seem to matter in determining it.
+Try to keep HP high and party members alive, it is going to be a long fight
+usually. The Talon2 will join the battle and use the Laser or E-Ray units, and
+can on occasion land a mighty blow. Xcalbur is your best offensive option so try
+to use it as much as possible. Preemptive CureB is always a good move in this
+fight, even if it goes off before Xagor's attack.
+
+With any luck you will be able to defeat Xagor and finish the game. This
+concludes version 1.0 of this Glitchless walkthrough guide.

@@ -1,0 +1,1164 @@
+Final Fantasy Legend / Makaitoushi SaGa Translation Differences FAQ
+By Gouki of Borg
+
+
+Table of Contents:
+--------------------
+
+I. Introduction
+
+II. Version History
+
+III. General/Dialogue Differences
+
+IV. Name Changes
+	a. Characters
+	b. Character Classes
+	c. Items
+	d. Weapons
+	e. Spells
+	f. Armor
+	g. Monsters
+	h. Monster/Esper Skills
+
+V.  Closing Remarks
+
+-----------------------------------------------------------------------------
+
+
+I. Introduction
+---------------------------------
+
+In December 1989, Square released one of the first RPGs for a handheld
+system, titled Makaitoushi SaGa (Demon World Tower SaGa). The was the first
+game in the SaGa series, which would later include two Game Boy sequels,
+the Romancing SaGa trilogy on Super Famicom, SaGa Frontier 1 and 2 on
+Playstation, and Unlimited SaGa on Playstation 2.
+
+In September 1990, Makaitoushi SaGa was released in North America as The
+Final Fantasy Legend, to cash in on the recent success of first Final
+Fantasy's NA release. There were some interesting changes made in
+translation, which this FAQ is here to document.
+
+Makaitoushi SaGa received a remake for the Wonderswan Color in March 2002,
+featuring updated graphics (roughly on par with the 16-bit FF games), and
+fixes of the original's many bugs.
+
+
+II. Version History
+---------------------------------
+
+
+	Version 1.0 (7/29/09)
+
+The first, and most likely final release. Everything should be here.
+
+
+III. General/Dialogue Differences
+----------------------------------
+
+-Because the Japanese writing system allows you to write more in less space
+(for example, Katana takes only three characters to write in Japanese but six
+in English), the full names for items are written out and there are no icons
+telling you what type of item it is.
+
+Gameplay:
+
+The gameplay between SaGa and FFL is virtually the same, except for a few
+differences which are more the result of programming errors than legitimate
+changes. For example, you are only able to use the Glass Sword once in the
+original, but it can be used 50 times in the NA version. Similarly, Excaliber
+has infinite uses in the original but 50 in the NA version.
+
+
+
+Key Terms:
+
+FFL          SaGa
+----         -----
+
+GP           Kero
+
+Sphere       Crystal
+
+
+
+Dialogue Changes:
+
+-The FFL translation did the job well enough, although it was somewhat stiff
+and lost some of the nuances of the original Japanese script. For example:
+
+
+-King Armor's love is referred to as "the most beautiful girl in the
+village" by her fellow townspeople, so naturally the heroes react with mild
+surprise when they see that she looks exactly like everyone else in the
+village (i.e., like FFL2's Mr. S).
+
+
+-Ashura's four fiends are variously referred to as "four heavenly kings"
+and "demons", depending on who is talking.
+
+-The statue on the 7th floor that tells you "You may lose track of time
+while in the Tower" originally says something closer to "Time flows
+differently within the Tower".
+
+
+-Probably the most fascinating text change deals with the row of bookcases
+on the Tower's 20th floor. In the NA version, each bookcase featured a word
+of the sentence "Ashura is controlled by..." with the final word being
+unreadable. In the original Japanese, each bookcase featured a name,
+a date, and a floor number.
+
+	"Arthur - ....11th 19-3-21"
+
+	"Kurou - .....13th 50-2-18"
+
+	"Haan - ......9th 72-6-14"
+
+	"Zeke - ......6th 24-2-12"
+
+	"Liz - .......12th 80-1-28"
+
+	"Chara 1: What is this record?"
+
+	"[Main Chara] - ......"
+
+	"Chara 2: We won't be defeated partway like these guys, just you
+wait!"
+
+	This is made all the more eerie with the revelation at the end that
+the Creator is using the Tower and all who challenge it for his own
+amusement. To him, these are "high scores", a record of those who tried and
+failed. Your party's entry is still unwritten. Spooky.
+
+
+-The end credits are conspicuously missing from the NA version.
+
+
+IV. Name Changes
+-------------------
+
+
+a. Characters
+
+FFL            SaGa               Trans
+---            ----               -----
+King Sword     Tsurugi no Ou      King of Sword
+
+King Shield    Tate no Ou         King of Shield
+
+King Armor     Yoroi no Ou        King of Armor
+
+Ryu-O          Ryuuou             Ryuuou [char1]
+
+Charles        SHYARURU           Charles
+
+Jeanne         JYANNU		  Jeanne
+
+Mileille       MIREIYU		  Mireille [char2]
+
+Bob            Takashi Kun        Takashi Kun [char3]
+
+Zoku           Zoku               Zoku
+
+So-Cho         Sochou             Sochou
+
+Sayaka         Sayaka             Sayaka
+
+
+[char1]: Literally, "Dragon King".
+
+[char2]: Pronounced Mee-RAY.
+
+[char3]: A pun on the word for "tides", fitting since this is the guy who
+caused the lake to overflow.
+
+
+b. Character Classes
+
+
+FFL            SaGa               Trans
+----           -----              -----
+
+Human M        Ningen Otoko       Human Man
+
+Human F        Ningen Onna        Human Woman
+
+Mutant M       ESUPAAMAN          Esper Man
+
+Mutant F       ESUPAAGYARU        Esper Girl
+
+
+c. Items
+
+
+FFL            SaGa               Trans
+----           -----              ------
+
+Potion         POOSHON            Potion
+
+XPotion        HAIPOOSHON         Hi Potion
+
+Rod            Iyashi no Tsue     Healing Staff
+
+Needle         Kin no Hari        Gold Needle
+
+Symbol         Juujika            Cross
+
+Eyedrop        Megusuri           Eyedrop
+
+Antdote        Dokukeshi          Antidote
+
+Bell           Mezame no Kane     Bell of Waking
+
+Pan            FURAIPAN           Frying Pan
+
+Shocker        MAHI Dome          Anti-Paralysis [item1]
+
+Revive         Ikikaeri           Soul Return
+
+Elixir         ERIKUSAA           Elixer
+
+[Heart]        [Heart]            [Heart]
+
+Arcane         Kenja no Ishi      Philosopher's Stone
+
+Door           DOA                Door
+
+Strong         Chikara no Moto    Strength Source
+
+Agility        Subayasa no Moto   Agility Source
+
+HP200          HP200              HP200
+
+HP400          HP400              HP400
+
+HP600          HP600              HP600
+
+Airseed        Kuuki no Mi        Air Seed
+
+Red Orb        Aka Dama           Red Orb
+
+Blue Orb       Ao Dama            Blue Orb
+
+Erase99        IREISAA99          Eraser99
+
+Bluekey        Ryuu no Kagi       Dragon Key
+
+Jailkey        Rouya no Kagi      Jail Key
+
+Whitkey        Tora no Kagi       Tiger Key
+
+ROM            ROMU               ROM
+
+Board          AISHIIBOODO        IC Board
+
+
+[item1]: -dome is a suffix put after a word to indicate it is a
+stopper/preventer of that thing, often used in names of medicines.
+I thought Anti-Paralysis would fit.
+
+d. Weapons
+
+
+FFL            SaGa               Trans
+---            -----              ------
+
+Hammer         BATORUHANMAA       Battle Hammer
+
+Long Sword     RONGUSOODO         Long Sword
+
+Axe            BATORUAKUSU        Battle Axe
+
+King Sword     KINGU no Tsurugi   King's Sword
+
+Battle Sword   Seiryuu Tou        Seiryuu Sword
+
+Katana         Katana             Katana
+
+Silver Sword   MISURIRUSOODO      Mithril Sword
+
+Coral Sword    Sango no Tsurugi   Coral Sword
+
+Ogre Sword     OOGAKIRAA          Ogre Killer
+
+Dragon Sword   DORAGONSOODO       Dragon Sword
+
+Sun Sword      SANBUREEDO         Sun Blade
+
+Flame Sword    FUREEMUSOODO       Flame Sword
+
+Ice Sword      AISUBURANDO        Ice Brand
+
+Elec Sword     SANDAAAKUSU        Thunder Axe
+
+Rapier         REIPIA             Rapier
+
+Saber          SAABERU            Saber
+
+L-Saber        RAITOSEEBAA        Lightsaber
+
+Catcraw        NEKO no TSUME      Cat Claw
+
+P-Knife        SAIKODAGAA         Psycho Dagger
+
+P-Sword        SAIKOSOODO         Psycho Sword
+
+Revenge Sword  Urami no Tsurugi   Grudge Sword
+
+Vampic Sword   BURADDOSOODO       Blood Sword
+
+Defend Sword   DIFENDAA           Defender
+
+Rune Sword     RUUNAKUSU          Rune Axe
+
+Xclbr          EKUSUKARIBAA       Excaliber
+
+Glass Sword    GARASU no Tsurugi  Glass Sword
+
+Masamune       Masamune           Masamune
+
+Bow            Yumi               Yumi
+
+Longbow        Yoichi no Yumi     Yoichi's Bow
+
+Gr. Bow        APORON no Yumi     Apollo's Bow
+
+Rock           Iwa                Rock
+
+Colt           DERINJAA           Derringer
+
+Musket         Hinawajuu          Matchlock
+
+Magnum         44MAGUNAMU         .44 Magnum
+
+Whip           MUCHI              Whip
+
+E-Whip         Dengeki MUCHI      Electric Shock Whip
+
+Saw            CHEENSOO           Chainsaw
+
+SMG            SABUMASHINGAN      Submachine Gun
+
+Grenade        Shuryuudan         Hand Grenade
+
+Bazooka        BAZUUKA            Bazooka
+
+Balkan         BARUKAN Hou        Vulcan Cannon
+
+Missile        MISAIRU            Missile
+
+N. Bomb        Kakubakudan        Nuclear Bomb
+
+Laser          BIIMURAIFURU       Beam Rifle
+
+Hyper          Hadou Hou          Wave Cannon
+
+Punch          PANCHI             Punch
+
+Kick           KIKKU              Kick
+
+Butt           Sandanzuki         Triple Strike
+
+X-Kick         Tobihigeri         Jumping Knee Kick
+
+Judo           YAMA ARASHI        Yama Arashi [weap1]
+
+Karate         JIGOKU GURUMA      Jigoku Guruma [weap2]
+
+Tempter        Nagashime          Flirtatious Glance
+
+Counter        KUROSUKAUNTA       Cross Counter
+
+Wand           Majutsu no Tsue    Sorcery Staff
+
+Staff          Madoushi no Tsue   Wizard's Staff
+
+
+[weap1]: Lit. "Mountain Storm", a shoulder throw in Judo.
+
+[weap2]: Lit. "Hell Wheel", a Judo throw in which one grabs the opponent,
+rolls onto their back, and throws. Ryu and Ken use this in Street Fighter.
+
+
+e. Spells
+
+FFL            SaGa               Trans
+----           -----              ------
+
+Fire Book      FAIA no Sho        Fire Book
+
+Ice Book       BURIZADO no Sho    Blizzard Book
+
+Elec Book      SANDAA no Sho      Thunder Book
+
+Fog Book       KURAUDA no Sho     Clouder Book
+
+Flare Book     FUREA no Sho       Flare Book
+
+Sleep Book     SURIPURU no Sho    Sleepel Book
+
+Stone Book     BUREIKU no Sho     Break Book
+
+Death Book     DESU no Sho        Death Book
+
+Book           Nenbutsu no Hon    Prayer Book
+
+
+f. Armor
+
+FFL            SaGa               Trans
+----           -----              ------
+
+Bronze Armor   BURONZUMEIRU       Bronze Mail
+
+Gold Armor     GOORUDOMEIRU       Gold Mail
+
+Silver Armor   MISURIRUMEIRU      Mithril Mail
+
+King Armor     KINGU no Yoroi     King's Armor
+
+Dragon Armor   DORAGONMEIRU       Dragon Mail
+
+Suit           BATORUSUUTSU       Battle Suit
+
+Power Armor    PAWAADOSUUTSU      Powered Suit
+
+Arthur Armor   Kanu no Yoroi      Guan Yu's Armor [arm1]
+
+Bronze Shield  BURONZU no Tate    Bronze Shield
+
+Gold Shield    GOORUDO no Tate    Gold Shield
+
+Silver Shield  MISURIRU no Tate   Mithril Shield
+
+King Shield    KINGU no Tate	  King's Shield
+
+Flame Shield   Honoo no Tate      Flame Shield
+
+Ice Shield     AISUSHIIRUDO       Ice Shield
+
+Dragon Shield  DORAGON no Tate    Dragon Shield
+
+Aezis Shield   IIJISU no Tate     Aegis Shield
+
+Bronze Helm    BURONZU Kabuto     Bronze Helmet
+
+Gold Helm      GOORUDO Kabuto     Gold Helmet
+
+Silver Helm    MISURIRU Kabuto    Mithril Helmet
+
+Army Helm      ARAI no METTO      Arai Helm [arm2]
+
+Band Helm      ZOKU no Hachimaki  Zoku's Headband
+
+Dragon Helm    SAAKURETTO         Circlet
+
+Bronze Glove   BURONZU no Kote    Bronze Gauntlet
+
+Gold Glove     GOORUDO no Kote    Gold Gauntlet
+
+Silver Glove   MISURIRU no Kote   Mithril Gauntlet
+
+Giant Glove    Kyojin no Kote     Giant's Gauntlet
+
+Ninja Glove    Genji no Kote      Genji's Gauntlet
+
+Hermes Shoes   ERUMESU no Kutsu   Hermes' Shoes
+
+Geta Shoes     Tetsu Geta         Iron Geta [arm3]
+
+[Shoes]        Koumei no Kutsu    Kong Ming's Shoes [arm4]
+
+
+[arm1]: Guan Yu was a general in China's Three Kingdoms period, and a
+paragon of strength and virtue. The comparison to King Arthur is therefore
+appropriate. [Credit: Alex Jackson & Niahak]
+
+[arm2]: Arai is a brand of Japanese motorcycle helmet.
+
+[arm3]: Geta are those large wooden Japanese sandals.
+
+[arm4]: AKA Zhuge Liang, Kong Ming was another figure from the Three
+Kingdoms period. Folklore associates him with Taoism-based magic powers,
+such as summoning the wind. He is roughly analagous to Merlin.
+[Credit: Alex Jackson & Niahak]
+
+g. Monsters
+
+FFL             SaGa             Trans
+-----           -----            -----
+
+Fly             HAE Otoko        Fly Man
+
+Dragonfly       DORAGONFURAI     Dragonfly
+
+Hornet          HACHI Onna       Bee Woman
+
+Mosquito        MOSUKIITO        Mosquito
+
+Cicada          SEMI Ningen      Human Cicada
+
+Mantis          MANTISUKINGU     Mantis King
+
+Barracud        BARAKUUDA        Barracuda
+
+Piranha         PIRANIA          Piranha
+
+Shark           HANMAAHEDDO      Hammerhead
+
+Gunfish         GANFISSHU        Gunfish
+
+Elec Eel        EREKI Unagi      Electric Eel
+
+Leviathn        RIBAIASAN        Leviathan
+
+Cactus          Aruku SABOTEN    Walking Cactus
+
+P-Flower        Doku no Hana     Poison Flower
+
+Garlic          JANBO Ninniku    Jumbo Garlic
+
+Thorn           Kyuuketsu Kazura Bloodsucking Vine
+
+F-Flower        FAIAFURAWAA      Fire Flower
+
+Darkrose        BURAKKUROOZU     Black Rose
+
+Clipper         Oo HASAMI Mushi  Big Earwig
+
+Beetle          Nokogiri BIITORU Saw Beetle
+
+Ant Lion        ARI Jigoku       Antlion
+
+Scorpion        Ijigen SASORI    Other Dimension Scorpion
+
+Scarab          SUKARABE         Scarab
+
+Shrimp          EBIRU            Evil Shrimp [mons1]
+
+Atomcrab        Genshi Gani      Atom Crab
+
+Crab            Shiomane KUIIN   Fiddler Crab Queen [mons2]
+
+Ice Crab        AISUROBUSUTAA    Ice Lobster
+
+Kingcrab        KINGUKURABU      King Crab
+
+Dagon           DAGON            Dagon [mons3]
+
+Wolf            URUFU            Wolf
+
+Jaguar          JAGAA            Jaguar
+
+Sabercat        SABERUTAIGAA     Saber Tiger
+
+Snowcat         SUNOOKYATTO      Snow Cat
+
+Blackcat        Kuro NEKO        Black Cat
+
+Fenswolf        FENRIRUURUFU     Fenrir Wolf
+
+Redbull         REDDOBURU        Red Bull
+
+Rhino           RAINOSAURUSU     Rhinocerous
+
+Triceras        TORAIKERATOPUSU  Triceratops
+
+Behemoth        BEHIIMOSU        Behemoth
+
+Baku            Baku             Baku [mons4]
+
+Ganesha         GANEESHA         Ganesha
+
+Condor          Hagetaka Otoko   Condor Man
+
+Raven           REIBUN           Raven
+
+Harpy           HAAPII           Harpy
+
+Ten-Gu          Karasu Tengu     Karasu Tengu [mons5]
+
+Garuda          GARUUDA          Garuda
+
+Nike            NIKE             Nike
+
+Snake           Aodaishou        Japanese Rat Snake
+
+Serpent         SAIDOWAINDAA     Sidewinder
+
+Anaconda        Orochi           Orochi
+
+Hydra           HIDORA           Hydra
+
+Ko-Run          Kouryuu          Kouryuu [mons6]
+
+Jorgandr        YORUMUNGANDORU   Jormungander
+
+Octopus         Odori DAKO       Dancing Octopus
+
+Clam            Oumugai          Nautilus
+
+Amoeba          Amefurashi       Sea Hare
+
+Ammonite        ANMONAITSU       Ammonite
+
+Squid           Daiou IKA        Great King Squid
+
+Kraken          KURAAKEN         Kraken
+
+Worm            Imomushi         Hornworm
+
+P-Worm          Doku Kemushi     Poison Caterpillar
+
+Crawler         KUROURAA         Crawler
+
+Lavaworm        RAABAUOOMU       Lava Worm
+
+Sandworm        SANDOUOOMU       Sandworm
+
+Gigaworm        ABISUUOOUMU      Abyss Worm
+
+Lizard          Sanshouuo        Salamander
+
+P-Frog          Doku Gaeru       Poison Frog
+
+Gecko           KOMODODORAGON    Komodo Dragon
+
+Dinosaur        SUTEGOZAURUSU    Stegosaurus
+
+Salamand        SARAMANDAA       Salamander
+
+Basilisk        BASHIRISUKU      Basilisk
+
+Wererat         Nezumi Otoko     Rat Man
+
+Werewolf        UEAURUFU         Werewolf
+
+Catwoman        Neko Musume      Cat Girl
+
+Minotaur        MINOTAUROSU      Minotaur
+
+Rakshasa        RAKUSHAASA       Rakshasa [mons7]
+
+Anubis          ANUBISU          Anubis
+
+Goblin          GOBURIN          Goblin
+
+Oni             Oni              Oni
+
+Ogre            OOGA             Ogre
+
+Giant           GIGAASU          Gigas
+
+Titan           TITAAN           Titan
+
+Susano-O        Susanoo          Susanoo [mons8]
+
+Griffin         GURIFON          Griffin
+
+Mantcore        MANTIKOA         Manticore
+
+Chimera         KIMERA           Chimera
+
+Nue             Nue              Nue [mons9]
+
+Sphinx          SUFINKUSU        Sphinx
+
+Ki-Rin          Kirin            Kirin
+
+Big Eye         Oo Medama        Big Eye
+
+Gazer           GEIZAA           Gazer
+
+Seeker          SHIIKAA          Seeker
+
+Watcher         UOCCHAA          Watcher
+
+Evil Eye        IIBURUAI         Evil Eye
+
+Beholder        BIHOORUDAA       Beholder
+
+Skeleton        Gaikotsu         Skeleton
+
+Red Bone        REDDOBOON        Red Bone
+
+Dokuro          Dokuron          Dokuron [mons10]
+
+Warrior         Gaikotsu Senshi  Skeleton Soldier
+
+Boneking        DESUNAITO        Death Knight
+
+Lich            RICCHI           Lich
+
+Slime           GURIINSURAMU     Green Slime
+
+Jelly           IEROOJERII       Yellow Jelly
+
+Tororo          Ao Tororo        Blue Tororo [mons11]
+
+Gummy           REDDOMASHUMARO   Red Marshmallow
+
+Pudding         BURAKKUPURIN     Black Pudding
+
+Hi-Slime        SUUPAASURAIMU    Super Slime
+
+Gargoyle        GAAGOIRU         Gargoyle
+
+Imp             Koakuma          Little Devil
+
+Demon           Akuma            Devil
+
+Demolord        GURETTODEMON     Great Demon
+
+Demoking        DEMONROODO       Demon Lord
+
+Athtalot        ASUTAROOTO       Astaroth
+
+Medusa          MEDYUUSA         Medusa
+
+Siren           SEIREEN          Siren
+
+Lamia           RAMIA            Lamia
+
+Naga            NAAGA            Naga
+
+Scylla          SUKYURA          Scylla
+
+Lilith          MARIRISU         Marilith
+
+Zombie          ZONBI            Zombie
+
+Ghoul           GUURU            Ghoul
+
+Mou-Jya         Mouja            The Dead
+
+Wight           WAITO            Wight
+
+Ghast           GASUTO           Ghast
+
+Revnant         REBUNANTO        Revenant
+
+O-Bake          Obake            Ghost/Spirit
+
+Phantom         FANTOMU          Phantom
+
+Buruburu        BURUBURU         Buruburu [mons12]
+
+Wraith          REISU            Wraith
+
+Spector         SUPEKUTAA        Specter
+
+Ghost           GOOSUTO          Ghost
+
+Woodman         Bokujin          Woodman
+
+Clayman         Nendojin         Clayman
+
+Stoneman        SUTOONGOOREMU    Stone Golem
+
+Ironman         Tetsu Kyojin     Iron Giant
+
+Fireman         Honoo no Kyojin  Flame Giant
+
+Mazin           Daimajin         Daimajin [mons13]
+
+Albatros        ARUBATOROSU      Albatross
+
+Eagle           DAIBUIIGURU      Dive Eagle
+
+Thunder         SANDAABAADO      Thunder Bird
+
+Cocatris        KOKATORISU       Cockatrice
+
+Rock            ROKKU Chou       Roc
+
+Phoenix         FENIKKUSU        Phoenix
+
+Dragon 1        BEBIIDORAGON     Baby Dragon
+
+Dragon 2        DORAGONKIDDO     Dragon Kid
+
+Dragon 3        YANGUDORAGON     Young Dragon
+
+Dragon 4        GUREETODORAGON   Great Dragon
+
+Dragon 5        DORAGONPURINSU   Dragon Prince
+
+Tiamat          TIAMATTO         Tiamat
+
+Karateka        Butouka          Grappler
+
+Pirate          Kaizoku          Pirate
+
+Wrestler        Sumou RESURAA    Sumo Wrestler
+
+Keller          Satsujinki       Killer
+
+Gang            BONBAAZU         Bombers
+
+Asigaru         Samurai          Samurai [mons14]
+
+Samurai         Shinsengumi      Shinsengumi [mons15]
+
+Ninja           Ninja            Ninja
+
+Soldier         SAIKOSORUJAA     Psycho Soldier
+
+Musasi          MUSASHI          Musashi [mons16]
+
+Kingswrd        Tsurugi no Ou    King of Sword
+
+Magician        Majutsu Minari   Magic Apprentice
+
+Conjurer        Majutsushi       Magician
+
+Sorcerer        Madoushi         Wizard
+
+Wizard          Daimadoushi      Great Wizard
+
+Vampire         Kizoku           Noble
+
+Steward         Daijin           Minister
+
+Guard           Eihei            Palace Guard
+
+Hunter          MANHANTAA        Manhunter
+
+Robot           28 Gou           Number 28
+
+Trooper         Kidou Hohei      Mechanized Infantry
+
+Armor           MOBIRUSUUTSU     Mobile Suit
+
+Machine         DESUMASHIIN      Death Machine
+
+Gen-Bu          Genbu            Genbu [mons17]
+
+Sei-Ryu         Seiryuu          Seiryuu [mons17]
+
+Byak-Ko         Byakko           Byakko [mons17]
+
+Su-Zaku         Suzaku           Suzaku [mons17]
+
+Ashura          ASHURA           Ashura
+
+Creator         Kami             God
+
+
+[mons1]: A pun; "Ebi" means shrimp, "Ebiru" means evil. I couldn't think of
+a way to work this into English.
+
+[mons2]: A pun; "Shiomaniki" means fiddler crab. Again, couldn't think of
+a way to make this work in English.
+
+[mons3]: One interpretation of the Semitic god Dagon portrays him as a
+fish god, partly because of the Hebrew word "dag" - fish.
+
+[mons4]: A Baku is a Japanese chimera that eats nightmares. It has an
+elephant's trunk, a rhino's eyes, and tiger paws.
+
+[mons5]: Karasu (Crow) Tengu specifically refers to the bird-like variety of
+Tengu, as they are portrayed in a variety of different forms.
+
+[mons6]: Kouryuu is the "Yellow/Gold Dragon" who sits at the center of the
+four Ssu-Ling - Genbu, Seiryuu, Byakko, and Suzaku.
+
+[mons7]: Rakshasa are demons in Hindu mythology, appearing in the Ramayana.
+
+[mons8]: Susanoo is the hot-blooded brother of Amaterasu, and the slayer of
+the eight-headed serpent, Yamata no Orochi.
+
+[mons9]: A Nue is a Japanese chimera with a monkey's head, a tanuki's body,
+a tiger's legs, and a snake tail. It brings disease and misfortune.
+
+[mons10]: "Dokuro" is Japanese for skull.
+
+[mons11]: Tororo is a dish of pureed yams.
+
+[mons12]: "Buruburu" is the sound of shivering.
+
+[mons13]: Daimajin is a golem-like living statue from Kimiyoshi Yasuda's
+"Daimajin" movie trilogy.
+
+[mons14]: Ashigaru were the Shogun's personal army in Japan's Muromachi
+period.
+
+[mons15]: Shinsengumi were special police in the late Shogunate period.
+
+[mons16]: Miyamoto Musashi was a famed Japanese swordsman.
+
+[mons17]: The four fiends are a reference to the Ssu-Ling of Chinese
+astrology.
+
+          -Genbu: The Black Tortise, represents North/Water/Winter
+
+          -Seiryuu: The Azure Dragon, represents East/Wood/Spring
+
+          -Byakko: The White Tiger, represents West/Metal/Autumn
+
+          -Suzaku: The Vermillion Bird, represents South/Fire/Summer
+
+
+h. Monster/Esper Skills
+
+FFL            SaGa             Trans
+----           -----            -----
+
+Nail           Tsume            Claw/Nail
+
+Tusk           Kiba             Fang/Tusk
+
+Head           Zutsuki          Headbutt
+
+Nose           Hana             Flower
+
+Pincer         HASAMI           Pincer
+
+Beak           Kuchibashi       Beak
+
+Tentacle       Shokushu         Tentacle
+
+Punch          PANCHI           Punch
+
+Kick           KIKKU            Kick
+
+Bite           Kamitsuki        Bite
+
+Fin            Hire             Fin
+
+Horn           Tsuno            Horn
+
+Tail           Shippo           Tail
+
+Bone           Hone             Bone
+
+Bash           Taiatari         Body Blow/Ramming
+
+Sword          Tsurugi          Sword
+
+Axe            Ono              Axe
+
+Saw            Nokogiri         Saw
+
+2Pincer        2hon no HASAMI   Double Pincers
+
+4Heads         4tsu no Atama    4 Heads
+
+8Legs          Shokushu 8tsu    8 Tentacles
+
+2Tusks         2hon no Kiba     2 Tusks
+
+4Horns         3bon no Tsuno    3 Horns
+
+2Swords        2touryuu         2 Sword Style
+
+6Arms          6pon no Ude      6 Punch Arms
+
+3Heads         3tsu no Atama    3 Heads
+
+Honey          Mitsu            Honey
+
+Cure           KEARU            Cure
+
+Heal           HIIRINGU         Healing
+
+Revive         Fukkatsu         Revive
+
+Care           Chiryou          Medical Treatment
+
+Raise          REIZU            Raise
+
+Telepor        TEREPOOTO        Teleport
+
+Left         Kami no Hidarite   God's Left Hand
+
+Right        Kami no Migite     God's Right Hand
+
+Hari-Te        Hari Te          Hari Te [skil1]
+
+Poison         Dokubari         Stinger
+
+Poison         Doku no Kiba     Poison Fang
+
+P-Fangs        MAHI Dzume       Poison Claw
+
+Strict         Makitsuku      ll
+
+Petrify      Sekika Kuchhell
+i  Stell          Kara ni Hairu    Retract into
+Shell
+
+Drink          Chiwosuu         Bloodsuck
+
+Chill   owep          Nemurigusuri     Sleep Powder
+
+Blind          Metsubushi       Blinder [skil2]
+
+Flash          FURASSHUAI       Flash Eye
+
+Ink            Sumi             Ink
+
+Gaze           Noroi no Me      Curse Eye
+
+Gaze           Yuuwaku no Me    Seduction Eye
+
+Riddle         Nazonazo         Riddle
+
+Sing           Utagoe           Singing Voice
+
+Gaze           Sekika Nirami    Stone Gaze
+
+Gaze           DESU Nirami      Death Gaze
+
+Drain          Chikara wo Ubau  Power Snatch
+
+Stench         Akushuu          Stench
+
+Sand           Suna Jigoku      Sand Hell
+
+Tremble        Furueru          Tremble/Shiver
+
+Electro        Dengeki          Electric Shock
+
+Bother         Matowaritsuku    Coil Around
+
+Web            Ito              Thread
+
+Touch          DOREINTACCHI     Drain Touch
+
+Kiss           DOREINKISSU      Drain Kiss
+
+Flame          Honoo            Flame
+
+Ice            Reiki            Cold Air
+
+Thunder        Inadzuma         Lightning
+
+Gas            Dokugiri         Poison Mist
+
+Acid           San              Acid
+
+Whirl          Uzushio          Whirling Tides
+
+Steal          Nusumi           Steal
+
+D-Beam         Satsujin BIIMU   Killer Beam
+
+Fire           FAIA             Fire
+
+Ice            BURIZADO         Blizzard
+
+Elec           SANDAA           Thunder
+
+Flare          FUREA            Flare
+
+Stop           DESU             Death
+
+Sleep          SURIPURU         Sleepel
+
+S-Skin       Sawaru to Seikika  Touch and Stone
+
+P-Skin       Sawaru to MAHI     Touch and Paralysis
+
+P-Skin       Sawaru to Doku     Touch and Poison
+
+Burning      Sawaru to Yakedo   Touch and Burn
+
+Explode        Jibaku           Explode/Self-Destruct
+
+Light          Hikari Are       Light Storm
+
+Stone          BUREIKU          Break
+
+Shell          Kamegoura        Turtle Shell
+
+Shell          Kara ni Hairu    Retract into Shell
+
+Drink          Chiwosuu         Bloodsuck
+
+Chill          Tsumetai Te      Cold Hand
+
+Pollen         Doku Kafun       Poison Pollen
+
+Rocket         ROKETTOPANCHI    Rocket Punch
+
+Beam           Hakaikousen      Destruction Beam
+
+Melt           Tokasu           Melt/Dissolve
+
+Sphere         KURISUTARU       Crystal
+
+Mirror         Kagebunshin      Kagebunshin [skil3]
+
+Kinesis        TEREKINESHISU    Telekinesis
+
+P-Blast        SAIKOBURASUTO    Psycho Blast
+
+Leech          RAIFURIICHI      Life Leech
+
+Uncurse        Joubutsu         Rest in Peace [skil4]
+
+ESP            TEREPASHII       Telepathy
+
+Hypnos         HYUPUNOSHISU     Hypnosis
+
+Barrier        SAIKOBARIA       Psycho Barrier
+
+Mirror         SAIKOMIRAA       Psycho Mirror
+
+Power          SUUPAAPAWAA      Super Power
+
+Armor          BODIAAMAA        Body Armor
+
+Gaze           MAHI Nirami      Paralysis Gaze
+
+Stealth        Fuiuchi          Surprise Attack
+
+Warning        Keikai           Vigilance
+
+Forseen        Yochinouryoku    Precognition
+
+
+
+[skil1]: Harite is an open-palm strike used by sumo wrestlers.
+
+[skil2]: I.e., something like sand thrown in the opponent's eyes to blind
+them.
+
+[skil3]: Lit. "Shadow Double", a ninja technique of creating copies of
+onesself.
+
+[skil4]: Or "Enter Nirvana".
+
+
+V. Closing Remarks
+-----------------------------
+
+Some links I found incredibly useful:
+
+http://www.solon.org/cgi-bin/j-e/
+
+Jeffrey's Japanese-English Dictionary Server: This is the best Japanese
+translation site I've come across on the web so far. I could not have done
+these translations without it.
+
+http://xb_lim.at.infoseek.co.jp/
+
+Pledge of Bahamut: A Japanese site providing a comparison of
+SaGa and FFL, for Japanese players who are curious about the English version.
+Its
+listings of the Japanese names made my job infinitely easier. There are also
+comparisons for the other two Gameboy SaGas and Seiken Densetsu/
+Final Fantasy Adventure.
+
+http://www.towerreversed.org/dump
+
+Text dumps of item/enemy names for all three Gameboy SaGas, allowing me to
+check my romanizations and provide quick lists for translation.
+
+Questions? Comments? Contributions? E-mail me: unlimited_justice@yahoo.com
+
+Makaitoushi SaGa, Final Fantasy Legend, and all related names are
+copyright 1989/1990 Squaresoft. This document is copyright 2009
+Frank Force, aka Gouki of Borg.

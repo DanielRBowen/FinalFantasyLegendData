@@ -1,0 +1,215 @@
+Final Fantasy Legend II Trashcan Bug FAQ
+
+Platform: GameBoy
+Author: jiro65 (Omar Tapia)
+E-mail: jiro65@yahoo.com
+Version: 1.2
+Last Updated: 07/17/2002
+
+----------------
+COPYRIGHT NOTICE
+----------------
+This FAQ is protected by international copyright law. It may be not be
+reproduced under any circumstances except for personal, private use.
+If for some strange reason you want to post it in your website ask for
+permission and we'll see.
+
+Final Fantasy Legend II and GameShark are (c) of their respective
+owners.
+
+
+
+--------
+Contents
+--------
+I.    Version History
+II.   Introduction
+III.  Trashcan bug
+IV.   Mail
+V.    Acknowledgements
+
+
+
+------------------
+I. Version History
+------------------
+- Version 1.2 (07/17/2002) - Added the mail section.
+
+- Version 1.1 (11/09/2001) - Fixed some minor errors in the FAQ, and
+  an error in the section that explains what to do with the bug.
+
+- Version 1.0 (11/08/2001) - First Submission.
+
+
+
+----------------
+II. Introduction
+----------------
+While playing this game a few years ago I encountered this bug. Out of
+curiosity I made a few tests and got it working in my favor. A few
+months ago I started playing this game again, so I decided to search
+for information of the bug on the net. I read a couple of rumors but
+no reliable information. That's why I've decided to make this FAQ.
+
+
+
+-----------------
+III. Trashcan Bug
+-----------------
+- What's a bug?
+  dictionary.com says: A defect in the code or routine of a program.
+
+- What does the trashcan bug do?
+  Double-clicking on the trashcan during some parts of the game causes
+  some strange effects. The # of MAGI you have determines the effect
+  you will get. After using the trashcan bug for a while all your
+  Power MAGI will disappear and your MAGI count will be raised to 99.
+
+  That's the real problem, since the next MAGI you pick will drop your
+  MAGI count to zero. You need a certain # of MAGI to open most doors
+  in the Pillars of Sky, so you could get stuck in a world forever.
+  The only solution then is to start all over or get a GameShark and
+  change your # of MAGI.
+
+  I don't know exactly what determines the # of times you can use the
+  trashcan, but I do know that it is a fixed # and it increases as
+  your # of MAGI increases. That rules out the possibility of it being
+  determined by the # of saves.
+
+  Here's a table of the effects I've found:
+
+----------------------------------------------------------------------
+| # of MAGI | Effect              | # of MAGI | Effect               |
+----------------------------------------------------------------------
+|     0     | None                |     1     | None                 |
+----------------------------------------------------------------------
+|     2     | None                |     3     | None                 |
+----------------------------------------------------------------------
+|     4     | None                |     5     | None                 |
+----------------------------------------------------------------------
+|     6     | None                |    14     | None                 |
+----------------------------------------------------------------------
+|    15     | None                |    16     | None                 |
+----------------------------------------------------------------------
+|    17     | None                |    18     | None                 |
+----------------------------------------------------------------------
+|    19     | None                |    20     | None                 |
+----------------------------------------------------------------------
+|    21     | None                |    22     | None                 |
+----------------------------------------------------------------------
+|    23     | None                |    24     | None                 |
+----------------------------------------------------------------------
+|    25     | None                |    26     | None                 |
+----------------------------------------------------------------------
+|    27     | None                |    28     | None                 |
+----------------------------------------------------------------------
+|    29     | Cure, 68 uses*      |    30     | Cure, 68 uses        |
+----------------------------------------------------------------------
+|           | Some potion (Curse?)|           |                      |
+|    31     | displays Nothing    |    32     | Eyedrop potion,      |
+|           | Happened when used  |           | unknown # of uses    |
+|           | on characters       |           |                      |
+----------------------------------------------------------------------
+|    33     | None                |    34     | None                 |
+----------------------------------------------------------------------
+|    35     | None                |    36     | Cure (stronger cure),|
+|           |                     |           | 69 uses              |
+----------------------------------------------------------------------
+|    37     | None                |    38     | None                 |
+----------------------------------------------------------------------
+|    39     | None                |    41     | None                 |
+----------------------------------------------------------------------
+|    42     | None                |    43     | None                 |
+----------------------------------------------------------------------
+|    44     | None                |    45     | None                 |
+----------------------------------------------------------------------
+|    46     | None                |    47     | Heal (Staff), 70 uses|
+----------------------------------------------------------------------
+|    48     | None                |    49     | None                 |
+----------------------------------------------------------------------
+|    50     | None                |    51     | None                 |
+----------------------------------------------------------------------
+|    59     | None                |    60     | None                 |
+----------------------------------------------------------------------
+|    61     | None                |    62     | None                 |
+----------------------------------------------------------------------
+|    63     | None                |    67     | Power Potion, 72 uses|
+----------------------------------------------------------------------
+|    68     | Speed Potion,       |    76     | None                 |
+|           | 72 uses             |           |                      |
+----------------------------------------------------------------------
+|    78     | None                |
+-----------------------------------
+
+* NOTE: The # of uses is how many times it takes for the bug to screw
+  your MAGI count.
+
+- So, what do I do with it?
+  Unless you're in a real need for healing, the only part where you'll
+  want to mess with the bug is when you have 67 and 68 MAGI (before
+  and after picking up the single MAGI in the Nasty Dungeon). At that
+  point you can use the trashcan to raise the Strength and Agility of
+  any Human and Mutant in your party (3 points each use). You can
+  start raising Strength, pick up the MAGI before the 72 uses are
+  over, and start raising Agility. The total # of uses will not exceed
+  72 no matter what combination of Strength and Agility uses you
+  choose, so use them wisely. AND SAVE BEFORE DOING IT.
+
+  If you use all uses to raise your Strength, do not take the MAGI in
+  the Nasty Dungeon, or you will be stuck there.
+
+  Don't worry about screwing your MAGI count by using all the uses you
+  have when you're raising Agility. The Pillar of Sky door that exits
+  Valhalla doesn't need a certain # of MAGI (i.e. you will not be
+  stuck if you mess with the bug in the Nasty Dungeon, and an event
+  that happens after Valhalla will fix your MAGI count).
+
+
+
+--------
+IV. Mail
+--------
+On this section I include some of the feedback I've received. Since I
+don't have the free time I used to have I didn't verify if the
+information I received was accurate. However it seems worthwhile to
+check.
+
+-Justin Choquette wrote:
+Hello,
+
+I've read your FAQ on the trashcan bug, on gamefaqs.com and it
+seems like you dont know the reason behind the number of use of the
+trashcan? Well, just between you and me, if you manage to get 72 uses
+of it, you got lucky because you can't use it more than that. The
+secret behind the secret is all in the MAGI you equip! Thats all!
+Equip different sets of MAGI to see how many times you can use the
+trashcan. To get 72 uses of it, you have to have equipped the PRISM
+and the POWER MAGI. The other two I can't guaranty it but I think its
+the AEGIS and the SPEED. Try it by yourself. If you equip other MAGI,
+you might end up with only 8 or 24 uses of the trashcan. It doesn't
+matter if you take Power or Speed potions, altogether you'll have only
+8, 24, 40, 56, or 72 (all are multiple of 8) uses. The POWER MAGI will
+dissapear for a moment but if you close, and reopen your MAGI
+menu, you'll have regain 5 POWER MAGI. My nickname on gamefaq is
+"danysp".
+
+
+
+-------------------
+V. Acknowledgements
+-------------------
+Special thanks go to this people:
+
+- tiger8191, for being such a great role model.
+
+- Pwa, for being a trustworthy companion.
+
+_ The Cow.
+
+- My fellow comrades.
+
+- GameFAQs.
+
+
+
+- End of File -

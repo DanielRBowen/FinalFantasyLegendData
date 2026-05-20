@@ -1,0 +1,19 @@
+# .NET build output
+**/bin/
+**/obj/
+**/.vs/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Generated data examples
+Examples/

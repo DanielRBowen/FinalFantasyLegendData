@@ -1,0 +1,618 @@
+George Moffitt's Guide to Final Fantasy Legend (SaGa) 2
+
+Feel free to modify and redistribute however you like, but give credit
+where it's due and only where it's due (meaning don't turn this into a
+treatise on why Hitler was a genius of social reform and put my name
+on it).  The whole game in question is, of course, copyright Square
+(now Square-Enix), and I did not write any of the game.
+
+If you think this guide needs more ASCII art, I invite you to submit
+clever, non-pornographic creations.  I also invite you to be a polite
+non-twit when emailing me.
+
+gmoffit@linfield.edu
+
+Now have fun with the non-fluff pseudocontent.  Oh, that's right.  I
+wrote an introduction.  Hold that thought.
+
+Introduction:
+
+	The SaGa games were rather simplistic GameBoy games written by
+Square in the spirit of their unforgiveably inaccurately named Final
+Fantasy series for Nintendo, Super Nintendo, Sony Playstation, and PC.
+They weren't nearly as sophisticated or involving (being for the GameBoy),
+but they were certainly a lot of fun.  The only major problems with them
+as far as I can tell is that there are no Cids and no Chocobos (two
+important Square traditions).  They were released in America as Final
+Fantasy Legends I, II, and III.
+	Some say that they are Square's best games.  I say this is
+ridiculous.  They wren't good enough to surpass anything on NES or above,
+but they certainly blew away everything else made for the GameBoy.  They
+were fun and they were difficult, and they kept me sane through elementary
+school.  I guess that when it comes down to it that's all that's
+important.
+	I have a feeling that I'll get a lot of arguments about some
+things I put in here, but realize before you do that I practically lived
+this game for a year or two, and as a result I know its ins and outs
+almost perfectly.  This means that I am always right, compared to you,
+who are always wrong.
+	This file is a walkthrough of sorts, but along the way I'll answer
+a lot of questions I've seen bad answers given to in the past.  I use the
+same method to run through the game every time, and find it incredibly
+easy to plow my way through like this.  This is not an exhaustive guide,
+mind you.  It tells you what you should be doing at any given time, but it
+doesn't give a step-by-step, hand-holding walkthrough of the game.  You
+are, for the most part, expected to be able to find your way through the
+levels on your own.  I hope to eventually have some maps, at least of the
+more tedious levels, but for now it remains simplistic.  Think of it as a
+sort of "FFL2 made easy" guide.
+	On a final note, keep in mind that I wrote this entire file from
+memory.  As a result, all information contained within was NOT taken from
+elsewhere, but was actually discovered by me at some point or another.  I
+haven't played the game in ages, though, what with FF7 being out on PC and
+all, so there may be some memory lapses that need filling. Remember that I
+wrote this file to give the proper answers to a lot of questions.  If any
+hardened SaGa fans out there notice any problems, however miniscule, I'd
+appreciate hearing them.  I don't want someone to have to write a file to
+correct my mistakes.
+	Copying of this file is your choice.  I'd like to get credit
+among certain circles, but who cares, anyway?  Consider it GPL'd.
+
+Tips and Such:
+	The save anywhere feature lends itself to certain abuses.  You can
+get through a level without ever having to actually fight anyone, for
+instance, simply by saving and resetting whenever necessary.  This makes
+the Nasty Dungeon very easy, but it takes a while and can be quite
+frustrating (especially when you get that obnoxious "Can't Run!" message).
+	Also, be sure that your mutant always has at least one Cure
+ability.  Inns, you see, charge one GP for each HP you need to recover,
+and nothing for the ability restoration.  This means that you can heal
+your entire party, sleep at the inn for free, and wake up with all of your
+cures restored.  Good deal, no?
+	In SaGa 3 they fixed this a bit, charging one GP for each HP and
+MP you needed to recover.  This meant doing a bit of math to see if the MP
+cost would justify the HP recovery before going to an inn.
+
+Choosing a Party:
+	The ideal party, in my opinion, is one of everything.  You get
+some equipment for every character type along the way, and it helps a lot
+if you can use it all.  Also, you'll notice that each flawed party the
+manual lists is backed up by the fact that their biggest problem is being
+ill-fitted to certain areas of the game.  With one of each type, you'll
+always have a character who's suited to the environment.
+
+	* Robots are basically immune to physical attacks, so they'll
+always be in top form for boss battles.
+	* Humans are good with physical attacks, and the Glass Sword
+and Excalibur are very important things to be good with.  They also get
+high HPMax values, so they can take a beating and still dish it out.
+	* Mutants are all-important, in any party.  With a properly-
+learned magician, you'll be completely healed for all those boss battles.
+Plus, entire enemy/group attacks are scarce early in the game, but mutants
+get them for free.
+	* Monsters are convenient early on, but where they really shine
+is in the last battle (if you've got the right one).
+
+	For your Monster you should get a Baby-D, and as soon as you can,
+eat some Jaguar meat.  This will give you a WereRat, which is pretty
+powerful at this point.
+	Make sure your Robot gets as much armor as he can as soon as
+possible.  If all but one of your characters have fallen using this
+method, it's going to be your Robot who stays alive about 95% of the time
+if you do this.  Every time you improve/add to his armor, his DEF and HP
+will increase, and that makes it nigh impossible to kill him with physical
+attacks (and it's absolutely essential for beating Apollo).
+
+   First World:
+	After doing your business in the beginning town (which basically
+consists of getting a cure potion), go outside with Mr. S. and start
+monster hunting.  This may seem like a boring way to start the game, but
+before exiting the cave you should fight until you have 3,400 GP, and you
+should buy some gold gloves for your Robot with this (at the first town
+outside of the cave).  Another thing to be sure about before you exit the
+cave is that your Mutant has Cure, a single-group attack magic, and an
+entire-enemy attack magic (preferably of different elements, should you
+want to take advantage of monster weaknesses).  Keep these three abilities
+at the top of your list so that they don't change.
+	You get free lodging at this point, which is why it's so important
+that you take advantage of it.  Before you exit the cave, you can always
+go back and rest at your house.  Once you've left Mr. S., go to the Shrine
+of Isis and use Ki to heal (or use your mutant's cure ability), then go to
+the inn for free to replenish your abilities.
+	If you've done this, the Relics of the Ancient Gods should be
+easy. Give any Mana MAGI you get to your Mutant, Power MAGI to your Human,
+Defense MAGI to your Monster (he'll usually be the most deficient in this
+attribute besides your Mutant, who benefits most from the Mana MAGI), and
+Speed MAGI to your Robot (so his kick-ass attacks come first).
+	Now Ki will join your party, and you should clean up the
+countryside until you have 6,800 GP.  Ki's Thunder book and your MAGI make
+this tedious but easy, so patience is all you need.  Buy your Robot a SMG
+and move on.  Ki will leave fairly soon, so don't worry about her
+equipment.
+	Now go to Ashura's Base and kick that Rhino's arse.  It won't be
+difficult, just make sure you fight him until you get some good meat for
+your Monster (I don't recall what he'll turn into, but I remember being
+satisfied with the results).
+	Once the base is destroyed, move along to the next world via the
+Pillar of Sky.
+
+   The Sand Witch:
+	Here you should fix any Monster problems you have and make sure
+your party is well-equipped.  Follow the clues that the men in the cafe
+(particularly the bartender) give you to get to Ashura's Tower.  Fight
+your way up until you get Mask. You'll have to fight a fairly sturdy
+jailer to get him, but it shouldn't be a problem.  On the next floor Mask
+gets a hammer and some other equipment.  Give him any hand-me-downs the
+party has if he's missing any armor types, but keep in mind that you can't
+REMOVE items from an NPC, only give them to him/her.  Ashura's a
+wimp, so beat her up and move on to the next world (make sure you get the
+MAGI from Ki's assistant).
+
+   Raiding the Cupboards:
+	This place is nuts, because very little is self-explanatory.  In
+the town in the middle of the forest you'll notice that the entry path has
+two branches off it.  Take the right one and you'll meet Dad.  For some
+reason the party members rearrange completely for this, so make sure you
+put them back in the best order (usually Robot-Monster-Human-Mutant, but
+it changes throughout the game). Keep going until you find the back door
+to that overpriced giant equipment store.  You get no free items, but the
+guy gives you a tip that a man named Johnny knows how to get into the
+ruins of the giants' town.  You'll find him in the cafe, and once he's
+told you how to get in it will be possible for you to do so.  The secret
+passage he's talking about is in the north stairs.
+	He'll ask you if you think he's a giant.  Tell him you don't and
+he'll give you a tip about the "shelves".  A better translation would be
+"counters", I assume, as that's what they look like.  Look for areas that
+are like the boundary between you and sellers when you're in shops (those
+dark colored squares).
+	Once in giants' town, you'll notice that you can't use the doors.
+Fairly far south is a big building with a hole in it that you can walk
+through.  There are some MAGI in here, and these will let you go into
+another building with a hole in it that you couldn't get into before.  Go,
+and on top of a table is the Micron potion.  Nab it and leave.
+	By this time you may have noticed there is a pattern to the
+attacks in the game, and that is an attack upon starting after turning the
+GameBoy on, an attack three steps later, an attack on the next step, and
+then a long time without being attacked (resetting and continuing counts
+as a step).
+	On the first attack after that empty period, you fight 8
+terrorists if you're not in a building, then the next time you're attacked
+you'll fight 5.  They probably won't be able to hurt your Robot, so just
+keep pelting them with the SMG and your Mutant's magic and they'll die
+easily (and as a group, too).  Both of these fights will give you lots of
+GP, so save it up and buy some new armor at the giant store (Robot!).
+Just remember to turn the GameBoy off and on after you fight the 5.
+	I think the best Monster you can have when you leave here is the
+Oni.
+
+   Ki's Body:
+	Now make that long trek back to first world and go see Ki.  This
+part is very simple; just go through Ki's body and collect all the MAGI.
+Later I hope to have a list of which fingers/toes the MAGI appear in, but
+this is all for now.  Just remember to go to her brain after you've gotten
+all the other MAGI (the hands, feet, heart, and stomach).  Once you're
+done, move on to Apollo's World.
+
+   Meet the Man:
+	This World is split up into three parts.  Before you do anything,
+though, see Apollo in his palace to get a MAGI from him and some clues to
+the World, which aren't necessary, really, but the MAGI is still nice.
+	Next step would be to go to the Dunatis town in the northeast
+mountains. Just north of it is a cave that leads to some good boots.  Give
+them to your mutant (they increase magic power) and leave.
+	Now you have two options: Complete the Dunatis cave by circling
+around the mountain range, or go south and explore the underwater volcano.
+It really doesn't matter which order these two are done in, but I usually
+tackle the volcano first.
+	Remember in the volcano that every step you take in the lava hurts
+you, so step only where you need to.  Use the fountains when you see them
+until you are completely healed, and keep going up.
+	When you get TrueEye at the end of the volcano you'll be able to
+tackle the Insanity Cave of the eastern mountains.  You may want to turn
+the GameBoy off every few minutes and look at something stationary or
+you'll go nuts, blind, or both.  Just go through, searching every avenue
+and getting every treasure, until you get the MAGI at the end.
+	There's nothing major about Dunatis's cave.  Just plow through and
+be ready to fall down a ledge and be stuck there.  The only way out is
+though Dunatis, so don't go in there weak (if you've followed my
+instructions you'll be able to beat him easily, despite Lynn and her
+measly kick).  If you're having trouble, try equipping Lynn with some cure
+potions (if you have any).  That way she can cure party members during the
+fight, and you won't be missing out on any major attacks.
+	Now you'll find that Apollo has skipped town, and you should have
+enough MAGI to do likewise.  You'll end up in Guardians' Base.  Looks
+suspiciously like a town, huh?  Well, not for much longer (ahem).
+
+   Guardians' Base:
+	Stock up on supplies, because this is your only chance to do so,
+and play the Heroic Tune in the cafe (this one took me forever to figure
+out for some strange reason: you can scroll down in the jukebox menu to
+get all the selections).
+	After you've been jailed, go to the bars and press A.  Dad will
+come and get you released.  Explore for a bit and you'll soon take a nap
+in Dad's room.  In the middle of the night some new gods will attack the
+base, and all the MAGI there will be taken.  Fight your way out, getting
+MAGI and Dad as you go, and you'll soon reach the Pillar of Sky.  The
+enemy there tells you to go get Lynn in the next world, so do.  You'll
+notice along the way that some people somehow managed to set up stores in
+the Celestial World.  When you're using the elevator, just hold down right
+or left to stop there.
+
+   Monster's World:
+	Next world has only one thing: a monster.  Dad will be gone, and
+you'll have Lynn again (now with the only marginally less crappy X-kick).
+It should be a fairly tough battle.  When he's dead you take Lynn home and
+get a MAGI from her mother if you talk to her.  Move back up, back up,
+back up (there MUST be a better way to do this), until you're in
+Venus's world.  This part's pretty fun.
+
+   Venus's Beauty Emporium:
+	Talk to Venus (use Prism to discover just how big a liar she is)
+and maybe Flora if you need the plot (which is always good).  Flora is the
+woman standing to the left of the palace.  Leave Venus's fair city.
+There'll be a dumpy city with an inn a little bit north, and you'll find
+Leon there.  Just a little bit away from the north wall of the city is the
+sewer entrance, so go down there.
+	The sewer won't be difficult.  Kill the crab to get the key, and
+use the key to get the MAGI.  Just remember that the lower-right chest in
+each locked room has monsters in it.
+	After this, talk to Venus, and then Flora again, and a volcano
+will rise up from the ground.  The same rules apply here as did with the
+underwater volcano.  Go through, and Leon will come (you may have noticed
+him following you) and take a Power MAGI.  Silly Leon.
+	Go back to Venus's City and enter the left side of the palace.  In
+the hall is Venus.  She tells you to take a seat, so you do, and the
+ceremony starts.
+	Right before the vows, Leon comes barging in (we can only assume
+that his MAGI and dagger were enough to kill those robot guards) with
+blood in his eyes, and starts making wild threats.  Venus is about to kill
+him when Flora butts in and does something rash.  Talk to Leon to get the
+MAGI back (you'll want it for your monster, who will be the only one
+making strength-based attacks) and get ready to whup some pompous ass.
+	Give your Robot a musket and your Human some grenades (the Flame
+Sword is powerful but EXTREMELY unreliable.  It might hit once out
+of five rounds if you're lucky, and I'd rather do 120 damage each round
+then 315 damage every five rounds). Your Monster should have a STRONG
+physical attack, and you'll want good cure magic with your Mutant.  Venus
+will be a challenge, and you may find yourself killing her with only your
+Robot left standing (he's immune to some of her tougher attacks, like
+Charm).
+	Happy ending, real sweet, but you've got a LOT of stuff left to
+do. Next world is the dragon race, hosted by... Apollo!
+
+   A Day at the Races:
+	This is fairly simple.  Some DAMN fine weapons and armor
+are suddenly available, so don't miss out on this opportunity to spend all
+that cash Venus left you with.  Take the SLOWEST dragon (the free
+one). I cannot emphasize this enough.  There are a lot of difficult bosses
+on the track, but if you take the slow dragon then the other racers will
+beat them for you (all except the last).  Remember what the bartender here
+says, "The longest way 'round is the fastest way home."
+	To kill those eye thingies it might be best to keep resetting and
+attacking until you fight only two or three.  They're tough opponents, so
+you'll need every advantage you can muster.  You may even want to keep at
+it until you get some meat for your Monster, as he'll be in dire need of
+it.  I think that a Sprite is the best I've ever ended up with at this
+point, but that is, as always, profoundly affected by your monster's
+current state.
+
+   Forbidden Fruit:
+	Next world is Edo, my favorite.  Fight the Hatamotos on the bridge
+in the big town and Hana will show up and chase them away.  Buy some
+stuff, especially from Echigoya as you won't be able to get stuff from him
+for very long (he sells some items you won't be able to buy again until
+Final Town, so it may be worth saving up the 50,000 GP for a Flare book
+NOW to beat Magnate with later on).
+	Now your Robot will probably have about 600-700 HP, and your
+Monster should be rather formidable.  Go to the town a little ways East of
+the Hatamotos' town and you should find Hana in one of the buildings. Talk
+with her and you'll suddenly find yourself pulled into a drug bust.
+Unfortunately, due to Nintendo's fear that any "mature" subject matter
+might leak through to the most immature country on the planet (U.S.A.!
+U.S.A.!), you're stopping a banana shipment.  I have no proof that this is
+the result of censorship, but I've seen what they've done to the other
+Square games and I wouldn't put it past 'em.  Remember what the guy in the
+big town says about how bad he wants a banana?  Read between the lines.
+	Now go back to Echigoya and talk to him (from the side, not over
+the counter).  He's a wimp, and he'll crack and tell you that the shipment
+has just come in.
+	Go to the port (it's pretty much due South) and follow the second
+pier.  This isn't a very long level, so it'll be pretty easy.  Make sure
+you get ALL the treasures, because your Robot can make excellent use of a
+tank (it's like a Defend sword, except it attacks an entire group of
+enemies).  You'll find Hana and her pal (who I think turns out to be a
+Guardian, or at least associated with them) and they'll tell you that the
+ship is full of bananas, as they suspected.  Her friend will go to the
+court and alert the authorities, and she will join you on the way out of
+the ship.  When you get out, go to the court (West) and the judge will
+send someone to fetch Echigoya and another officer to check out his ship.
+	Well, either Echigoya bribed the police or he had a little help,
+because the boat's already been cleared out.  Now you've got a reputation
+to protect, and you can't have this guy screwing it up, so you have to go
+kick his butt.
+	You'll notice that he's no longer at his counter, and you can
+enter his storerooms.  Just follow the hallway until you reach the last
+door.  Inside will be Echigoya and ShoGun, discussing their plans.  Plow
+through Echigoya and his guards and ShoGun will give himself up.
+	But is your job done?  Certainly not.  Someone else is behind all
+this, and it's your job to get rid of him.  He's collecting MAGI, so he
+probably has the MAGI you need to get to the next world.
+	Go through the castle (make sure you get ALL the treasure,
+especially the stat potions and Samurai Bow) and you'll eventually fight
+and defeat ShoGun (if you don't you obviously haven't been following my
+instructions at all, because he's the easiest enemy in the game).  His
+boss will show up and kill him for being a twit, and invite you to see the
+view from the roof.
+	This is an interesting spot.  If you walk up to a statue and push
+A you'll fight a Dolphin, which is a TOUGH enemy at this point.
+You'd probably be able to kill it, but you need to save your strength for
+Magnate, so don't do it.  You can always come back later.  Just fight and
+kill Magnate (it will be a long battle, but shouldn't be too difficult.
+Just make sure you keep healing) and get his MAGI.
+
+   Nastiness and Tedium:
+	This next world is a chore.  The only MAGI is the one in the chest
+at the beginning, but you MUST go through the dungeon if you
+want a chance at beating the game.  It has some extremely important items
+in it, such as the Glass Sword, Arthur Armor, Parasuit, NukeBomb, Selfix
+(makes your Robot recover HP at the end of a battle round), and the Hyper
+Cannon (give this to your Robot for 1 use/day).  When you get to the end
+say whatever you like to the fairy, because if she sends you back you can
+just use the Pegasus MAGI to get out (it acts just like a door).  If
+anyone knows where I can get a map of this place, I'd appreciate knowing.
+I can never remember which paths to take at the forks.
+
+   Valhalla Palace:
+	Next world is Odin's.  He's a nice guy, but you'll have to fight
+him no matter what.  Don't miss the Flare books in Valhalla Palace, should
+you actually want to win some boss battles. IMPORTANT: Before
+fighting Odin, you must lose a battle SOMEWHERE and promise Odin
+you will fight him.  If you don't, there's about a 90% chance when you
+fight him that it'll be an Unexpected Attack, which is bad, bad, bad, bad,
+bad, bad, bad, bad, BAD!  Use Flare and Aegis MAGI (the BEST
+defense you can use in combat. It protects the user from all physical
+attacks in the round it's used and protects the entire party from most
+magic for the whole battle).  If you find him easy enough, fight him until
+you get some meat from Sleipnir or OdinCrows (Thunnin and Munnin,
+presumably).  This'll probably set you up with one of those sword guys or
+something.  A Hofud, I think it's called.
+
+   The Final World:
+	Work your way out and to the next world, where you'll meet Apollo
+again.  He'll reveal his true badass colors and you'll fight some birdmen.
+Use Aegis, Masamune (if your Human can't do more than 500 damage with
+anything else, that is), and whatever magic you feel like to kill 'em.
+They won't be a problem, and soon Apollo will take all 76 of your MAGI and
+run, confident that he has what he needs to be King of the Gods.
+	You're just about to give up for good when Dad (Dad!) comes and
+lets you know that it's not over yet.  It seems that the Guardians made up
+a myth that there were only 77 MAGI to prevent people like Apollo from
+gathering all 78.  Yes, that's right, there's one left.  And what better
+place to look for it than in the Final Dungeon, mm?
+	Stop at Final Town and buy some new equipment, because the Final
+Dungeon is pretty long, and its boss is pretty difficult.
+	WarMachine will stab you in the ass, even, unless you spend some
+time pumping yourselves up before taking him on.  Remember that you don't
+have your MAGI anymore, so your party will need to compensate for their
+inadequacies in other ways.  If you can beat him without using NukeBombs,
+DO SO, but don't be afraid to use them if you have to.  If you
+didn't get Excalibur, go back and get it (there's a room with a hallway
+that leads in a ring around it, and Excalibur's in the hallway).  It's the
+best sword in the game, if you don't count the Glass Sword, which has only
+one use (NOT YET!).  It's basically equivalent to a
+strength-driven Samurai Bow with infinite uses, doing about 750 damage to
+an entire group of enemies.  Don't miss the second Parasuit, either.
+	Now you have the last MAGI: Heart.  Give it to your Robot and exit
+the dungeon.  Having the one MAGI will allow you to go to the Central
+Shrine via the Pillar of Sky, where Apollo is waiting to become the
+supreme god. You may want to build up some mana before taking him on,
+because magic will certainly be the key tool for winning the battle.
+	This is without question the most difficult battle of the game, so
+make SURE that both your Mutant and Dad have heal rods and Flare
+books. Yes, I know they're expensive, but saving up the cash will give you
+an excuse to improve your stats.  Dad will do EITHER 400 or 800
+damage with Flare in any given round (I don't know what determines it, but
+this can mean the difference between winning the battle and losing it),
+and your Mutant should have high enough mana to do maybe 300-500 damage
+with it.  Heal rods should ideally be able to heal your party in one round
+(this means improving EVERYONE'S mana), but it's not completely
+necessary.  So long as your Mutant and Monster heal completely, you'll be
+fine.
+	You'll get a few rounds against Apollo before he transforms when
+he doesn't do anything.  The damage you do here still counts against him,
+as he doesn't heal when he transforms (I only deduced this from the fact
+that I could beat him when I used all my heavy artillery early on more
+easily than when I waited). Use your NukeBombs and the Glass Sword here,
+as well as whatever other stong attacks you can fit in (laser guns,
+Excalibur, etc.).  He transforms the turn after he's silent, and when he
+does so, timing is of the essence.
+	Apollo should use Masamune first thing, so this'll give you a
+round where all you have to do is have your Mutant use her cure magic in
+case he hits your Robot (you have no way of knowing who he'll attack, but
+your Robot must be kept at full HP, and the rest of your characters will
+die anyway). Next round he'll use Flare, which will probably kill off
+everyone but your Robot, and maybe Dad and your Human.  That means that
+your Robot should use Heart that round (it'll be the ninth option in his
+list).  If your Robot turns out to be superfast and he does this before
+Apollo uses Flare, you're screwed.  If that's not avoidable, have him use
+it the next round and hope to God that he beats Apollo to the first attack
+again.  This leaves you pretty short on turns, though, because you'll
+essentially be wasting the Masamune round.
+	Your party is now alive and well with full HP.  KICK HIS
+ASS! You'll get only one Masamune round before he uses Flare, so get
+in the damage while you can!  Forget the heal rods, just pound him!  With
+luck, he'll start to melt.  NOW you heal!  If Dad dies before
+Apollo explodes, the explosion hits YOU.  Keep him alive at all
+costs.  If everyone else keeps dying here, give Dad a Cure book to heal
+himself with.  That's how important it is.  Just remember that when the
+battle ends, at least one member of your party must still be alive.  If
+all goes well, Apollo and Dad will die. I know, 0 GP is sort of silly for
+a battle this climactic, but you'll get something much, much better.
+	No, I'm not talking about all 78 MAGI, although that is fun to
+play around with.  I'm talking about Isis.  999 HP, 99 STR, 99 DEF, 99
+AGL, and 99 MANA!  The first thing you'll want to do is
+arrange her Ability list so that the MAGI you'll use most in combat appear
+higher up in her attack list.  I suggest:
+
+* Flare
+* Aegis
+* Masmune
+* Heart
+* etc.
+
+   The Final Boredom:
+	Now comes the next degree of tedium.  Since the elevator is
+broken, you need to take the escalator.  BRING TENTS! You may think
+you're pretty cool with your save, walk, reset, walk, repeat, but that's
+beside the point.  There are a few mini-bosses whose meat you want, so be
+ready to fight them at your peak condition.  If you're utterly baffled as
+to what you're trying to do down there, talk to Isis every step of the way
+with the B button.  The world is falling apart, and the only way Isis can
+stop it is by getting to the center of the world.  There's a security
+system there, though, that's gone completely bonkers and you're going to
+have to stop it.
+	When you get past the escalators and onto the tile walkways
+(you'll know 'em when you get there), take advantage of the attack pattern
+(the one about the number of steps you take) and Isis's Flare attack to
+get to Arsenal (the security system).  This is the LAST boss!  It's
+over!
+	In the true spirit of Square, this is a segmented battle.  It
+happens in three main phases.  I'll get to that later, though.  First you
+need to know what kind of team to have.
+
+The Final Team:
+
+* Robot:
+	* Selfix
+	* Laser Gun
+	* Hyper Cannon
+	* Seven Sword (I'll explain shortly)
+	* Excalibur
+	* Whatever armor gets your goat
+* Human:
+	* 999 HP
+	* HIGH STR
+	* Laser Gun
+	* Parasuit
+	* Seven Sword
+* Mutant:
+	* Recover
+	* HIGH HP
+	* HIGH Mana
+	* Cure
+	* Flare (books)
+	* Parasuit
+	* Thunder, Ice, or Fire Ability (Single-Group)
+	* Flare Ability
+	* Heal Rod
+* Monster:
+	* Titania
+
+	You want to give Excalibur to your Robot because your Human won't
+be using it and it gives some major stat boosts to Robots.  Also, keep in
+mind that this won't all be necessary.  I barely used my Mutant for
+anything but healing, so the only essential things for her are high MaxHP
+and Mana.  The Seven Swords are also completely superfluous, and are only
+there as a novelty for people whose parties can use them properly.
+	To get the Seven Swords, you need to fight Haniwas.  Remember when
+you used the attack rhythm to fight terrorists in the Giants' Town?  Well,
+if you're in the tile walkway area, at the spot where you'd have 8
+terrorists you'll have a Haniwa.  These are EXTREMELY difficult,
+possibly harder to kill than Arsenal, and are consequently the only
+enemies in the entire last level that you can run from.  To pull this off
+you'll need the party stated above as well as an abundance of Flare books
+and tents.
+	Use Flare, Masamune, Heart, EVERYTHING!  Make sure Isis
+uses Aegis in the first round so that nobody gets hurt by Haniwa's quake.
+The only devastating attacks will be Flare (maybe doing about as much as
+your Titania might at this point, but defnitely enough to bring your party
+down to very low hit points) and Haniwa's Seven Sword (doing up to 3500
+damage, even to your Robot!).  If Haniwa's Flare leaves you totally
+devastated (with Isis barely alive), use Heart.  If you can't win this any
+legitimate way and you want to be a sissy, the Hyper Cannon will work.
+Every time you beat Haniwa you have a chance of getting a Seven Sword,
+which has seven uses and can hit up to seven times in one use.  My party
+has about ten of these things in its inventory (yes, I got them all the
+hard way), but none of my characters can use them very well.
+	It is VERY important that your Monster becomes a Titania if
+this party is going to work.  This is about the only point where your
+Monster becomes important to your survival, and it has to be perfect.
+Arsenal has no resistance to magic of any kind, so you can use whatever
+you like against it.  Since Titania has Fire, Ice, Thunder, Flare, Cure,
+and 99 Mana, it's an important thing to have.  If I had my pick of a
+single party to fight Arsenal with, it would be three Titanias and a
+Mutant for the heal rod (even though you could never get this far with
+that party).  I have no instructions about how to get Titania, but I've
+done it more than once.  If anyone has a guide for it, or maybe a chart of
+all the Monster types, I'd appreciate it greatly.
+
+The Final Battle:
+	Because of Arsenal's mind-numbing physical defense (those Samurai
+Bows, the Gungnir Spear, and Excalibur will only do about 275 damage), you
+need to make sure your Robot and Human each has a Laser Gun (doing about
+315 damage, and every little bit counts).
+	Now begins the fun.  Arsenal's first stage is the Cannons Round.
+Arsenal has four self-repairing cannons, each taking four rounds to
+completely repair itself.  This means that you have to average at least
+one cannon per round if you want to get past it.  Since each cannon has
+exactly 1,000 HP, this might be difficult for some people (but not with
+Titania(s)!).  Titania will do about 750 damage with Flare, so accompany
+it with just about anything else and the cannons are toast in two or three
+rounds.
+	The second stage is the Smasher Round.  For about three rounds
+(I'm NOT positive about that number, and it's VERY important
+to know the right number for reasons I'll explain in the next paragraph)
+Arsenal will use a rather wimpy single-character physical attack.  This
+means that your Robot should suffer no damage, and the rest of your party
+will be in good shape, too.  Have your Mutant heal the party from any
+damage the cannons did, because you will need every point you can muster
+in the next round.  Use that last Flare attack here, as well as any your
+Mutant can throw at it before you need him/her for healing again.
+	The third stage is the worst.  Here, Arsenal will launch the
+smasher (I'm sure this was a bit more descriptive in the Japanese version)
+at your party, doing anywhere from 200 to 600 damage each round to
+ALL of your members.  This means having your Mutant use the
+heal rod starting with the FIRST ROUND.  Your Mutant should be
+relatively late in the attack order, so this needs to come right after the
+first launch, and right after all subsequent launches (if this doesn't
+compensate enough for the damage, remember that your Titania will have a
+fair chance of getting a single-person cure in before arsenal attacks if
+you need it).
+	Just keep using the heal rod and keep hitting Arsenal with
+everything you've got until it falls.  I think Titianias do about 650
+damage with their regular elemental spells, so this should be fairly easy.
+If anyone dies, it's likely to be your Human.  Your Monster and Mutant
+will be just about completely healed by the heal rod, and the Robot
+recovers HP with Selfix.  Don't worry too much about keeping your human
+alive, because getting an attack in with Titania is better than using up a
+round to cure him.  Don't feel bad about not getting any GP off it,
+because there is NO use for it anymore! You (I) won!
+	Now all that's left to do is talk to Isis and go up the elevator.
+Try using Titania's teleport for that annoying buzzing sound.  Talk to Dad
+and the final music starts, which means you have no control over the text
+boxes (it's choreographed).
+	Hmm... don't you find any of that interesting?  I mean, Mask being
+Lynn's dad, and all.  It makes that whole sequence fall into place.  Mask
+was a Guardian, remember (a guy in the town near Ashura's Tower gives that
+away).
+	Interesting Fact - For those of you who have Final Fantasy Legend
+III: There's a family in the town you end up in just after leaving the
+Underworld that gives you an important part for the Emperor sword.  They
+say they're looking for the Lost Ark.  Sound familiar?  Be sure to say hi
+to the kid, 'cause he's an old buddy of mine.
+
+   Odds and Ends:
+	There are two "codes" or "cheats" in this game I feel I ought to
+mention.  One is clearly a bug, and the other is clearly not.
+	The bug is that if you throw away a large number of quest items
+(items that can only be gotten from treasure chests, and possibly
+monsters), and then try to equip a party member with the trash can, their
+stats go way up.  I've never seen or done this personally, but I've heard
+that it works.  There's really no need, though; I'd rather have the item.
+I do end up having to trash a lot of stuff in the Nasty Dungeon, though,
+so this may come in handy after all.
+	My greatest discovery about this game was when I stumbled upon the
+sound test.  In the title screen, hold down SELECT, START, and B.  It's
+Japanese, remember, so it goes right-left to progress up in the numbers.
+You can hear all the sound effects and music (including the two ending
+themes) with this, without having to spend all your GP on the jukeboxes.

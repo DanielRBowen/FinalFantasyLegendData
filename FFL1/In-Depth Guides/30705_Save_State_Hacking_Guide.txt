@@ -1,0 +1,470 @@
+Final Fantasy Legend Save State Hacking Guide
+by mafafu (mafafu (at) hotmail (dot) com)
+
+Specifically listing offsets for SMYGB Emulator
+"Easily" modified for use with your favorite emulator
+
+
+Copyright Information
+---------------------
+Copyright 2004 mafafu
+
+This file may be freely distributed as long as it remains unchanged and it is
+not used for profit (yeah, right). That is all.
+
+
+Version Information
+-------------------
+Version 1.0: Original Creation June 13, 2004
+
+
+Introduction
+------------
+This is a savestate hacking guide for the game Final Fantasy Legend for the
+original Gameboy, published by Square/SquareSoft. This was the first RPG that
+really grabbed me, so it's a bit nostalgic. Just for old time's sake, I felt
+like playing it. I was interested after seeing the GameFAQs for the other FFLs
+to see that there was no savestate guide for the first FFL. So, I set about
+making it here. Included are the offsets for charcater information including
+HP, name, stats, and items/powers. Also listed are the byte values for items
+and powers.
+
+In order to hack a savestate, you need a hex editor and a bit of know-how
+that you will not find here. If you're trying to hack a savestate, then you
+probably already know how to do this. Otherwise, check out the intro to the
+save state hacking guide for Final Fantasy Legend 2 by Thundergod at GameFAQs.
+
+
+Specifics
+---------
+These offsets are using SMYGB Emulator savestates. Other emulators will create
+save states differently and will not work with the offsets listed here.
+However, the item list below will still be correct regardless of emulator. See
+below for compatility issues for other emulators.
+
+Just as a warning, make sure to back up your save states before editing. These
+offsets will work for SMYGB. The savestate file type is .mgb
+
+
+SMYGB .sav issue with FFL1
+--------------------------
+I had a slight problem when running FFL with SMYGB. It seemed to incorrectly
+generate a .sav file upon program completion. It caused the emulator to crash
+on the next load of FFL. Simply deleting the FFL.sav file fixed the problem. I
+just had to do this each time before playing.
+
+
+Compatibility with other Emulators
+----------------------------------
+It is unlikely that other emulators will have the exact same offsets listed
+here. I may later add offsets for BGB, but it is not to hard to figure out
+where they are. The most tedious part was determining what the object bytes
+were. That part will remain the same regardless of the emulator used.
+
+So, simply take note of, say, your hit points (covert this to hex) and what
+your weapon is and how many uses it has left (convert this to hex). Look up
+you weapon below for the hex value. Then use a hex editor to search for the
+hex value of the weapon, followed by the hex value for the number of uses
+left. You should likely only find one instance (make sure though). Now this
+is the offset for the character you are working with and you should see that
+the rest of the inventory is near this data. Now you should also see your hit
+points hex value near by. Play with the data until you get the desired effect
+and remember to make backups.
+
+
+Errata
+------
+I have tried hard to put only correct information, but mistakes happen. I may
+have gone cross-eyed staring at the hex editor. If you see an error here,
+please email me at the address above.
+
+
+Offsets in .MGB save files
+--------------------------
+Numeric data stored in multiple bytes is done so in reverse byte order.
+
+Items/Powers are stored in two bytes. The first is the hex value of the item/
+power listed in the table below. The second value is the number of uses. The
+value FE is used to denote infinite uses.
+
+I'm not sure what the encoding is for the names. It's not ASCII.
+
+
+First Character Offsets
+-----------------------
+Name: 56635-56638
+Race/Sex: 56639
+Current HP: 5663A-5663B
+Maximum HP: 5663C-5663D
+Strength: 5663F
+Defense : 56640
+Agility : 56641
+Mana    : 56642
+
+Items/Powers offset:
+First Byte: 56643
+Last Byte : 56652
+
+
+Second Character Offsets
+------------------------
+Name: 56654-56657
+Race/Sex: 56658
+Current HP: 56659-5665A
+Maximum HP: 5663B-5663C
+Strength: 5665E
+Defense : 5665F
+Agility : 56660
+Mana    : 56661
+
+Items/Powers offset:
+First Byte: 56662
+Last Byte : 56671
+
+
+Third Character Offsets
+-----------------------
+Name: 56673-56676
+Race/Sex: 56677
+Current HP: 56678-56679
+Maximum HP: 5667A-5667B
+Strength: 5667D
+Defense : 5667E
+Agility : 5667F
+Mana    : 56680
+
+Items/Powers offset:
+First Byte: 56681
+Last Byte : 56690
+
+
+Fourth Character Offsets
+------------------------
+Name: 56692-56695
+Race/Sex: 56696
+Current HP: 56697-56698
+Maximum HP: 56699-5669A
+Strength: 5669C
+Defense : 5669D
+Agility : 5669E
+Mana    : 5669F
+
+Items/Powers offset:
+First Byte: 566A0
+Last Byte : 566AF
+
+
+Inventory Offsets
+-----------------
+First byte: 566B0
+Last byte : 566BF
+
+
+Gold Offset
+-----------
+I couldn't seem to find the gold offset. If anyone happens to find it, feel
+free to email me and I will add it and credit you.
+
+
+Race/Sex/Monster Encodings
+--------------------------
+Listed are the encoding for the Humans and Mutants. You can edit this value to
+change your race and monster type. However, this will not really change
+anything. For instance, if you change the encoding for the weak monster Lizard
+to Athalot, you will not gain the abilities of the Athalot. Therefore, it is
+not necessary to list the full monster encodings here as all that will change
+is the character picture and character type text description.
+
+AD: Human Male
+AE: Human Female
+B3: Mutant Male
+B4: Mutant Female
+
+
+Item/Powers Byte List
+---------------------
+IMPORTANT: If you want to hack in armor, you need to add it to your inventory,
+then equip in the game. The game will not give the armor bonuses when you hack
+in the armor. Furthermore, it subtracts the stats of the armor from your stats
+when you remove the armor. That should be obvious in normal play, but it will
+also happen here. So, if you leave your stats alone, then add some armor to a
+character, you will not get any stat bonus. When you remove the armor your
+stats will go down. This can also create a glitch, because it may subtract
+more from the stat than you really have. This will cause your stat to be well
+above 99 (it still reads as 99 however).
+
+Names are reproduced with the same spelling as those in the game with comments
+in parentheses.
+
+Some objects are listed more than once because the game uses multiple entries
+for powers with different numbers of uses.
+
+NOTE:"o" is used to denote the circle used in resistances
+NOTE:"x" is used to denote the cross used in weaknesses
+NOTE: -BLANK- is used to denote an entry that does not correspond to a game
+object. FF is listed as -NULLDATA- because the game seems to use FF to denote
+an empty object. They are included simply for completeness.
+
+
+00: Potion
+01: XPotion
+02: Cure Book
+03: Rod
+04: Needle
+05: Symbol
+06: Eyedrop
+07: Revive
+08: Elixir
+09: Heart (the symbol, i.e. the item to allows another revive)
+0A: Arcane
+0B: Door
+0C: Strong
+0D: Agility
+0E: HP200
+0F: HP400
+10: HP600
+11: King Sword
+12: King Armor
+13: King Shield
+14: Airseed
+15: Red Orb
+16: BlueOrb
+17: Erase99
+18: BlueKey
+19: JailKey
+1A: WhitKey
+1B: Rock
+1C: Light
+1D: Repent
+1E: Rom
+1F: Board
+20: Hammer
+21: Long Sword
+22: Axe
+23: Battle Sword
+24: Katana Sword
+25: Silver Sword
+26: Coral Sword
+27: Ogre Sword
+28: Dragon Sword
+29: Sun Sword
+2A: Flame Sword
+2B: Ice Sword
+2C: Elec Sword
+2D: Rapier
+2E: Sabre
+2F: L-Sabre
+30: CatCraw
+31: P-Knife
+32: P-Sword
+33: Revenge
+34: Vampic Sword
+35: Defend Sword
+36: Rune Sword
+37: Xclbr Sword
+38: Glass Sword
+39: Masmune
+3A: Bow
+3B: Long Bow
+3C: Gr. Bow
+3D: Colt
+3E: Musket
+3F: Magnum
+40: Whip
+41: E-Whip
+42: Saw
+43: SMG
+44: Grenade
+45: Bazooka
+46: Balkan
+47: Missile
+48: N. Bomb
+49: Laser
+4A: Hyper
+4B: Bronze Shield
+4C: Gold Shield
+4D: Silver Shield
+4E: Flame Shield
+4F: Ice Shield
+50: Dragon Shield
+51: Aezis Shield
+52: Bronze Helm
+53: Gold Helm
+54: Silver Helm
+55: Army Helm
+56: Band Helm
+57: Dragon Helm
+58: Bronze Armor
+59: Gold Armor
+5A: Silver Armor
+5B: Dragon Armor
+5C: Suit Armor
+5D: Arthur Armor
+5E: Bronze Gauntlet
+5F: Gold Gauntlet
+60: Silver Gauntlet
+61: Giant Gauntlet
+62: Ninja Gauntlet
+63: Hermes Shoe
+64: Geta Shoe
+65: Shoe (blank name)
+66: Power Armor
+67: Wand
+68: Staff
+69: Book
+6A: Fire Book
+6B: Ice Book
+6C: Elec Book
+6D: Fog Book
+6E: Flare Book
+6F: Sleep Book
+70: Stone Book
+71: Death Book
+72: Punch
+73: Kick
+74: Butt
+75: X-Kick
+76: Judo
+77: Karate
+78: Tempter
+79: Counter
+7A: Antdote
+7B: Bell
+7C: Pan
+7D: Shocker
+7E: Left
+7F: Right
+80: Honey
+81: Cure
+82: Heal
+83: Revive
+84: Care
+85: Raise
+86: Telepor
+87: Head
+88: Nose
+89: Pincher
+8A: Beak
+8B: Punch
+8C: Bite
+8D: Fin
+8E: Bone
+8F: Sword
+90: Hari-Te
+91: Bash
+92: Saw
+93: 2Pincer
+94: 4Heads
+95: Nail
+96: 8Legs
+97: 2Tusks
+98: 4Horns
+99: 2Swords
+9A: 6Arms
+9B: Poison
+9C: Poison
+9D: Tusk
+9E: P-Fangs
+9F: Strict
+A0: Petrify
+A1: D-Fangs
+A2: Sl-Gaze
+A3: Sleep
+A4: Blind
+A5: Flash
+A6: Ink
+A7: Horn
+A8: Gaze
+A9: Gaze
+AA: Riddle
+AB: Sing
+AC: Tail
+AD: Gaze
+AE: Gaze
+AF: Drain
+B0: Stench
+B1: Sand
+B2: Tremble
+B3: Electro
+B4: Bother
+B5: Web
+B6: Touch
+B7: Kiss
+B8: Kick
+B9: Flame
+BA: Ice
+BB: Thunder
+BC: Gas
+BD: Acid
+BE: Squirt
+BF: Quake
+C0: Tornado
+C1: Acid
+C2: Whirl
+C3: Steal
+C4: Tentacl
+C5: D-Beam
+C6: Fire
+C7: Ice
+C8: Elec
+C9: Flare
+CA: Stop
+CB: Sleep
+CC: Axe
+CD: S-Skin
+CE: P-Skin
+CF: P-Skin
+D0: Burning
+D1: oFire
+D2: oIce
+D3: oElec
+D4: oPoison
+D5: oStone
+D6: oPara
+D7: oWeapon
+D8: oQuake
+D9: Explode
+DA: oChange
+DB: oDamage
+DC: Stone
+DD: oIce/Wp
+DE: oAll
+DF: xFire
+E0: xElec
+E1: xIce
+E2: Shell
+E3: Shell
+E4: Drink
+E5: Chill
+E6: Pollen
+E7: Rocket
+E8: Beam
+E9: Melt
+EA: Sphere
+EB: Mirror
+EC: Kinesis
+ED: P-Blast
+EE: Leech
+EF: Uncurse
+F0: ESP
+F1: Hypnos
+F2: Barrier
+F3: Mirror
+F4: Power
+F5: Armor
+F6: Gaze
+F7: 3Heads
+F8: oPAR/WP
+F9: Stealth
+FA: Warning
+FB: Forseen
+FC: -BLANK-
+FD: -BLANK-
+FE: -BLANK-
+FF: -NULLDATA-
+
+
+Thanks
+------
+Thanks indirectly go to Thundergod. After using his hacking guide for FFL2,
+I decided to make this one for FFL.

@@ -1,0 +1,187 @@
+Final Fantasy Legend
+Mutant FAQ
+July 25, 2000
+WonderLlama (WonderLlama_@hotmail.com)
+
+Updates
+July 25, 2000 - This is the first version.
+
+Contents
+1) What is this FAQ about?
+2) Improving your mutant.
+3) Equipping your mutant.
+4) Mutant Abilities.
+5) Copyright notice
+
+=======================What is this FAQ about?=========================
+     This is not a walkthrough.  If you want a walkthrough, I would
+recommend K. Megura's Mini-FAQ.  This FAQ will address the mutant
+character.
+    First, humans, mutants, and monsters are all fun and rewarding
+characters in this game.  You probably should not limit yourself.  The
+mutants main contribution is magic.  The mutant is usually the
+strongest and most flexible magic user on the team.  Mutants progress
+most like a traditional RPG character; they get better as a result of
+fighting battles.
+=======================================================================
+
+========================Improving your mutant==========================
+     The mutant will improve at the end of nearly every battle.  While
+you can influence how the mutant improves, it is mostly random.  And
+while the mutant nearly always gets more powerful, it is also possible
+to lose very powerful abilities.  For this reason, if you have any
+mutants in your party, you must save the game after every fight, unless
+you lose a good ability, in which case you should reset the game and
+reload.  A + B + Start + Select resets the game quickly.
+     Strength:  The mutant's strength may go up one point as a result
+of battle.  While it is somewhat random, it is far more likely if you
+used a strength-based weapon in battle, such as the hammer.
+Successfully hitting and swinging more times seem to help, but I'm not
+sure.
+     Agility:  The mutant's agility may go up one point as a result of
+battle.  It is more likely if you use an agility-based weapon.  Agility
+is an important stat for a mutant, if you want to use the psi-sword or
+psi-knife.  Both are very powerful.  You should build up agility by
+using agility-based weapons early in the game.
+     Defense:  Mutants can gain defense from battle, but it is very
+rare.  I have never seen a mutant with more than 5 natural defense.  I
+don't know what causes this stat to go up.  I would guess that getting
+hit in combat helps, but I haven't observed enough cases to know.  This
+is probably the most valuable stat, so be happy when you get it.
+     Mana:  Mutants gain mana from battle, especially if they used
+magic, or a psi sword.  Other than defense, this is probably the most
+valuable stat.  It will also go up the most.  It can go over 99, and
+probably will, so don't stop using magic just because it looks like
+you've maxed it out.
+     HP:  Mutants gain HP from battle.  As far as I can tell, this is
+completely random.  I suspect that putting a mutant in the front row
+will help this stat, but my tests have been hit and miss.  A mutant can
+easily get 300 HP early, and end the game with 600-700.  There is
+probably no limit other than your patience.
+     Abilities.  Four of the mutant's slots are reserved for abilities.
+One may randomly change as a result of battle.  I can't find any
+pattern to when they do.  If you lose a good ability, I suggest you
+reset.
+
+     The best thing you can do to improve your mutants is to get in a
+lot of fights.  It doesn't seem to make much difference if the fights
+are easy or hard.  I have had mutants with 600 HP on the first world,
+so you can improve them as much as you want anywhere.  The most
+important thing is to get them good abilities.  Try to get at least two
+attack abilities (so you don't run out), a heal ability on one mutant,
+and Armor or Kinesis.  See the abilities section to help you choose.
+=======================================================================
+
+========================Equipping your mutant==========================
+     Mutants only get three slots for equipment.  This means you have
+to trade off between weapons and armor.  However, they also have four
+natural abilities, so they don't always need as many weapons as humans.
+     For most of the game, only three kinds of armor are available:
+body, helmet, and gauntlet.  I recommend equipping the best of all
+three.  That only leaves you one space.  You could put a weapon,
+shield, item, or spell here.  Later in the game, you will get the
+ParaSuit.  This powerful armor only takes one slot, so you should give
+it to the mutants to free up space for more weapons.
+     I never recommend giving a mutant a shield or item.  Shields
+should only ever be used by humans.  They have more HP, so they are
+more likely to be in front, and they have enough slots.  I personally
+almost never use shields at all.  Items are not as good as healing
+spells, so mutants should use spells instead.
+     Spells are very powerful.  However, often the mutant will get
+several spells for free from natural abilities.  You should only equip
+a spell if it you are having trouble getting the ability naturally.
+The main problem with equipping a spell is that they don't get as many
+uses as weapons.  Mutants should usually rely on a weapon when their
+natural abilities are in danger of running out.
+     For most of the game, I recommend giving your mutant a weapon.
+Early on, give them an agility weapon.  Rapiers and sabers are
+available early on.  Have them attack with these weapons as much as
+possible to get agility up.  Later on in the game, mutants will use
+psi-weapons which are powered by mana, but in order to hit with them,
+they will need high agility.  Once a mutant gets to around 60 agility,
+it is safe to switch to a mana weapon.  If you haven't found any psi-
+knives yet, stick with agility weapons until you do.
+     The psi-knife, psi-sword, and vampic sword all do damage based on
+mana.  In the hands of a human, they are useless, but a mutant can be
+amazing with one.  The psi-knife is weak, but you find it earlier.  It
+is probably still more powerful than anything else you can get, so use
+it.  Later on, you have to choose between the Vampic and Psi swords.
+The Vampic does less damage, but it drains HP.  The psi-sword is the
+strongest sword in the hands of a mutant.  I would use the Psi-Sword
+most of the time.  Usually, mutants will be in the back of the party,
+and won't get attacked very often.  The psi-sword will help insure that
+you never take damage.  Still, switch to the Vampic if you find your
+mutant is taking damage a lot.
+     At the very end of the game, you will get the ParaSuit, and have
+three slots open.  At this point, I recommend having the Flare spell, a
+psi-sword, and the Vampic sword if possible.  That way, you can damage
+all enemies, one enemy a whole lot, or heal yourself depending on the
+situation.  That means you have to bring the swords with you from the
+fourth world, so plan ahead.  If you can't use all three, mutants are
+good candidates to carry the Nuke, as well as rockets.  When a mutant
+isn't using mana, he'll be overshadowed by the humans.  So he may as
+well be the one to use weapons that do constant damage.
+=======================================================================
+
+==========================Mutant Abilities=============================
+Ability    Uses   Effect and Comments
+
+ESP         50    Doesn't seem to do anything.  Drives me crazy.  If
+		   anyone knows what this is supposed to do, tell me.
+
+Flame       10    Attacks a group with the fire element.
+Ice         10    Attacks a group with the ice element.
+Thunder     10    Attacks a group with the electricity element.
+Gas         10    Attacks a group with the earth element.
+
+Leech       21    Does 10 damage to every enemy and other friendly
+                  character.  Restores that life to the user.  I've
+                  only ever seen this ability on recruited mutants.
+P-Blast     10    Attacks all enemies.  It's non-elemental too.  Great
+                  attack.
+Quake       10    Attacks all enemies for big damage.  Earth elemental.
+                  This is extremely rare.
+Flare       ?     The most powerful spell.  Hits all enemies.
+
+Heal        10    Heals one ally.  Use this to heal everyone before you
+                  stay in an inn, and you get a free stay.
+
+Electro     10    Lowers one group's agility.
+Stench      10    Lowers one group's strength.
+Kinesis     10    Paralyzes one group of enemies.
+Gaze        10    Claims to confuse a group of enemies.  Seems to make
+                  them get an extra attack instead.
+D-Gaze      10    Kills a group of enemies.  Very rare.
+S-Gaze      10    Just like D-Gaze as far as I can see.  Just as rare.
+
+P-Fang      25    Paralyzes one enemy.  Use Kinesis instead.
+
+Power        3    Raises the mutant's strength by 99.  Contrary to what
+                  the ability claims, multiple uses can make you do
+                  more damage, so I believe it adds 99 to strength, not
+                  sets strength to 99.
+Armor        3    Raises the mutant's defense by 99.  This is a very
+                  useful ability to use against bosses.  It only gets
+                  three uses tho'.
+Mirror      10    Makes the mutant harder to hit.  Not usually very
+                  effective.
+Barrier     10    Increases the defense of all characters.  The benefit
+                  is small, so this ability probably isn't as good as
+                  armor.
+
+Burning     25    If the mutant is attacked for the rest of the round,
+                  some damage is dealt to the enemy.
+P-Skin      25    Just like Burning, except it poisons the enemy.
+
+     My personal favorite combination is to have heal, kinesis, and two
+attack abilities.  Quake, P-Blast, and Nuke are great if you can get
+them.  Armor is great against bosses.
+     If anyone knows anything about mutant abilities that I don't,
+please let me know.
+=======================================================================
+
+==============================Copyright================================
+     As usual, feel free to do whatever with this FAQ as long as you
+don't change it, make money off it, or delete this notice.  And it is,
+of course, Copyright 2000 Justin Lyon.
+     I can be contacted with any questions at WonderLlama_@hotmail.com.

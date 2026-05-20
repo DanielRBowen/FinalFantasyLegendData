@@ -1,0 +1,1138 @@
+July 01, 2004
+Version 1.0
+Final Fantasy Legend 1 (GB)
+
+===============================================================================
+
+Index:
+
+Section 1: Introduction
+Section 2: Contents
+Section 3: Walkthrough
+Section 4: Closing Thoughts
+Section 5: Thanks
+Section 6: Contact
+Section 7: Legal
+
+===============================================================================
+
+Section 1: Introduction
+
+Hello, and welcome to my Final Fantasy Legend 1 walkthrough. Thanks for looking
+in.
+
+I guess the first thing to note is, if one was unaware, is, yes, this isn't a
+"real" Final Fantasy game. Its name in Japan is "MakaiToushi SaGa" (which
+definitely doesn't translate to anything to do with Final Fantasy). It also has
+two followups for Gameboy, Final Fantasy Legend 2 and 3 (which, again, aren't
+"real" Final Fantasy games). On the other hand, who cares what they're called
+or what they're considered, it's a fun game, and that's the only thing that
+matters.
+
+Notes about this walkthrough. The section headings are written the same in the
+table of contents as they are in the walkthrough, so, you can just search for
+the phrase (that is, search for "3.05: Castle of Sheild" or something), and
+you'll be able to jump right to the section. Everything's broken down pretty
+well, so, you should be able to find what you're looking for fairly easily.
+
+I don't want to say this walkthrough is spoiler-free, because it isn't, it does
+contain spoilers of sorts, depending on what one considers a spoiler. On the
+other hand, I've done my best not to mention story points unless it's critical
+to advancing. That is, I'll tell you that, for instance, you'll "walk forward
+and talk to a girl," but won't really say who or what she's telling you unless
+it's needed for you to advance. This walkthrough is a guide to help you find
+your way along, not tell you everything that's happening (so if you're hoping
+to just skip to the end and find out about the last boss and the ending, you're
+not going to find it). So, as I said, it's not spoiler-free, but, I've done my
+best to keep it to a minimum.
+
+That said, go out there and explore, and thanks for stopping by here when you
+get stuck or need some help.
+
+===============================================================================
+
+Section 2: Contents
+
+3.01: Starting out (World 1, Floor 1)
+3.02: Town of Hero
+3.03: Castle of Sword
+3.04: Castle of Armor
+3.05: Castle of Shield
+3.06: Town of Hero/Base Town
+3.07: Up the Tower (World 1 to 2)
+3.08: Port Town (World 2, Floor 5)
+3.09: Caves
+3.10: East Island Village
+3.11: South Island
+3.12: Airseed/Underwater Town
+3.13: Caves/Sea Palace
+3.14: South Island/Tower
+3.15: Up the Tower (World 2 to 3)
+3.16: Sky Town (World 3, Floor 10)
+3.17: Hidden Town
+3.18: Resistance Base
+3.19: Flying Castle
+3.20: Jail
+3.21: Resistance Base/Flying Castle/Tower
+3.22: Up the Tower (World 3 to 4)
+3.23: Tunnels (World 4, Floor 16)
+3.24: Southwest Town
+3.25: Library
+3.26: Akiba/Northeast Town
+3.27: Southwest Town/Tunnel
+3.28: Power Plant
+3.29: Skyscraper/Tower
+3.30: Up the Tower (World 4 to Top)
+3.31: Base Town (Floor 1)?
+3.32: Tower/En
+
+===============================================================================
+
+3.01: Starting out (World 1, Floor 1)
+
+Upon starting up a new game, you will first be presented with the story:
+
+---
+
+  It has been said
+ that the tower in
+ the center of the
+ World is connected
+     to Paradise.
+Dreaming of a life
+    in Paradise,
+many have challenged
+  the secret of the
+       tower,
+  but no one knows
+what became of them.
+        Now,
+there is another who
+   will brave the
+     adventure
+
+---
+
+From there, you're presented with the first character creation screen. Your
+choices are:
+
+1: Human (M)
+2: Human (F)
+3: Mutant (M)
+4: Mutant (F)
+5: Clipper
+6: Redbull
+7: Wererat
+8: Zombie
+
+Pick your first character, and name it (4 characters max for name) and press
+Start.
+
+After finishing that, your character is placed on the outskirts of a tower.
+From there, head north and up the staircase into the inn. Then, go to the
+counter on the right and talk to the man. The Guild menu will open up, and your
+character list will appear with a hand pointing at the character you created.
+Here, you can make 3 more characters for your party. So, move the hand down to
+one of the empty spots on the list and press A to open up the character
+creation list again. Make another character as you did the first time. Do this
+twice more to complete your group of four.
+
+Now, you can take some time to explore the town, Base Town, if you want. The
+counter next to the guild is the Inn counter. Obviously you don't need an inn
+now, but, once you've gone outside and had some battles and lost health, you
+can go to the inn to regain health. The cost of staying at the inn is 1GP per
+unit of health being healed (that is, if the four of your characters added
+together have lost, say, 35 cumulative HPs, the cost of staying at the inn will
+be 35GP).
+
+To the right of the guild counter, you'll see a bridge leading to a door. Going
+up to it, you'll find out that the door is "locked by magic of black".
+Unlocking this door is your main task in this area, but, you won't be getting
+to that for a while.
+
+To the right and up from that door is a counter with two people behind it,
+selling weapons and items. At the weapon shop here, for sale is:
+
+Long(Sword): 50: 132GP
+Axe: 50: 412GP
+Rapier: 50: 24GP
+Gold(Gauntlet): 150GP
+Gold(Armor): 300GP
+Ice(Spell): 20: 500GP
+Elec(Spell): 20: 500GP
+
+At the item shop, for sale is:
+
+Strong: 1: 300GP
+Agility: 1: 300GP
+HP200: 1: 100
+Potion: 3: 50GP
+XPotion: 3: 200GP
+Antidote: 3: 100GP
+Eyedrop: 3: 500GP
+Revive: 1: 15000GP
+(Heart): 1: 10000GP
+Rod: 30: 1000GP
+
+Again, obviously you have no money now so you can't buy any of this, but, it's
+there for you to come back to later.
+
+Also, behind the building, on the left side and out back is a person standing
+by a wall. Talking to them will bring up the House of Life menu. Here, you can
+revive dead party members for 100GP. Be careful though, because each time you
+revive someone it uses up one of their hearts, and once they're out of hearts
+they can't be revived again. You can buy hearts at shops, but, they're very
+expensive. Best to avoid dying of course, but, if you need it, it's there.
+
+The last thing of note in the town is, in the back of the inn by the beds is a
+person wandering around. Talk to him, and he'll tell you "Gen-Bu has hidden the
+key to the door in the Statue of Hero." Sounds like a good hint.
+
+Once you're done exploring the town, walk to the outside edge and out onto the
+gravel area to exit the town.
+
+-------------------------------------------------------------------------------
+
+3.02: Town of Hero
+
+Now you'll find yourself outside on the world map. Here, as you walk around
+you'll randomly encounter enemies. So, be careful of battles and keep your eye
+on your health.
+
+From here, walk to the east and then north to find a bridge across the water.
+Then, walk south, around the mountains, and east and south. Then, enter the
+Town of Hero.
+
+Walk north and across the bridge, and you'll see the statue that was mentioned
+earlier. Pressing A in front of it will let you know that something is missing
+from the statue. More specifically, three things are missing from the statue.
+You'll be going to track them down shortly.
+
+To the west of the town entrance is the inn. To the east is the House of Life.
+To the north you'll find a building with three doors. The left door has a room
+with some people inside. In the middle door is an item shop. Here you can buy:
+
+Strong: 1: 300GP
+Agility: 1: 300GP
+HP200: 1: 100GP
+Potion: 3: 50GP
+XPotion: 3: 200GP
+Bell: 3: 100GP
+Shocker: 3: 100GP
+(Heart): 1: 10000GP
+
+In the right door is a weapon shop. Here, you can buy:
+
+Hammer: 50: 25GP
+Rapier: 50: 24GP
+Bow: 50: 50GP
+Whip: 50: 80GP
+Punch: 99: 500GP
+Bronze(Helmet): 40GP
+Bronze(Armor): 80GP
+Bronze(Gauntlet): 12GP
+Sleep(Spell): 20: 500GP
+Fire(Spell): 20: 500GP
+
+Once you've finished talking to everyone, head outside of the town.
+
+Now, from here there are three places you need to go. You can do the first two
+in any order though, it's up to you. The third one has to wait until last
+however.
+
+-------------------------------------------------------------------------------
+
+3.03: Castle of Sword
+
+From the town of Hero, head to the west, along the edge of the mountains, until
+you come to a path of trees through the mountains. Go through the path, down,
+across a bridge, along the path and to another bridge, up through a grassy
+area, to the Castle of Sword.
+
+In here, you'll want to avoid talking to anyone you come across, since they're
+all enemies that will attack you. From the entrance, take the path on the left.
+When you come to a split in the path, go across to the other path and then
+continue up and along the path. At the next split go south, around the wall to
+the stairs, and up the stairs.
+
+On the second floor, walk north out of the walled area. From there, go around
+the side and down, to the bottom of the area, and another staircase.
+On the third floor, head up, and you'll come to the King of the Sword Castle.
+Talk to him to fight him.
+
+Once you've defeated him, you'll get 240GP. You'll also win the King(Sword).
+You can equip this on one of your characters and use it as a weapon. The best
+part is, unlike most other weapons which have a limited number of uses, the
+King(Sword) can be used an unlimited number of times.
+
+Now, from here head back down and out of the castle, and make your way back to
+the town of Hero.
+
+-------------------------------------------------------------------------------
+
+3.04: Castle of Armor
+
+From the town of Hero, head northeast, through the forest, around the mountains
+on the top, then back to the west, up and across the bridge over the river. Go
+east, to the Castle of Armor.
+
+Inside of the castle are some people walking around, who tell you that the king
+wants to speak to you on the second floor. So, go up, through the castle,
+across the bridge, and up the stairs to the second floor. Follow the path
+around, to a door. In this room is the king. He'll tell you that he's in love,
+but that the woman needs some help. So, you offer to help out. Now, walk back
+outside of the castle.
+
+Go back to the west and across the bridge. Go east, and then south through the
+forest, to a series of rivers with bridges across them. Head over the bridges,
+and you'll come to a town. Here, you can heal at the inn, and talk with the
+people to get some information. There's also some stores at the north of the
+town. The first one sells:
+
+Hammer: 50: 25GP
+Rapier: 50: 24GP
+Long(Sword): 50: 132GP
+Kick: 88: 1100GP
+Bronze(Shield): 50: 40GP
+Bronze(Gauntlet): 12GP
+Bronze(Helmet): 40GP
+Bronze(Armor): 80GP
+Fire(Spell): 20: 500GP
+Ice(Spell): 20: 500GP
+
+The shop to the left sells:
+
+Strong: 1: 300GP
+Agility: 1: 300GP
+HP200: 1: 100GP
+Potion: 3: 50GP
+XPotion: 3: 200GP
+Needle: 3: 500GP
+Symbol: 3: 500GP
+Eyedrop: 3: 500GP
+Revive: 1: 15000GP
+(Heart): 1: 10000GP
+
+At the back of the town is a House of Life. Also in the back is the girl that
+the king wants to marry. Talk to her, and she'll tell you that the reason she
+can't marry the king is because a bandit is threatening to destroy the village
+unless she marries him. So, now you're off to defeat the bandit.
+
+Leave the town, go down across the bridges, to the west and around the
+mountains, and up to a cave. In here, don't talk to anyone, because they'll
+attack you if you do. From the entrance, go east, around the stairs and up, and
+around the wall to the east. Go south, along the path to a staircase. Go up it
+to the next floor.
+
+Go west to the wall, and then south to a door. Go through the door, and then
+follow the path to the west and up, where you'll find the bandit. Talk to him
+to fight him.
+
+After defeating him, you'll get 120GP. Now, walk back through the cave and
+outside. Head back to the town and talk to the woman again, she'll say she's
+very happy now.
+
+Head back north, to the Castle of Armor, and talk to the king again. He will
+thank you, and give you the King(Armor). Now, head outside and make your way
+back to the town of Hero.
+
+-------------------------------------------------------------------------------
+
+3.05: Castle of Shield
+
+The Castle of Shield is directly to the right of the town of Hero, in the
+forest.
+
+If you'd came here before doing the other two castles, you would've noticed
+that all the guards told you to go away, and that the king and his steward
+weren't willing at all to give up the Shield.
+
+Go to the left and up the stairs. Walk forward, and then you'll automatically
+walk forward to the king's throne, where he is lying dead with the steward
+standing next to him. He'll tell you that he is going to frame you for the
+king's murder. You'll then enter into battle with the steward. After defeating
+him, you'll see him run into the wall, two spaces to the right of the throne.
+Follow him through the wall, to the back of the castle. Go around the wall and
+up the stairs. Here, you'll find the steward again. Go over and talk to him to
+fight him again. You'll get 400GP and the King(Shield) when you defeat him.
+Exit through the back wall to leave the castle.
+
+-------------------------------------------------------------------------------
+
+3.06: Town of Hero/Base Town
+
+If you want to, you can spend some time killing enemies with your new weapon
+and armor, since when you decide to move on to the next step you'll be losing
+them all.
+
+Now, go to the town of Hero, and unequip all of the King items (and make sure
+you equip other items in their place of course). Now, go to the statue in the
+middle of the town, stand in front of it, and select the King items from your
+inventory menu. As you select them, you'll put them onto the statue. Once all
+the pieces are placed on the statue, you'll get the Black Sphere. Start to walk
+away, and Gen-Bu will come out and you'll have to fight him. When you defeat
+him, you will win 900GP.
+
+Now, make your way over to Base Town. Go up the stairs, and over to the locked
+door across the bridge. From your Item menu, select the Sphere option. Then,
+use the first sphere in the box. Exit out of the menu, and you can now walk
+through the door in front of you.
+
+-------------------------------------------------------------------------------
+
+3.07: Up the Tower (World 1 to 2)
+
+You're now inside of the tower, on the 1st floor (your floor position is listed
+in your pause menu). Continue up the stairs and through the next door, and the
+2nd floor. Walk south, and then turn west and follow the path to another door.
+Go up the stairs, to floor 3. Go west, and you'll see a door and some stairs
+up.
+
+Inside of the door, if you want to go exploring, is a small world. There's a
+little spot of water in the bottom right which will heal you, and a town in the
+top right with some people you can talk to. There's nothing you need to do
+here, so, once you're done exploring, you can return to the tower. Go up the
+stairs, the west and through the door. Go up the stairs to floor 4. Go north,
+west at the first opening, around the wall, to an intersection.
+
+Again not necessary, but if you want to do some more exploring, continue west
+to the end of the path and then south down the stairs to a door. Inside of this
+door is another side area with some people you can talk to, as well as some
+monsters who if you try to talk to them will fight you. Once you're done here,
+return to the intersection this path split off of.
+
+Head north, to the door. Here, from the stairs, walk over to the area on the
+left to find a treasure chest with a Colt inside. Then, continue up the stairs,
+to floor 5. Head south, and you'll find a door, locked by the magic of blue.
+This is the door in this area you'll need to open to progress to the next area.
+In the southwest corner is a pool that will heal you. Head north and you'll run
+into a man, who will give you some information about what to do next. Continue
+north, through the door, and out into the next world.
+
+-------------------------------------------------------------------------------
+
+3.08: Port Town (World 2, Floor 5)
+
+Walk east from the tower, and in the south part of the island you'll find a
+town.
+
+Explore the town, talk to the people, and gather information. Here, you'll find
+out where to go next and what you need to do to move on, as well as other
+useful things.
+
+Across the top of the town is the inn, a house of life, and a guild. There will
+be guilds you'll come across from time to time, like the one you initially
+created your party. You'll only need to use them when your characters have died
+and run out of hearts to be revived with.
+
+At the bottom of the town is an item shop and a weapon shop. The item shop
+sells:
+
+Strong: 1: 300GP
+Agility: 1: 300GP
+HP200: 1: 100GP
+HP400: 1: 1000GP
+Potion: 3: 50GP
+XPotion: 3: 200GP
+Bell: 3: 100GP
+Needle: 3: 500GP
+Eyedrop: 3: 500GP
+(Heart): 1: 10000GP
+
+The weapon shop sells:
+
+Axe: 50: 412GP
+Battle(Sword): 50: 989GP
+SMG: 20: 400GP
+Colt: 30: 80GP
+Gold(Shield): 50: 400GP
+Gold(Helmet): 175GP
+Bronze(Armor): 80GP
+Elec(Spell): 20: 500GP
+Fog(Spell): 20: 500GP
+Rod: 30: 1000GP
+
+Once you're done exploring the town and gathering information, exit to continue
+with your journey.
+
+-------------------------------------------------------------------------------
+
+3.09: Caves
+
+From the town, walk north to find a cave entrance. Inside, head off the stairs
+and west. Go north to the end of the path, and then east to an intersection. At
+the intersection, go north to the end of the path. Go east, past the first
+door, to another door. Go through the door and you'll come out on land.
+
+Go to the cave on the other side of the island to enter the caves again. Here,
+go down the stairs and then go west, north along the path and follow it east.
+Continue east through the intersection, and then take the south path leading
+east at the next intersection. Continue east past the next intersection, and
+then follow the path north, to a door exiting the caves.
+
+Here, you'll find yourself on land again. On the left side of the land you'll
+see two small islands attached to the edge of the land. Go over to the top one
+on the left and walk onto it. You'll disappear inside of the island, which
+starts floating. You can now use the island to sail over the water.
+
+-------------------------------------------------------------------------------
+
+3.10: East Island Village
+
+Well, now you have the entire ocean to explore as you wish. Your first stop
+should probably be a village to do some item buying and such. So, go north
+until you come to the end of the ocean (nothing interesting there, just a wavy
+wall which won't let you go further). From there, go east until you come to a
+big island. Go to the edge and press A to get off of your floating island. On
+the bottom of the island is the town.
+
+Again, go around talking to the people in the town to find out some information
+(although don't pay attention to the guy who tells you not to visit the old man
+on an island, you will want to be doing that). Again, there's an inn and a
+house of life here if you need it. As well, there's an item shop and a weapon
+shop. The item shop sells:
+
+Punch: 99: 500GP
+Kick: 88: 1100GP
+Butt: 66: 2100GP
+X-Kick: 44: 4100GP
+Judo: 22: 8100GP
+Karate: 11: 15100GP
+Counter: 20: 5100GP
+Tempter: 30: 5100GP
+
+The weapon shop sells:
+
+Battle(Sword): 50: 989GP
+Katana(Sword): 50: 2060GP
+Saber: 50: 2060GP
+Silver(Helmet): 600GP
+Silver(Armor): 2500GP
+Fog(Spell): 20: 500GP
+Wand: 30: 750GP
+Rock: 16: 100GP
+Gold(Helmet): 175GP
+Long(Sword): 50: 132GP
+
+Once you're done equipping yourself and gathering information, leave the town
+and return to your floating island to continue.
+
+-------------------------------------------------------------------------------
+
+3.11: South Island
+
+You don't really need to do this step if you don't want to, it will just give
+you some information that you could find out by just skipping to the next step
+of this walkthrough. If you want to find it out on your own follow this step.
+If not, just skip over to the next section.
+
+Well, that old man the guy in the previous town told you not to see, you'll be
+going to see him now. From the East Island Village, get back on your floating
+island and head directly south along the east side of the map. Eventually,
+you'll come to a small island with a hut on it. Get off of your island and go
+into the hut.
+
+Walk along the path, past the first intersection, to the second one. Here, walk
+north, past the first intersection to the second one. Here, walk west to the
+end of the path. Then, go north to find the old man. Talk to him to find out
+about the airseed. Then, make your way back outside.
+
+-------------------------------------------------------------------------------
+
+3.12: Airseed/Underwater Town
+
+Head south, down to the very south end of the map, to an island with a number
+of palm trees on it. Stand next to (not on, just next to) the palm tree in the
+middle, and, facing it, press A. You'll get the Airseed. (You can actually keep
+doing that to get more, but, you only need one).
+
+Now, head back to the north, past the South Island, back up to the East Island.
+From the bottom of the island, head west. Eventually, you'll come to a
+whirlpool in the middle of the ocean. Move onto it and you'll be taken
+underwater. Press A to get off of your island, onto the land. Walk off the
+deck, and then go south around the edge of the ocean and then go east. At the
+end, you'll find a town. It's also worth noting quickly that you don't need
+your Airseed anymore, so, you can just throw it away to free up space in your
+inventory.
+
+Here, again, you'll find your usual assortment of people with helpful
+information, an inn and a house of life, and a weapon shop. The weapon shop
+sells:
+
+Katana(Sword): 50: 2060GP
+Coral(Sword): 50: 9880GP
+Saber: 50: 2060GP
+Silver(Shield): 50: 4000GP
+Silver(Gauntlet): 500GP
+Book: 20: 500GP
+Sleep(Spell): 20: 500GP
+Cure: 30: 1000GP
+
+Once you're done in the town, make your way back outside.
+
+-------------------------------------------------------------------------------
+
+3.13: Caves/Sea Palace
+
+From the town, head south to find a stairway. Go onto it to enter the caves. Go
+east (ignoring the path to the south of the entrance), to another path leading
+south. Follow this path around to come to some stairs. Then, walk east to find
+a number of paths leading north. Take the fourth path from the right, to a
+stairway leading up to the ground. From there, head south and you'll come to
+the Sea Palace.
+
+All of the creatures in here are enemies, so, you'll want to avoid them. Go
+east and you'll see a stairway. Head past it for now, and continue to the end
+of the path and a door. Go in it and down the path to find a treasure chest
+with a Bluekey in it. Then, go back out and down the path, to the stairs.
+
+Go north, and then west down the path. At the end is a door you can get into
+using the Bluekey, but, there's nothing inside. Go south, over the bridge, and
+continue south and then east along the path to some stairs.
+
+If you want, follow the twisting path going to the north, and at the end is a
+door. Go through it using the Bluekey, and inside are three treasure chests.
+Inside of them are Silver(Armor), Grenade and Cure(Spell). Then, exit the room
+and go back along the path to the south, and at the end is a stairway.
+
+Go along the path, around to the other side of the water and a door, and enter
+using the Bluekey.
+
+Inside, walk north. As you go north, you'll see two rows of crystals, one
+horizontal and one veritical. Pay attention to where they are in relation to
+the room (or don't and I'll just tell you what you need to know). At the top is
+a room full of orbs. Pressing A in front of a "fake orb" will cause you to
+battle an Atomcrab. Here, stand next to the orb three from the top and three to
+the right (you know, where the two lines of orbs from the previous rooms would
+intersect), and, facing that orb, press A to get the Red Orb. You'll then enter
+into battle with Sei-Ryu. You'll get 4800GP when you defeat him. After the
+battle, look at that orb again and press A to be transported to where you first
+entered this area at the whirlpool (or you could walk back if you wanted, but,
+obviously that would take longer).
+
+-------------------------------------------------------------------------------
+
+3.14: South Island/Tower
+
+Head East until you come to the East Island, and then go south to the South
+Island. Follow the directions from Section 3.11 to get to the old man if you
+need help. Once you get there, he'll ask you a riddle. He'll give you some
+items, and ask what item you could buy for the price of the items he listed.
+The riddle is random, but the answer will be either a Battle(Sword), Rock or
+Needle. Go back to the East Island Village and buy the item you need, and then
+bring it to him. Bring it to him and talk to him again, and if you got the
+right item he'll reward you by giving you the Blueorb. Now, use either the
+Redorb or the Blueorb from your inventory, and they'll combine to give you the
+Blue Sphere.
+
+Now, head back to the southwest corner of the ocean, back to to the tower. Go
+to the southeast corner of the room, where you'll find the locked door.
+
+-------------------------------------------------------------------------------
+
+3.15: Up the Tower (World 2 to 3)
+
+Head up the stairs, to floor 6. Go east, south, then west to a door. Go up the
+stairs, to floor 7.
+
+Again, this sidepath isn't necessary, but it's fun. From the door, take either
+of the paths leading north, and you'll come to a door. Go in and you'll be on
+an island in the middle of the water, but, you can walk in the water. Go north,
+through the water, to some grass, and a row of fish statues. Stand on any of
+the statues and press A. Some will give you little messages. Others will give
+you an XPotion. The ones that give you an XPotion you can press A twice more to
+get 2 more XPotions, but if you press A again you'll be attacked. Once you're
+done, leave the area and go back to the tower.
+
+From the entrance door, walk west to a door and in. Go up the stairs, to floor
+8. Go east, and on the east wall is a pool of water to heal you. Go back west
+and up the stairs, past another pool, and then east. Go south and continue
+south at the split to a door on the east, and into the door. Go up the stairs,
+to floor 9.
+
+Go north, and at the north wall is a door. Inside is a big room, with people in
+beds. There's also a person acting as a house of life and another as an inn.
+Talk to the people and heal, and when you're done go back through the door.
+
+Go south back to where the entrance door was, then south and down the west
+path. Continue past the first split, to the second split going north. Take the
+north path, leading to a door. The room on the west has a treasure chest with a
+P-Knife in it. Continue up the stairs, to floor 10. Go south, and then east.
+Talk to the person standing there, and then continue east. Up the small
+stairway to the north is a door locked by the magic of White. Continue east
+past that stairway to a wider stairway. Go north, up the stairs, to a door, and
+out into the next world.
+
+-------------------------------------------------------------------------------
+
+3.16: Sky Town (World 3, Floor 10)
+
+When you exit the tower, you'll find yourself on a cloud surrounded by sky. Go
+west from the tower, and enter Sky Town.
+
+Here, as usual, heal if you need to, talk to people (there's one thing
+inparticular to do that I'll get to in a moment), and stop by the shops. The
+item shop sells:
+
+Strong: 1: 300GP
+Agility: 1: 300GP
+HP400: 1: 1000GP
+Potion: 3: 50GP
+XPotion: 3: 200GP
+Bell: 3: 100GP
+Eyedrop: 3: 500GP
+Needle: 3: 500GP
+Elixer: 3: 10000GP
+(Heart): 1: 10000GP
+
+The weapon shop sells:
+
+Katana(Sword): 50: 2060GP
+Silver(Sword): 50: 10712GP
+Ogre(Sword): 50: 9880GP
+Saber: 50: 2060GP
+Musket: 30: 800GP
+E-Whip: 50: 800GP
+Grenade: 20: 800GP
+Dragon(Armor): 8500GP
+Wand: 30: 750GP
+Ice(Spell): 20: 500GP
+
+Once you're done with anything you need to do, go to the back of the town, and
+enter the Pub. Go inside and talk to any of the people, and you'll enter a
+fight. After you win, they'll ask if you'd like to join Byak-Ko. You'll agree,
+figuring something good will come of it. You'll then see yourself talking to
+Byak-Ko, who will ask you to bring him a person named Jeanne. After that,
+you'll be on the base of a dock, with a craft below you. Above you is Byak-Ko's
+fortress, but, there's not really anything for you to do here now, so, just
+step onto the craft and fly forward to depart.
+
+-------------------------------------------------------------------------------
+
+3.17: Hidden Town
+
+From where you exit the castle, fly east until you see the tower you entered
+this world from. Then, fly north until you see a small island, 4 spaces big, of
+clouds. Fly into the bottom left square to enter a secret town. Disembark from
+your ship to explore the town.
+
+Go around talking to the people to get more information, and rest or use the
+house of life if you need to. The item shop here sells:
+
+Cure(Spell): 30: 1000GP
+Fire(Spell): 20: 500GP
+Ice(Spell): 20: 500GP
+Elec(Spell): 20: 500GP
+Fog(Spell): 20: 500GP
+Sleep(Spell): 20: 500GP
+Stone(Spell): 20: 5000GP
+Death(Spell): 20: 5000GP
+Flare(Spell): 20: 50000GP
+Book: 20: 500GP
+
+The weapon shop sells:
+
+Silver(Sword): 50: 10712GP
+Saber: 50: 2060GP
+L-Saber: 50: 10480GP
+P-Knife: 50: 3800GP
+Vampic(Sword): 50: 10000GP
+Rune(Sword): 50: 9800GP
+Longbow: 50: 8000GP
+Bazooka: 20: 4000GP
+Flame(Shield): 50: 5500GP
+Giant(Gauntlet): 5000GP
+
+Once you're done here, you can exit again.
+
+-------------------------------------------------------------------------------
+
+3.18: Resistance Base
+
+From the hidden town, fly west until you see land. From there, fly south,
+around the trees, and a bit to the east you'll see a town in the trees. Press A
+to get out of your craft, and enter the base.
+
+Walk over to the bottom right corner of the room to see three monsters
+cornering a girl. Go over and talk to one of them. They're Byak-Ko's workers
+(as you supposedly are as well), and they'll tell you that they have the
+situation under control. Of course, that's not really what you want, so, you
+enter a fight with them. After you take care of them, go over and talk to the
+girl. She'll tell you that her sister is captured in the flying castle, and ask
+you to save her.
+
+-------------------------------------------------------------------------------
+
+3.19: Flying Castle
+
+Exit the base and get back in your craft. Go south, to the Flying Castle. Get
+out of your craft and walk to the castle to enter it.
+
+From the entrance, walk north up the ladder. Go east, and up the three
+stairways, to a door. Go into the door, down the stairs, and east across the
+platform, to another door. From there, go down the two stairways, to another
+door. Walk down and to the east, up the stairs, to another door. Go up the
+stairs and to the east, to a stairway leading down. Go into it and walk across
+the platform to the east, to a door. Go up the stairs, east, and up two more
+stairways, to a door. Go into the door, to find Byak-Ko's room. He's not in it,
+so walk over and get the Whitkey from the treasure chest. Go back out the door,
+up the stairs, and east across the long passageway, up the stairs, to a door.
+You'll use the key and walk inside. Go forward and you'll find some monsters
+guarding a girl. Go talk to one of them to enter a fight.
+
+After you win, go over and talk to the girl. She'll thank you for saving her,
+but just then, Byak-Ko will appear. Apparently, Mileille is working with Byak-
+Ko, and tricked you into getting captured. From there, you'll be tossed into a
+jail cell.
+
+-------------------------------------------------------------------------------
+
+3.20: Jail
+
+Talk to the other people inside of your jail cell, and they'll tell you that
+they couldn't find a way out. Go over to the jail bars and press A, and you'll
+bend the bars and break your way out. Walk to the east, and in the second cell
+over from yours you'll see a sword sitting in front of the bars. Press A in
+front of it, and the sword will ask you to take it, which you do, so you get
+the sword Revenge.
+
+Continue along the path, and you'll come to a guard at the end. Talk to him to
+fight him, and once you beat him, you can go up the stairs. From here, take the
+path west and follow it up to a stairway. Go through the door to the north, and
+follow along the path, to five people guarding a treasure chest. Talk to them
+to fight them, and once you beat them open the treasure chest to get the
+JailKey.
+
+If you want, although not necessary, now that you have the key, you can go back
+to the previous floor to get an item. If you want, go back down the path and
+out of the door, and back down the stairs. Go back down the path, and when you
+come to the intersection with the stairs, continue past them to the east, and a
+door. You'll use the key to open the door and go in. Inside are 6 treasure
+chests, containing: L-Saber, Giant(Gauntlet), Death(Spell), Revive, Elixer and
+XPotion. Once you're done, go back to the room where you got the JailKey.
+
+Now, go through the door on the north wall using the JailKey to find three
+gliders. The two on the left won't start, but the one on the right will. Take
+it and fly forward, down the ramp, to leave.
+
+-------------------------------------------------------------------------------
+
+3.21: Resistance Base/Flying Castle/Tower
+
+Fly north and a bit east, to the Resistance Base. You'll notice the Flying
+Castle right next to it. Get out of your craft and enter the Resistance Base.
+You'll find that Jeanne has been taken. Then, exit the Resistance Base and go
+enter the Flying Castle. After you enter, exit back out again. You'll notice
+that the castle has moved. Enter it again and you'll automatically walk
+forward, where you'll see a scene involving Byak-Ko, Mileille and Jeanne. After
+it's done, you'll enter battle with Byak-Ko. You'll win 5500GP when you defeat
+him.
+
+After you win, Byak-Ko will disappear with the sphere. Don't worry, you'll get
+the sphere right away anyway (you'll just have to watch how). After you're
+done, exit the castle and get back on your craft.
+
+Fly south to the bottom of the world, and then east to the tower. Get out of
+your craft and walk into the tower. Walk south, down the stairs, west, north,
+and up the stairs to a locked door. Use the White Sphere to open the door, and
+enter the tower.
+
+-------------------------------------------------------------------------------
+
+3.22: Up the Tower (World 3 to 4)
+
+Head up the stairs, through the door, to floor 11. In the northwest part of the
+room is a pool to heal you. From there, walk south, east, and down the stairs.
+At the split go west, and then north up some more stairs, to a door. Go through
+the door to some more stairs. Go up, through the door, to floor 12. Go east, to
+a split in the path, and south down the stairs.
+
+Not necessary, but, if you want to do some more exploring, go west at the
+bottom, to a door, and in. You'll find yourself outside of the tower, on a
+cloud. This is kind of a tricky area, since the cloud has undercurrents which
+will force you along at various points. There are treasure chests scattered
+around the area, which you're trying to make your way to. The first one is, on
+the top of the cloud, go all the way to the west, and then four spaces to the
+east from there. Walk south to get to a treasure chest with an Elixer. The next
+chest is, from the tower, walk south to the southern edge of the clouds. Then,
+go secen spaces to the east. Then, walk north until the cloud starts carrying
+you north. While it's moving you, you'll pass a treasure chest. Press A as you
+pass it to open it (which is rather a pain), and get a Vampic(Sword). To get
+the last treasure chest, go to the south edge of the cloud, and then make your
+way to the southwest corner. From the top part of the southwest corner, go 15
+spaces north. From there, walk east to find a treasure chest with a Potion.
+That's all for this area, so, now make your way back to the tower entrance.
+
+Now, from the stairs go east, past a pool, and then north up the stairs, to a
+door. Inside, go to the room on the west to find a treasure chest with a Saw
+inside. Then, continue north up the stairs, to floor 13. Go all the way west
+and up the stairway to find a door to a sideworld, with some people walking
+around saying that they're thirsty. Leave, go back down the stairs, east past
+one stairway and up the next stairway to a door. Go to the space on the west to
+find a treasure chest with an Army(Helmet) in it. Continue up the stairs,
+through the door, to floor 14. From the door, go west to a split. Go south,
+down the stairs, to another split.
+
+Again not necessary, but very profitable. Go south from the split, and through
+the door on the east. You'll find yourself in a sideworld flooded with water.
+Talk to the people to hear about their problems. Then, go south, to the spot
+that looks like a whirlpool. Step onto it, and you'll fall down, to floor 13,
+to the sideworld mentioned shortly before which wanted water, which now has
+water. Now, exit through the tower, go east past one stairway to another, and
+north up the stairs through a door. Go north, up the stairs, back up to floor
+14. Go west, south down the stairs, continue south, and through the door on the
+east. You're now in the world which was flooded with water before, which is now
+a forest. Talk to the people, and then go south to a castle. Inside are four
+treasure chests, with: P-Sword, Elixer, XPotion, and Revive. Now, go south out
+of the castle, north back to the tower, and then west and north to the path
+split where this section took off from.
+
+Go west at the split, and then south at the next split. Go south and west to
+the door. Go up the stairs, to floor 15. Walk east, to the east wall and
+continue on the path north. Go up the stairs and north to a door. Go up the
+stairs, through the door, to floor 16. To the south is a person who you can
+talk to, to get some information to help you in this next world. Then, go
+through the door to the east of the one you came through, out into the next
+world.
+
+-------------------------------------------------------------------------------
+
+3.23: Tunnels (World 4, Floor 16)
+
+In this world, if you walk around aboveground, you'll come across Su-Zaku. You
+can't kill him right now, your only choice is to run away. From the tower, go
+to the building just to the northwest, leading underground. Go south, and at
+the bottom of the stairs a girl will tell you to follow her and run off to the
+west. Go west, and at the end of the path south down the stairs. Go west, to
+the end of the path, where the girl will stop you again and tell you to follow
+her. Go back to the east, and south down the stairs. When you come out, you'll
+see the girl being attacked on the west. Go south and you'll automatically run
+over to help her, and enter battle. After you save her, she'll thank you, and
+tell you there's a town ahead, and run away. Go west, and then north up the
+stairs, and you'll come out by a town. Go west and enter the town.
+
+-------------------------------------------------------------------------------
+
+3.24: Southwest Town
+
+The building on the left when you enter the town is the inn. The building
+straight ahead has the guild on the bottom floor, and an item shop and weapon
+shop on the top floor. The weapon shop sells:
+
+Flame(Sword): 50: 2400
+Ice(Sword): 50: 23880
+Elec(Sword): 50: 24700GP
+Catcraw: 50: 23200GP
+P-Sword: 50: 32000GP
+Saw: 30: 4000GP
+Balkan: 20: 8000GP
+Army(Helmet): 6000GP
+Suit(Armor): 18000GP
+Staff: 20: 5000GP
+
+The item shop sells:
+
+Strong: 1: 300GP
+Agility: 1: 300GP
+HP400: 1: 1000GP
+HP600: 1: 5000GP
+XPotion: 3: 200GP
+Shocker: 3: 100GP
+Eyedrop: 3: 500GP
+Needle: 3: 500GP
+Elixer: 3: 10000GP
+(Heart): 1: 1000GP
+
+Once you're done shopping, go to the northeast side of town. You'll see a
+building with a bike out front. Go inside the building and you'll automatically
+walk over and talk to a person at the back. After you're done talking, you'll
+be able to use the bike outside. Go outside and step onto the bike to get on
+it. Using the bike, you won't run into Su-Zaku as much outside (which is
+definitely a good thing). Then, leave the town and go outside.
+
+-------------------------------------------------------------------------------
+
+3.25: Library
+
+Go into the tunnel to the northeast of the town. Go west and north along the
+path to come to some tracks. Go east on the tracks, and then north at the split
+and up the stairs, back above ground. Go to the tunnel to the southeast, back
+underground. Go east along the tracks and south down any of the paths. Continue
+east along the tracks, and then north up the stairs. Go east, press A to get
+off your bike, and enter the Library.
+
+Go east along the wall until you come to an opening. Go north and up the stairs
+to the next floor. Walk west, between the top rows of bookshelves. Your
+characters will automatically walk along the bookshelf and find the book
+telling the location of Akiba. If you turn around and press A, you'll find a
+Stone(Spell) hidden in the shelf. Now, go back down the stairs and exit the
+library.
+
+-------------------------------------------------------------------------------
+
+3.26: Akiba/Northeast Town
+
+From the spot where the library is, go 14 spaces east and 15 spaces north. When
+you move on top of it, you'll automatically enter Akiba.
+
+Here, there are four buildings with treasure chests. The one you need to get is
+in the bottom right building, the ROM. The bottom left building has a Revive,
+the top right building has a Catcraw, and the top left building has an XPotion.
+
+After leaving Akiba, go north and you'll see a town on the east. The person to
+the north when you enter the town is an item shop, which sells:
+
+Strong: 1: 300GP
+Agility: 1: 300GP
+HP400: 1: 1000GP
+HP600: 1: 5000GP
+XPotion: 3: 200GP
+Shocker: 3: 100GP
+Eyedrop: 3: 500GP
+Needle: 3: 500GP
+Elixer: 3: 10000GP
+(Heart): 1: 10000GP
+
+The person in the 2nd room to the south is a weapon shop, which sells:
+
+Dragon(Sword): 50: 34600GP
+Ice(Sword): 50: 23880GP
+Elec(Sword): 50: 24700GP
+Catcraw: 50: 23200
+P-Sword: 50: 32000GP
+Hyper: 3100000GP
+Ice(Shield): 50: 6000GP
+Geta(Shoe): 5000GP
+Stone(Spell): 20: 5000GP
+Death(Spell): 20: 5000GP
+
+The person in the 3rd room on the north is a house of life. The one in the 4th
+room on the south is an inn. The one in the 5th room on the north is the guild.
+The one in the 6th room on the south is another item shop, which sells:
+
+Antidote: 3: 100GP
+Pan: 3: 100GP
+Symbol: 3: 500GP
+Revive: 1: 15000GP
+Bell: 3: 100GP
+HP200: 1: 100GP
+Rod: 30: 1000GP
+Elec(Spell): 20: 500GP
+Fire(Spell): 20: 500GP
+X-Kick: 44: 4100GP
+
+Once you're done, go to the 3rd room on the north, and there is an opening on
+the back wall. Go through the opening, and go east to find another person. Talk
+to him, and he'll give you the Board. You can now leave the town (don't forget
+your bike).
+
+-------------------------------------------------------------------------------
+
+3.27: Southwest Town/Tunnel
+
+After finishing up in Northeast Town, make your way back to Southwest Town (to
+the southwest, needless to say). Go to the pub, and talk to So-Cho, who will
+tell you his plan, and you'll go to bed. The next day, get up and leave thr
+room. You'll try to leave the town by yourself, but will be stopped. After
+finishing that, you'll be outside the town.
+
+Go east, into the tunnel. Follow the other bike to the east, to meet the other
+bike again. Get out of your bike and talk to it, and then go back in your bike
+and follow it across the gap, and continue to the east, and then south down the
+stairs. Get out and talk to the bike again, and then go east, south, and then
+east over the water and along the path to the east, south, west and up the
+stairs, into the power plant.
+
+-------------------------------------------------------------------------------
+
+3.28: Power Plant
+
+If you walk or ride off the edge here, you'll return to the entrance. Go north,
+and around the path to the west, to some stairs, and up. Take the path to the
+north until you come to a person blocking your path. Get off your bike and talk
+to it to enter a battle. After winning, get back on your bike and continue
+along the path, to the stairs. Go along the path to the north and east, and
+continue south. When you get to the bottom, you'll be stopped by So-Cho. Go
+over and talk to him. He'll break through to the door, and give you a
+Band(Helm). After that, save because once you go through the door you won't be
+able to go back out. Then, get back on your bike and go through the door. Go
+forward, over the poison floor (you'll lose 3HP every step), to the object at
+the end. Get off your bike and get the Plutonium. After getting it, you'll
+enter a battle. After winning, you'll be transported back to Southwest Town.
+
+Enter Southwest town, and you'll find everything has been destroyed (well,
+except the Inn and House of Life). Go back to the pub to get your bike again,
+then leave the town. Also worth noting, you now have Erase99. So, you don't
+need the ROM or Board anymore.
+
+-------------------------------------------------------------------------------
+
+3.29: Skyscraper/Tower
+
+On your way to the Skyscraper, outside you'll now run into actual enemies
+instead of Su-Zaku. Also, the underground tunnel system doesn't work anymore.
+Go straight north from the town, and on the west you'll see a meteor field. Go
+over to it, get off your bike, and walk into the middle to find the Skyscraper.
+
+Go north, and at the path split go west, north, and east to a door. Go inside,
+and then step east to be brought up to another door, and go inside that one. Go
+south, to a gap in the wall. From the gap, walk 4 spaces east, 5 spaces north,
+5 spaces east, 8 spaces south, 5 spaces west, 1 space north, 3 spaces west, and
+then walk south to a door. Inside is a chest with a Hyper. Now, go back out of
+the room and to the path. From the last space before the wall, go 5 spaces
+north, 3 spaces east, 1 space south, 5 spaces east, 3 spaces north, and then
+walk east out of the wall. Go south to the wall, and then walk west and south
+out of the wall again. Go east, and through the door. Step to the east to be
+brought up to another door, and go through it.
+
+Go east, to the second split and then north. At the next split go east to the
+wall, and then north through a door. Go east to the end of the path and then
+south through the door. In this room, the floor has spikes that take off 3HP
+for every step. The room to the southeast has an XPotion if you want it. Then,
+go to the middle of the room and through the left of the two doors. Step west
+to be taken down to another door, and go through.
+
+Go south to the wall. Then, go 5 spaces east, 5 spaces north, 3 spaces west, 3
+spaces north, 5 spaces west, and then north through the door. Step west to be
+taken to another door, and then go through it.
+
+Walk 4 spaces south, and then go east through the wall. Go north and through
+the door. On the west is a treasure chest with an Elixer. Now, go back out of
+the room, south and back through the wall. Go south, and through the door on
+the east. Step west to be brought down to another door, and then go through it.
+
+Go east to the wall, and then south and west, continue west at the split until
+you reach the end, and then go north. At the split go east, to the end, and
+down some stairs.
+
+Go west and north, to find a train at the end. Walk to the east until you find
+some open doors, and go inside. Walk west along the train. You'll come across
+two people along the way. The first one you can talk to, but, the second one is
+just an enemy. At the end you'll come across two people. Talk to the one in
+front, and you'll go onto the top of the train, with Su-Zaku. Use the Erase99
+from your inventory, and then you'll enter into battle with Su-Zaku (who you
+can actually defeat now). After the battle, you'll win 6500GP.
+
+Once everything is done happening, you'll get the last sphere, the Red Sphere.
+Go south and down the stairs, and you'll be outside of the tower. Head back to
+town if you need to do any restocking. Then, go into the tower.
+
+-------------------------------------------------------------------------------
+
+3.30: Up the Tower (World 4 to Top)
+
+Go east, south and west. Walk over the spikes to the door. Use the Red Sphere,
+and enter the tower. Walk up the steps, to floor 17. Go east, past the first
+stairs, to the second stairs, and then north up them. Continue up the stairs,
+to a door, and in. Walk up the steps, through the door, to floor 18. Go east
+and south, to a door. If you continue west to another door, you'll find some
+people inside you can talk to. Once you're done with that, go through the first
+door. Walk to the space on the left to find a treasure chest with a Magnum
+inside. Then, continue up the stairs, to floor 19. Walk north, to some stairs.
+
+If you want to take a sidetrip from here, go west from the stairs and along the
+path. Then, go south down some stairs. On the east is a pool to heal at. Then,
+go west, north, and through the door. Go south, down the stairs, to a room with
+a person on the ground. Go over and talk to him, to read his diary. After
+reading it, you'll get the N. Bomb. Now, go back up the stairs, out the door,
+south and then north up the stairs, east along the path, to where you left off.

@@ -1,0 +1,555 @@
+Final Fantasy Legend II Save State Hacking Guide
+Usable with the SMYGB emulator (.mgb style save states)
+Written by Thundergod (dragon_god_inferno@yahoo.com)
+
+Version 1.0: First draft.  Includes most, if not all, character info, plus
+all item and technique modifier values.
+Version 1.1: Oops!  Made a few corrections to the offsets list.
+
+Unpublished work Copyright 2001 Thundergod
+
+This FAQ is for private and personal use only.  It can only be reproduced
+electronically, and if placed on a web page or site, may be altered as long
+as this disclaimer and the above copyright notice appears in full.  This FAQ
+is not to be used for profitable/promotional purposes; this includes being
+used by publishers of magazines, guides, books, etc. or being incorporated
+into magazines, etc. in ANY way. This FAQ was created and is owned by me,
+Thundergod <dragon_god_inferno@yahoo.com>. All copyrights and trademarks are
+acknowledged that are not specifically mentioned in this FAQ.  Please give
+credit where it is due.
+
+Thanks go to:
+
+Ragnarosen (ragnarosen@hotmail.com) for the form of the following paragraph,
+and for the section on hexadecimal.
+Kao Megura (kmegura@yahoo.com) for the copyright statement.
+
+To download ROMs and emulators for all systems, go to www.pe2000.net.
+
+To alter the statistics of your characters through hacking into your save
+state (or .mgb file), you'll need to go to Break Point Software
+(http://www.bpsoft.com) and download a program called "Hex Workshop." Once
+you're finished downloading and the program is finished running SETUP.EXE
+automatically, open Hex Workshop and use it to open any Final Fantasy Legend
+II .mgb files you may have.
+
+NOTE: This Hacking Guide was designed for use with the SMYGB emulator, and
+was hacked with Break Point Software's Hex Workshop. This guide will not work
+with any other programs, as each one works with the save states differently.
+
+-----------------------------------------------------------
+
+OFFSETS:
+
+Most of the questions I get anymore have to do with offsets - what are they,
+how do I tell what I'm editing, I don't understand hacking in general, etc.
+As far as I am concerned, the help Section is as thorough is it is going to
+get.  The only way I could explain it any better would be to point at the
+screen and say, "See that there?  That's what you need to change!"  Since I
+can't do that, you'll just have to be on your own if you need any help more
+detailed than what I have included below.
+
+If you REALLY cannot figure out offsets and hacking on your own, read the Hex
+Workshop help file.  For the best explanation (with pictures), open the help
+file and click on the Find tab.  Search for offset, click on the first option
+(there should be four), and click on "How to Hex Edit" in the box below.
+Read over that very carefully, and you should have no trouble with hacking
+and finding offsets after that.  If you STILL do not understand, then odds
+are hacking is, quite seriously, not for you.  If you have reached this stage
+and do not understand, do not e-mail me, for I will not be able to help you.
+Do not ask me to hack files for you; I will ignore any request to do so.
+
+-----------------------------------------------------------
+
+Help!  Answers for commonly asked questions:
+
+You don't use a cartridge in the Game Boy for this process.  Have you heard
+of emulation?  An emulator is a program on your PC (or Mac) that you can use
+to play the games you have.  First, you need to download an emulator (SMYGB
+is the best, in my opinion) and the Final Fantasy Legend II ROM.
+
+Once you have both, load up the ROM in your emulator.  If you are using
+SMYGB, press F5 to save the game's state.  This will make a copy of that
+EXACT moment in the game, so when you load the state (F6) it will reappear
+right at that point.  Now that you have a save state file (.mgb for SMYGB),
+load up the Hex Workshop program, load the save state, and hack away!
+
+This can only be done on the computer, when you are using an emulator (like
+SMYGB) and ROMs (in this case, Final Fantasy Legend II.)  Go to
+www.pe2000.net for ROMs, emulators, and how to use them.  If you already
+know, and/or are already using an emulator, then move on to the next
+paragraph.  Otherwise, get them so that you can follow the rest of this.
+
+Once you are using an emulator, you may have found out how to use save
+states.  Basically, save states save all the details of your game at that
+exact moment.  Thus, you can use it more often, and faster, than regular
+saving.  For example, if you want to save your state right before making a
+choice (like a fork in the road,) if you choose the wrong path, you can just
+load up your save state and choose again.
+
+At any rate, to begin hacking, go to the Breakpoint software homepage
+(www.bpsoft.com) and download a copy of Hex Workshop.  Load up your favorite
+emulator (whatever that may be) and make a save state.  A SMYGB save state
+will have the same name as the ROM, and will have the file extension .mgb.
+For SMYGB (the best emulator , in my opinion) press F5 to save a state, and
+F6 to load a state.  Next, load up Hex Workshop and load the save state (ex:
+ffl2.mgb)  Use the "go to" command, which should be under Edit, to got to the
+offset you are looking for.  For example, if the offset is 90B4, type 90B4
+and press enter, and it will take you right to it.
+
+Keep in mind that this all uses the hexadecimal system, which means that not
+only is there 0 - 9, but also A - F.  A = 10, B = 11, and so on.  This is
+called hexadecimal because there are 16 numbers instead of ten.
+
+So, let's say that offset 24041 is the offset for speed, and you want speed
+to be at max (255, FF in hexadecimal).  Use "go to" to go to offset 24041,
+and then type in FF.  Next, save the data, and open the emulator again.  Load
+the state, and voila! the character's speed will be at 255.  Note that you
+can make as many changes as you want before reloading the state (not just
+one, as in the example), and that you should close Hex Workshop before
+reloading the state.
+
+To find a particular offset easily, use the "go to" command in the edit menu
+(I think).  Remember, because of the hexadecimal system you can also enter
+letters from A to F.  For example, if the offset is 2041A, use "go to" and
+type in 2041A.  The program will take you right to it!  Also, somewhere on
+the screen (bottom right corner I think) a small box will say what offset you
+are currently on (ex. Offset: 2041A).
+
+Now for the entering of values.  Let's say you want to change the Hero's
+attack to 99 (which is the max).  To do that, go to the offset that changes
+attack (I forget the number) and type in two number (or letters from A to F)
+The hexadecimal system is hard to grasp at first.  In the 99 example, 99
+become 63 in hexadecimal form.  In decimal (or standard) form, the base is
+ten.  This means that for a number (say 1429) each digit is multiplied by an
+increasing power of ten.  For 1429, it looks like this:
+
+(9*1)+(2*10)+(4*100)+(1*1000) or (9*10^0)+(2*10^1)+(4*10^2)+(1*10^3)
+
+with the carat (^) referring to the power of the number.  If you already know
+how to work with powers, I  apologize for repeating this basic information.
+As you can see, the powers of the digits increase at we go along.  In
+hexadecimal, the base is 16, not 10, so there are a few changes.  Here's what
+1429 would look like in hexadecimal:
+
+(9*1)+(2*16)+(4*256)+(1*4096) or (9*16^0)+(2*16^1)+(4*16^2)+(1*16^3)
+
+Thus, 63 in hexadecimal equals 99 in decimal because (3*1)+(6*16) equals 99.
+The highest number you can get with one offset is 255 (FF in hexadecimal).
+
+Two offset changes are much harder, because the number that you are trying to
+change is broken up into two pieces.  For these numbers, refer to the list of
+useful numbers at the beginning of the guide.  For example, input E703 to get
+999 and 0F27 to get 9999.  Thus, if the two offsets for exp are 2041C and
+2041D, type in 0F at offset 2041C and 27 at offset 2041D.  Keep in mind that
+the first offset controls the lower numbers (up to 255) so if you change that
+by one you will change the number by one.  However, the second offset
+controls the larger numbers, so a change of one might change the number by
+100 or more.  If you want, say, 9995 exp, lower the first offset from 0F to
+0C, which is four numbers lower.
+
+-----------------------------------------------------------------------------
+---
+
+Those new to hex and hex editors can read the following:
+  - Typical hex editors display a file with "offsets" on the left of the
+screen, "hex values" in the middle, and the "printed garbage" on the right
+of the screen.
+  - Offsets are the addresses. It may appear like this: 00000000
+  - Hex values are the values. They may appear like this: E6 03 20 20 FF
+  - The printed garbage is there only so humans can look at it. It's not
+very pretty; it won't help you in most cases; don't worry about it.
+  - This guide will represent the offsets in this format: #B9
+  - The last number (0-9, A-F) in an offset is the COLUMN you need to go
+to. So for the offset of #B9, go to the line "000000B0" and the 9th column
+to the right.
+
+-----------------------------------------------------------------------------
+---
+
+  - For the different offsets, here's a Quick List of the most commonly
+used values:
+
+HEX VALUE       DECIMAL VALUE           USES
+-----------------------------------------------------------------------
+"63"            for "99"        used for levels, item quantities
+"FF"            for "255"       used for statistics
+"E7 03"         for "999"       used for HP, Max HP, statistics
+"0F 27"         for "9999"      used for HP, Max HP
+"FF FF"         for "65535"     used for HP, Max HP
+"3F 42 0F"      for "999,999" used for money or experience
+
+-----------------------------------------------------------------------------
+---
+
+NOTE: For the two- or three-column HEX VALUES ("E7 03"), the numbers must
+be entered "backward" as shown above to work properly.
+    - When saving large numbers to computer language, the order of the hex
+values are reversed.  If you open Windows Calculator and enter "999" in
+decimal form and convert it to hexadecimal form, it will show "3E7" (note
+that Calculator will remove any leading zeros).  To use this multi-column
+hex value, add any necessary leading zeros (in this case, in front of the
+"3") to make even pairs ("03 E7").  Put the number pairs in reverse order
+("E7 03") in the ffl2.mgb files.
+    - THIS DOES NOT MEAN TO REVERSE THE VALUES!  "03 E7" must be entered
+as "E7 03", not "30 7E"!  For the basic rule of thumb, number pairs are
+entered like this: #2 #1 (or #3 #2 #1 for very large numbers)
+
+-----------------------------------------------------------
+
+Money: 55CD8, 55CD7, 55CD6
+Items: 55CED - 55D0C
+
+Note: Each item consists of two parts, the item itself and how many uses that
+item has left.  The type of item is located in the first offset, immediately
+followed by the number of item uses in the second.  For example, the very
+first item has the type located in offset 55CED, followed by the number of
+uses in offset 55CEE.  The second item slot would use offsets 55CEF and
+55CF0, the third using offsets 55CF1 and 55CF2, etc.  The Equipped
+Items/Techniques offsets for each character follow the exact same pattern.
+
+Also, to make ANY item have infinite uses, change the number of uses to FE,
+which will appear as a dash in the game.  No more having to worry about your
+weapons breaking, or running out of Flare books!
+
+CHARACTER OFFSETS:
+
+First Character:
+
+Name: 55C34 - 55C37
+Sprite/Race Name: 55C38
+Race: 55C39
+Status: 55C3B
+Present HP: 55C3C, 55C3B
+Maximum HP: 55C3E, 55C3D
+Strength: 55C3F
+Agility: 55C40
+Mana: 55C41
+Defense: 55C42
+Equipped Items/Techniques: 55C43 - 55C53
+
+Second Character:
+
+Name: 55C54 - 55C57
+Sprite/Race Name: 55C58
+Race: 55C59
+Status: 55C5B
+Present HP: 55C5C, 55C5B
+Maximum HP: 55C5E, 55C5D
+Strength: 55C5F
+Agility: 55C60
+Mana: 55C61
+Defense: 55C62
+Equipped Items/Techniques: 55C63 - 55C73
+
+Third Character:
+
+Name: 55C74 - 55C77
+Sprite/Race Name: 55C78
+Race: 55C79
+Status: 55C7B
+Present HP: 55C7C, 55C7B
+Maximum HP: 55C7E, 55C7D
+Strength: 55C7F
+Agility: 55C80
+Mana: 55C81
+Defense: 55C82
+Equipped Items/Techniques: 55C83 - 55C93
+
+Fourth Character:
+
+Name: 55C94 - 55C97
+Sprite/Race Name: 55C98
+Race: 55C99
+Status: 55C9B
+Present HP: 55C9C, 55C9B
+Maximum HP: 55C9E, 55C9D
+Strength: 55C9F
+Agility: 55CA0
+Mana: 55CA1
+Defense: 55CA2
+Equipped Items/Techniques: 55CA3 - 55CB3
+
+Note: The Sprite/Race Name offset must be combined with the Race offset if
+you want to accurately change a character's race during the game.  If you
+change the Sprite/Race Name without changing the race, you might have a
+character who looks like a robot and is called a robot on the status screen,
+but who will still essentially be a human-type character unless you change
+the Race value to robot (03) as well.
+
+RACE MODIFIER VALUES:
+
+00: Human
+01: Mutant
+02: Monster
+03: Robot
+
+SPRITE/RACE NAME MODIFIER VALUES:
+
+F0: Human Male
+F1: Human Female
+F2: Mutant Male
+F3: Mutant Female
+F4: Robot
+F5: Slime
+F6: Baby Dragon
+F7: Imp
+
+ITEM/SKILL MODIFIER VALUES:
+
+00: Hammer
+01: Long Sword
+02: Axe
+03: Battle Sword
+04: Katana
+05: Gold Sword
+06: Coral Sword
+07: Ogre Axe
+08: Dragon Sword
+09: Sun Sword
+0A: Flame Sword
+0B: Ice Sword
+0C: Thunder Axe
+0D: Defend Sword
+0E: Rune Axe
+0F: Rapier
+10: Sabre
+11: Cat Claw
+12: Vampric Sword
+13: Glass Sword
+14: Revenge Sword
+15: Bow
+16: Gold Bow
+17: Bronze Shield
+18: Silver Shield
+19: Gold Shield
+1A: Flame Shield
+1B: Ice Shield
+1C: Dragon Shield
+1D: Cure Potion
+1E: X-Cure Potion
+1F: Curse Potion
+20: Eye Drop
+21: Abacus
+22: Excalibur
+23: Samurai Bow
+24: Cure Book
+25: Prayer Book
+26: Fire Book
+27: Ice Book
+28: Thunder Book
+29: Fog Book
+2A: Sleep Book
+2B: Stone Book
+2C: Death Book
+2D: Mage Staff
+2E: Wizard Staff
+2F: Heal Staff
+30: Flare Book
+31: Bronze Helm
+32: Silver Helm
+33: Gold Helm
+34: Dragon Helm
+35: Bronze Armor
+36: Silver Armor
+37: Gold Armor
+38: Dragon Armor
+39: Arthur Armor
+3A: Bronze Gauntlets
+3B: Silver Gauntlets
+3C: Gold Gauntlets
+3D: Giant Gauntlets
+3E: Ninja Gauntlets
+3F: Hermes Shoes
+40: Hecate Shoes
+41: Elixir
+42: Soft Potion
+43: Power Potion
+44: Speed Potion
+45: Magic Potion
+46: Body Potion
+47: Tent
+48: Whip
+49: Blitz Whip
+4A: Chainsaw
+4B: Counter
+4C: Colt
+4D: Musket
+4E: Magnum
+4F: Punch
+50: Kick
+51: Headbutt
+52: X-Kick
+53: Jyudo
+54: Karate
+55: Temptat
+56: Stun Gun
+57: Heat
+58: Com Virus
+59: DNA
+5A: SMG
+5B: Grenade
+5C: Bazooka
+5D: Vulcan Cannon
+5E: Tank Cannon
+5F: Fire Gun
+60: Missile
+61: Nuke
+62: Giant Armor
+63: Army Helm
+64: Army Armor
+65: Geta Shoes
+66: Sypha
+67: Coin
+68: Kimono
+69: Samurai Shield
+6A: Muramasa
+6B: Gungnir
+6C: Laser Sword
+6D: Psi Knife
+6E: Psi Sword
+6F: Laser Gun
+70: Speed Up
+71: Rocket
+72: Psi Gun
+73: Giant Helm
+74: Hyper Cannon
+75: Battle Armor
+76: Parasuit
+77: Door
+78: Micron Potion
+79: Key
+7A: Masamune Magi
+7B: Aegis Magi
+7C: Heart Magi
+7D: Pegasus Magi
+7E: Self Fix
+7F: Seven Sword
+80: Nail
+81: Tusk
+82: Tongue
+83: Stab
+84: Branch
+85: Bash
+86: Punch
+87: Kick
+88: Horn
+89: Thorn
+8A: Sword
+8B: Head
+8C: Beak
+8D: Tail
+8E: Pincer
+8F: Fin
+90: Tentacle
+91: W-Pincer
+92: W-Attack
+93: 4-Heads
+94: 8-Legs
+95: Touch
+96: Saw
+97: Dissolve
+98: Absorb
+99: Cure
+9A: Defense
+9B: Shell
+9C: Shell
+9D: Mirror
+9E: Counter
+9F: Burning
+A0: 2-Swords
+A1: 2-Tusks
+A2: 3-Heads
+A3: 3-Horns
+A4: 6-Arms
+A5: Critical
+A6: Axe
+A7: Honey
+A8: Heal
+A9: Life Potion
+AA: W-Kick
+AB: Para Nail
+AC: Wind Up
+AD: Tie Up
+AE: Breath
+AF: Poison
+B0: Poison
+B1: P-Skin
+B2: Para Skin
+B3: Petrify
+B4: Stone Skin
+B5: Thunder
+B6: Ice
+B7: Fire
+B8: Flame
+B9: Gas
+BA: Blizzard
+BB: Lightning
+BC: Beam
+BD: P-Blast
+BE: Dispel
+BF: D-Beam
+C0: Squirt
+C1: Sun Burst
+C2: Sleep Gas
+C3: Sleep
+C4: Stone Gaze
+C5: Stone
+C6: Stone Gas
+C7: Fatal Gas
+C8: X-Gaze
+C9: Erase
+CA: Blind
+CB: Flash
+CC: Ink
+CD: Poison
+CE: Gaze
+CF: Stunner
+D0: Gaze
+D1: Charm
+D2: Hypnos
+D3: Sand
+D4: Cobweb
+D5: Blitz
+D6: Drain
+D7: Stench
+D8: Mirror
+D9: Tornado
+DA: Quake
+DB: Whirl
+DC: Flare
+DD: Steal
+DE: Explode
+DF: Acid
+E0: Riddle
+E1: Curse Song
+E2: Mad Song
+E3: Surprise
+E4: Warning
+E5: Multiply
+E6: Strong Against Quake
+E7: Strong Against Change
+E8: Strong Against Fire
+E9: Strong Against Poison
+EA: Strong Against Damage
+EB: Strong AgainstWeapon
+EC: Strong Against Paralyse/Poison
+ED: Strong Against Paralyse
+EE: Strong Against Ice
+EF: Strong Against Stone
+F0: Weak Against Fire
+F1: Weak Against Ice
+F2: Weak Against Thunder
+F3: Teleport
+F4: Heal
+F5: Strong Against All
+F6: Poison
+F7: Aegis Magi
+F8: Masamune Magi
+F9: Masamune Magi
+FA: Flare
+FB: True Eye Magi
+FC: (Blank Space)
+FD: Smasher!
+FE: Recover
+FF: (Blank Space)

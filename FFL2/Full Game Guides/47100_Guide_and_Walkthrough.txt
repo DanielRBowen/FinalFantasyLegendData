@@ -1,0 +1,1127 @@
+Final Fantasy Legend 2 FAQ/Walkthrough
+
+Created by Niahak (http://www.niahak.org)  Send any comments to
+niahak @ gmail.something.  And by .something you know what I mean.
+
+Final Fantasy Legend 2 (c) Squaresoft.  I had nothing to do with the making
+of this game, etc.
+
+Contents
+
+0.0 Notes on this FAQ
+1.0 Notes before starting
+2.0 Recommended groups
+3.0 Walkthrough
+4.0 Closing notes
+
+0.0 Notes on this FAQ---------------------------------------------------------
+
+This FAQ is intended to be a guide for Final Fantasy Legend 2 (or SaGa 2:
+Hihou Densetsu).  It is not my intention to write a guide that will hold the
+player's hand, but hopefully it will give the player an idea of how to play,
+possible strategies against bosses, treasures to find, etc.
+I am also playing through the game in Japanese after having beaten it a few
+times in English, so I will make note of any translation quirks or differences
+in-line.  They'll be marked with the following:
+Trans: This is a translation note!
+
+Enjoy!
+
+Changelog:
+
+2/21/07: After consistent near-daily updates, this FAQ is complete as of now.
+
+2/04/07: FAQ through part of World 4.  This shall be known as 0.4.
+
+1/29/07: FAQ started and all the way up to the end of World 2.  Let's call
+this 0.2.
+
+------------------------------------------------------------------------------
+
+1.0 Notes on the Game---------------------------------------------------------
+
+Before starting a game of Final Fantasy Legend 2 for the first time, it's
+important to know if a few of the mechanics.  If you've played it before, go
+ahead and skip this part.
+
+1. Usable items have a set number of uses.  This means a long sword, when
+bought or found new, can only be used in battle a total of 50 times.  There
+are exceptions, but only in certain cases explained later.  Keep in mind that
+this even includes spells.
+
+2. There are no "levels".  Characters grow bit by bit randomly at the end of
+each battle.  Using a weapon or spell may increase a corresponding stat.
+
+3. There are four character types: Human, Mutant, Robot, and Monster.
+a. Humans grow the fastest and are actually quite versatile.  They can be
+expensive to keep buying items for, but they can even make good spellcasters
+if you're willing to spend the money.  They have just about the best potential
+of any character type.
+b. Mutants grow slower than humans, but can randomly gain useful traits.
+These traits range from a spell-like "ability" like Fire or Thunder to a
+passive ability that allows you to attack first more often.  If the ability
+has a certain number of uses, they are replenished at an inn.  You can even
+select which ability gets replaced based on where you put it in their
+inventory.  As a result of their abilities, however, they can't use as much
+equipment.
+c. Robots don't grow at all.  Their abilities are based entirely on what
+equipment you give them.  Give them a long sword and their HP and Strength
+increase; a bronze shield and their HP and Defense increase.  Robots are
+generally the best front-line character due to high HP and Def potential, but
+there is a limit to how good they can be.  Robots can also only use items
+half as much as usual; e.g. Give them a long sword with 50 uses and it is
+reduced to 25.  However, these are restored upon resting at an inn.  Also,
+Robots cannot use magic at all.  Part of the advantage of robots is that they
+can equip multiple of any armor type i.e. multiple helmets, so they can have
+incredibly high defense.  In addition, the bonuses an armor gives are based
+on the material rather than type; i.e. bronze bracers give the same defense
+as bronze armor.
+d. Monsters grow by eating other monsters' meat.  They generally become the
+"same" as an enemy monster you can find in the game; this is both a limit and
+an advantage.  Personally, I don't use them often, but I could see why they
+could be useful
+e. As a final note, there's no significant difference between Male and Female
+characters growth-wise.  Strength starts higher for males, Agility for
+females.  Male Mutants start with Blizzard as their first ability, Females
+start with Flame.
+
+4. You choose your group at the beginning of the game, and you're stuck with
+that group until the end of the game, so choose wisely!
+
+5. The main stats in this game are Strength, Defense, Agility, and Mana.
+a, Strength affects damage with many weapons and (your) monster attacks.
+b. Defense affects how much damage you take.  It isn't just subtracted from
+   the "full" damage, so having any amount more defense is useful.
+c. Agility affects damage with many non-Strength weapons, speed in battle,
+  and chance to hit.  It also has a bearing on ability to run away.
+d. Mana affects the damage of spells and some special abilities, as well as
+  the effect those have on you (i.e. a character with more mana can be healed
+  more easily).  This can only work in your favor, so having higher Mana
+  gives you more resistance as well as easier healing.
+
+5. Although growth is based on the weapon you use, it does not seem to be
+based on how much damage you do.  Killing an enemy may help somewhat, but it
+is still possible to gain stats doing single-digit damage.  It's even possible
+to gain stats while missing the enemy!  It does not seem to matter what level
+of enemies you fight; enemies from the first world make your stats grow just
+as much as those later on, regardless of your current stats.  Also, a
+character doesn't need to "act" in the last round of battle to gain stats.
+
+b. After some experimentation, I have to conclude that the growth is entirely
+random.  At 13 Agi, I had to fight 13 fights and kill 13 enemies to grow.
+Then, I gained one more Agi in the next battle.  Though I thought the stat's
+value itself might be the upper bound on battles to fight or enemies to kill
+to gain a stat, this is not the case.  At 16 Agi, I had to fight 53 fights
+and kill 48 enemies to raise Agi one point.  After this point, I gave up on
+trying to figure out how growth works.  Here's the (rather limited) data.
+
+	Agi	Battles		Killed
+	13 	13		13
+	14 	01		01
+	15 	04		04
+	16 	53		48
+
+In about this same time, everyone's HP rose about 200 total, and my other two
+characters, with Agi starting at 24, rose 1 and 4 respectively (and acted
+around the same amount, with a kill on each hit).
+
+6. As you progress through the game, you will acquire MAGI that you can equip
+on characters.  Many of MAGI are ability-based and affect a stat, while some
+affect elemental resistance or give a certain ability.
+a. "Stat" MAGI are Strength, Defense, Agility and Mana MAGI.  These give a
+huge boost, particularly early on.  A character with MAGI will usually do
+around double the damage of a character without (all stats being equal, etc),
+or a DEF MAGI character will be considerably sturdier.  My working theory is
+that a Stat MAGI doubles the stat in question for calculation purposes.  The
+number of MAGI does not seem to matter.
+b. Elemental MAGI give a character resistance to an element.  Not much to say;
+only use them if you're in a situation where enemies use elemental abilities.
+c. Ability MAGI are found near the end of the game.  By the time you get them,
+most of them aren't too useful with one exception I'll note later.
+
+------------------------------------------------------------------------------
+
+2.0 Recommended groups--------------------------------------------------------
+
+Some of these are recommended in the instruction manual, but here they are in
+my order of preference.
+1. Two humans, one robot, one mutant.  This is my favorite party to use as it
+is reliable, but versatile.  You can switch your mutant's role in for either
+humans if, like me, you prefer to have a human spellcaster.  The mutant may
+fall to the wayside near the end of the game if its growth is too slow.
+2. Three humans, one robot.  The ultimate in reliability.  Your robot will be
+a good front-line fighter through the end of the game, while the humans each
+fill in one of the strength/agility/magic roles. Since the humans generally
+have high HP, you don't need to worry as much about their fragility as you
+would with mutants.  I'm still trying this party out, but it looks like it is
+fairly powerful.  It's rather expensive.
+3. One of each type: Also versatile, but probably easier on the GP.  You can
+equip the robot with whatever items you find but decide your human and mutant
+don't need, and your monster needs no equipment.  Your mutant can be a good
+spellcaster, while your human can choose to focus on agility or strength.
+The robot makes a good front-liner, while the monster can support depending
+on what type it is.
+4. 4 humans.  Pretty versatile, but this group can also be very expensive.
+One of your party members has to be relatively sturdy, and who has the max HP
+will vary throughout the game, so you may have to switch around your armor
+depending on who has the most HP.  This is also the most reliable group, as
+you can easily manipulate the growth of stats.  It may take a lot of fighting
+to get the most potential out of this group.
+
+Other groups are possible, but (obviously) not recommended.
+------------------------------------------------------------------------------
+
+3.0 Walkthrough---------------------------------------------------------------
+
+Intro translation notes: The game was originally called Hihou Densetsu, or
+"Legend of the Relics".  "Hihou" does not translate well, as most dictionaries
+call it "Treasured article"; I think that "Relic" is the closest translation.
+MAGI was derived from what most of them are named; Strength, Agility, etc. are
+all "Strength MaGi" (pronounced Ma then Gi).  Element MAGI are similar.  It
+is no wonder that they simply kept the MAGI word.
+
+The Prism MAGI was originally called "Spirit Mirror".  It is my guess that
+all "special" MAGI were not originally called such.  I will note these when
+I notice them.
+
+Also, the icons for swords, armor types, and spellbooks were not in the
+original.  They were introduced to save space, and actually a really neat
+idea.  Many other item names were shortened for the same reason - the "Colt"
+was originally "Derringer", while "Hammer" was originally "Battle Hammer".
+For most items, I'll refer to the original name.
+
+Hometown----------------------------------------------------------------------
+
+Not much to see here.  Some plot revolving around why your character embarks
+upon a quest to track down his/her father by finding MAGI, you choose your
+party, etc.
+
+Trans: Mr. S was originally "Sensei" (or simply "Teacher").  He is of class
+"Schoolteacher".
+
+You can get potions from the townsperson inside the top house.  Other than
+that, nothing to do here.
+
+Mr. S joins your party as you leave.  You don't have him for long, but he's
+useful for taking out the larger groups of Jaguars that might otherwise
+cause problems.
+------------------------------------------------------------------------------
+
+Go to the cave North of town to continue.
+As a general note, from here on out, if you have a guest in your party you can
+talk to them by pressing B.  They usually don't say anything useful.
+
+North Cave--------------------------------------------------------------------
+
+This is a fairly straightforward dungeon.  On your way through, you'll find
+Treasures:	Bronze shield
+		Potion
+		Hammer
+		Bow
+
+The bow is not toou seful.  Damage is based on strength, but I've never got a
+stat increase off of it.  The hammer is not useful, either, as you start with
+better weapons.  Both shield and hammer might be good robot fodder.
+
+As you exit the cave, you'll be attacked by a small dragon.  He would be a
+boss, except he goes down in one Dissolve or a shot from a Colt.
+------------------------------------------------------------------------------
+
+Mr. S leaves your party at this point.  Enter the town.
+
+East Town (W1)----------------------------------------------------------------
+
+You'll get a short event with a hat-donning individual here.  Too bad it isn't
+that easy to find your father!
+
+I recommend buying some rapiers and longswords here.  If you're planning to
+make a human magician, it's better to focus on speed for them early on so they
+go faster than monsters and dodge better, so you may want extra rapiers.
+Also, the next time you'll have a chance to get the cheap-but-good early
+swords is after the first world.  You may also want to get bronze bracers,
+as they are cheap and prevent a good deal of damage in the long run.
+
+You'll hear about Ki in town.  Ki (pronounced "Kai") is a priestess of Isis,
+working in a shrine West of town.
+Trans: She's described as "cute" by one townsperson.
+
+You have no other leads, so why not check it out?
+
+-----------------------------------------------------------------------------
+
+Keep traveling West to find the shrine.
+
+Shrine to Isis---------------------------------------------------------------
+
+Here, you can talk to Ki and find out that she might've seen your father.
+Trans: She asked if he was "a kind of cool-looking man wearing a hat". :)
+Apparently your characters get it just from that description.
+
+She tells you that you might find MAGI in a ruined temple to the South.
+I believe it was 3 East, 4 South of the mountain in the South.
+
+-----------------------------------------------------------------------------
+
+Ancient Temple---------------------------------------------------------------
+
+This is, again, fairly straightforward.
+Treasues: 	Whip
+		Potion
+		3 MAGI
+
+As you progress through the dungeon, it appears to be branching but it is
+usually one path.  The only exception is where you can either get a potion
+or keep going.  Take it or leave it.
+
+Once you get close to the end, some mysterious men run off, thinking you're
+with Ashura.  Be sure to grab the MAGI in the chests in the final room.
+
+MAGI Tutorial=================================================================
+Many MAGI can be equipped for special bonuses.
+	Stat-based MAGI complement your stats passively.  I'm not sure whether
+	the bonus is multiplicative or just a straight-up bonus.  I think it's
+	a bonus of +10 per individual MAGI of that stat you have.
+	Elemental MAGI give you resistance against that element.  I don't
+	think more help.
+	Special MAGI give you the ability to use them in battle.  You'll
+	encounter them later.
+==============================================================================
+Here, you get a MAGI each of Strength, Defense, and Magic.  Equip them on your
+appropriate characters.
+
+Oh no!  Ashura's men got the other MAGI.  Go back and report to Ki.  She'll
+decide to join you to take down Ashura's base in this world, which is in the
+North.
+
+Ki is a good healer, magician, and even a decent fighter.  She's a bit low
+on life, but since she's the guest enemies almost never attack her.  Her
+lightning is invaluable.
+
+On the way, you'll pass North Town.
+
+North Town--------------------------------------------------------------------
+
+I honestly have no idea why this town is here.  The weapons and armor are
+way out of your price range unless you're fighting a lot.
+
+It can be, however, somewhat useful soon.
+------------------------------------------------------------------------------
+
+Ashura's base is to the East, through some mountains.
+
+Ashura's Base-----------------------------------------------------------------
+
+Zombies roam around in this area and are instant encounters if you talk to or
+run into them.  Careful... unless you want to stat-up early.
+
+Treasures:
+	Agility Source
+	Gold Bracer
+	Battle Axe
+
+Mage interlude================================================================
+
+If you're trying to make a human mage (or even a mutant one) then you're
+probably itching to get started.  Psi daggers don't seem to help MAG levels
+much, so you need a way to make money.
+
+If you keep running into zombies, then Ki can help you take down larger
+groups.  The groups of flies are particularly good, netting you 300-400 GP
+for each encounter.  Ki usually goes first, but against the larger groups
+of enemies you can also stat-gain nicely here.
+
+Keep in mind you need 6400 for a spellbook; I recommend Ice as almost every
+group of enemies through the 2nd world has one monster weak to it.
+
+==============================================================================
+
+When you get the Agility Source, consider using it on your Strength fighter.
+It's not noticable now, but Agility is required to hit enemies, so you'll have
+problems hitting with your physical fighter (if they're human or mutant)
+unless they get some agility.
+
+When you come to the branch (going upward), you may as well go left.  There's
+a treasure chest on the left side, and nothing on the right, and both meet up
+in the middle where there's the next stairway.
+
+Finally, at the end, you'll run into... a Rhino.
+
+He'll go down in a few hits.  Careful as he can do some damage, but you should
+have no problems.
+
+The base will start shaking and you need to escape.  Pick up the MAGI on your
+way out.  Defense, Flame, and Ice this time.  I recommend equipping the DEF
+MAGI on your last character.
+
+------------------------------------------------------------------------------
+
+Go to the weird looking thing north of the base.  This is the Pillar of the
+Sky, a sort of heavenly region linking all worlds together.  For now, you can
+only move to the next world, Ashura's desert.  And no, there are never really
+any branching paths.
+
+It's interesting to note that you can speed up your passage through the
+"warps", or slow it down.  This may actually come in useful at some point.
+
+
+World 2 - Ashura's World------------------------------------------------------
+
+Desert Town-------------------------------------------------------------------
+
+Careful, because this town has random encounters inside it.  You'll probably
+want to buy a potion or two, but nothing else here is that great - you'll get
+better stuff soon enough!  Talk to the Pub owner to find out where to go next.
+
+------------------------------------------------------------------------------
+
+Note that in this world, there are "Pebble" monsters who are strong against
+physical attacks.  Try to use abilities or magic to take them out instead.
+
+Basically, you want to go South of town to the cactus.  Then go West 7 spaces
+and South 7 spaces.  There's another cactus South of there.
+
+If you find the clearing, then go to the southernmost part of that and go
+East.  You'll see a cactus one row South of you, go a bit further east then
+down.
+
+Tower Town--------------------------------------------------------------------
+
+Sorry, another no-name town.  This one has hidden buildings for no reason.
+This town has a bit better gear, but you'll still find both a Sabre and a
+Battle Sword in the Tower.
+
+Here, you'll hear that a spy from the Guardians was captured by Ashura's men.
+Trans: One townsperson said he was "a conceited man wearing a hat".
+
+If you have the spare money, consider buying a Cure spellbook.  If you have a
+Mana of 10 or more, they're a lot more convenient than potions, albeit more
+expensive.
+
+------------------------------------------------------------------------------
+
+Head South to Ashura's Tower.
+
+Ashura's Tower----------------------------------------------------------------
+
+Treasures:	Saber
+		Colt
+		Gold Shield
+		Mana Source
+		Strength Source
+		Battle Sword
+		Gold Helmet
+
+
+
+It's pretty straightforward... again.  Keep going up and you'll find a room
+with another plot-related monster...
+
+Woodman is not too tough.
+
+After beating Woodman, a mysterious fellow joins your party.
+
+Mask: He's pretty well-rounded stat-wise, but he doesn't have any equipment...
+yet.  He has stats in the 30s and will likely carry your upcoming fights
+himself.
+Trans: Mask is appropriate (orig. Fukumen).  His class is "Mystery Man". :)
+Move forward...
+And you find Mask's equipment.  Why?  I have no idea.
+Come to think of it, Mask actually has some "natural" defense, as he has 11
+defense with all Bronze equipment.  But he gets... a hammer.  If you have a
+spare one, give the man a long sword to make the next few fights easier.  You
+lose it when he leaves, but it wasn't much of an issue for me.
+
+For once, Mask has something useful to say.  Magic isn't effective against
+Ashura, so you should be ready to hit him hard with physical attacks.
+
+Once you reach a long stairwell, you'll notice Ashura at the top.  Prepare
+for the battle by ensuring you have a pretty tough defender in the top slot.
+Ashura's 6-Arms can do 200+ damage if you're hit by it without much defense.
+
+Trans: Ashura's dialogue is appropriate.  He planned all this, etc, including
+the "two birds" remark.
+
+Mask should come out swinging doing 160+ with his sword, or less with his
+hammer.  Your next closest in damage will probably be less than 100, so let
+him carry the fight if necessary.
+
+One of Ashura's attacks does 100ish damage to your party.  Not much you can
+do to heal this at this point; hope you get lucky and it doesn't happen twice.
+
+Ashura should go down in 3-4 rounds.
+
+You get MAGI of: Strength, Speed, Mana, Flame, Ice, Lightning, Poison.
+
+------------------------------------------------------------------------------
+
+You appear back at Ki's shrine.  Go north and talk to the fairy next to Ki.
+She says that Ashura's men are in Ki's body, micronized, so you need to go and
+see the Giants in their world to find out how to do so yourself.
+Said fairy also gives you a Defense MAGI from Ki.
+
+Travel back to the Pillar of Worlds to head to the next world.
+
+World 3 - Giants' World-------------------------------------------------------
+
+Enter the town to the South.
+
+Giants' World Town------------------------------------------------------------
+
+There are, in fact, no giants here.
+
+First off, go to the East through the trees and North.  Talk to the man you
+find... it's your father!  He actually recognizes you, but he says that he
+can't come home yet... as the world is "full of those who would abuse MAGI".
+He leaves another MAGI in your caretaking (Lightning)...
+Trans: He mentions why he's giving you it. He says "No one would think a
+child of your age would have any".  Of course your character says they're not
+a child :)  Dad: "As long as you pursue MAGI to the best of your ability,
+we'll meet again."
+
+Careful, as your party's been rearranged.  Don't forget to fix it before you
+leave.
+
+Go further along that path and talk to the shopkeeper.  He'll give you a hint
+as to where to go next.
+Trans: "It's Johnny's secret... I can't tell others!"
+
+Go talk to Johnny.
+
+Trans: "You're after Giant's goods?  Damn that loudmouth shopkeeper..."
+
+You should find out where to go now.
+
+The shops have decent stuff, but nothing particularly great.  Most of the
+Giant equipment is out of your price range, but if you've got a lot of money,
+the Giants' goods (and the Geta) increase a (non-robot) character's strength.
+You'll get a Geta soon, though.
+------------------------------------------------------------------------------
+
+Go into the Giant's town to the Northeast after talking to Johnny.
+
+You can't go into the first house you see because you don't have enough MAGI.
+The one southeast of that has no entrance, and neither does the far south
+one, but the one southwest does.
+
+In the southwest house, you get a Strength MAGI and a Poison MAGI.
+
+Go back to the first house.  In here is a Mithril shield, Geta,
+and a Micron (Chiisakuna-re, "Let's become small").
+To get to the Micron, you will need to climb the shelves in the back.
+
+------------------------------------------------------------------------------
+
+Believe it or not, this is all you can do in this world.  Good thing there's
+the next "dungeon!"
+
+You may want to consider leveling near Giant's town.  Most of the monsters in
+this world are a good deal tougher than the Ashura's World ones, and you can
+make good money if you fight groups of Terrorists.
+
+Before heading back to Ki, make sure you have plenty of healing items (either
+cure spellbooks or potions).  You can leave the next dungeon at any time,
+but it's more convenient not to.
+
+Talk to Ki and you'll enter her body to find the MAGI trapped inside.
+
+Ki's Body---------------------------------------------------------------------
+
+As you might guess, this is a dungeon shaped roughly like a person's body.
+There are 6 MAGI to find in the first part, and each has its own separate
+area.  When you find the MAGI in each part, you're transported back to the
+main area.
+
+The monsters in this area come in large groups.  If you have a good magician,
+you can take them out quickly, but they can still be rough.  Thankfully they
+give a good deal of money to make up for that cost; most groups give 500+.
+
+-Left and Right Hands - Flame, Ice
+-Stomach, Heart - Agility, Defense
+-Left and Right Feet - Lightning, Poison
+-Brain - Mana
+
+You start near the head, but you can't go into the brain since you don't have
+enough MAGI.  I recommend starting with a hand, working your way down that
+side of the body (stomach and heart are accessed from the left and right side
+respectively), then   Some areas are straightforward, but to save you some
+time:
+
+-Left hand: The MAGI is in the finger one from the left.
+-Right hand: Once again, one from the left.
+-Left foot: In the far right toe.
+-Right foot: Also in the far right toe.
+
+Once you have all 6 other MAGI, go to the brain.  It's symmetrical.
+Ki's cells are protecting the MAGI, so you have to take them out.
+
+Cells - between 6 and 8.  They can be taken out with one spell, otherwise they
+can get annoying.
+------------------------------------------------------------------------------
+
+Ki thanks you for saving her and says she is praying you can find your father.
+
+Tha shrine is now strangely empty, except for Ki.
+
+Resupply if you need, then move on to the next world.
+
+World 4 - Apollo's World------------------------------------------------------
+
+Go South and East into the large, odd-shaped castle.
+Trans: Apollo was originally "Apollon".  Most dialogue here is appropriate.
+
+Trans: Apollo: Welcome to the heroes who defeated Ashura!  Accept this as
+thanks.
+
+You get a Defense MAGI from Apollo.  He says it's because he has plenty of
+power already.  He also gives you a riddle (which is accurate).
+
+You have three places to find MAGI in this world.  There is only one
+restriction; The place where "Darkness shines brightly" has to be done after
+the place where "Fire burns under water".
+
+I recommend the cave first, so that's where I'll cover first.
+
+Go to the Northeast and enter a town.  Not much of interest here, but there's
+an inn and there are a couple shops.  Bit expensive for the time being unless
+you fight a lot, though.  There's also a scholar who says that gods don't
+exist and the sound is the wind in the cave.
+
+The cave just North of the town is a dead end, but there's a treasure (Hermes'
+Shoes) that is worth getting.  It adds 10 to Agility, which is good for this
+point in the game.
+
+When you're ready to proceed, enter the cave further north, around the
+mountains.
+
+Windy Cave--------------------------------------------------------------------
+
+Treasures: 	Rocket
+		Elixer
+		3 MAGI
+
+This is another spot where encounters get a bit tougher, but if you have magic
+they're surmountable.
+
+One enemy type to watch out for are the sword monsters (Gae Bolgs).  They're
+immune to some types of magic (though thunder does damage).
+
+Progress through the cave is mostly linear, but at one point a couple branches
+open up.  Go Southwest to progress.
+
+From the stairs, go North. West is a Rocket (Orig. Rocket Punch).  It's
+naturally a good item for a robot.  Go East from there to proceed.
+
+Here there's another branching path, but it doesn't matter which you take.
+Careful, as after entering these stairs, you can't go back until you finish
+the dungeon.
+
+Go West for an Elixer.
+
+Progress East to find Lynn.  She needs to go back to the town, so you take her
+with you.
+
+Lynn has good stats for being a little girl!  I have no idea why her Mana is
+so high.  She can only punch and kick, though.  You can give her equipment,
+but you'd lose it soon anyway.  Just use kick for now.
+
+Interestingly, the next boss is called "Yama no kami" or "God of the
+Mountain".  So the scholar is technically wrong.
+
+It has high defense, but it can be taken out without too much trouble.
+
+After beating it, you get Strength, Agility, and Mana MAGI and a Hi Potion.
+
+------------------------------------------------------------------------------
+
+...You go back to the town and... There's your dad!  But he's Lynn's father...
+
+Your character doesn't believe it (the implication is that he is Lynn's real
+father, hence cheating on your mother, etc).
+
+Trans: "There's Dad!  But... no... I don't believe it!  So that's why he
+didn't want to return home!  There's no other way to put it... He was cheating
+on Mom!  I can't think of him as my father anymore..."
+(Bit more sensical than "What's he doing bumming around in a place like
+this?", no?  Makes more sense for the next part, too.  Probably was translated
+the way it was due to NoA's strict policy).
+
+Go Southeast of the town to reach another town.  Here are more 6400GP+ goods.
+There's a scholar here who says the Sea God doesn't exist.  Wonder if he's
+right?
+
+When you're ready, leave the town and head straight South, into the water.
+Surprisingly, you can move down here.  Go Southwest.
+
+You'll see an underwater volcano.  Head into it, through the lava.
+
+Underwater Volcano------------------------------------------------------------
+
+Treasures:	Str Source
+		Mithril Swd
+		Fire Book
+		3 MAGI
+
+As you move through the lava, you take damage.  It's only one per move, but
+that may be enough to make some characters vulnerable.  Be sure to heal every
+so often.
+
+There are a few treasures, but nothing you'll miss.  In the room with the Fire
+book, you can find a spring to the right that refills your life.
+
+At the end of the dungeon you find Flame and Poison MAGI and TrueEye (acc).
+No Sea God.  Guess the scholar was right this time around!
+
+------------------------------------------------------------------------------
+
+Head back to the second town and heal up, resupply, etc.  You may want to pick
+up a few Soft Potions, as you can encounter Medusae in the next dungeon.
+When you're ready, head Northwest to the place where Darkness shines brightly.
+
+
+Bright Cave-------------------------------------------------------------------
+
+Treasures:	Str Source
+		Giant Bracers
+		Thunder Book
+		Light Saber
+		Revenge Sword
+		3 MAGI
+
+Since you have the TrueEye, you can actually see in this dungeon.
+Never mind the moving floor; it doesn't do anything.
+
+Eventually, you'll come to a fork.  The left goes further, the right leads
+to a Strength Source.
+
+At the next fork, go right to get a Thunder book.  This fork meets up with the
+other one, so just continue.
+
+Go along the south branch to get a Light Saber, then head back up and over the
+bridge.
+
+At the three-way fork, head right to get a Revenge Sword (orig. Grudge Sword).
+
+The middle fork continues, and the left is a dead end.
+
+You've reached the last room.  On the left side is Lightning MAGI, down the
+middle path is Mana MAGI, and on the right is Ice MAGI.
+
+------------------------------------------------------------------------------
+
+You've collected all MAGI in this world.  If you go back to Apollo's temple,
+he's mysteriously gone...
+
+Move on to the Pillar of Worlds to the next one.
+
+World 5 - Guardians' World----------------------------------------------------
+
+This world is just a town.  Or so it appears.
+
+In the Pub, if you buy a drink, the bartender will say to "Use the jukebox!".
+
+If you need to know which one, it's 7 down from the first entry.
+
+Trans: "Captain" is more or less right, in a navy context.  Colonel for army.
+
+Trans: One guardian says "Spies from the new Gods are searching for the
+secret entrance... I'm worried."
+
+Trans: Another: "The Pillar of Worlds is rather insecure... The worlds may
+become entirely separate."
+
+Trans: Another: "The old gods were probably the race that left the relics, but
+it seems that they suffered wounds trying to control the power of water and
+passed away..."
+
+Go deeper into the Guardians' base to meet the Captain, your father.  He says
+that you are probably tired and should rest... you do so and there's a sudden
+explosion!
+
+You need to make your way out of the base, defeating mini-bosses one at a
+time.  Most of them are no tougher than your average encounter.
+The treasure room is empty, so don't bother with it.
+
+The first boss drops a Strength MAGI.  Progress to find your father.
+
+Trans=========================================================================
+Dad: New gods managed to find the entrance and attacked.  Everyone else
+escaped.  Let's go too!
+Main: Wait!  Don't you have something to say to me?!
+Dad:(Main)... Not just now.
+Main: I'd been waiting for you to come back for years...
+Mom was working on her own half to death just to raise me.
+And all that time, what were YOU doing?!  To betray Mom like that..
+Dad: I haven't done anything to betray either you or your mother.
+Main: By nothing, you mean...
+O.C.1: (Main)!  You can discuss this at length after we escape.  If we don't
+get out soon, we'll never make it!
+Dad: That's right!  Let's hurry.
+
+(Makes a bit more sense.  I don't recall the exact exchange in the original,
+but it definitely wasn't... that).
+==============================================================================
+Dad has excellent stats and good equipment, including a sword, SMG, and whip.
+I imagine him as a cooler Indiana Jones.  He even has Cure.  I think the
+only stat you may have much more of than him is Max HP, although at this point
+I had slightly more Str on one character from the Geta and the Giant Bracer.
+
+Fight the next enemy for an Agiliy MAGI, the next for a Defense MAGI.
+
+Now you're out in the town.  Leveling here might be a good idea, since Dad is
+in your party.  He's pretty versatile, and you don't have him for very long
+after this point.  You should be able to get several attribute points here.
+
+When you're ready, "talk" to the guy at the Pillar of Worlds.  After you
+defeat him, he reveals they have the Captain's daughter, Lynn, as hostage in
+the next world.  You get a Flame MAGI.
+Trans: Your character wonders if Lin is really his/her younger sister.
+
+World 6 - Monsters' World-----------------------------------------------------
+
+As you progress through the Pillar of Worlds, notice there are shops on the
+teleport to the Monsters' World.  These sell the items those in the Guardians'
+world did.
+
+Enter the world proper to see... that it is quite small.  As you move onward,
+the enemy boss confronts you...
+
+Trans: Here, Lynn reveals she is not blood related to "Dad" and that he was
+only a foster father to replace her actual father, lost on a mission for the
+Guardians.  He was to remain so until her mother recovered.
+
+Dad gives you an Ice MAGI and distracts the boss to keep Lynn safe.
+The rest of the exchange is more or less accurate (minus some swearing on the
+part of your character).
+
+You get a Poison MAGI from beating the next enemy.
+
+You also get a Lightning MAGI after the next exchange.
+
+------------------------------------------------------------------------------
+
+You can progress to the next world now, though it's not a bad time to level.
+Keep in mind that if you have enough GP, you can always go back to the first
+world, buy Longswords and Rapiers, and fight easy enemies for the same growth.
+This is probably about the time your Strength fighter starts missing enemies
+often, so you may want to level up his/her agility a bit.  Don't worry about
+keeping your robot's agility high, as a robot's meatshield status is more
+important than attack power anyway.
+
+World 7 - Venus' World--------------------------------------------------------
+
+Well, this is a nice looking place and all, but it seems kind of sterile.
+Decent armor at the shops, and you may be able to afford it.  There's a good
+selection of Giants' gear that you could probably buy if you did some
+leveling earlier.
+
+Inside the town, go to Venus' palace near the center via the conveyers.
+
+Trans: Venus' dialogue is mostly correct.
+
+After talking to Venus, go outside of the palace and notice two people
+on the sides of the palace.  Talk to them.
+
+Trans: Flora was originally "Olivia".  Leon was originally "Antony", and
+Nils was originally "Yurius".  Dialogue is approximately right.
+
+Leave the town and go Southwest to exit the fenced area.  Head West, then
+North to reach another village.
+
+Leon: "I was thrown out of the walls on account of my leg disability... But
+compared to a life of just outward appearances, this one is wonderful!  I'm
+just worried about Flora..."
+
+There's nothing else to see here, so head East to the Sewers.
+
+Venus' Sewers-----------------------------------------------------------------
+
+Treasures:	Agility Source
+		PSI Sword
+		Sewer Key
+		Elixer
+		Giant's Helm
+		6 MAGI
+
+Keep going through the sewer until you find a door to the North.  Inside, you
+have to fight an easy mini-boss (~400 hp) for the Sewer Key.
+
+A bit further in, there is a door you can enter if you have said Key.  Inside
+are Strength, Mana, and Speed MAGI.  Do NOT touch the treasure chest in the
+lower right, unless you want to fight groups of enemies much harder than
+normal.
+
+Further in, there's another door.  Same deal as above; there are 3 MAGI (Ice,
+Flame and Thunder) but the lower right chest is again monster-filled.
+
+Continue South through the water.  When you can go into the water or stay on
+ground, go into the water for an elixer than go back up and around.
+A bit further on the landscape changes... this looks like Venus' palace.  Go
+through.
+------------------------------------------------------------------------------
+
+Talk to Venus to see her reaction.  She thinks you're lying about MAGI in the
+sewer.  Well, her loss.
+
+Go outside and talk to Flora again.  There's an earthquake and a volcano
+appears Northwest of the "dirty" town.
+
+Trans: (Main): If you really do like Leon, you should run away.
+Flora: I can't oppose Lady Venus... and I'm scared to be outside the walls.
+
+Go back to the dirty village and talk to Leon.  He doesn't react well.
+
+Move on to the volcano.
+
+Volcano-----------------------------------------------------------------------
+
+Treasures:	Flame Sword
+		Mana Source
+		Flame Gun (trans: Flamethrower)
+		Wizard Staff
+
+Like the previous volcano, there's some lava.  By now the 1hp/step isn't so
+bad.
+
+
+You'll notice someone following you pretty soon, but don't worry too much.
+
+At one point, you can go on a ramp north or south onto land.  Go north and
+head southwest to get a Flame Shield.
+
+At the end, you get Flame, Poison, and Strength MAGI.. but the Strength MAGI
+is stolen by Leon!  What could he be planning?
+------------------------------------------------------------------------------
+
+Head back to Venus' City.  There's a marriage ceremony soon in the left wing
+of the palace.  Once you're ready to fight, head over there.
+
+Trans: Venus: Flora, do you swear that you will love this man, Nils, for your
+entire life?
+Flora: Lady Venus... I...
+Venus: Flora!  You do so swear?
+Flora: I... I...
+Leon: Floraaaa!
+Leon: Venus!  I will defeat you with the power of this MAGI!
+Venus: What do you expect to do with just a knife and a MAGI?!
+Venus: I can defeat your like by simply a touch of my finger... what did you
+expect?
+Flora: Lady Venus!  Please forgive this man!  I will marry Nils or whatever,
+but please forgive him!
+Venus: Flora, are you trying to order me around just to save this man?
+Flora: Please, Lady Venus!
+Venus: No!  Go back to your place.
+Flora:... No!  Now I understand clearly.  I love Leon, and I'm not scared
+anymore!  I'm going to go outside the wall.
+Venus: That's forbidden!
+Flora:... Well, then...
+*Flora takes Leon's knife and slashes her own forehead*
+Flora: Now I cannot stay here anymore.  Please expel me from the city.
+Venus: What?!  Destroying beauty is to confront me!  This is betrayal!
+Char: That's it!  Venus has gone too far!
+
+Be sure and talk to Leon before attacking Venus, as he gives you the Strength
+MAGI he stole earlier.
+
+Venus can do a lot of damage, but she's not particularly tough if you've been
+fighting normal enemies in this area.  She has high Agility, though, so watch
+out.
+
+For defeating Venus, you receive Strength, Agility, Mana, Flame, Ice,
+Lightning, Poison, and Aegis MAGI.
+
+Aegis is the first MAGI you can equip that gives you an ability.  If you equip
+Aegis, then you can use the command "Aegis" in battle to use a powerful shield
+that is strong against all elements (and covers the whole party).  It might
+not be bad for a front-line defense-oriented character to use rather than DEF
+MAGI, particularly as it also gives resistance to many status effects.
+
+When you're ready, move along to the next world.
+
+------------------------------------------------------------------------------
+
+World 8 - Dragon Race World---------------------------------------------------
+
+This world contains just one town to the West of the Pillar of Worlds.
+
+You'll find out in the town that Apollo is hosting a dragon race in this town,
+with MAGI as the prize.
+You can enter if you rent a dragon from one of the houses in the North.  You
+don't have much choice, but you may as well get a good dragon.
+
+In the race itself, you'll have random encounters as well as (easy) event
+battles, so be prepared.
+
+Dragons range in price from free to 1000 GP, increasing in both price and
+speed as you go through the houses from right to left.  I recommend the second
+fastest one, as the fastest is almost impossible to control.
+
+Even if you're relatively slow, you turn out to be the only party that can
+surpass the barriers, so winning the race doesn't really matter.  You may
+find people on the track who were ambushed by monsters and killed...  Not
+surprising, as many encounters here are surprise attacks and some are strong
+enough that if you're unlucky, you're pretty much dead.
+
+For beating the first group, you get an Agility MAGI.  The second yields a
+Mana MAGI, the third Defense and Agility MAGI.
+
+At the end of the race, you win.  Apollo doesn't give you any additional
+rewards, so don't worry about things too much.
+
+Head over to the next world when you're ready.
+------------------------------------------------------------------------------
+
+World 9 - Edo World-----------------------------------------------------------
+
+First, some preliminary stuff on this world.  It's based on Edo period Japan,
+which basically means 17th-19th century-ish.  Look it up if you're interested.
+Many players in Japan would be pretty familiar with the setting, in any case.
+
+Go East, then South and into the town on the left.  When you're ready for a
+fight, talk to the people on the bridge and they will attack you.  A detective
+will drive them off after you beat them.
+
+Trans: Originally the warriors were called Tenchuugumi, or the "Heaven's
+Punishment" group.
+
+Notice that in this first town there is a shop, Echigoya's, which sells really
+nice stuff.  The price is high, but you can't buy Flare books anyplace else
+until near the end of the game.  Consider buying one for later.
+
+Go to the town in the Eastern part of this world.
+
+Trans: In the schoolhouse there's some interesting dialogue.==================
+1: I'm making a manga flipbook!
+2: (says something stinks, but is a chocobo...)
+3: When you have 3 cranes and 4 turtles, how many legs?  is it 24?
+("Yes": Nope!  Wrong!  It's 22.  Maybe you should learn from Ronin-sensei?
+"No": Right!  The correct answer is 22!  Great job!)
+4: (Says "Please don't play this game" in katakana, then translates to
+Japanese. then says he has to keep studying!)
+5: They say the gods created this world.  So then who created the gods?
+I don't know, I have no clue!
+
+The teacher's name is Taro in English, Ronin in the original.
+==============================================================================
+
+Talk to Hana (orig. Otama) in this town.  She reveals her father was killed
+while investigating Echigoya's shady dealings.  Your characters decide to look
+into Echigoya's shop.
+
+Go to the "nice" shop in the first town and talk to thr clerk around the
+counter.  He says a shipment just came in.  Go ahead to the harbor to the
+Southwest when you're ready for a short dungeon.
+
+Echigoya's Ship---------------------------------------------------------------
+
+Treasure:	Laser Gun
+		Tank
+		Hecate Shoes
+
+Kame (orig. Tenpachi) says that Hana went to investigate the ship alone.
+
+Trans: "Kame" is Japanese for "Turtle".  Heh.
+
+Go down the bridge to the right of the first one you see and enter the ship.
+
+There is 1 treasure on the 2nd basement, at the South end of the ship.
+
+2 treasures are in the 3rd basement: the Tank and the Hecate Shoes.
+
+==============================================================================
+Trans: An interesting note: Hecate Shoes were originally Koumei no Kutsu, or
+Kongming's Shoes.  Kongming refers to Zhuge Liang.  In the Three Kingdoms
+period of China, Zhuge Liang was the Prime Minister of Shu and a brilliant
+strategist and politician.  Folklore associates him with several Taoism-based
+magic powers, of which the best known is the summoning of wind.
+He would be well-known by most of the game's audience in Japan, occupying a
+cultural position somewhat akin to Merlin in Western countries.  I have no
+idea why they would change it to Hecate, a lesser-known Greek goddess.
+==============================================================================
+
+Hecate Shoes increase a character's Mana by 15, so put them on a caster.
+
+I recommend putting the Tank on a robot, as it does 600-800 to a group of
+enemies.  A robot will get a substantial life boost from equipping it and it
+will become renewable (though it will be down to only 10 uses).
+
+Go North to see Hana and Taro.
+
+Trans: It's interesting to note Taro almost never says anything much.
+He's really tight-lipped.
+
+Here we find out that the ship is just full of bananas... which are forbidden
+by law!
+
+==============================================================================
+Trans: In the original, the ship is full of opium, which is not mentioned
+prior to finding the ship.  The fact that it would be banned would be obvious,
+given the Edo government's response to opium (by which the Western countries
+had essentially enslaved China at that point in history).
+
+The official translation had it changed to bananas, probably to avoid the
+problem of mentioning a drug like opium.  Although the translators could be
+faulted for other things, I find bananas to be a thoroughly satisfying
+replacement.  Why?  It's such a random good as to be absurd.  There's no
+reason to ban bananas... except what you found out later on.  The idea is to
+poke fun at the idea of a corrupt, incompetent government, and that is what
+the original translation achieved.
+==============================================================================
+
+Hana joins your party so you can all go to the local administration and
+denounce Echigoya for smuggling bananas.
+
+Hana has good stats, but lowish HP and crappy weaponry.
+Sypha (sp?) is probably your best bet for damage.
+
+Leave the ship and go West and slightly South.
+
+------------------------------------------------------------------------------
+
+Go to the courtroom.  See what transpires.  The translation is more or less
+correct, though in the original the administrator is very favorable to Hana.
+
+It's interesting to note in this dialogue that Echigoya uses the term "Atashi"
+to refer to himself.  This implies either that he is very effeminate or that
+"he" is really a she.
+
+In the next event, you find out that Kame snuck into Echigoya's and got
+caught.  You manage to hide him from the police.
+Trans: The policeman tells Hana to give up the case as the "higher-ups are
+involved".
+
+Hana joins your party again to *really* investigate Echigoya this time.
+
+Go back to the first town, once again to Echigoya's shop.  Nobody's here, so
+you can just waltz on through.
+
+The first door leads to a bunch of thugs.  Talk to them if you want to fight
+endless and possibly difficult battles.  Otherwise move to the next door.
+
+Enter the door to hear talking.
+Replace "Bananas" with "Opium" and you've got the gist of the original text.
+
+Afterward, you have to fight Echigoya and his thugs.  The thungs are the same
+as from the bridge; there are several of them, while Echigoya uses mostly
+guns.  Be sure to take out the thugs quickly or they'll rack up lots of damage
+on you.
+
+At this point, Taro reveals it is his job to protect MAGI from misuse such as
+that of the shogun.
+
+Trans:
+(main): My father was a guardian... he was called the "Captain", but...
+Taro: What?!  Did something happen to the Captain?!
+(main): Father... died.
+Taro: I don't believe it... that Captain could be...  If that's so, then
+let us defeat the shogun together!  Hana!  We will defeat the shogun and
+avenge your father!
+
+Taro joins your party now.  If you thought Dad was useful, take a look at
+Taro's stats.  60+ Str/Agi, 45 Magic, and useful equipment.  Only the Counter
+isn't useful, and you'd have to be crazy to use it over the Murasame when it
+matters.
+
+When you're ready to progress, go West then North of the first town in this
+world.
+
+Edo Castle--------------------------------------------------------------------

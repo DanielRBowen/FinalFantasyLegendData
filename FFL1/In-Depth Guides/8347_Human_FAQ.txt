@@ -1,0 +1,122 @@
+Final Fantasy Legend
+Human FAQ
+July 24, 2000
+WonderLlama (WonderLlama_@hotmail.com)
+
+Updates
+July 25, 2000 – Fixed some minor formatting issues.  Added shields to
+the equipment section.
+July 24, 2000 - This is the first version.
+
+Contents
+1) What is this FAQ about?
+2) Improving your human.
+3) Equipping your human.
+4) Copyright notice
+
+=======================What is this FAQ about?=========================
+     This is not a walkthrough.  If you want a walkthrough, I would
+recommend K. Megura's Mini-FAQ.  This FAQ will address the human
+character, who I believe to be potentially the most powerful member of
+your team.
+     First, humans, mutants, and monsters are all fun and rewarding
+characters in this game.  You probably should not limit yourself.  But
+the most powerful party possible is probably four humans.  With this
+party, I have killed Creator before he even gets to attack.  The
+methods you use to improve your human are a little unconventional, so
+I'm going to explain how to get the most for your money.
+=======================================================================
+
+========================Improving your human===========================
+     Humans do not get stronger as a result of battle.  Instead, they
+have to buy potions to raise their attributes and HP.  There are five
+items that improve the human.
+
+Strength Potion:  This item costs 300 and raises a human's strength by
+2.
+
+Agility Potion:  This item costs 300 and raises a human's agility by 2.
+
+HP200:  This item costs 100 and raises a human's HP by up to 20, unless
+HP is already above 200.  Then it only raises by 1.
+
+HP400:  This item costs 1000, and is the same as HP200, but it works up
+to 400 HP.
+
+HP600:  This costs 10,000, and works up to 600 HP.
+
+     Use the HP items to raise your HP.  If money is an issue (i.e.
+early in the game) you should save before you use it.  Try to get at
+least 15 HP out of it.  HP600 is not worth the money.  It costs less
+money to buy HP200 over and over.  Still, it is faster if you can
+afford HP600.  I recommend buying a few HP200's on the first world.  On
+the second, get your HP up to at least 400.  After that, go wild.  The
+limit is not 999 HP.  That is the most that can be displayed, but the
+limit is much higher.  My guess would be 2047, since I know it can go
+over 1023.  I've never had the patience to count that high.
+     Use the Strength and Agility potions to make your human more
+deadly in combat.  These raise the stat 2 per use.  These stats max out
+at 255, even though 99 is the most that can be displayed.  Be careful,
+they wrap back to 1 if you go over.  I don't recommend counting,
+instead, just save every once in a while, and reset once you wrap.  The
+power of a human with 255 strength and 254 agility is amazing to
+behold.  The first time you can afford many of these potions is on the
+second world.  I recommend specializing in agility to begin with, since
+it effects both your chance to hit, and your damage with the saber, and
+similar weapons.  Later, you will want to work on strength too, as the
+strength based weapons eventually get much more powerful than the
+agility weapons.
+=======================================================================
+
+========================Equipping your human===========================
+     One of the best features of humans is that they can hold 8 items.
+This means they can hold 4 pieces of armor without sacrificing weapons.
+Always get the best armor available, even before buying stat potions.
+In the end game, you probably don't want the ParaSuit.  You can get
+nearly the same defense with the other armor you can buy, and the
+Dragon armor will protect you from many spells.  You can get even
+better defense from the armor in the final tower.
+     Humans don't use spells.  Well, they can, but only if you equip
+the shoe, which you don't get until late, and even then they suck at
+it.  That means they stick to weapons and potions.  There are 3 main
+types of weapons, strength, agility, and projectile.  All three types
+use agility to hit, but strength weapons do damage based on strength,
+agility based on agility, and projectiles do fixed damage.
+     Humans can also equip shields.  Shields are not used
+automatically, but instead must be used to defend instead of a weapon.
+For this reason, they aren't very good.  They have two uses.  Some
+shields protect the whole party from certain spells.  The shield user
+must go before the spell is cast for this to work.  Also, the user has
+a chance to evade attacks in the round the shield is used.  I don't
+recommend the shield, but if you must use it, give it to a human.  Try
+to find a shield that says, "A barrier covers the party" when you use
+it.  Give it to the highest agility human you have and put them in the
+front.  They will be hard to hit, and will protect the rest of the
+party from spells.
+     Early on in the game, focus on improving agility.  This means you
+want mainly agility weapons.  Get the rapier on the first world, the
+saber on the second, and the l-saber on the third.  But also carry a
+projectile weapon.  Rocks are very good for the price.  And projectile
+weapons always do about the same damage, even against enemies with very
+high defense.
+     Later, get the best strength weapon you can.  Still carry a
+projectile weapon for those pesky high defense monsters.  When the Ice,
+Thunder, and Flame swords are available, get one, but make sure you
+have another weapon in case the monsters are strong against your
+element.  If you have multiple humans, give each a different element.
+Thunder tends to be the best of the three.
+     At the very end, the Glass Sword and the Excalibur are your best
+friends.  The Excalibur can take out a whole group if your strength is
+255.  And the Glass Sword does unmatched damage.  The Sun Sword is
+probably the next best, and it gets critical hits on undead, and even
+some bosses.
+     If you have extra slots, equip the best potion you have.  You
+shouldn't need them during battle that often, but they don't hurt.
+=======================================================================
+
+
+==============================Copyright================================
+     As usual, feel free to do whatever with this FAQ as long as you
+don't change it, make money off it, or delete this notice.  And it is,
+of course, Copyright 2000 Justin Lyon.
+     I can be contacted with any questions at WonderLlama_@hotmail.com.

@@ -1,0 +1,994 @@
+***************************************************************************
+
+                          Final Fantasy Legend II
+                                Robot Guide
+                                   v 1.08
+                                  by ~Kaz
+                   theeternallostboy at hotmail dot com
+
+***************************************************************************
+
+## Legal ##################################################################
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+This walkthrough is a guide for the Robot Playable Class in Square Soft's
+original "FINAL FANTASY LEGEND II" and "SA-GA II" games, copyright 2004 by
+theeternallostboy@hotmail.com.
+Do not plagiarize or distribute any part or whole of this document for profit
+or without giving the author, that's me, credit. Feel free to put the entire
+guide on your webpage, as long as the content is not altered and I'm credited.
+
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+## Acknowledgements #######################################################
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+A great big THANK-YOU to:
+
+GameFAQs, for the hosting, the boards and all the fish.
+
+Square (now Square-Enix) and Sunsoft for releasing, and re-releasing, FFL2.
+
+Nintendo. And Square. Together. (Again.) Suck it. (apologies to Penny-Arcade)
+
+The Members of GameFAQs' FFL2 board, such as..
+        -"AMuseum" for letting me use his tables, charts, and monster info.
+          (about three-quarters of all the numbers you see here are his)
+        -"Cyan of Doma" for the glitches, tricks and countless testing.
+        -"DWanderer" for HEX editing and a strong stand for Humans with Mana.
+        -"Gouki of Borg" for finding out so much of the Japanese SaGa series.
+        -"Robert Paulson" for the first comprehensive FFL2 FAQ on GameFAQs.
+        -"PrimalSeptimus" for posting a new guide in '07; long live FFL2!
+        -"StAjora"
+        -"DamageInc"
+        -"danysp"
+        -"Elekid"
+        -"plusminus"
+        -"suicunegirl"
+        -"Pythonite 1"
+        -"scar_the_1"
+        -several "Grim Reaper"s
+        -"vileplume21"
+        -"supersaiyangohan"
+        -"Kamek17"
+        -"DOAHunterX"
+        -"Alex Jackson" (he's everywhere isn't he?)
+        -and many more who I'm sorry I haven't listed yet
+
+..for their time, patience, and countless useful contributions!
+                        (like pointing out Ki was given a bad case of crabs :D
+
+And to my family and friends who can stand to put up with me on a daily basis.
+..I still don't know how they do it. 8^P
+
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+## Contact ################################################################
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Kaz Fact: The author of this FAQ can be found @ www.GameFAQs.com under the
+          FINAL FANTASY LEGEND II Board section, where he has harassed the
+          local posters of the for the past 3 or 4 years under the name of
+          "Hasukawa Kazuya(a)".
+          A Bonus-kun if you recognize the pseudonym.
+
+If you can't visit the boards, feel free to flame me via e-mail.
+Corrections & helpful suggestions are more welcome though.
+
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+## Controls ###############################################################
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+There are 4 types of locations in the game:
+(1.) On the Map, (2.) In a Fight, (3.) Inside a Town, and (4.) Inside a Menu
+
+While you are walking on the Map, you may get into a random Fight.
+When you are in a house, and most towns, you are safe from random fighting.
+
+A	Press while next to someone in a town to talk to them.
+	Press while the finger is over a Menu Choice to choose it.
+	Hold this button down to make text go faster.
+	The cursor in the Fight situation is set to 'Memory'. It will not
+	move back to the top of the list and will remain on whichever action
+	you chose last round, even if you are in a new battle.
+
+B	Press while the finger is over a Menu Choice to leave the menu.
+	Hold this button down to pause the text.
+	While on the map or in a town, press while you have a 5th member in
+	your party to hear what they have to say.
+
+Start	Press while On the Map or In a Town to bring up the Main Menu.
+	From here, you can choose to:
+		-view/use/organize your party members' individual ABILities
+		-see/use ITEMs from the party's Item bag
+		-EQUIP your members from the Item Bag
+		-see/use/equip any MAGI you have discovered
+		-read your MEMO to go over important clues you've learned
+		-and SAVE the game
+
+Select	Press while On the Map or In a Town to bring up the Party Order Menu.
+	In this menu, you can alter the order of your party.
+	The person on top theoretically has a greater chance of being
+	attacked. The person on the bottom has the least.
+
+Press A, B, Start and Select all at the same time to return to the title
+screen without saving. This is also called a ''soft reset'' because it does
+not reset the game's internal random number generator like turning the power
+off would. (and leaving it off for a few seconds, unless you have the
+original thick "GameBoy Classic")
+
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+## Contents ###############################################################
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ >This is a very long and comprehensive Guide. I suggest searching for	<
+ >the heading of each "chapter". Don't say I didn't offer fair warning!	<
+
+Heading                 Title
+00.History		History & Updates
+01.Definitions          Basic Game Concepts (Meat, Stat Gains, MAGI, Weapons)
+02.Overview		The 4 main Classes
+03.Rules		The non-Assimov Robot Rules
+04.World 1		Baseworld
+05.World 2		Ashura's Desert
+06.World 3		Giants' World
+07.World 4		Apollo's World
+08.World 5		Guardian's Base
+09.World 6		Villain's Hideout
+10.World 7		Venus' World
+11.World 8		Dragon Circuit
+12.World 9		Edo
+13.World 10		Nasty Dungeon
+14.World 11		Valhalla
+15.World 12		Final World
+16.World 13		Celestial Shrine & Center of the Worlds
+17.Quad-Robot Team	A quick trip through the game with 4 Robots
+18.Detailed Lists	Weapons, Armor & Item Lists
+19.Errata		Miscellaneous Information
+20.EOF			End of File
+
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+00.History ################################################################
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+v1.00- Tentative release date: 1999. Actual release date: 04/2004
+	This is it. After years of sitting on my duff, I've finally
+        mustered enough chutzpah to #finish# (and publicly release) this.
+
+v1.01- (Post-)Easter Release: 04/12/2004
+       Some spelling mistakes, cleared up some sentences, added more thanks.
+
+v1.02- Corrections for Revenge/Counter, alternate location of Ancient Volcano,
+        another correction on Elemental MAGI, added to Death Book (AMuseum).
+        Unsure of how Chainsaw/Saw attacks work.
+
+v1.03- Figured out how Chainsaw/Saw worked. Added plug for Gouki of Borg.
+
+v1.04- Added more on status ailments, Humans/Mutants with Counter. (AMuseum)
+       Chainsaw does not work on bosses immune to Hyper. (04/28/2004)
+
+v1.05- Corrected a mistake I made in the GP formula. (04/30/2004)
+
+v1.06- Minor grammar corrections. Chainsaw & Gungnir correction. (5/12/2004)
+
+v1.07- Confirming Rune Axe. (unreleased)
+       Unsure if I should revise the guide as "Smorgasbord" or "Hodgepodge".
+       R.I.P Chris MacDonald, aka "Kao Megura" (1979-5/17/2004)
+       Your skill & determination are an inspiration to us all.
+
+v1.08- Added PrimalSeptimus' New Trash Can Bug Guide (6/2007)
+        There have been two guides added/updated (one by Niahak) on
+        GameFAQs in 2007, a testament to the longevity of this game.
+
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+01.Definitions ############################################################
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Meat	- When non-humanoid/non-robot monsters are defeated in battle, they
+	  may leave a chunk of meat behind. If you have monsters of your own
+	  in your party who are able (not sleeping, paralyzed, stunned) can
+	  'eat' the meat and possibly turn into a different monster. What
+	  monster you become depends on the combination of what you were and
+	  what you ate. How powerful your new form is depends on how
+	  powerful the monster you defeated.
+	  Each monster 'family' has different classes of varying power.
+
+GP	- Gold Pieces. Also called "Gil". Currency. Money. Moolah. Loot.
+
+HP	- The amount of HIT POINTS you currently possess. If this value
+	  reaches "0" in battle, your character is Stunned. If your party
+	  lives, they will be automatically revived with HP=1. If your
+	  party dies, you will meet Odin who will reset the battle so you
+	  can try again. There is no penalty for doing do, and Odin will
+	  reset as many battles as many times as you wish.
+
+mHP     - The MAXIMUM amount of HP you may have. The highest _displayed_
+	  value is 999, but you can go higher, even without a cheat device.
+	  For Humans & Mutants, this value may be increased at random as
+	  a result of battle. As soon as the counter hits 999, they stop
+          gaining any more HP. They can still gain 32 mHP when at 998, for a
+          total of 1030 mHP. For Robots, you must equip stronger items.
+	  Monsters mHP do not change unless you turn into another Monster.
+
+STR	- The STRENGTH of the character. The higher this value, the more
+          damage "Heavy" weapons, such as Hammers and Long Swords, will do.
+	  For Humans & Mutants, this value may be increased by 1 at random
+	  as a result of battle. As soon as the counter hits 99, they stop
+	  gaining any more STR. To increase the chance, have them use heavy
+	  weapons repeatedly in that battle. For Robots, you must equip
+	  more or stronger Heavy weapons. Monsters STR do not change unless
+	  you turn into a different Monster.
+		(!) If you find your party has a prima-donna, just one
+                    person who is really powerful, it may be because
+                    the weaker party members aren't getting a chance
+                    to fight. You can either remove all of the strong
+                    character's weapons or give them a shield or a
+                    Martial Art and have them "waste" their turn.
+
+AGI	- The AGILITY of the character. The higher this value, the less
+          likely a fast enemy will be able to dodge your attack, the more
+          likely you will be able to dodge an enemy attack, the better the
+          chance you will go first in battle, and the more damage you will
+          do with "Lighter", AGI-based weapons, such as the Rapier or Sabre.
+		(!) AGI is always important. The faster the enemy,
+                    the more AGI you need to hit it with your weapon.
+                    You will need at least 35 AGI by the end of the game
+                    to use a sword or knife accurately.
+
+	  For Humans & Mutants, this value may be increased by 1 at random
+	  as a result of battle. As soon as the counter hits 99, they stop
+	  gaining any more AGI. To increase the chance, have them use light
+	  weapons repeatedly in that battle. For Robots, you must equip
+	  more or stronger Light weapons. Monsters AGI do not change
+	  unless you turn into a different Monster.
+
+DEF	- The DEFENSE of the character. The higher this value, the less
+	  damage you will receive from a physical attack. If your DEF is
+	  higher than the enemies offensive power, you can receive 0 damage.
+	  This value is hard to raise in Mutants, and exceptionally hard in
+	  Humans. As soon as the counter hits 99, either race stops gaining
+	  any more DEF. To increase the chance, use shields like Silver or
+	  Aegis repeatedly in a battle. Robots can equip stronger armors or
+	  shields. Monsters stats only change if you turn into a new one.
+		(!) If you can raise your natural DEF to 99 by fighting
+                    without any armor equipped, you can put on your
+                    armor later and have super-high DEF!
+
+MAN	- The MANA of the character. The higher this value, the more HP
+	  you recover when healed (except from drinking potions), the more
+	  damage you deal with magic spells, and to a weaker extent, the
+	  less damage you take from Magic attacks.
+	  For Humans & Mutants, this value may be increased at random by 1
+	  as a result of battle. As soon as the counter hits 99, they stop
+	  gaining any more MAN. Both races can raise their chance by using
+	  magic items like Books and Staffs, or magic blades (Psi/Vampic)
+	  Mutants can also raise their chances by using their natural
+	  abilities. Robots cannot raise their MANA. Monsters stats do not
+	  change unless you turn into a different monster.
+		(!) Robots, not only will they take more damage from
+                    Magic attacks because they have 0 MAN, seem to take
+                    additional damage just because they're Robots.
+
+MAGI
+	These are pieces of the Goddess Statue, Isis. Individually, they each
+	possess power which can be passed onto the bearer. Together, they
+	are rumored to give a being the power of an Ancient God, one of the
+	ones who could create a whole World.
+	Some MAGI have external functions, like Prism. When used from the
+	MAGI menu, it will tell you how many MAGI are in the world you are
+	currently in (excluding the amount you possess). Some, like TrueEye,
+	work automatically in special dungeons.
+	For those MAGI without external functions, you can equip them to
+	give your party members hidden boosts to their power levels. Mana
+	MAGI will raise your MAN more for each piece you find, power MAGI
+	raises STR, etc. While you cannot see the increases on your ABIL
+	menu, the effects will be clear once you cast a spell or attack.
+	Elemental MAGI serve 2 purposes. (1.) is to provide immunity to said
+	elemental attack. (2.) is to boost any elemental magic you cast
+	corresponding to the MAGI you have equipped. Having Thunder MAGI will
+	boost your monster's Thunder spell AND give it immunity from Thunder
+	attacks. Theoretically.
+		(!) Elemental MAGI is #somewhat# buggy.
+                    Thunder MAGI will protect against ICE.
+                    Ice MAGI will protect against THUNDER.
+                    Fire and Thunder MAGI boosts the power of attack magic.
+                    Ice & Poison MAGI boost the power of FIRE attacks.
+                    Fire MAGI grants O-Fire and Poison MAGI grants O-Poison.
+
+	You can also equip Masamune, Aegis, and Heart (even though all 3 are
+	found almost at the end of the game) and use them as Items in battle
+	in your newly created 9th Item Slot at the very bottom.
+	Detailed explanations will be near the end of this Guide.
+
+Rechargeable (Natural) Abilities
+	These are inherent abilities that cannot be de-equipped for a
+	Mutant and Monster. On a Robot, weapons with a limited number
+	of uses that get halved upon equipping become Rechargeable
+	Abilities. These abilities may have a limited number of uses, but
+	if the number of uses reaches 0, they will not disappear from your
+	character's inventory. These can be recharged at any time by going
+	to an Inn, drinking an Elixier, or using a Tent.
+
+Traits
+	Traits are Natural Abilities with an unlimited number of uses,
+        such as "-Surprise" (gives you a chance to surprise the enemy),
+	cannot be used actively in battle, and cannot be de-equipped.
+
+Immunity
+	Traits with an "O" in front of them, such as "O-Pa/Po" & "O-Fire".
+	This means you gain resistance to those types of attacks.
+	Certain armors will offer elemental immunity. A list of what armors
+	these are, and what each immunity offers can be found at the end
+	of this Guide.
+	Having 2 of the same ability/immunity/weakness does NOT compound
+	the effect. They merely become redundant.
+		O-Fire	 : Immune to Fire
+		O-Ice	 : Immune to Ice
+		O-Thunder: Immune to Thunder
+		O-Poison : Immune to Poison
+		O-Quake	 : Immune to Quake
+		O-Damage : O-Fire, O-Ice, O-Thunder, O-Poison
+		O-Stone	 : Immune to Ston
+		O-Para	 : Immune to Slep, Para, Conf, Curs, Blnd, and
+			   Instant Death magic (Erase/Death/Wizard Staff)
+		O-Pa/Po	 : O-Para & O-Poison
+                O-Weapon : Special defense: Physical damage is reduced 50%
+		O-Change : O-Stone, O-Pa/Po, O-Weapon
+		O-All	 : O-Damage & O-Change
+
+Weakness
+	Traits with an "X" in front of them. There are only three:
+	"X-Thunder", "X-Fire" and "X-Ice".
+	This means you gain a weakness to those types of attacks and
+        suffer 20-40% more damage when hit with the corresponding  spell or
+        elemental weapon. On top of that, you have a chance to #instantly#
+        die instead of take damage when hit with an elemental weapon
+        corresponding to your weakness. (monstrous hit)
+		(!) If you have a Mutant with a weakness (say X-Fire),
+                    an Immunity (O-Fire, Dragon Armor, etc.) would only
+                    protect you from magical or ranged (ie: Fire Gun) Fire
+                    attacks. PHYSICAL attacks, like a Flame Sword, will still
+                    do extra damage and say they've found your weakness.
+
+Armor
+	Humans, Mutants, and Robots can all wear armor. Humans and Mutants
+	may wear a Glove/Gauntlet, a Suit, a Shoe/Boot, and a Helmet. This
+	is a complete set of armor, from head to toe. The game will not
+	allow you to put on more than 2 sets over the same body part. Robots
+	are excused from this rule.
+	There will be an armor late in the game called Parasuit. It is a
+        single-slot complete set of armor, so to put it on a Human or Mutant,
+        they must remove ALL other pieces of armor first.
+
+Weapons
+	Humans, Mutants, and Robots can all equip weapons. You are only
+	limited by the number of free slots you have, so a Human can carry 8
+	Swords if they wanted to. In battle, you will be able to choose from
+	any of these 8 swords to use.
+	Each weapon has a limited number of uses before they "break". When
+	most weapons are equipped on a Robot, the number of uses gets
+	halved, but the weapon does not break if the Robot has it equipped.
+        See "Rechargable Abilities" above and "Martial Arts" below.
+                (!) If your party has lots of Humans, it's always a good
+                    thing to carry extra weapons in your inventory.
+
+Number of Uses
+	Most weapons are "breakable", potions are drunk, and spell books
+	are exhausted. That number to the right of the item indicated how
+	many times it can be used before it disappears from your inventory
+	for good, unlike Abilities which remain with a value of 0.
+	When you sell an item, its value is 1/2 of what it cost unless
+	it's slightly used. The value depreciates the more used up that
+	item is. Armors have an unlimited number of uses and never "break".
+
+Martial Arts
+	The only item whose power changes the more it is used. Unlike Spell
+	Books or other weapons, the more you use Martial Arts (a list can
+	be found in the back) the stronger the attack gets. The final
+        attack, done by a human/mutant, will unleash TREMENDOUS damage.
+	It doesn't matter who used the Martial Art first, so feel free to
+	pass them around between party members.
+	Like Armor, these will not get halved when equipped on/off a Robot.
+	Monster abilities of Punch & Kick do NOT work the same as the
+	equipment Punch & Kick.
+
+Ranged Weapons
+	Guns, bows, and explosives have a static (unchanging) attack value.
+	Their damage is not helped or hindered by your stats (unless you
+	are Stunned).
+	The range of damage they can inflict will decrease if attacking a
+	monster with high DEF.
+
+Targeting
+	There can be, at most, 3 types of enemies you face in a fight.
+	Of each type, you can fight up to 9 of that enemy.
+	Although it never happens, the worst case scenario is that you
+	are fighting 27 enemies at once.
+	-Most weapons are SINGLE target weapons. They target 1 enemy.
+	-Some weapons & most spells, can target 1 type (GROUP) of enemies.
+	-Some weapons & spells target the enemy's ENTIRE PARTY.
+	-If an attack is going to hit a Group or Party, you cannot tell
+	 it to target a Single enemy and vice-versa.
+	-You cannot target a specific enemy in a group of enemies; you will
+	 always strike the one with the fewest HP using a single attack.
+	I will list if a weapon/spell can target a Group or Party.
+
+Status Afflictions
+	These are changes from normal condition. You can hit and be hit with
+	an attack that causes a change in status.
+	STUN	-Your HP reaches 0 in battle. You cannot perform any actions
+		 while stunned. You will revive with 1 HP after battle.
+                 During battle, you may use the Heart MAGI or Treant's Life
+		 to revive them.
+                        (!) By the way, being dead can cure anything.
+                            If your character is BLND'd and you have no
+                            Elixiers, get them STUN'd in battle. 8^P
+
+        BLND    -You are BLIND. Your physical attacks are less accurate.
+                 Damaged based on AGI is also lowered. Magic is unaffected.
+                 You must use an Eyedrop, Elixier, be Stunned, or use the
+                 Heal ability to remove blindness.
+		 Blindness does NOT go away after battle.
+	CONF	-Your character is CONFUSED. They will not listen to
+		 your commands. Their actions are completely random, and they
+		 may attack allies or do nothing during a fight. Confusion
+		 will be overcome automatically during battle, when you
+		 leave the battle, or when you are Stunned.
+        CURS    -Your character is CURSED. Their STR & DEF power are lowered.
+		 You may use Curse, exit battle, or be Stunned to remove it.
+	PARA	-Your character is PARALYZED. They may not do any actions.
+		 Paralysis may be overcome automatically during battle,
+                 when you leave the fight, when someone uses the Heal ability
+                 on you, or when you are Stunned.
+        POIS    -Your character is POISONED. Their HP will steadily decrease
+                 by 10% mHP each passing round. Their STR will also be
+                 slightly lowered when calculating attack/counter damage.
+                 Poison may leave the body automatically during the fight,
+                 when you leave battle, when you are Heal'd, or when you
+                 are Stunned.
+	SLEP	-Your character is ASLEEP. They may not do any actions.
+		 They may wake up during the battle (more likely after they
+                 are hit), when you leave the fight, when you are Heal'd,
+		 or when you are Stunned.
+	STON	-Your character is PETRIFIED. They may not do any actions,
+		 they may not be targeted by an attack, their HP remains the
+                 same. This affliction will remain after battle. You must use
+                 a Soft, an Elixier, or the Heal ability to remove STON.
+                 If your entire party is STON'd and/or STUN'd, you lose.
+		 Enemies who are petrified will automatically die.
+
+Running
+	If all else fails, you can try running from battles. Only a few
+        battles, such as important plot fights, cannot be run from.
+	The success rate of running depends on your AGI compared with that of
+	the enemy's. If you fail to run, the enemy gets one free round of
+	attacks.
+
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+02.Overview ###############################################################
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+There are several classes of playable characters to choose from:
+Humans & Mutants, each with two sexes, 3 unique Monsters, and Robots.
+
+Humans will grow over time, randomly gaining bonuses to their stats through
+battle. How much time is random. Meanwhile, you have to buy new weapons for
+all the ones you use up.
+
+Mutants are like humans, but they also gain spells randomly too. While
+spells will be recharged as soon as you sleep at an Inn, they take up a
+slot where a weapon or armor could be. You will still have to gain stats
+through battle.
+
+Monsters, like in Pokémon, have a few attacks, but they are all rechargeable.
+Monsters can change forms depending on what they are currently and the meat
+they eat. Generally, you only get ONE chance per world to become an advanced
+monster. If you don't want to change forms in the middle of a dungeon,
+you'll have to carry expensive potions or make several trips to the Inn.
+
+Robots are like both Humans & Monsters. They can grow strong quickly, equip
+weapons, and then are able to recharge them. But every time you equip or
+de-equip those items, their number of uses left gets halved, rounded down.
+Robots cannot use magic, and are also weak against it, plus they recover less
+HP when healed by magic.
+
+At a glance, Robots are as balanced as the other classes, and would make
+good supporting muscle, or a strong point-character to take the hits.
+
+Now, the original idea behind this Guide was to show you how to maximize the
+potential of your Robots in each world, to make you the all-fighting,
+all-roaming, heroes of the universe.
+
+And as Robots, these heroes ARE their character class. They are how much
+Gil they have in their wallet. They are the tanks they drive. They are the
+armor they're wearing. They are the f'n contents of their Item Screen.
+
+Welcome to Robot Club. And the first rule is..
+
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+03.Rules ##################################################################
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+*No.1) You ARE what you Equip.
+	Like Monsters' "You Are What You Eat", every item a Robot possesses
+	will affect their stats. If you de-equip the Colt Pistol (25 uses)
+	at the start of the game, you'll notice that (1.) in the Item list,
+	the uses of Colts will now be 12, and (2.) your STR and mHP will
+	have dropped.
+
+*No.2) Robots have no limbs.
+	This means you can put layers of armors on your robots such as
+	4 Suits or 6 Gloves. Who cares if he doesn't have 6 hands? With
+	all that DEF, it'll be hard to [physically] damage your Robot!
+
+*No.3) Robots aren't human.
+	The stat bonuses certain armors give to Humans/Mutants will not
+	apply to a Robot (any elemental protection still does).
+	Also, the exact defensive values armors give to a Human/Mutant will
+	NOT be the same values they give to a Robot. A Bronze Suit gives a
+	Human +3 DEF, but it only gives +2 DEF to a Robot.
+	A Robot treats all armor from the same "class" the same. If
+	equipping a Gold Helm gives +10 DEF, then equipping a Gold Suit
+	also gives +10 DEF, equipping Gold Gloves also gives +10 DEF, etc.
+        So if you're buying armor, always get the Gloves for your Robot since
+        they offer the same protection without costing you an arm and a leg.
+
+*No.4) When all else fails, cheat.
+	There are glitches in the system which you can take advantage of
+	(listed at the end of the guide), but I consider this one OK:
+	After a battle, if your Robot is damaged and has on an item with
+	unlimited uses (such as Armor) or has a Martial Art (such as Punch),
+	de-equip it. Then re-equip it. Then de-equip it. Then re-equip it.
+	As your mHP decreases, your HP stays the same. When your mHP goes
+	up, your HP goes up!
+	You can speed this process up if you are switching two items at
+        once (switching Punch for an Armor, then Armor for a Punch, etc).
+	You will never need another Cure potion again! (so forget about
+	equipping them on your Robots)
+
+*No.5) Robots aren't cheap.
+	While there is enough treasure found throughout the game to keep
+	1-2 people properly equipped, if you don't have at least 2 Monsters
+        in your party, you'll need to _buy_ more Weapons. Robots won't
+        "break" weapons like Humans/Mutants do, but they need a lot to keep
+        their stats high.
+
+*No.6) Robots ARE cheap.
+	If you use the HP recovery trick, Robots don't SPEND money, they
+	EARN it. Inns will cost nothing to sleep in (if you recover your
+	HP before entering) and will fully recharge your abilities.
+	And because your abilities recharge, you don't need NEW weapons,
+	you can spend all your Gil on BETTER weapons.
+	If you give all the treasure you find in the game to Robots, you
+	could make TWO very powerful Robots. This leaves cash to spend on
+	your Humans/Mutants to buying "practice weapons" to use.
+
+*No.7) Robots aren't strong
+	The biggest deficiency of a Robot is the class' prominent weakness
+	toward magic and magical attacks. This includes, but is not limited
+	to: elemental magic, magic-powered weapons such as PSI blades, and
+	HP absorb attacks such as Dissolve and Drain. While certain armors
+	and shields have elemental resistances that can protect the rest of
+	the party, they will not block physical attacks for them, I would
+	also remain wary of enemies who can use Dissolve. Not only can they
+        inflict lots of damage on a Robot, but they can recover a lot of HP
+        for the monster!
+
+*No.8) Robots are fast.
+	Not only will they gain stats quickly if you have enough money to
+	buy decent equipment, but their stats can easily go beyond 99. The
+	counter won't show it, but it'll be apparent in battle.
+	Humans & Mutants can only gain up to 99, but if your Robot focuses
+	on just one stat, you can pump it up to nearly 200!
+
+*No.9) Robots are REALLY fast.
+	While you can raise the DEF or STR of your Robot to high levels
+	and be as tough as a mountain, you'll be as fast as one too.
+	If you concentrate on AGI and give your 'Bot a weapon that hits
+	more than 1 target at a time, (such as an SMG, which does not do
+	damage based on your stats) you can wipe out most of the enemy
+	party early on.
+        This is a so-called "One Trick Pony"; a Robot with only a single
+	specialty, but it does it really well.
+	If you raise your Robot's AGI beyond 99, be aware that you may end
+	up going LAST in battle. I think this is because in determining
+	the Fight order, the computer truncates the final result.
+	Annoying to get a late start, isn't it?
+
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+04.World 1 : Baseworld ####################################################
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Speaking of late starts, here is a loose "Around the Worlds" Guided Tour.
+
+		(!) This is just a quick outline for various parties,
+                    assuming there is at least a single Robot in them.
+                    Suggestions for an All-Robot Guide and step-by-step
+                    instructions for building Game-Physics-Defying Robots
+                    comes at the end of this Guide.
+                    This portion will not deal with any single-set template
+                    or idea for your robots (although, I will mention many
+                    times I like 'em fast) because I believe the Robot you
+                    should have should be dependant on the abilities of
+                    your teammates & the enemy you are facing.
+                    I will not be listing where you get each MAGI. None of
+                    them are really hidden anywhere.
+                    For a more detailed walkthrough, I suggest R.Paulson's
+                    FFL2 Walkthrough on GameFAQs.com
+
+                            -H o m e t o w n-
+
+You will start off in your hometown. Be sure to talk to people and learn
+what is going on.
+
+	*Instant Replay
+		A feature this game has is the MEMO in your Menu Screen.
+		Select it to go over important clues you may have picked up
+		when asking the local-yokels.
+
+A person in one of the houses will give you a flask of Cure potion.
+Leave town and MR.S will automatically join your party.
+
+	*Strong Mr.S!
+		Mr.S is an advanced monster (his sprite is the old
+		Slime sprite from the first game!) with Dissolve,
+		Fire, and Cure. He cannot eat meat.
+		Your starting party is weak, so Dissolve can take out a
+		lone Asigaru in one blow. If you don't have any Mutants,
+		Mr.S' Fire can burn through groups of enemies.
+
+	*Wise Mr.S!
+		Mr.S, like any other 5th Party Member, will have some
+		words of wisdom. Press 'B' while walking around to hear
+		him say stuff. As you progress, what he says will change.
+
+Use Mr.S well. You can't recharge his abilities before he has to leave,
+so make sure he helps you earn a lot of GP.
+
+        *So you don't like to eat <favorite food>? Well T-O-O B-A-D!
+		If you ever need to recharge your HP, for whatever reason,
+		go back home and talk to Mom.
+		She doesn't recharge your abilities though.
+
+	*Do the Math. Go Super-Size.
+		You get more Gil from battle if you fight a GROUP of
+		enemies rather than several individual types.
+		To figure out exactly how much more Gil you can get,
+		read the ERRATA section near the end of this Guide.
+		You may loose GP if the enemy drops an item or meat.
+		The more valuable the drop, the more GP is taken away,
+		keep that in mind when looking for strong Monster Meats.
+
+	*Everyone Loves Free Stuff!
+		Asigaru may randomly drop a Long Sword when defeated.
+		Gang may randomly drop Punch when defeated.
+		All enemies, if they are #equipped# with something you can
+		wear or use, can possibly drop that item. This includes any
+                Robots or Bosses you encounter.
+
+	*Robots and Juvenile Delinquents First!
+		If you find a new and expensive weapon, consider what it
+		would do for your Robot first. Humans & Mutants can practice
+		raising their stats with cheap weapons bought at the store.
+		Robots can get a big bonus right away from an exotic weapon,
+		and can reuse them over and over.
+
+	*Offer Good One Per Household
+		If you are in a fight with two enemies that drop stuff,
+		you can only get 1 item drop OR meat per fight.
+		If you have a Human/Mutant on your team, EACH one in your
+		party can get _1_ stat boosted OR a new ability per fight.
+		Gaining stats does not interfere with getting Items/Meat.
+
+	*We don't need any steenkin' guidelines!
+                Because you don't have XP (experience points), there is no
+                linear "guideline" for how weak or strong your characters
+                should be at any point in the game. I will, from time to
+                time, say my opinion of how much HP I think is decent, as
+                well as my opinion of how high a certain stat could be.
+                These are all just that, _my opinions_.
+		I will list the stats and attacks of bosses, and there is
+		a weapons-table at the end of this guide.
+		This way, you can decide for yourself which weapons to
+		equip and how strong your characters should be.
+
+If you have Mutants with you, I wouldn't suggest trying to increase their
+stats just yet. First pick up the North Cave's treasure. (Mr.S has a comment)
+If you've picked up any items, you should consider equipping them on your
+Mutants first.
+
+	*Brain Farting
+		Mutants learn at most 4 abilities. The lowest one will
+		always be the one to change so you can keep your 3 favorite
+		abilities by moving them up in the ABIL menu.
+
+	*Daddy, My Brain Is Full
+		If you're like me, and only want your Mutants to learn 2-3
+		abilities (so they can have more room for armor & weapons),
+		load them down with items. If there is no room for a new
+		Ability, the lowest ability will be replaced.
+
+	*Work it Harder, Learn it Better, Do it Faster, Makes you Stronger
+		If the enemy you defeat is strong, say a monster from a few
+		worlds ahead or a boss, your Mutants may be able to learn an
+		advanced ability.
+
+Moving across the plains, you head to the North Cave.
+
+			   -N o r t h  C a v e-
+
+In the North Cave, you can pick up another Cure Potion, a Bronze Shield,
+a Bow, and a Hammer.
+Punches are a cheap item to use to help raise the AGI of Humans/Mutants.
+You should use Martial Arts one at a time, since they get more powerful when
+there are fewer uses left.
+
+	*Fight Club: No Robots Allowed
+		Punches are a cheap way to raise your Robot's AGI, but
+		unlike Humans/Mutants, when a 'Bot uses them, all 90 uses
+		do almost no damage.
+		While this means your Robot shouldn't use Martial Arts, they
+		still provide good AGI and don't get halved when equipped.
+
+	*The 4196-A Killbot, or the 4196-B with remote-control?
+		It's nice to specialize your Robot. Do you want it to be
+		really fast, or really strong, or be mediocre at both?
+                If you choose to make a STR-bot, remember you need to have
+		enough AGI for accuracy purposes, so keep a Martial Art on.
+
+If you find any Punches & Long Swords, you should think about giving them to
+your Robot. A Robot with a Colt & 2 Long Swords does great damage with each
+sword swing.
+A Robot doesn't really need more than 2 Long Swords on them for this world,
+any extra ones that you don't want to give to your Humans/Mutants can be sold
+later for a good amount of money.
+The 'boss' of the cave is a BabyWyrm. You will see more of these in the next
+world. Talk to it and engage in battle. If Mr.S has any attacks left, one hit
+from either will defeat the BabyWyrm.
+If you have a Baby-D, I suggest you let it remain a Baby-D. If you have
+other monsters, feel free to experiment with BabyWyrm meat.
+
+Goodbye Mr.S!
+Mr.S stays to protect the village. I hope he was helpful.
+Of course, this means you can't ever go back home. The jerk.
+
+			   -F i r s t  T o w n-
+
+You will see a familiar face in town. Ask around to get clues.
+Gold Gloves may seem expensive now, but remember they can be found here.
+Buy some Bronze equipment for now. You should concentrate on getting weapons.
+Hey, I hear there's a cute cleric at a Shrine nearby. You know, that huge
+edifice to the West that's 8 times the size of this town?
+
+			-S h r i n e  o f  I s i s-
+
+If you ever need a free cure just like Mom used to do, visit KI!
+Walk around, earn some money, raise some stats, and run into the Shrine.
+Talk to Ki upstairs and get directed to some suspiciously Hidden Ruins.
+Don't go there just yet. Instead, follow the mountains to the North-West.
+You will reach the 2nd Town.
+
+			   -S e c o n d  T o w n-
+
+I feel like either someone didn't like this world very much or the people
+here are supposed to be very, very bland.
+You will find out about the Fiend Ashura. (not the one who plagued FFL1)
+The most useful weapon on this World for Robots is here: the SMG.
+The 6800 Gil SMG will demolish a single group. Get one for your Robot ASAP.
+		(!) If you have a Mutant on your team, this isn't as
+                    important because a Mutant will have group-targeting
+                    spells like Blizzard or Thunder. But having another
+                    character with a group-targeting attack is convenient.
+
+Getting an SMG will take away most of your money, but don't worry, you'll get
+more from fighting in the Hidden Ruins.
+In the meanwhile, if you have Humans/Mutants, you can use this time to level
+up, get decent abilities, or collect enough money for an SMG.
+		(!) Having 120+ HP & 10 in STR or AGI for a Human is good.
+                    A Mutant should have Cure or Thunder/Fire/Ice in
+                    addition to their initial spell. Cure will definitely
+                    save you money, as you can Cure your party before
+                    visiting an Inn.
+                    Your Robot should have an SMG and I suggest 13+ AGI
+                    because I like to attack with the SMG first.
+
+	*Edumacation: Lern UR Mana GOOD
+                While it may sound a little odd, Humans can use spells just
+                as well as Mutants. They can gain Mana just as quickly, but
+                because they don't have any of those nifty abilities. you
+                have to buy "practice books" like Cure to use in battle.
+
+			  -H i d d e n  R u i n s-
+
+Something sneaky is afoot. A lot of the 3-chest rooms are empty.
+You can find a Whip and a Cure Potion in the single-chest rooms.
+
+	*It's all in the wrist
+		The Whip is a bit of a weird weapon, but it's great for
+		Humans/Mutants with lots of STR who want to raise AGI.
+		I'd recommend giving it to them instead of to a Robot,
+                even if you're building a STR-based Robot.
+
+You'll find a duo trying to open a door. This will be the first door you
+encounter that asks for more MAGI. Find some nearby.
+Exit and you'll catch up to them. Talk to them while you still can.
+Go back to the Temple of Isis and convince Ki to join you.
+
+	*You have a very strong Ki
+		Ki is one of the few immobile sprites you will see in the
+		game. She has fewer HP than Mr.S had, but she still has
+		very useful abilities. You can equip her with more items,
+		but any items that you give to her, you can't take back.
+		Her Thunder spell book will prove very useful soon.
+
+Head up to Second Town and restock your Humans & Mutants. Then go North East
+through the mountains.
+You'll come across a factory-looking building. This is Ashura's Base.
+
+			 -A s h u r a ' s  B a s e-
+
+Ashura's base is filled with walking monsters, as well as random encounters.
+If you touch the zombies, you'll end up in a fight that's hard to run from.
+
+	*Casualty Counter
+                And by casualty counter, I mean your wallet.
+		If you have a Robot with an SMG or a Monster/Mutant with a
+		Group-targeting attack, along with Ki you can rack up
+		thousands of GP in minutes. Keep bumping into the first
+		zombie you see and hope you fight a large group of enemies,
+		say about 6-8. Keep going back to the Inn in Second Town, and
+		if you want, you'll probably have enough excess cash to buy
+		Ki an extra spell book to keep the cycle going.
+		If your party is strong enough to do this without Ki's help,
+		then you don't need to buy her any books.
+		With what you've earned, go back to First Town to buy Gold
+		Gauntlets, at least for your Robots. I also suggest Kicks for
+		your everyone. They are stronger than Punch, and give your
+		Robots a much bigger AGI boost.
+
+Back in the base, on the 3rd floor, you should find a Speed Potion.
+
+	*Now or Later
+		There are only a few Stat Potions in the game, and they only
+		work on Humans/Mutants, plus they can't raise your stat
+		beyond 99. You can either use 'em now, or wait until your
+		stats are in the 90's (where they'll be harder to raise).
+
+On the 4th Floor, you'll find a set of Silver Gloves.
+Depending on how many have Gold Gauntlets, you may or may not find these
+useful. They could give your Robot an extra boost in DEF, or be sold later
+for some cash.
+On the 5th Floor, you'll be able to get an Axe. A good STR-based weapon.
+The door you see leads you to the 'boss' of this world, a Rhino. Like the
+BabyWyrm, talk to it to begin battle.
+The fight shouldn't be hard. Worst case: a single Thunder from Ki kills it.
+After killing it, you get fully healed.
+You can hang around for fights, but as soon as you leave, the Base collapses.
+		(!) If you powered up your Humans/Mutants a lot in the base,
+                    you won't need to level them up as much later.
+                    A Human with 150+ HP & 15 in STR or AGI is very good.
+                    It would be nice for a Mutant to have Cure or an
+                    elemental (Thunder/Fire/Ice) in addition to their
+                    initial spell (Flame/Blizzard).
+                    Magic will produce very good damage with about 12 MAN.
+                    Your Robot could have 200+ HP by now and 20+ in one stat,
+                    be it STR, DEF, or AGI. My favorite is a well-armored
+                    speed demon with an SMG.
+
+As soon as you climb the Pillar of the Sky (it looks like a vine), you'll be
+sent to a platform inbetween worlds.
+When you step on the Elevator/Teleporter, Ki will stay to protect Baseworld.
+Head through the door and find the next vine to climb.
+When you climb the vine, you'll be on a dual-platform. The door on the right
+cannot be opened yet. You need to collect more MAGI (from the next world). So
+take the Teleporter down to visit...
+
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+05.World 2 : Ashura's Desert ##############################################
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Wow. There's a whole lotta desert. And the enemies here are much harder than
+before. Zombies are strong, Slimes' Dissolve is a pseudo-magic attack that
+recovers their HP, Eagles are fast, and Troopers can block physical attacks.
+There's a town nearby, better go into it.
+
+			   -D e s e r t  T o w n-
+
+"A perfect place for us scamps!"
+This also means you get random encounters right in the middle of town!
+Thankfully, the inside of buildings are safe.
+You can train inside the town if you wish, and collect clues.
+There are lots of people who don't know where Ashura's Tower is. If you want
+concrete answers, go talk to the bartender and ask for some help.
+
+	*the Dust-bowl
+		Here's a tip when walking into the sand-storm, the safe
+		places to walk have sand blowing. What looks like sand
+		that isn't moving is a twister that'll spin you around.
+		Take that into consideration when you see that patch of
+		still-ground beneath the cactus south of town.
+
+If you listened to the bartender, or avoided the sand-twisters I warned you
+about, you'll come across what looks like a "+" shaped patch of still sand
+far south of Desert Town. This is acutally the hidden town you were hearing
+so much about.
+
+			 -A s h u r a ' s  T o w n-
+
+Welcome to Ashura's Town. Don't worry, they don't have scamps.
+The INSIDE of town is partially hidden by sand-blasts though, so you'll have
+to poke around to meet all the people.
+Unless you have extra money, you won't need new weapons.
+Rest up at the inn, restock your Humans, and follow the trail south of town.
+
+			-A s h u r a ' s  T o w e r-
+
+The first three floors don't have any treasure, but you'll probably run into
+WereRats here.
+
+	*Where's the Beef?
+		If you still have Baby-D's from the start of the game, they
+		can become some really wicked Monsters here. Check out
+		AMuseum's Monster Evolution FAQ to try and become a Sprite
+		or Medusa. If you didn't have a Baby-D at the start, you can
+		still become a Cobble or an Amoeba.
+
+	*Faeries are cool.
+		Many people, like myself, really like this class of Monster.
+		You pick up a Sprite now, and you won't need to even look at
+		another piece of meat for about 4 worlds. (which is where
+		you'll start running into enemy Sprites)
+
+Floor 4 will have a SABRE sword. If your party members have high AGI, this
+can deal good damage. It's ideal to give this to an Agile Robot.
+Next is a meeting with a mini-Boss (Woodman) and a naked MASK joins. Don't
+worry about giving him equipment, you'll find his stuff on the next floor.
+Floor 7 will have a plain Colt gun. By now, the damage of Colts is starting
+to decrease, so unless your Robot needs another +6 STR from this, sell it.
+With that money, you can buy an extra Long sword for your Humanoids to
+practice with and still have money leftover.
+Floor 9 will have a Silver Shield.
+The last floor has a Power & Magic potion, a Battle Sword (great for strong
+characters, as long as they have enough AGI to strike accurately) & a
+Silver Helm (if Robot has a Gold Glove & another piece of armor/shield, it is
+well-enough defended, give this to someone else).
+Oh, and your first real Boss of the World, ASHURA.
+
+Be careful! You can fight Ashura just by going up to him and pressing 'up' as
+well as 'A'. Save beforehand.
+		(!) To have a better chance to land physical attacks,
+                    your Humans/Mutants should have about 15 AGI.
+                    If you're using heavy weapons, you might want
+                    STR to be 15 or more.
+                    A good Robot would have 240+ HP and the sum of
+                    their STR, AGI & DEF should total over 35.
+
+	*ASHURA, 900 HP, 18/18/18/17 (STR/AGI/DEF/MAN)
+	 6-Arms, Flame, Sleep, Axe, O-Damage
+		Ashura is immune to elemental attacks, such as Thunder,
+		Blizzard, or Acid. If all six hits of 6-Arms connects, it
+		does massive damage unless your DEF is high. If your DEF is
+		above 20, it may do no damage at all! If your AGI is high,
+		you may be able to avoid some or all the hits.
+		Ashura is NOT immune to status ailments, such as SLEEP or
+		STONE. Kinda wishing you had a SPRITE or MEDUSA, eh?
+		A properly equipped Robot can defeat Ashura in one turn,
+		simply by equipping mostly STR or AGI boosting weapons.
+		If your party is #extremely# weak, give Mask the Battle
+		Sword and let him take on Ashura by himself.
+
+After you defeat Ashura, Mask parts ways to sell more of his fine leather
+jackets, and you teleport back to the Shrine of Isis back in Baseworld.
+
+			-S h r i n e  o f  I s i s-
+
+Taking to Ki's aide will get you some clues, as well as net you the MAGI
+you need to unlock the next door inside the Pillar of the Sky. It's better
+you know that now before you try to reach...
+
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+06.World 3 : Giant's World ################################################
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+First thing you see is that Giant's World has a pretty regular-sized town.
+And there aren't any Giants to fight. (which is a good thing)
+If you're unlucky, you may fight 8 pistol-packing Terrorists at once.
+(They do, however, give a lot of Gil and an occasional weapon)
