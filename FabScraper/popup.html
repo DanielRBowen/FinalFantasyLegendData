@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      width: 220px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      padding: 12px;
+      margin: 0;
+      background-color: #1c1c1e;
+      color: #f5f5f7;
+    }
+    h3 {
+      margin-top: 0;
+      font-size: 14px;
+      color: #0a84ff;
+    }
+    button {
+      width: 100%;
+      background-color: #007aff;
+      color: white;
+      border: none;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    button:disabled {
+      background-color: #48484a;
+      cursor: not-allowed;
+    }
+    #status {
+      margin-top: 10px;
+      font-size: 12px;
+      color: #aeaeae;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h3>Legend Asset Scraper</h3>
+  <button id="start-btn">Export My Fab Library</button>
+  <div id="status">Ready to scan...</div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
